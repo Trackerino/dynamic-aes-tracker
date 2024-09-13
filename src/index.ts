@@ -4,10 +4,10 @@ import fsp from 'fs/promises';
 
 import env from './utils/env.js';
 import getAuth from './utils/get-auth.js';
-import killToken from './utils/kill-token.js';
-import getStorefrontKeychain from './utils/get-storefront-keychain.js';
 import getStorefrontCatalogKeychain from './utils/get-storefront-catalog-keychain.js';
+import getStorefrontKeychain from './utils/get-storefront-keychain.js';
 import getTimelineKeychain from './utils/get-timeline-keychain.ts.js';
+import killToken from './utils/kill-token.js';
 
 const outputFolder = 'output';
 const aesFile = `${outputFolder}/aes.json`;
@@ -43,13 +43,13 @@ const main = async () => {
   await killToken(auth);
 
   const currentKeychains = Array.from(new Set([
-    ...(storefrontKeychain.data || []),
-    ...(storefrontCatalogKeychain.data || []),
-    ...(timelineKeychain.data || []),
+    ...storefrontKeychain.data || [],
+    ...storefrontCatalogKeychain.data || [],
+    ...timelineKeychain.data || [],
   ]));
 
-  let addedKeys: KeyInfo[] = [];
-  let addedCosmetics: string[] = [];
+  const addedKeys: KeyInfo[] = [];
+  const addedCosmetics: string[] = [];
 
   currentKeychains.forEach((x) => {
     const [guid, b64Key, cosmeticId] = x.split(':');
@@ -86,8 +86,8 @@ const main = async () => {
   await fsp.writeFile(aesFile, JSON.stringify(keyCache, null, 3));
 
   const commitMessage = addedKeys.length
-    ? `Added ${addedKeys.length} Keys\n${addedKeys.map(x => `- ${x.guid} - ${x.key}`).join('\n')}`
-    : `Added ${addedCosmetics.length} Cosmetic(s)\n${addedCosmetics.map(x => `- ${x}`).join('\n')}`
+    ? `Added ${addedKeys.length} Keys\n${addedKeys.map((x) => `- ${x.guid} - ${x.key}`).join('\n')}`
+    : `Added ${addedCosmetics.length} Cosmetic(s)\n${addedCosmetics.map((x) => `- ${x}`).join('\n')}`;
 
   console.log(commitMessage);
 
@@ -108,5 +108,7 @@ const main = async () => {
   execSync('git push');
 };
 
-// eslint-disable-next-line @typescript-eslint/no-floating-promises
-main();
+setInterval(() => {
+  // eslint-disable-next-line @typescript-eslint/no-floating-promises
+  main();
+}, 1000 * 60 * 5);
