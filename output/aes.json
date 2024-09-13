@@ -1,1 +1,5125 @@
-[]
+[
+   {
+      "guid": "0001859EA7AF69EF10A6F7921DD4DD9A",
+      "key": "dccf763255a8d9bd55d389b18b373b70707a4c33ff5089eca5f591e324fb2b78",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "000A05AF03AE10ABB2059F29ACBF7D4B",
+      "key": "dcaae63eed876bf5f4a32fcc59dd1ae0ef098495a58b931db5f1b85f3781db8f",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "001B8CDAE8386ACB5DFE26FA59C10B40",
+      "key": "5c0f64a9e1f258b2bfc6c47360b0a4a2837f74144d4f28f2e6cc3d26ffbc9d1b",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "003C8A31FF60E8C3BDBF4FB76A7CC4B8",
+      "key": "2c029947f8114a6e38bd9a4d83dcf7f6caec4ad14cee7ebc015982ff26033523",
+      "cosmeticIds": [
+         "CarSkin_OctaneKitty"
+      ]
+   },
+   {
+      "guid": "00AD98CD646E51F9064470AF81753C60",
+      "key": "8699f17a17a87c9466eca3f81be09913dfc2fe255b8a5dba38cf3dd38e53dff5",
+      "cosmeticIds": [
+         "EID_Prosper"
+      ]
+   },
+   {
+      "guid": "00BD73648F7CD05EDE0B2D4C33B499BD",
+      "key": "d03dd7497d4a18847f5160442dcc4ac49a74eb16d4f7a4deb45636473f51eb5e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "00EEB0CEB7585E8C69F90EF8534CA428",
+      "key": "81275d6afce5d43f664a2dca802a178d7dde6f90e0f51aa1d82d69b7aac3e6b9",
+      "cosmeticIds": [
+         "EID_MyEffort_BT5Z0"
+      ]
+   },
+   {
+      "guid": "01079D19DDDEC8BD51AF536A7106906F",
+      "key": "4104309c1eb7a5d11d284a8b60ff50cc06895da919df0d48b9a8bb614dc0f97b",
+      "cosmeticIds": [
+         "BID_921_Slither_85LFG",
+         "BID_922_SlitherMetal_ZO68K",
+         "CID_A_298_Athena_Commando_M_Slither_EJ6DB",
+         "CID_A_299_Athena_Commando_M_Slither_B_1X28D",
+         "CID_A_300_Athena_Commando_M_Slither_C_IJ94B",
+         "CID_A_301_Athena_Commando_M_Slither_D_O7BM2",
+         "CID_A_302_Athena_Commando_M_Slither_E_U47BK",
+         "CID_A_303_Athena_Commando_F_Slither_D0YX9",
+         "CID_A_304_Athena_Commando_F_Slither_B_MO4VZ",
+         "CID_A_305_Athena_Commando_F_Slither_C_UE2Q9",
+         "CID_A_306_Athena_Commando_F_Slither_D_I6D2O",
+         "CID_A_307_Athena_Commando_F_Slither_E_CSPZ8",
+         "EID_Slither_DAXD6",
+         "Pickaxe_ID_733_SlitherFemale_M1YCL",
+         "Pickaxe_ID_734_SlitherMale_762K0"
+      ]
+   },
+   {
+      "guid": "010E6ACF85E4A58BF6F551EFE7B85F61",
+      "key": "0f00881f90f0ff5c1d892ea01469967b81d4803f6430e1338dbcccff542c84ce",
+      "cosmeticIds": [
+         "BID_234_SpeedyMidnight",
+         "CID_371_Athena_Commando_M_SpeedyMidnight",
+         "Glider_ID_131_SpeedyMidnight",
+         "Pickaxe_ID_178_SpeedyMidnight"
+      ]
+   },
+   {
+      "guid": "01BCAD21B42507D45972A0E634D3BF68",
+      "key": "2c5cd82833705076312d38613ca7e7ce69c00c2c026458d9c9b20bf53686064c",
+      "cosmeticIds": [
+         "EID_Deflated_6POAZ"
+      ]
+   },
+   {
+      "guid": "01FC97F8787B82E027EC64661E0D36AB",
+      "key": "321d65d8b27762b81a66d83bb114ddf177819157320378b4f3d8192a44ebd603",
+      "cosmeticIds": [
+         "BID_985_CactusDancerMale",
+         "BID_986_CactusDancerFemale",
+         "LSID_431_Cactus",
+         "Pickaxe_ID_782_CactusDancerFemale",
+         "Pickaxe_ID_783_CactusDancerMale",
+         "Wrap_466_CactusDancer_A"
+      ]
+   },
+   {
+      "guid": "020DE538FBEA2DA5CB1242DDBE527264",
+      "key": "37cbdf13cb5d57a0fe097fa15443c598ea8cf36a37940de4fc8fcb8591ce8742",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "02421097082555483CA9524F79EF7687",
+      "key": "7bdc194f9ff62879a96f0e8a8d1f2ee2ea37886d343bddbe3c064c6e4d3d6b7c",
+      "cosmeticIds": [
+         "BID_545_RenegadeRaiderFire"
+      ]
+   },
+   {
+      "guid": "0242DBD83576CC7E4A6F228D02216147",
+      "key": "61fc9c9f78dc891fc5098431e365b618cccca77a40deb81b2fa5a7566252b714",
+      "cosmeticIds": [
+         "EID_Tonal_51QI9"
+      ]
+   },
+   {
+      "guid": "024641850664615E97BE1533A4F3365E",
+      "key": "52de3f20253482c78537c306818c944e65a2751b63f727a8fcd341a78cbfee1b",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "02743CF33556232CE2CDE4BAAE108E2B",
+      "key": "7c4781d5c3eb9b020b9e732410b39a20c55f1895e2c653994b36f2d3184a3c79",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "027FFBB49E4285146DA1C5238EBB7DB3",
+      "key": "ca372c39deb1f5b5a75f7e9c171d90dffce01eb0ab9ee5b08ae65ec6b75c33cb",
+      "cosmeticIds": [
+         "BID_939_Uproar_8Q6E0",
+         "EID_Uproar_496SC",
+         "LSID_398_UproarVI_5KIXU",
+         "Pickaxe_ID_741_UproarFemale_NDHS3"
+      ]
+   },
+   {
+      "guid": "03DFE957E1454D5A0486358ED5DE9C56",
+      "key": "c73d5a784e47534123ff8929fd65e7b1984b061efecfe696573d06d713ab4c1f",
+      "cosmeticIds": [
+         "EID_Promenade"
+      ]
+   },
+   {
+      "guid": "03FBE2522823B14E3BD161BBCDAE4A85",
+      "key": "92f1dfc4a5118b0f7b0f3cc4b79c4053154c15fc46c9add7c37908ece4461203",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "053E7EE2FE8B6EB117A01D1E0AF82AD1",
+      "key": "483a810f47bfe1f0327f75823eac14403fe00e13163ed6dd4d9b798ffa773360",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "06672238D711A4FD743978B86CB0E0C7",
+      "key": "73c20ba3c2df02d70eead5285f505dae7a6d4dc3e129b899d3af6392fab85232",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "067A969CF775754BBFE2E44B015E62FA",
+      "key": "9c46c4bdfb9a4a9a006cbdba22d1560e79bc2e8ccd6701f04631ea904036d9a9",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "0690C12E471B0A42CD02549ADA662D64",
+      "key": "36d832d50073eceec2b30833b2a398c2831a8631b78469a4ebf421e3faecf9d3",
+      "cosmeticIds": [
+         "BID_153_HornedMaskFemale",
+         "CID_273_Athena_Commando_F_HornedMask"
+      ]
+   },
+   {
+      "guid": "06B9F77E165673FD1C5FF5099F43D1F3",
+      "key": "06fc3a87818a38b8c2ff01601d0b222de3db05986d3e2361b6be6478306c7bbd",
+      "cosmeticIds": [
+         "BID_421_TeriyakiWarrior",
+         "Wrap_176_TeriyakiWarrior"
+      ]
+   },
+   {
+      "guid": "06E3CB03E94C4D850CE185166706E868",
+      "key": "8c3b9121bc676419c01ff854adf457dea9c6c88a20496507acaea7abb12dde99",
+      "cosmeticIds": [
+         "BID_771_Lasso_ZN4VA"
+      ]
+   },
+   {
+      "guid": "0855EE21AA3E58786648810E4DEA78E5",
+      "key": "c03f32934bf6a4f3444d16bd84f8498c9b8cc475890c5e45b71a4faddf6e6b88",
+      "cosmeticIds": [
+         "Backpack_KeyChain"
+      ]
+   },
+   {
+      "guid": "08788A9DA34F4164ADA4F09FBF698CC3",
+      "key": "0e5851add0460cd0035003118f8a00530c11da3df736bd99360d825378b5fcf8",
+      "cosmeticIds": [
+         "EID_Quantity_39X5D"
+      ]
+   },
+   {
+      "guid": "0882DAEC4F7823551C4955BA25B8AAC4",
+      "key": "906963083a5b3270887dea346012e904a0e15fa9cb94269945eeb69926123d3b",
+      "cosmeticIds": [
+         "BID_917_RustyBoltMale_1DGTV",
+         "BID_918_RustyBoltFemale_J4JW1",
+         "EID_RustyBolt_ZMR13",
+         "Glider_ID_333_RustyBolt_13IXR",
+         "Pickaxe_ID_719_RustyBoltFemale_0VJ7J",
+         "Pickaxe_ID_720_RustyBoltMale_UZ5E5",
+         "Pickaxe_ID_721_RustyBoltSliceMale_V3A4N",
+         "SPID_333_RustyBoltCreature_ZGF9S"
+      ]
+   },
+   {
+      "guid": "099F6A310406E06EEE5B011F57E8ADC5",
+      "key": "78dd27d86be155f5bc2ca3d503e2ef95e80008e5cb40bc8ec6ddb8c051116a2a",
+      "cosmeticIds": [
+         "EID_OverUnder_K3T0G"
+      ]
+   },
+   {
+      "guid": "09BC93B3441ECBAC30FA23BBEF59CF89",
+      "key": "dc21c89e3f897cbb2989508d0d8fc64d9e0f9f9da7585780e2a608d1226fd9d3",
+      "cosmeticIds": [
+         "BID_183_NutcrackerFemale",
+         "CID_302_Athena_Commando_F_Nutcracker"
+      ]
+   },
+   {
+      "guid": "09D84C411F2EFF940F5D462000CA5BE0",
+      "key": "e838e57fafd70824cca48e0a6cd1073785faa6b81c9df42daeefb3f914c7b36b",
+      "cosmeticIds": [
+         "BID_736_DayTrader_QS4PD"
+      ]
+   },
+   {
+      "guid": "0A16F03E8DD9C4DAE4F04B2C5D6F829F",
+      "key": "e68db760f14f32abfe292e04e3fc9b0c2db91a406df19539db15bb585e2d65b6",
+      "cosmeticIds": [
+         "EID_Bulletproof"
+      ]
+   },
+   {
+      "guid": "0A43BFE2D06B46248FC6598C0371D5EC",
+      "key": "f94fe758bb3498d42e7b4c9573db5369117edaaaefcdd299cb1511f8ccd3bcc7",
+      "cosmeticIds": [
+         "Glider_ID_347_PeachMale"
+      ]
+   },
+   {
+      "guid": "0A6F8755332638E42FC052470B3BD065",
+      "key": "386a97d80b873437cd3b589a80483a7f03abdc86f4b3cff988e04b9c3734bd21",
+      "cosmeticIds": [
+         "Backpack_RareDelight",
+         "CID_A_158_Athena_Commando_F_Buffet_YC20H",
+         "CID_A_227_Athena_Commando_F_BistroAstronaut_JJLK5"
+      ]
+   },
+   {
+      "guid": "0AA41354BC261BF44EE59CBB903A1672",
+      "key": "bd26055696af728a2c0b7d7d2345e69b385cc027891616ade6b70961ab50be4b",
+      "cosmeticIds": [
+         "EID_Cadaver"
+      ]
+   },
+   {
+      "guid": "0C2DFF3432352A23684E05B0794DFFC7",
+      "key": "146e7972681d067b33b2be694b46810b8e0d565ecec88f80b8e5f100bc9a34a0",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "0CAB99F6E84D4E4C616B895E243F3B67",
+      "key": "0d6537d482a39cbb04b7cb010437d64370cf6d9ce92762667dbc58750f103d92",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "0CD312F730BA9C3FD6CD67420EDDACF7",
+      "key": "9d7043c5c598c7656d8cc7910837d26a4f7e7fd6923a0adcc69f0629e52221de",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "0D8B24BCF7F9C0293FFE1264A5D05613",
+      "key": "bf5b024abb2023441b359fb8bf99659705b59fb33d75a817e06b3163bfe847fe",
+      "cosmeticIds": [
+         "Backpack_SpeedDialBattle",
+         "Character_SpeedDial",
+         "Character_SpeedDialBattle",
+         "EID_SpeedDial",
+         "Pickaxe_SpeedDial"
+      ]
+   },
+   {
+      "guid": "0DD695EB05DDF1067D46B2F758160F3E",
+      "key": "1fc79a72f5b7ae099916f5861b05dfa2370804cad050bf85250d71dddcf3566d",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "0DE6839DE97A78F987D7A34D644BB3AD",
+      "key": "64a675f846feec2a737cb1ccaa285854df7e8154286ea058416e6687c2352a90",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "0E32ED911D1D1D67115812FB22317555",
+      "key": "e2a41b137aad14bfa84c4cefc582309761fa02c1bbcf5ff7ccd3bd24474739df",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "0EC19805A48534C8892FA21C75024971",
+      "key": "59c79b488e6be9b3204806cd77c39bd7ceeb626209149722a1b77241c8918927",
+      "cosmeticIds": [
+         "BID_345_ToxicKitty",
+         "Pickaxe_ID_268_ToxicKitty1H"
+      ]
+   },
+   {
+      "guid": "0F810ABB0DB8672A438B14169C048145",
+      "key": "f6f7c5504684bdece7684bf2abe9a119a821df0f7c7d1759e41a704203733338",
+      "cosmeticIds": [
+         "Glider_ID_133_BandageNinja"
+      ]
+   },
+   {
+      "guid": "0FA46244428655D55790A980B59745AD",
+      "key": "7c4cc98f66a75fa0f81f23a1697c8d6abf6815af8bdbfa1bfd12172e7c5673b6",
+      "cosmeticIds": [
+         "CID_328_Athena_Commando_F_Tennis"
+      ]
+   },
+   {
+      "guid": "1050DE04C393D98D22D50388175B4834",
+      "key": "685cc242b2f957d431054ee1adb967af7c7ca168cab3b32342bb9afedc811102",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "10B79AACE97810A1DD02E8A0E6093294",
+      "key": "9a07f97284c0dd6f1af3b07b65b9caf1d31c4704e80410e3387e2a66858bc3db",
+      "cosmeticIds": [
+         "EID_Adoration"
+      ]
+   },
+   {
+      "guid": "110D116208C62834812C2EDF2F305E49",
+      "key": "330b85e735fb1a940218bdb0f82c243e61b31f7ab4e585282e8e6e76154c34f8",
+      "cosmeticIds": [
+         "BID_488_LuckyHero",
+         "CID_718_Athena_Commando_F_LuckyHero"
+      ]
+   },
+   {
+      "guid": "1162D72490AB6D040106B276D14B20D2",
+      "key": "528c9b7dd98c3cbc9798ba53281641d2ca923af5e728769b17f9efe68964ba84",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "1234642F4676A00CE54CA7B32D78AF0C",
+      "key": "35df2f858a76f7a0be0b44ea4881b1bb49c160e146439c4134ae4c1631d2f080",
+      "cosmeticIds": [
+         "BID_200_SnowNinjaFemale",
+         "Glider_ID_115_SnowNinja"
+      ]
+   },
+   {
+      "guid": "134343D31031634B122471F73F611CBC",
+      "key": "ceab4c18ac47e3e61d731fb598739be4320c63172da66da72aa5e9f1ce611ffd",
+      "cosmeticIds": [
+         "BID_279_CyberRunner",
+         "Wrap_076_CyberRunner"
+      ]
+   },
+   {
+      "guid": "1398A4C2E6C3954EDDC49F85C5AB251B",
+      "key": "a85d3ed388d2694d24830b3f46281b5a9c27c8f40c0e72bee157f81b4b664e7b",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "13F1DD5EC796B357B6085D50BBDA3C18",
+      "key": "ecd456f4540e35fa0d1303890116b20b5ba92a48e0de86f1016202bdc5df516b",
+      "cosmeticIds": [
+         "BID_426_GalileoKayak_NS67T"
+      ]
+   },
+   {
+      "guid": "14AADCCB14231F83A0FF5E13EEF676AD",
+      "key": "13701d226dd56af560ec5c0aec704416be9edec139d8850beab6631859bd402a",
+      "cosmeticIds": [
+         "EID_Nimble"
+      ]
+   },
+   {
+      "guid": "15AA9676F80B50171D3C21E3020906B3",
+      "key": "771b5f45a05f7958b93fa17734051005ad6524af1e77ef0729e50d23ccd83411",
+      "cosmeticIds": [
+         "CarSkin_OctaneMurk"
+      ]
+   },
+   {
+      "guid": "1609BAEA4AD6B664847EB5AACEAAD2AF",
+      "key": "9b6620fa9e8d0cf47f3ce00fa06edb5023da6cb4f119cfe1f27ace108c03c7b9",
+      "cosmeticIds": [
+         "BID_130_VampireMale02",
+         "CID_228_Athena_Commando_M_Vampire"
+      ]
+   },
+   {
+      "guid": "162FACA3B0E34C1BAF897ECD28D86C84",
+      "key": "aca5afdd0726a7ea0c2b565bc3b6e13eb352885368359c88957516ef766b5279",
+      "cosmeticIds": [
+         "BID_990_LyricalMale",
+         "BID_991_LyricalFemale",
+         "EID_Lyrical",
+         "Glider_ID_364_LyricalFemale",
+         "LSID_428_Lyrical",
+         "Pickaxe_ID_787_LyricalFemale",
+         "Pickaxe_ID_788_LyricalMale",
+         "SPID_403_Lyrical_BoomBox",
+         "Wrap_465_Lyrical"
+      ]
+   },
+   {
+      "guid": "163D68B009421CA82956BDD63659F7C0",
+      "key": "48013a62bba8c3ff083e4a0ebb36049e3245caf06ec0b348d75cfdff911fc8bd",
+      "cosmeticIds": [
+         "EID_TwistWasp_T2I4J"
+      ]
+   },
+   {
+      "guid": "1655272875DB718493BB6B09032657D7",
+      "key": "c502e93530de60909c40e5104b6202c9f072be13d4de70b971f2516cf4ae81d6",
+      "cosmeticIds": [
+         "EID_Survivorsault_NJ7WC"
+      ]
+   },
+   {
+      "guid": "16FC688AE41A3E3C518F4DD9F9612EE7",
+      "key": "25dee744bc7f168a270367548ed6ef2559379c9a0dabd2d379d937bb811d152f",
+      "cosmeticIds": [
+         "BID_248_Pilots",
+         "Wrap_024_StealthBlack",
+         "Wrap_044_BattlePlane"
+      ]
+   },
+   {
+      "guid": "172B237342C2165A212FEEAC80584DD5",
+      "key": "edb1a62be27cf72a23978f5232840a03e65fed96745b739ab44e8a6589463e75",
+      "cosmeticIds": [
+         "CID_254_Athena_Commando_M_Zombie"
+      ]
+   },
+   {
+      "guid": "174B492A98CE7D4047C016C29EF7D86D",
+      "key": "51102f751931d43910bc0dadf758e846d4fb3f333c3853fd2b0a0c9c3d1826df",
+      "cosmeticIds": [
+         "EID_Snippet"
+      ]
+   },
+   {
+      "guid": "17F31F416B1B0A73F14F0A7973DDBD76",
+      "key": "fa1524f3fc03ef7eaee6cca540f5dc28a444a28e6f48f6963c6fb7c714f99c53",
+      "cosmeticIds": [
+         "BID_207_DumplingMan",
+         "Pickaxe_ID_157_Dumpling"
+      ]
+   },
+   {
+      "guid": "18657B021FD5011618877BD5D709EB51",
+      "key": "ead2c49b505363cf86a369140a1b2334442464972c377d682f0dc0a2bc31a6d4",
+      "cosmeticIds": [
+         "Backpack_SlowBurn",
+         "Pickaxe_SlowBurn"
+      ]
+   },
+   {
+      "guid": "18E7A14F3D3A6501FCDCA85855F808CB",
+      "key": "898a8ebb6f8cf100c6df571127c64743b679797a533924c4bd77207c34aa5538",
+      "cosmeticIds": [
+         "EID_Dreadful"
+      ]
+   },
+   {
+      "guid": "1937F4ADBC2C38EF4F189DC2B1AE58AB",
+      "key": "b56cf12b02840f323446c4069761af395a99c313923a265a0909322b5844fa50",
+      "cosmeticIds": [
+         "Backpack_Inspire",
+         "EID_InspireSpell",
+         "Pickaxe_InspireSpell"
+      ]
+   },
+   {
+      "guid": "195439D6DD0FE44ADAE6BF7A44436519",
+      "key": "9110b0ed51523c262a86eee526503890ee189aca99533c4ce80466ed38bc9ed4",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "19CAB803EB00118FB3E6B3E5ABA7B234",
+      "key": "b5133bed37d0596277f2136c14b8edee330da123a8cf1aa2f4f17dffd1f7ae65",
+      "cosmeticIds": [
+         "BID_373_HauntLensFlare",
+         "Wrap_154_Haunt"
+      ]
+   },
+   {
+      "guid": "1A10A7700C3780E2B1A03037D64E1EE5",
+      "key": "22f422916aab695b8ccedf1e3f50747315b90dc6a2bfb9e3a3640715f645998f",
+      "cosmeticIds": [
+         "Trails_ID_081_MissingLink"
+      ]
+   },
+   {
+      "guid": "1A9B01B59F609C0D7E9EF7887DA23087",
+      "key": "12441d5e13c3f497ba069edd97065d9645f64b485aafabea50e8cc205f6775f7",
+      "cosmeticIds": [
+         "BID_A_043_OhanaMale",
+         "EID_Ohana",
+         "Pickaxe_ID_832_OhanaMale"
+      ]
+   },
+   {
+      "guid": "1AABA3FE6C5410551302A08A3787F5AA",
+      "key": "a3b0eccacd8142e52001244133adf02f6f542e9902129e50e49360cefa0a975c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "1AFD764881D1E33FDAA65707010712AD",
+      "key": "71b2b2637bb1eb0add896cf675726ad7c289680626520059d9a66c7f3d541373",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "1B1978CC0EC6D4D937800A9E1CA87CA0",
+      "key": "3a3203a7c51795f15909a549e862e730cfbdf1569b8c3ec407727b6a1891364d",
+      "cosmeticIds": [
+         "BID_952_Gimmick_Female_KM10U",
+         "BID_953_Gimmick_1I059",
+         "EID_Gimmick_Female_6CMF4",
+         "EID_Gimmick_Male_8ZFCA",
+         "Glider_ID_348_GimmickFemale_D76Z0",
+         "Glider_ID_349_GimmickMale_MC92O",
+         "LSID_404_Gimmick_GXP4P",
+         "Pickaxe_ID_748_GimmickFemale_2W2M2",
+         "Pickaxe_ID_749_GimmickMale_5C033"
+      ]
+   },
+   {
+      "guid": "1B6D6B48DFCDB01B0CDB8AE49A8B2445",
+      "key": "dc326085cbd5fea05abe5813d8932e988e3dc90233fb908c17b91eeec0fe971f",
+      "cosmeticIds": [
+         "Backpack_SodaMug",
+         "EID_PotteryWheel",
+         "EID_SaladDressing",
+         "Pickaxe_PotteryWheel",
+         "Pickaxe_SodaMug"
+      ]
+   },
+   {
+      "guid": "1B8A454D42FF2E63D828ABF3B4A303C1",
+      "key": "9969bf229309432951e22b936df1328e38f74ef30d1af3e92cd55dd511ab1c72",
+      "cosmeticIds": [
+         "MusicPack_139_BG"
+      ]
+   },
+   {
+      "guid": "1BEED2926C38652D7287878CB2724D6D",
+      "key": "9e3b0e3dcb3a944142aee87f6237c74dd72850946d221da19f31f07640184050",
+      "cosmeticIds": [
+         "EID_Viral"
+      ]
+   },
+   {
+      "guid": "1C8FA86241B2E4D084F7548529629CF6",
+      "key": "a665ce7ddf8d11770b8595f962a0cb8c7bbcff2cd9a28e1d58f70233c71c5e82",
+      "cosmeticIds": [
+         "CID_333_Athena_Commando_M_Squishy",
+         "Glider_ID_118_Squishy"
+      ]
+   },
+   {
+      "guid": "1CE4B8636E40B4AF8858511CE01A98E3",
+      "key": "faf7b07c06cc4de73f7a705a595cf30b1887c3c58b4c9bdf016cc599c3894f86",
+      "cosmeticIds": [
+         "EID_TheShow"
+      ]
+   },
+   {
+      "guid": "1CFA91F4317CA2724E2AD9A098B2888B",
+      "key": "a29fbbdb48b1e0be099b12aac176ceb7e4f95f0aa172f6bb73a9444e611509b6",
+      "cosmeticIds": [
+         "EID_Shindig_8W1AW"
+      ]
+   },
+   {
+      "guid": "1D02A6E14FDF53655E818CEF9E57B1BF",
+      "key": "7a41bfe8314460e682622e61aee1a863fa352b30bf3b9fbd8496dd332b62f069",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "1DF43E667862B117F72B5F39E750853A",
+      "key": "0618f1de6995c61bda74ae5b913f96f512745c068c1dac029dff0c7d7229001c",
+      "cosmeticIds": [
+         "Glider_ID_150_TechOpsBlue"
+      ]
+   },
+   {
+      "guid": "1EFA43A2FEDB492EA32BB6AF50E8B0CA",
+      "key": "ba45be10200197cb2ff6a15476972476a5ba211b1900f9cf1164aee9bb1b098b",
+      "cosmeticIds": [
+         "EID_AccentWall",
+         "Pickaxe_AccentWall"
+      ]
+   },
+   {
+      "guid": "1F5D9EEE331B5E84D6A7AEFF4E80768E",
+      "key": "d97e86cf0a7e3d039e7a33fb1f0269f7c68ef694d50e75ffb79a5ee566b85b21",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "1F8BD07EA3FA0CE93BFD036C920C9ED7",
+      "key": "0cd70c9b012c3b6f80f940371e036d67dc0fa9755895a52b9e845515df667881",
+      "cosmeticIds": [
+         "EID_Destiny"
+      ]
+   },
+   {
+      "guid": "202E50F5991EBFA0EEC41A2029847D41",
+      "key": "5b84403f8fe6133685dd14c256e7faf1a822d6025a8b203b199d60fc00a467e1",
+      "cosmeticIds": [
+         "CarSkin_SourdoughHeavy",
+         "Wheel_HeavyA"
+      ]
+   },
+   {
+      "guid": "20366C09DB19030DD8169A4D7560FCC1",
+      "key": "06def9d1b2d8f1af386a2f79110dc95844908f98f3e417f92c8b6900392c0f9a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "204D49F063979C3AF87EF896D074D1CF",
+      "key": "49a60593e18413b98be1db20b34bf4546479111e13c07f2e4cd5f95ea4a096ef",
+      "cosmeticIds": [
+         "BID_643_Tapdance",
+         "Glider_ID_251_TapDanceFemale",
+         "Pickaxe_ID_500_TapDanceFemale1H"
+      ]
+   },
+   {
+      "guid": "210726DF9DCD78AD95B4D407D5D9157B",
+      "key": "717cef4eb80d0419ac6bc8d1f04e2af4d1416acbffcdd41248f4269cace79091",
+      "cosmeticIds": [
+         "EID_SecurityGuard"
+      ]
+   },
+   {
+      "guid": "216D955070ADAF10973BD156897472C3",
+      "key": "323421e793af9c90a854c433314e02ff5345dc55a25c35e727a1bf11c1df533a",
+      "cosmeticIds": [
+         "BID_258_AshtonBoardwalk",
+         "EID_AshtonBoardwalk",
+         "Pickaxe_ID_202_AshtonBoardwalk"
+      ]
+   },
+   {
+      "guid": "21D9E3FA446D32EE85025841557C1E4C",
+      "key": "2812fd66ace87262ef72ae64de6c1309ea1e7957c9770f708ee41a714ae0e74c",
+      "cosmeticIds": [
+         "BID_896_GrasshopperMale_BRT10",
+         "CID_A_234_Athena_Commando_M_Grasshopper_A_57ARK",
+         "CID_A_235_Athena_Commando_M_Grasshopper_B_RHQUY",
+         "CID_A_236_Athena_Commando_M_Grasshopper_C_47TZ8",
+         "CID_A_237_Athena_Commando_M_Grasshopper_D_5OEIK",
+         "CID_A_238_Athena_Commando_M_Grasshopper_E_Q14K1",
+         "CID_A_239_Athena_Commando_F_Grasshopper_H6LB7",
+         "CID_A_240_Athena_Commando_F_Grasshopper_B_9RSI1",
+         "CID_A_241_Athena_Commando_F_Grasshopper_C_QGV1I",
+         "CID_A_242_Athena_Commando_F_Grasshopper_D_EIQ7X",
+         "CID_A_243_Athena_Commando_F_Grasshopper_E_L6I24",
+         "EID_Grasshopper_8D51K",
+         "Pickaxe_ID_696_Grasshopper_Male_24OGH"
+      ]
+   },
+   {
+      "guid": "21F8DE4A4818E3B01693DF33566A179F",
+      "key": "e40a2e986865aedfa8028e9751d4434861c8a779dd01639ff4919b05945eb1f9",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "22AB4BDC10065AA49B38DE88522DF836",
+      "key": "d4bf0bfa82ad48eb48c5b9b5c741db0edceab881fa087f2fbb53c5e22f2353ec",
+      "cosmeticIds": [
+         "BID_289_Banner",
+         "CID_442_Athena_Commando_F_BannerA",
+         "CID_443_Athena_Commando_F_BannerB",
+         "CID_444_Athena_Commando_F_BannerC",
+         "CID_445_Athena_Commando_F_BannerD",
+         "CID_446_Athena_Commando_M_BannerA",
+         "CID_447_Athena_Commando_M_BannerB",
+         "CID_448_Athena_Commando_M_BannerC",
+         "CID_449_Athena_Commando_M_BannerD",
+         "Glider_ID_153_Banner",
+         "Pickaxe_ID_222_Banner"
+      ]
+   },
+   {
+      "guid": "22B8405FC3BE153C8148422C3F2D3A8A",
+      "key": "77f013303ced559c701cb502c0e70958fd7fee83ca286a9b05650144d67a7673",
+      "cosmeticIds": [
+         "BID_837_Dragonfruit_0IZM3",
+         "Pickaxe_ID_664_DragonfruitMale1H_4BIXL",
+         "Wrap_391_Dragonfruit_YVN1M"
+      ]
+   },
+   {
+      "guid": "2301C91045828DBFCDD966BE1AFE22F7",
+      "key": "cd2e3844534aa12ebe58349f8a7ec279b38c8cb1fbeb7f8e186e708d3ac2a2c7",
+      "cosmeticIds": [
+         "BID_154_Feathers",
+         "CID_274_Athena_Commando_M_Feathers",
+         "Glider_ID_097_Feathers"
+      ]
+   },
+   {
+      "guid": "23213D7D8F739DE37BCA56557073DA51",
+      "key": "86699fd3c3d32de200260c701c8148d77d63cdccb549b8ab5ba13326d9b5b5e3",
+      "cosmeticIds": [
+         "BID_979_CactusRockerFemale_IF1QA",
+         "BID_980_CactusRockerMale_7FLSJ",
+         "Pickaxe_ID_777_CactusRockerFemale",
+         "Pickaxe_ID_778_CactusRockerMale",
+         "Wrap_460_CactusRocker_92JZ7"
+      ]
+   },
+   {
+      "guid": "23280A6FC0902B6420BB82522AE16D2C",
+      "key": "0bba3a9b6bc9258f9758a774b7560b04f54b60232035bb75d1dfe2b71e568e77",
+      "cosmeticIds": [
+         "LSID_367_Paperbag_3WGO8"
+      ]
+   },
+   {
+      "guid": "234D1D3D37EFF3322E44B31200C1ACEA",
+      "key": "4f7946a19dc921583bbdab0c402af7863c91a3cc7e1d2d40ae1e375ef7542acb",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "258AB620A71C14508FB6614003DCD34E",
+      "key": "7e33d4bb04996ca7c796f4a1f113325634764954dc56b18da56bf28cd550f17c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "258D945630DF6E1016889F47B16EED80",
+      "key": "cd0ff8a2c277e96d15d43157b307fc2524ad0cc05364f43ca0570cac3a92ec13",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "25A2BE0115631B392E3C3217C645540B",
+      "key": "1b2435f27eb8765772731af948f2d17d644d9f1141dde4052b4ec16d38257949",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "25E4BA752FB1328DA3E5EDB5FFAA47C3",
+      "key": "32b87db0522999c0fac61336cd08c78eacd5e50b890574b6f71d1f4b92057059",
+      "cosmeticIds": [
+         "BID_789_CavernArmored"
+      ]
+   },
+   {
+      "guid": "2648ACDF6B7E55495928F2319101BB8A",
+      "key": "b4a85afa28852946a6448582c6ad203ad6cdfc6d41e49e5e388125031f53deb7",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "266410C2B17584B4A472878EB88D6892",
+      "key": "8cb77d6a732e9861348c820149ff17baa4eeef6f497e76137accb0a5e3a092cc",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "2764E12E58C474C6AC7F5035A80A78A2",
+      "key": "22816566ad592bc67fab52c7ccdc51ba3a2fd1bc67d6be664725ba52d366cc5d",
+      "cosmeticIds": [
+         "EID_mesmerize"
+      ]
+   },
+   {
+      "guid": "276D93712D1C6092C442D170B8956002",
+      "key": "d53bc2b920eedd5318e749ad39973141b37902e1ce13dbfea26a00cf8a7b869c",
+      "cosmeticIds": [
+         "EID_Exquisite"
+      ]
+   },
+   {
+      "guid": "276E65E4041C467319534B14EAEA338A",
+      "key": "21beca24c3fc43d89ff8feb1d9b619d1d0b9dfc0782cbdc9d53708cb7ac19479",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "27D6556F776B2BDA97B480C1141DDDCA",
+      "key": "baf52a6f92eec11156427038a02456dcb35da2b61c1ad3a627c3ef05e0b004a8",
+      "cosmeticIds": [
+         "CID_466_Athena_Commando_M_WeirdObjectsCreature",
+         "CID_467_Athena_Commando_M_WeirdObjectsPolice",
+         "Wrap_095_WeirdObjects"
+      ]
+   },
+   {
+      "guid": "280F643808DE5EAB39E77B23E2193CE9",
+      "key": "9586ec6c22ccc2316f75a94dc6c0548fe3d98899ada1aff0725cf6b00390c6e3",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "286270CA017B478C6FF6B5B815428F93",
+      "key": "3946cd5b4d0e9902c277d88b035deca0c538c18b5dd114dcfa5124a0f76f1785",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "28C5CD0467F2271365DA8AC4DE122672",
+      "key": "235ba34d32963b3d00e4b705882c0a257425f5b9cca56f7286f635dd4696a356",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "28CBBF705C9DB5A88BEC70DAA005E02E",
+      "key": "16fb73041bc39328fc3d12d6efad7af5b305be0eb95688d8ad29a48d4022e017",
+      "cosmeticIds": [
+         "BID_352_CupidFemale",
+         "Pickaxe_ID_259_CupidFemale1H"
+      ]
+   },
+   {
+      "guid": "2981826DE79FF29E18E71842E259C429",
+      "key": "f19bc3cf0f30828da88247aa4e6e2961ee9f87b821acec5d65713092968f18e5",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "29B68199D0CD6E019BA8175561F4F076",
+      "key": "680fb5e2a8700a6e5cbbff8b13307eb4b959b5c7205fb1f7376e4acb8d4c7b7b",
+      "cosmeticIds": [
+         "EID_Chew"
+      ]
+   },
+   {
+      "guid": "29DCC9CAE821CAF43197545BAFB9CDE1",
+      "key": "8bd03987b11d49ee7a9eaba82ce1dd99407a1ca079d0ecc7a5030b5c38d24243",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "29F9F9F254AE395E6518C4E938FAD223",
+      "key": "6078ada9b1a8fd77149cedf1727683f18a505358086680a6a71fa86e86092d3a",
+      "cosmeticIds": [
+         "Backpack_GallonBag",
+         "Backpack_TireSwing",
+         "Character_GallonBag",
+         "Pickaxe_GallonBag",
+         "Pickaxe_TireSwing",
+         "Wrap_TireSwing"
+      ]
+   },
+   {
+      "guid": "2A12750AF48FB5468105F255DC537CC1",
+      "key": "94a8c06a7b2ea488e85e34f7ff4bc7f5778ecd5a7d4be7c11adc8ff741af7bad",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "2A236A35ED4833924DF975CEBE4282AF",
+      "key": "7b836979f22a7b3c5455e1fed88373095d3c78ae0dbc5ae88c1f33d5ac319ba4",
+      "cosmeticIds": [
+         "Backpack_BrainMatter",
+         "Pickaxe_BrainMatter"
+      ]
+   },
+   {
+      "guid": "2B245B0F4DDB6AE9929DEDA081BEA512",
+      "key": "955cfa1ccef594d842ad3d7aef15efdb08de931f8daab25ccb5e62dbec3715d1",
+      "cosmeticIds": [
+         "Pickaxe_ID_152_DragonMask"
+      ]
+   },
+   {
+      "guid": "2BA50BEC5CD27BD07670D7A014FE98BC",
+      "key": "bbd5ca9c52220c31c6d9e0ccbd426819494efbd640115486ca1d15ef56e30b08",
+      "cosmeticIds": [
+         "EID_Whisk"
+      ]
+   },
+   {
+      "guid": "2BEE5F951D6A3AA790943B18CE43C474",
+      "key": "7e0ba3cf60ebc6c3c6fd220b714163f3342d29ee0041c2ae294ab15f75576c1c",
+      "cosmeticIds": [
+         "EID_Disband"
+      ]
+   },
+   {
+      "guid": "2BFECCEDD463D908C63438FD751529BE",
+      "key": "bb7857cb28c579c530714408ba088e8eac122619e1cbf725baf2c1c25521482e",
+      "cosmeticIds": [
+         "CID_401_Athena_Commando_M_Miner"
+      ]
+   },
+   {
+      "guid": "2CB7CC414F921DD774957AAF4AD5F8FE",
+      "key": "be2db196eb94c3ea458ffb6aa9fbe1edc4bd427afc8103c4197d081f28d9569e",
+      "cosmeticIds": [
+         "BID_185_GnomeMale"
+      ]
+   },
+   {
+      "guid": "2CEE3C1783B9E41EB66238BAD32EFF23",
+      "key": "b9d9532fd69b83c2c81b2b56a4444c1951293eb8fd8a8db74761db20d1ed177a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "2D24182706636A7BD3E96AD37605BAD6",
+      "key": "8c464913e10053b543a3aa7a63ce1ee3ea77007c580568a7d78e07e0c8736924",
+      "cosmeticIds": [
+         "BID_553_Seaweed_NIS9V",
+         "Pickaxe_ID_427_Seaweed1H_CZ9HA"
+      ]
+   },
+   {
+      "guid": "2DCD2E2A9A816AA9035999F8E6F85F6E",
+      "key": "eb1338658b74500ca5cae22016b98e82ae1f6151f60a113340d725f0a190174a",
+      "cosmeticIds": [
+         "BID_531_HardcoreSportzFemale",
+         "BID_532_HardcoreSportzMale",
+         "Glider_ID_216_HardcoreSportz",
+         "Pickaxe_ID_406_HardcoreSportzFemale"
+      ]
+   },
+   {
+      "guid": "2E03F4DA95202509D578A5960D35A8A3",
+      "key": "52b2f105eae9e737a83091da5e362a01ebcd48d3f625c7bcb06db3aa7bcef8d4",
+      "cosmeticIds": [
+         "EID_OilPaint"
+      ]
+   },
+   {
+      "guid": "2E1C06DB5781755F3F06D95B6612BB3E",
+      "key": "693377de74cf23ea90fa8b18c5c31ae058e5c9a8c0ce123147311ca00afc8802",
+      "cosmeticIds": [
+         "Glider_ID_273_MainframeMale_P06W7",
+         "Pickaxe_ID_546_MainframeMale_XW9S6"
+      ]
+   },
+   {
+      "guid": "2E539CD42E0594ED4D217ABE4E2B616F",
+      "key": "f737682ccac86689931a6bc321dd513041927e4b55f6004681c0f6762492330e",
+      "cosmeticIds": [
+         "EID_NeverGonna"
+      ]
+   },
+   {
+      "guid": "2E5F91AEF58F310AE2044EA39C43BB81",
+      "key": "a4dcb51ad7d5cf29aa69c3aa5d1635e04644bc8e594950f9005c658715c2e6a9",
+      "cosmeticIds": [
+         "BID_870_CritterManiac_8Y8KK",
+         "Pickaxe_ID_683_CritterManiacMale_S4I63",
+         "Wrap_409_CritterManiac_1B4II"
+      ]
+   },
+   {
+      "guid": "2F1A5AFD22512A8B16494629CCA065B2",
+      "key": "527e38042b86b62aeb29a6f413d4de3b20d19d60bf261d61e3cf853a7e14aed0",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "2F2804FC81CA638FC3DFEE5FB922987B",
+      "key": "bf3e0cbed310b9b35d987d413b6136167353dffbd2be36c89fb1d635c588625f",
+      "cosmeticIds": [
+         "BID_272_AssassinSuitFemale"
+      ]
+   },
+   {
+      "guid": "2F426D86C7E7EDE779E8D62108AB49F4",
+      "key": "cd587447bc1acef41482e7264bd01860d9cdda0fa8158bfc64c9610f75a71f45",
+      "cosmeticIds": [
+         "EID_Hurrah"
+      ]
+   },
+   {
+      "guid": "2FE8DBD09F14AAF7D195AA73B9613792",
+      "key": "2b021e84b10a6824896f95ff59c43d2142ca933dc6dccf5ff59e49822f616145",
+      "cosmeticIds": [
+         "Pickaxe_ID_297_FlowerSkeletonFemale1H"
+      ]
+   },
+   {
+      "guid": "2FF619685EC983B800018ECBFF377ABB",
+      "key": "0e7e599571210408573f445b903b24110c0e2b8454293c00225b3a72f54eaf48",
+      "cosmeticIds": [
+         "EID_SpeedRun"
+      ]
+   },
+   {
+      "guid": "3064E7FF7FD15A1F40230918DF236352",
+      "key": "98c7069ab6418f19490459962aa64781cadc46f64a7070c89fd6a6a4c300f51e",
+      "cosmeticIds": [
+         "EID_Jockey"
+      ]
+   },
+   {
+      "guid": "308F587F46CB50450DCA9B9CFD50E120",
+      "key": "da7bf2786af19ea2f94898cc3da83577d6228977dd1985642ff589a966270b60",
+      "cosmeticIds": [
+         "BID_157_MothMale",
+         "Glider_ID_099_Moth"
+      ]
+   },
+   {
+      "guid": "30A11EE8EB62BEFD4E9B09611DB13857",
+      "key": "6157953d770fed4a094e9ef5657a4635d3d5ce68e7472ca6714a6c3566177d1b",
+      "cosmeticIds": [
+         "BID_506_DonutCup",
+         "BID_507_DonutPlate",
+         "BID_508_DonutDish"
+      ]
+   },
+   {
+      "guid": "30A1FD89B2D3C155DAF14852A39BA97F",
+      "key": "0b4230b89170f6fd3a385f17b613a1cd47779c7393088235826c7fede7a9983a",
+      "cosmeticIds": [
+         "BID_947_ZestFemale_1KIDJ",
+         "EID_Zest_Q1K5V",
+         "Pickaxe_ID_746_ZestFemale_4Y9TG",
+         "Pickaxe_ID_747_ZestMale_3KAEG"
+      ]
+   },
+   {
+      "guid": "30B53CD6A14D4EE40C71C60E9EE0DD93",
+      "key": "445bdc6d2ef843760f9d0a7151b85a7f37a2a9560abfa171ba47e2efb8764dd2",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "30B98E694C38C868A4EDB892F3FF1940",
+      "key": "ddb88f5faea677bb5291860206462bb218fd389228d41e02595df72e72f591db",
+      "cosmeticIds": [
+         "BID_195_FunkOpsFemale"
+      ]
+   },
+   {
+      "guid": "310CAA852300A8ED2B74754EF027C823",
+      "key": "09baec750dafa648157b439ce4794614b56457d6ab427f76f2f1d29cfa52c5b9",
+      "cosmeticIds": [
+         "EID_MakeItPlantain"
+      ]
+   },
+   {
+      "guid": "312398E80AB6209B22CAA2EBAB2DB35B",
+      "key": "419e6e8419d049e2b86febbd13a3d37f0ee3dac70f3133d7e1f153389588c043",
+      "cosmeticIds": [
+         "EID_Shorts"
+      ]
+   },
+   {
+      "guid": "315315A3A02AD685390B8D5878BE527B",
+      "key": "4dee4abbe41d573a5735dd01f1737b4ff7b561a5793f2474e19f7285f3056ad7",
+      "cosmeticIds": [
+         "CID_465_Athena_Commando_M_PuffyVest"
+      ]
+   },
+   {
+      "guid": "32E8846645441197B80CF8B1C86B01A1",
+      "key": "73026039086caec71d8857cb1f34bd5ae76713d981307fc2fd20325fcd41d9f3",
+      "cosmeticIds": [
+         "CID_311_Athena_Commando_M_Reindeer"
+      ]
+   },
+   {
+      "guid": "32F8552040D83320E998654666873931",
+      "key": "8b33cf80f22faf17c15cf688fcb2733b9971399b738ce5d0241ba4f643dd29ed",
+      "cosmeticIds": [
+         "BID_338_StarWalker",
+         "Pickaxe_ID_253_StarWalker"
+      ]
+   },
+   {
+      "guid": "3306D0A65AE55FE016FD38AF43E062DD",
+      "key": "298f6725f9282e557c18865327272d51bf7a8a112b7811d817759cdd27e71e4c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "335BDA9AA7DA27137CB7F1DA56FA2E6B",
+      "key": "1891321c497743ef21da4d826dee6c7c6d6534b9971d2b6cde7fb44181f82a38",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "340C0957F37B985956E74242A9487B5A",
+      "key": "0a221226e34fca671b237b4903121a35f18270706bd6db5216bfbee1ce43431d",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "34DD24ED0CE62244E7FFD27EF4C29EB5",
+      "key": "8d380c51cd5c88b2b05c5fcfab214997ab3d230e525d81ca8924e1390846e531",
+      "cosmeticIds": [
+         "BID_938_FoeMale_F4JVS",
+         "EID_Foe_4EWJV",
+         "Glider_ID_341_FoeMale_P8JE8",
+         "LSID_399_Foe_AN5QC",
+         "Pickaxe_ID_735_FoeMale_2T3KB"
+      ]
+   },
+   {
+      "guid": "359567C8D8F146C8D08FEF2B24AFC9D0",
+      "key": "c8c5a0f26d0487ed14195e828085ab5ec24c3d3fd6c3cfd06b746560fa3f6c64",
+      "cosmeticIds": [
+         "EID_BeHere_8070H"
+      ]
+   },
+   {
+      "guid": "35C2B057E5168DCA74B6F1DDAC745E60",
+      "key": "ef785a2656374b44d5987d042f1cb0ea9e45cc546b2135aa3a6a1b1fd17632af",
+      "cosmeticIds": [
+         "BID_936_KeenFemale_90W2B",
+         "BID_937_KeenMale_YT098",
+         "Glider_ID_343_KeenMale_97P8M",
+         "LSID_400_Keen_T56WF",
+         "Pickaxe_ID_736_KeenFemale_3LR4C",
+         "Pickaxe_ID_737_KeenMale_07J9U"
+      ]
+   },
+   {
+      "guid": "35DDA69DABF1DE5826348A3CCD0DFE5E",
+      "key": "09f84bfbf9fea61045ed3578429c38421aab77a8374bf1aadac5399f41621fa0",
+      "cosmeticIds": [
+         "Trails_ID_059_Sony2"
+      ]
+   },
+   {
+      "guid": "360CD59F6F7B68A441DDED9DB5FD13D7",
+      "key": "1baa5501ffee9751cf621eacd8cd65f06e219fada377091c6de81e2e8c4bed8d",
+      "cosmeticIds": [
+         "EID_Ashes_MYQ8O",
+         "LSID_364_Ashes_0XBPK"
+      ]
+   },
+   {
+      "guid": "36126C339CEBD31F23562CDCC5DFDD4D",
+      "key": "72e2d437ba03fe9e414b1ba4ea928663a2ad9611889d5b62dfab15eb34afd67e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "36351B933FFCFF1746737649E9806CF9",
+      "key": "d99b5f16a1d1121dac2ac318376df25bed9277439234de421c677faa55d577b9",
+      "cosmeticIds": [
+         "Backpack_TigerRootFame",
+         "Backpack_TigerRootHype",
+         "LoadingScreen_TigerRoot",
+         "Pickaxe_TigerRootFame",
+         "Pickaxe_TigerRootHype",
+         "Wrap_TigerRootHue"
+      ]
+   },
+   {
+      "guid": "376B77890B5057EBBE1C3D0CD97BF4C5",
+      "key": "51803ce773b3e1bcc21e85d4ef70842c9cde7c9e04135563c045225ed8bcc67b",
+      "cosmeticIds": [
+         "Backpack_PencilCherry",
+         "Character_Pencil_Apple",
+         "Character_Pencil_Cherry",
+         "Character_Pencil_Fig",
+         "Character_Pencil_Grape",
+         "Character_Pencil_Guava",
+         "Character_Pencil_Kiwi",
+         "Character_Pencil_Lime",
+         "Character_Pencil_Mango",
+         "Character_Pencil_Pear",
+         "Character_Pencil_Raspberry",
+         "LoadingScreen_PencilSet",
+         "Pickaxe_PencilCherry",
+         "Wrap_Pencil"
+      ]
+   },
+   {
+      "guid": "37B3D2284CB3924E6592C2D1D11451E4",
+      "key": "08c25c97243523d898f9590389a8e11b1c584266461eb4c094497fc2d953fa99",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "37EBEF32D39E164FC25A2C913454C2F2",
+      "key": "72dfa8cd2fb22365fa1fe32ae9f9931f7a4a43902ee6fbd5306cfff4448ebdae",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "389F29133F5BF2F060F614459FB40A33",
+      "key": "409793e939fc900347001ada2efddb4f853ee0353d6b1c7c9fb0231bded6bdb1",
+      "cosmeticIds": [
+         "EID_PrivateJet"
+      ]
+   },
+   {
+      "guid": "3988E0693BAEB40EB8FB796CF560C182",
+      "key": "2a33242ec00e66b7dbf71bd359a366aaa71e250cf9452209c02fb599df6432cd",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "3A122019FCD271A539EB71E952B32D60",
+      "key": "082623f3d907af66ad608f597cb722b064d39c6cbc1ad181299fdaacba7fb656",
+      "cosmeticIds": [
+         "BID_955_Trey_18FU6",
+         "CID_A_344_Athena_Commando_M_TreyCozy_6ZK7H",
+         "CID_A_345_Athena_Commando_M_TreyCozy_B_4EP38",
+         "CID_A_346_Athena_Commando_M_TreyCozy_C_7P9HU",
+         "CID_A_347_Athena_Commando_M_TreyCozy_D_OKJU9",
+         "CID_A_348_Athena_Commando_M_TreyCozy_E_VH8P6",
+         "CID_A_349_Athena_Commando_F_TreyCozy_Y4D2W",
+         "CID_A_350_Athena_Commando_F_TreyCozy_B_8TH8C",
+         "CID_A_351_Athena_Commando_F_TreyCozy_C_A9Q45",
+         "CID_A_352_Athena_Commando_F_TreyCozy_D_2CLR3",
+         "CID_A_353_Athena_Commando_F_TreyCozy_E_JRL60"
+      ]
+   },
+   {
+      "guid": "3AA9D1B5DCC39A932C9D6FC201C5F327",
+      "key": "902a0ed87c6ae15d6e1ccf6921faa530e1514f21aa49e5bc3181221447a7ea67",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "3AC281E7A5EAA2765CFE02AC98B04FC8",
+      "key": "47f856367f01711468bc913f2fb875e550eb2741f856a04156de9756fab611bc",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "3AC8A6B5089F55E17E00AAD8AC3C6406",
+      "key": "4e55129097b7cbce5f5bcdeb1cccbe5eea9c67141db97701f327eda4fa220efa",
+      "cosmeticIds": [
+         "BID_527_Loofah",
+         "EID_Loofah",
+         "Pickaxe_ID_399_LoofahFemale1H"
+      ]
+   },
+   {
+      "guid": "3AD37E40514304F7789E17FEBF4E4C68",
+      "key": "e301adf532f3eff72e9240ccb41ed8f0766f8b47d734330bb1d0acea4f7c38cf",
+      "cosmeticIds": [
+         "Backpack_FastCheetah",
+         "EID_FastCheetah",
+         "Pickaxe_FastCheetah"
+      ]
+   },
+   {
+      "guid": "3B908C605D83AEC6E8E0F9BF6ABA828C",
+      "key": "23207b44850ccf87dc05e92b16ca51bd1dd022e08f248636beb0e6b089ba49fe",
+      "cosmeticIds": [
+         "EID_BlueApparel"
+      ]
+   },
+   {
+      "guid": "3BD3EA919AEA03B242CD5BAF46E30D02",
+      "key": "a6ef3749e0312c40f6ffb3181c42625a6c1702f9a08216ba8eda4011e058e20e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "3CE25AC56856D0E10426276F61265547",
+      "key": "344b550d7474aa839f5bd960752e00b80f1d91f77fd48f5d7a071123d527bd4a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "3D8D56FDB72DACCA7E656FBC0F125916",
+      "key": "80c5fbea798b57671acf6f11a3f8b715ab42538b5d8b58c780948f6dd9cb4d47",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "3D9634EBDF17C26278CDFE91EF0130E8",
+      "key": "b55bf08c8ba56ef3cb9812a5161070292386ab30aee72bbd0aa747e74d3cbb95",
+      "cosmeticIds": [
+         "Backpack_FNCS26",
+         "Character_GreenJacketFNCS",
+         "Character_StarWalkerFNCS",
+         "EID_Victorious",
+         "Pickaxe_SkeletonHunterFNCS",
+         "Wrap_Comp26"
+      ]
+   },
+   {
+      "guid": "3DB93E023E700ACD0C78072ED4787D37",
+      "key": "69e3ddcdc8ec42f9e979f0373ff70a7e766b56ca59e50552b0073e46e8b6d293",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "3DFEA395156D835B86EB22801411ED08",
+      "key": "706f10d953aa6bd77ef49e1012f74159ee618db21ac82e07b51a7bb2f21667d8",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "3E89561331A72D226FBF962DA29DBB82",
+      "key": "ab35afdb3b9b0d24aba53b77b4a73866c45ea91dd004a8e1535706cd57bb287e",
+      "cosmeticIds": [
+         "CID_387_Athena_Commando_F_Golf",
+         "Pickaxe_ID_190_GolfClub"
+      ]
+   },
+   {
+      "guid": "3ECF85734CD277EE10524DA249C5D0D8",
+      "key": "e0db467d9a57182ba812aa5a37b0b69089d5b4b57043d669df38f8bedc31b6ff",
+      "cosmeticIds": [
+         "BID_211_SkullBrite"
+      ]
+   },
+   {
+      "guid": "3F21B0363A2CF6D94F7D789118D73595",
+      "key": "12aed5562c03d02a07004d18da0ace67f159e7118f8c2f20efc129687d37f39c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "3FCDA1185C56B6A5FDC57AF760566A51",
+      "key": "f48ec7b1425371dd04323a6ec109b29e8d236eb2689fe9d978f23a22e4019ad9",
+      "cosmeticIds": [
+         "BID_983_ScrawlDino_AD541"
+      ]
+   },
+   {
+      "guid": "4009CB877085F3B3B0D76A686465A140",
+      "key": "80c2c95d46c5708aeaa94940ba8308d5bdbb29d58705524978959d615d488aba",
+      "cosmeticIds": [
+         "BID_703_KeplerMale_ZTFJU",
+         "BID_704_KeplerFemale_C0L25",
+         "EID_KeplerFemale_C98JD",
+         "Glider_ID_276_Kepler_BEUUP",
+         "Pickaxe_ID_551_KeplerFemale_AOYI5"
+      ]
+   },
+   {
+      "guid": "4027857851DDDDD81540A7A6B79134AA",
+      "key": "56e412bcf563a828db967f8558d9e7436463a0d8ecd8ff1d0f9eea4838612b1d",
+      "cosmeticIds": [
+         "EID_WrongWay_M47AL"
+      ]
+   },
+   {
+      "guid": "40E9F547033360DFC0DD09743229B87C",
+      "key": "c74fd62b9e28870b1a7665461c88ac24dc870bc32a954f1b8361fe06c68406d7",
+      "cosmeticIds": [
+         "EID_Kilo_VD0PK"
+      ]
+   },
+   {
+      "guid": "4182D3E699CA4C6022FC4CC2C1E6FB90",
+      "key": "b68f10391c0046c5acf0ec7a126263f55e83bc1e325aa4d81e52ee34a01ac2cb",
+      "cosmeticIds": [
+         "EID_Malleable"
+      ]
+   },
+   {
+      "guid": "419008D696C27533DFEDB08BE4F6C8F8",
+      "key": "e48ed564daddcfca197739354d33422a4657a248a56d72c5cbb7503cf3e5a6ea",
+      "cosmeticIds": [
+         "CID_A_314_Athena_Commando_F_NightCapsule_TAK2P",
+         "CID_A_315_Athena_Commando_M_NightCapsule_B31L1"
+      ]
+   },
+   {
+      "guid": "419567181C57991B12DA9A9AEADAE6DB",
+      "key": "9d667e1b6186d0fbdaad0520fd4fe446959a264036626982822c44cb8368fbb4",
+      "cosmeticIds": [
+         "CID_706_Athena_Commando_M_HenchmanBad_34LVU",
+         "CID_707_Athena_Commando_M_HenchmanGood_9OBH6"
+      ]
+   },
+   {
+      "guid": "41BDA9510489C841C335EBFA5E233CF0",
+      "key": "35c7927f8cc92c04750a5875ee7286b41af0eb6903444eed26ba1d6c960c6d4d",
+      "cosmeticIds": [
+         "Pickaxe_ID_193_HotDog"
+      ]
+   },
+   {
+      "guid": "42FEDE262B530BFDC25D9E6B8684D1B7",
+      "key": "6d79682c95684a2dae4deef672976c07ca409943cace6c703c2d863e11c55619",
+      "cosmeticIds": [
+         "EID_Layers_BBZ49"
+      ]
+   },
+   {
+      "guid": "44DB36B2D2B3854669780458D2FE48C4",
+      "key": "82d974b2600c44a83c77d4dd0c7e3b9543980b280acdb00f03afc76972d6cbde",
+      "cosmeticIds": [
+         "BID_801_MajestyTaco_FFH31",
+         "EID_Majesty_49JWY",
+         "LSID_323_Majesty_0P2RG",
+         "Season17_Magesty_Backbling_Schedule",
+         "Season17_Magesty_Glider_Schedule",
+         "Season17_Magesty_Pickaxe_Schedule"
+      ]
+   },
+   {
+      "guid": "45261C72DCA170BBF0BDB129B9FC0BAF",
+      "key": "e5d6f635689bbf35e81465486e0fff1e494bc31b8650558eeed2863d2b4e3365",
+      "cosmeticIds": [
+         "EID_SecretSlash_UJT33",
+         "EID_SecretSplit_7FOGY"
+      ]
+   },
+   {
+      "guid": "452BEE39B4C18C93D6B185B565ACA1CA",
+      "key": "05ed8e965da9d2a2179a224c8b863fc3278f63e59e7cc989c82ce3823af39217",
+      "cosmeticIds": [
+         "BID_233_DevilRock",
+         "Pickaxe_ID_176_DevilRock"
+      ]
+   },
+   {
+      "guid": "456073B2B8FECC95083FD5C9C86ABC13",
+      "key": "01acb5dce8872e68136601a680e91fc1400547fe912b51ac28d6b3809dc020c2",
+      "cosmeticIds": [
+         "EID_Factual"
+      ]
+   },
+   {
+      "guid": "457F39EA51FB4C723B442810750CDA4A",
+      "key": "577774e6672e4b8b97301469cbadd32190cbb79860f678d50f44868590ec981c",
+      "cosmeticIds": [
+         "Backpack_Sahara",
+         "EID_Sahara",
+         "LoadingScreen_Sahara",
+         "Pickaxe_SaharaMale"
+      ]
+   },
+   {
+      "guid": "46159C748694298198A52DC07476FDA3",
+      "key": "e022c7381a92ae64b54641bf4b16588bc45cd330a600ac5720130c5070e5d9a8",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "464F39FB64FAF4AB6843449EDD0BE3BE",
+      "key": "d3260c1172c7b5e821530516f924e1cca5e5b5d373bc0e360acb05a405e0c450",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "467EBA8364CE2AA18ADFBF79DB7BE920",
+      "key": "ec7c42321e3ac08ff39ff309895da2393a1b97acea90473b398284096f85c8d6",
+      "cosmeticIds": [
+         "Pickaxe_StoneLion"
+      ]
+   },
+   {
+      "guid": "46FC5EBAD39CE53EFB215A2E05A915FC",
+      "key": "1f782d7641334f70e4f2f9304d3644f68503a09132eaf99f423d630e8e39de06",
+      "cosmeticIds": [
+         "BID_256_ShatterFly",
+         "Glider_ID_140_ShatterFly",
+         "Wrap_051_ShatterFly"
+      ]
+   },
+   {
+      "guid": "471CA05DCEE84890F9287E4E0DB31C08",
+      "key": "71c971f43a7e15ca6125f5592d401da36d672c69fca50ec6bad4206382c23adb",
+      "cosmeticIds": [
+         "Backpack_WinterHunterFNCS",
+         "Character_TreasureHunterFashionsFNCS",
+         "Pickaxe_WinterHunterFNCS",
+         "Wrap_Comp24"
+      ]
+   },
+   {
+      "guid": "4755D9C0E2D1DE1C09B77DEA8B830471",
+      "key": "f6d50ee72561be9fbfb29ee27196840f0d399cc01d4ba6d80166327d036cc417",
+      "cosmeticIds": [
+         "Glider_ID_209_DonutPlate",
+         "Pickaxe_ID_387_DonutCup",
+         "Pickaxe_ID_388_DonutDish1H",
+         "Pickaxe_ID_389_DonutPlate1H"
+      ]
+   },
+   {
+      "guid": "47668DCAEC0AE101E0402B6105A6DDF5",
+      "key": "ad23a932e7b9962101552bf2ff42596464cfb0fd90780ed8c3d19d89c247b3b6",
+      "cosmeticIds": [
+         "EID_Macaroon_45LHE"
+      ]
+   },
+   {
+      "guid": "476EE53C2EAA24FD1950A9875FB4CF59",
+      "key": "2d0330816c2ca12a86c986c1a2e61a31a37c359dfc572e6bdd3a9aeca03bd684",
+      "cosmeticIds": [
+         "Backpack_FallValleyBlink",
+         "Backpack_FallValleyCharge",
+         "Pickaxe_FallValleyBlink",
+         "Pickaxe_FallValleyCharge"
+      ]
+   },
+   {
+      "guid": "47F6751F0EE3E8716C1B9DBC9796AAE7",
+      "key": "d5634820b60c3b8882a36aa48cfebc20ac5d08934b8dfd43f7ccb729efdcf46c",
+      "cosmeticIds": [
+         "EID_Reverie"
+      ]
+   },
+   {
+      "guid": "480888CBDD75E7F40261A1902989FFF6",
+      "key": "97d101e70fe08bf2838eeb7823393763830f2da1cfe556d5ea23d8b10c6c0745",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "486AE200BAEBA71EB6C477BE323066E9",
+      "key": "def4baa66d9ea79d006f997336718c96e3342982458946e9d8cb8171a86e8854",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "488F01C34A9A24115776EA801A6E7E1B",
+      "key": "581d53157b01d82cb0cdbd7a859d8774173c5f516c4d5ab3943c21c893bc3dc7",
+      "cosmeticIds": [
+         "BID_687_GrilledCheese_C9FB6",
+         "EID_GrilledCheese_N31C9",
+         "Pickaxe_ID_538_GrilledCheeseMale_Z7YMW"
+      ]
+   },
+   {
+      "guid": "49034BA1606B1672C8B634D2C6186807",
+      "key": "e6e8cc9c5e082aebee9a97cd714035ca2d665e3cb9cc118f834d132641e51b4e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "4969808C5315EFB4839F94626ECD600C",
+      "key": "add10498a76f9e6d3e11708d13c01a2f75cebd559f2dd31539f6582a3e0acf08",
+      "cosmeticIds": [
+         "MusicPack_131_MC"
+      ]
+   },
+   {
+      "guid": "498A4AB4BC3BFA9B055CDBE833C51670",
+      "key": "ebb9dd07cf219bb82898b6229257a4079ac65ab72bf1127a2be9e8f434cff3b3",
+      "cosmeticIds": [
+         "BID_494_StreetFashionEmerald",
+         "Pickaxe_ID_372_StreetFashionEmeraldFemale1H"
+      ]
+   },
+   {
+      "guid": "4A8216304A1A18CB9583BC8CFF99EE26",
+      "key": "405de71c216dd6f8442e8538ab554a4e6a719e4db4736880881101ce56f34006",
+      "cosmeticIds": [
+         "CID_184_Athena_Commando_M_DurrburgerWorker"
+      ]
+   },
+   {
+      "guid": "4BA0D73B76DE3321A47EC0AD052C1F7A",
+      "key": "ee4cb3f1401340ac11295743c1ef116e16187893d0b0a2c674df6997830ea2c1",
+      "cosmeticIds": [
+         "EID_Marionette"
+      ]
+   },
+   {
+      "guid": "4BA767BD2DC06D215B435AC09A033437",
+      "key": "40e7e92a71288268f4b536b9c1fe3d4991f9e52cb8f101063f4d836e44a0db5f",
+      "cosmeticIds": [
+         "BID_A_009_Grapefruit",
+         "EID_Grapefruit"
+      ]
+   },
+   {
+      "guid": "4C3B1FC20956AE8C3C29A85446D013F4",
+      "key": "75592c562e79c8c3ef826b80dab8ef9720e5c92ad038af30987dda6baf70b59a",
+      "cosmeticIds": [
+         "BID_A_003_Ultralight",
+         "EID_Ultralight",
+         "LSID_432_SCRN_Ultralight",
+         "Pickaxe_ID_800_UltralightFemale"
+      ]
+   },
+   {
+      "guid": "4C546A04EB0E91B7EB4449B672B63900",
+      "key": "461b5dad4aaadcddb513bed7ed86ad238a17df02d8caf147e569be79a517f3ec",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "4C838738CDC4946786DD7BE341AB05DD",
+      "key": "7b28c29bd39c1504af551541662ccd57217ef246fd3a5345aef0f2f1dd500dfa",
+      "cosmeticIds": [
+         "BID_253_HoppityHeist",
+         "Pickaxe_ID_197_HoppityHeist"
+      ]
+   },
+   {
+      "guid": "4C8D53A32D85124D08A3DCE6D3474A30",
+      "key": "81a9b9b157222cfccaafec2658ea1cb4ba391c5a81bc12ca29cc61e99575927d",
+      "cosmeticIds": [
+         "Pickaxe_ID_532_WombatFemale_CWE2D",
+         "Pickaxe_ID_533_WombatMale_L7QPQ"
+      ]
+   },
+   {
+      "guid": "4D896B93DC5B2D18AA2949EA7B67B4EA",
+      "key": "d15ef4c7aa74cd1455f5b57a3feb2aeb694cd02756e2bbd4822a7affae465b37",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "4E7938F1FAC98BDF378823116712AC7A",
+      "key": "8db655829ac82d34289947467891743ec005009c6c482b3970a717c1e64c020d",
+      "cosmeticIds": [
+         "BID_586_Tar_DIJGH",
+         "EID_Tar_S9YVE",
+         "LSID_273_Tar_ITJ9S",
+         "Pickaxe_ID_548_TarMale_8X3BY"
+      ]
+   },
+   {
+      "guid": "4ECF5AAA0161B01630EC04541290F986",
+      "key": "06410f950edb099a284b0b751c86c65c89bb2f2855904778ce0e1650626f693e",
+      "cosmeticIds": [
+         "Backpack_PowerFarmer",
+         "EID_PowerFarmer",
+         "Glider_PowerFarmer",
+         "Pickaxe_PowerFarmer"
+      ]
+   },
+   {
+      "guid": "4EFDA950DA6AA1E6422D2FBF6B89DE85",
+      "key": "1c3108fae7e6005d55376fa66223851450e33d501f904726ae7c93421f39766a",
+      "cosmeticIds": [
+         "Backpack_SunBurst",
+         "EID_SunBurstHeart",
+         "LoadingScreen_Sunburst_KeyArt",
+         "Pickaxe_SunBurstAlt",
+         "Wrap_SunBurst"
+      ]
+   },
+   {
+      "guid": "4F365EB12B55EB9A6BDD99DFC3D02E61",
+      "key": "245029cc0a2893a0d5d6b2cc9e0130a28d29a6b3f5ed7ea08e935cefd350e370",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "4F463077C4B0260225A47547ABFDDEE3",
+      "key": "8ef5c6ec88ac04f3a55f3f34925ea165d9fe8dbe9357406fab559a7da1e38b8e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "4F53A11AB9CD08FA18D603BF29415366",
+      "key": "9aad60893ca4ec602aae95e9860f524deb43427845052e4cd526041cceee62a9",
+      "cosmeticIds": [
+         "BID_251_SpaceBunny"
+      ]
+   },
+   {
+      "guid": "504BC0A80EE72DFEEF9CB7EE3FFCE163",
+      "key": "793a081a2862d254d54dc1e27ad92c9757ba70705fe61df46983b9617a565d8e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "5098C0AED639B6C90A785C727F0DED4B",
+      "key": "fd836aed654d8009ad718f1e4b6d1706fa33d3413567fd7f434059f0496e1dff",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "510BE1093533EDED92752C0B90A80895",
+      "key": "bda23cad83143f0c7e33ad6dbdf274a5ff9d30affdea99f328e425b803e68d4d",
+      "cosmeticIds": [
+         "CID_424_Athena_Commando_M_Vigilante"
+      ]
+   },
+   {
+      "guid": "514364A06F8C12C3398C5F63D909EF7D",
+      "key": "0fcfdb8f77ad160f1e24e559dba2fea4caec7654eeb1b82f47608be16a8a9771",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "522BADEC3C1B8FB686B355A760304BF9",
+      "key": "e327a315e208fa4d97233295105d543d73c78cc6a64a51c81258c34e8365cefc",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "527F2B6C4F2C5163258E0DB828A68B6B",
+      "key": "7acc4f45572e8109b4b71460c764ca75de5e5ff6c2d7ea29aed65323bff00bff",
+      "cosmeticIds": [
+         "Character_ElegantLilyCharm",
+         "Sparks_Mic_ElegantLily_Plush",
+         "Wrap_ElegantLily"
+      ]
+   },
+   {
+      "guid": "5332028CC33C98BF747EEF82B0384D8C",
+      "key": "4317442196dad832d1c748d82a6f14a4893f2ba78ab9c95fbc349396530b2eb9",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "545B9777127F4BE242F802C627356B7E",
+      "key": "44d23f2af2c45dc1a81a7937fc029a61bc8999732d425f599af97c12b78f0788",
+      "cosmeticIds": [
+         "BID_873_RelishMale_0Q8D9",
+         "BID_874_RelishFemale_I7B41",
+         "EID_Relish_TNPZI",
+         "LSID_360_Relish_FRX3N",
+         "Pickaxe_ID_690_RelishFemale_DC74M",
+         "Pickaxe_ID_691_RelishMale_FVCA7"
+      ]
+   },
+   {
+      "guid": "545BD59335CA43AC4481A621226B4E81",
+      "key": "e25600c4ed304b329aae988c9786fe6d640e8c391774929a72da027ad1fae566",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "5471C1F8E35769AD4220BA02258BC5EC",
+      "key": "b90550c5a09125d99e2c1e18dfb1b17b07cfb57a375d7e0d649980f42d33f7c1",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "54746F2A874802B87CC5E9307EA76399",
+      "key": "9ce69870e6fa70e820ab073e991889ecb244b34aaf6a2321c47ff2597a2ef90e",
+      "cosmeticIds": [
+         "EID_LimaBean"
+      ]
+   },
+   {
+      "guid": "54FD9ABD65879452DCB8CE11C1D7F1AF",
+      "key": "9d5d159b8342065f8c9065fcc22a9f16b834be20eb88bdc8db1738292ee7edf8",
+      "cosmeticIds": [
+         "CID_421_Athena_Commando_M_MaskedWarrior",
+         "CID_422_Athena_Commando_F_MaskedWarrior",
+         "Trails_ID_027_Sands",
+         "Wrap_070_MaskedWarrior"
+      ]
+   },
+   {
+      "guid": "552DB214510DE1E24F08920F80B0AEC5",
+      "key": "18fd8262ff716180dfe9b3a7a609b47e73976b7888d1a7171f4d9921a1c01258",
+      "cosmeticIds": [
+         "BID_819_Stereo_TE8RC",
+         "Glider_ID_306_StereoFemale_0ZZCF",
+         "Pickaxe_ID_648_StereoFemale_0DTZ9"
+      ]
+   },
+   {
+      "guid": "5581F333809DD14FA591F17B6C071687",
+      "key": "fe010426151540c57214fec94748d3e1133df568fb867229d998ad0157700187",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "566C4D92AF66F45DF5E2D7EB43CC27AE",
+      "key": "12e018c14e6d4015f31a84a3e4131ced2e7215f7bdc19daaaf3c7f8481e99eac",
+      "cosmeticIds": [
+         "BID_629_LunchBox",
+         "EID_LunchBox",
+         "Pickaxe_ID_479_LunchBox1H"
+      ]
+   },
+   {
+      "guid": "56812D9CB607F72A9BDBADEE44ECCD21",
+      "key": "a63f5d3212526a3e95d87b00d15580044ec2b38f9e101cf529ec77e3481a7caf",
+      "cosmeticIds": [
+         "BID_254_ShinyMale",
+         "Pickaxe_ID_199_ShinyHammer"
+      ]
+   },
+   {
+      "guid": "56FE93367C8B62ADE2A8A1653077C98B",
+      "key": "39ebd063206f9d3e6fc1084e261bbbe24e5337013aa5ee20bbaa2461805ea467",
+      "cosmeticIds": [
+         "BID_989_CroissantMale",
+         "Pickaxe_ID_784_CroissantMale"
+      ]
+   },
+   {
+      "guid": "57199980522FCA9E80C75A826BEA92ED",
+      "key": "691dd4d8e3bdb8606a0189c9793ad404593a43e3a4a5d9816af054dba0cfd26d",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "5738A14C7E45E1B405CEF920829CB255",
+      "key": "c591e53d3cff77135a86ba7d22a4d9fad8ce65260cc506fd299157960f4deb7f",
+      "cosmeticIds": [
+         "BID_423_HolidayTime",
+         "Pickaxe_ID_330_HolidayTimeMale",
+         "Wrap_180_HolidayTime"
+      ]
+   },
+   {
+      "guid": "5776BD1A9BFC4EEEB7DD1FCA71B9C39C",
+      "key": "8e460e2375522ea5c108c632c697e5feca06081769966aacf02d803a0d697065",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "578DA5D582A996DA819F409BE37C39DB",
+      "key": "f0a76ba4b788ec959c3e8cdc5267bb92f495860ab1c26474fda87887e9c258bb",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "57C0A809F1C608D62307954035E3DFCD",
+      "key": "16e308d52d7133553b52b757e2a6613eaefbebbe0957e115e075ac9f9f5b99b1",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "57D2C065461284F546C48C971A44C6D0",
+      "key": "10e7dbfe0d2165d3217796e260e651ebd07f9aa3d4ed7fac81042ba76810fecd",
+      "cosmeticIds": [
+         "BID_178_Angel"
+      ]
+   },
+   {
+      "guid": "57EC154062C75464BD8A087D89732317",
+      "key": "e40130a02a7bf678d8722f10605fac2cc906a630e714260b482b73e0b0fd0fbf",
+      "cosmeticIds": [
+         "BID_427_GalileoSled_ZDWOV",
+         "BID_428_GalileoFerry_28UZ3",
+         "BID_429_GalileoRocket_ZD0AF",
+         "BannerToken_015_GalileoA_0W6VH",
+         "BannerToken_018_GalileoD_5XXFQ",
+         "EID_Galileo1_B3EX6",
+         "EID_Galileo2_2VYEJ",
+         "EID_Galileo4_PXPE0",
+         "Glider_ID_186_GalileoFerry_48L4V",
+         "Pickaxe_ID_326_GalileoFerry1H_F5IUA",
+         "Pickaxe_ID_328_GalileoRocket_SNC0L"
+      ]
+   },
+   {
+      "guid": "57F31C09F360B5B96F6BF142E1E6A094",
+      "key": "c245995bdaed04f6527b0dc33f9f77c8f1562943515d5c15979c141a1fab2c1d",
+      "cosmeticIds": [
+         "EID_Spectacular"
+      ]
+   },
+   {
+      "guid": "58388BA7BD1643A85EFD49BF26EF5912",
+      "key": "02bbb7dbb2491ec18a083d989504fe123cbadfffef972f4285374ab1f80bef9a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "5869B4D27CF6766E4047DB0636CB6D72",
+      "key": "6c59eae67e52f8f459645a7f7468409b2eb79620d5cfbc2e7cca8c9bae41d051",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "591DF838AC4B3A6350E40E026B26D5C0",
+      "key": "301bc6a07c494014f10a6d95f36b36c87a9158fb18745ca3f31294845b149321",
+      "cosmeticIds": [
+         "CID_745_Athena_Commando_M_RavenQuill",
+         "CID_746_Athena_Commando_F_FuzzyBear"
+      ]
+   },
+   {
+      "guid": "59299ADA0CB5BE70955E952C119CAFA1",
+      "key": "320141a30e3c3fc0fa13ac29cc0bba5a4d38cb9658b18959d15f452b78484013",
+      "cosmeticIds": [
+         "EID_Alliteration"
+      ]
+   },
+   {
+      "guid": "5950552B5A52A97A433715A1FF107BC4",
+      "key": "a7d44174f9a4e76f79a514a0d3e61b7f0cbf92a63a1c1622244024bf2eb9d0ee",
+      "cosmeticIds": [
+         "BID_171_Rhino",
+         "Glider_ID_102_Rhino",
+         "Pickaxe_ID_127_Rhino"
+      ]
+   },
+   {
+      "guid": "599668A98461E4D89196E0189C32C4D2",
+      "key": "f0ca908c2e76bd62bf5705f849f602d70bbd7a25135ddaaaff158e0dc5bd750e",
+      "cosmeticIds": [
+         "CID_468_Athena_Commando_F_TennisWhite"
+      ]
+   },
+   {
+      "guid": "59A2ED9719A429D54A0527BD9EFDD2CB",
+      "key": "ba20338330e272b8c756563ef1ae22d29d9ffbb1a42759309a94fce271fa9ec8",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "59AF6C46ABB214024067564F69D6EA37",
+      "key": "36d520cde155be46f265019155db5e595eb51e3103f4c5eabaa955287a3773f3",
+      "cosmeticIds": [
+         "BID_605_Soy_Y0DW7",
+         "Glider_ID_238_Soy_RWO5D",
+         "Pickaxe_ID_462_Soy_4CW52"
+      ]
+   },
+   {
+      "guid": "5A03216B7495CB52261D6E0D74DC62CB",
+      "key": "b58168c4d16afe5bb98a63d3712939bc05fb65f3cd0708bc20d5dfda153e6325",
+      "cosmeticIds": [
+         "CID_A_159_Athena_Commando_M_Cashier_7K3F0"
+      ]
+   },
+   {
+      "guid": "5A1170F589134C4D68AAA2B5AA6EDA69",
+      "key": "6dfae8eece90b5d7bf1fb0b8cdce8c25da6e6b59a17a6f07cb02e5bb104b0eb8",
+      "cosmeticIds": [
+         "BID_642_Embers",
+         "Glider_ID_250_EmbersMale",
+         "Pickaxe_ID_492_EmbersMale",
+         "Wrap_298_Embers"
+      ]
+   },
+   {
+      "guid": "5A33986E8C23E664BD8A70D41697A93F",
+      "key": "9c5a851b6cfb9a74217f8437891eb3436796ca48aec32d1a7fe81af505a753aa",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "5AD068EB1D56D87706E44EEB3198CF1B",
+      "key": "a3d1a9d3c283fef82add14eb51b7c6264eeb95f52a64cc6844a3e2c2f7559176",
+      "cosmeticIds": [
+         "EID_LogarithmKick_NJVD8",
+         "EID_LogarithmWhoa_T3PF9",
+         "Wrap_431_Logarithm_F8CWD"
+      ]
+   },
+   {
+      "guid": "5AD8A96807B87D5E2D91EF7714A5432A",
+      "key": "147139e3459b707b2a44e317b7513745021b28482e1be4d54dd3abe08192b25a",
+      "cosmeticIds": [
+         "EID_Cottontail"
+      ]
+   },
+   {
+      "guid": "5AEDD4DB5DA39071FCFC2404EEB3D02D",
+      "key": "a9aa1ee4342b7f5f873c44115b9ce5b382927bb0c76ebc573bc39932c15ea3c6",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "5B26536B2ACB973C651C0D1A285C0E37",
+      "key": "9f88fbc566751dfc1219bf62c44ed8305c91b138e5de08c95436498fb5b2e2bb",
+      "cosmeticIds": [
+         "CID_397_Athena_Commando_F_TreasureHunterFashion"
+      ]
+   },
+   {
+      "guid": "5B7B9F3A14035E5B3984266770BD2CBA",
+      "key": "f5a0a4ecebbebc373082a61a099caf0c55cd862cc319086fe5b90f7c793ba11a",
+      "cosmeticIds": [
+         "Character_MiddleSock",
+         "EID_MiddleSock",
+         "Glider_MiddleSock",
+         "Sparks_Guitar_MiddleSock",
+         "Wrap_MiddleSock"
+      ]
+   },
+   {
+      "guid": "5BAB7539D98938E909D3541E69214830",
+      "key": "220001959cf6f9a45e842eefc70e29eb7a575193991707404d05a44df4d83f7d",
+      "cosmeticIds": [
+         "EID_SpectacleWeb",
+         "Pickaxe_ID_820_SpectacleWebMale"
+      ]
+   },
+   {
+      "guid": "5C0BC5E8819B8968CF25C60885F0CB5E",
+      "key": "139d8b77682d33330550c91d3298cd5a6107120af5aa71fe8a5887da16b6edd4",
+      "cosmeticIds": [
+         "EID_AlienSupport",
+         "Pickaxe_ID_275_Traveler"
+      ]
+   },
+   {
+      "guid": "5C25DC4FE406CC6DAAB47D5EBF222355",
+      "key": "2c7efa1415a0de19163c380e99771163f603df737fe84e2a431a8a52f229d280",
+      "cosmeticIds": [
+         "EID_Ignite"
+      ]
+   },
+   {
+      "guid": "5D6562F1EAD89513C82C2F37A24E7F82",
+      "key": "23673e49009d0ef2690bacf5c678914fe938d4a029d2995afa8fc7ebca1714b4",
+      "cosmeticIds": [
+         "BID_441_HolidayPJ",
+         "CID_649_Athena_Commando_F_HolidayPJ",
+         "CID_650_Athena_Commando_F_HolidayPJ_B",
+         "CID_651_Athena_Commando_F_HolidayPJ_C",
+         "CID_652_Athena_Commando_F_HolidayPJ_D",
+         "Wrap_179_HolidayPJs"
+      ]
+   },
+   {
+      "guid": "5D72DA16B064F87BCEB569EE9323FB67",
+      "key": "727304be29f58ca7b6577e1d15eab99d32b35c90908809e325f5f1d6d7bc1363",
+      "cosmeticIds": [
+         "EID_Competitor"
+      ]
+   },
+   {
+      "guid": "5E15C5486CE8E539552D4D3E7682F9E2",
+      "key": "f8bfed4f3fb0a03159244bedc5fabc9bcb4d23547bdac60aeeb9d8afbb074e2b",
+      "cosmeticIds": [
+         "BID_311_Multibot",
+         "EID_TeamMonster",
+         "EID_TeamRobot"
+      ]
+   },
+   {
+      "guid": "5E2A3EE7CE3884E31F58D83485D8B122",
+      "key": "53ef9e3dce4deb688cb446e3ac9192c0d09a59e47a52834cb564bce73247c27b",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "5F55EB861A32231A4F36A5918A31256E",
+      "key": "98f4ebfa01174eac21237e8337ea89213629051d83dda5aaae7d65c273c383ac",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "5F65B98450A9DB7EAD3BD81AFC3B9247",
+      "key": "600e84282284f93207a275eebd2e03dec1060977f26834c2b1604cd745400cbe",
+      "cosmeticIds": [
+         "EID_Affection"
+      ]
+   },
+   {
+      "guid": "6024CDC6A7AD11D34A4357B928F4C340",
+      "key": "b040794937bad48466e1fba8d808bc188af019851bb09ab43501371aa3cdc8db",
+      "cosmeticIds": [
+         "EID_Depart"
+      ]
+   },
+   {
+      "guid": "604C6242EB2BF301BB5D4BC6E3AC5A8C",
+      "key": "63b736f9dbe24e1103b95b06f6420e8cc7e72dd2549cf31b75a63980a895922d",
+      "cosmeticIds": [
+         "BID_772_Lasso_Polo_BL4WE"
+      ]
+   },
+   {
+      "guid": "605CA1F4F68E09A4A0784DE3D6E9FB88",
+      "key": "4ca6b12b1735ca8545754a90356746ddba1f13bf21c2e99ae71e46a367672f14",
+      "cosmeticIds": [
+         "Backpack_IonVial",
+         "Character_IonVial",
+         "Pickaxe_IonVial",
+         "Wrap_IonVial"
+      ]
+   },
+   {
+      "guid": "60CE6E28E6993C1DC1C58E839E7A7284",
+      "key": "665393c27e986c02bd1deb63b22428d004b58f02509cb258ecd911e62ee8dbf8",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "60D2163642133A71A78B16544C01474F",
+      "key": "549b8eb190a664027954ca679019e0d360dc431de88fa2eea7678ce0fc40f398",
+      "cosmeticIds": [
+         "EID_Cherish"
+      ]
+   },
+   {
+      "guid": "615ABCE79E307A611C31DAB9B5877EA9",
+      "key": "ce86c824e9d70cb9253ee401373a2a43200748700957c4691d5bc3eddc4f15a0",
+      "cosmeticIds": [
+         "EID_Sublime"
+      ]
+   },
+   {
+      "guid": "61D055FFB6523C2E6B09EEEF500F82EC",
+      "key": "983e618af446313db594dc968d1b3b798ae20454d5973a08343041f434853c00",
+      "cosmeticIds": [
+         "EID_Clamor"
+      ]
+   },
+   {
+      "guid": "6204514DD102F27477CE0D7A811CBBE5",
+      "key": "a028e5ca50c4a1d1e74f2f5bc59d4a4fdf437db921b23c3cdfdca6a353bdd6e5",
+      "cosmeticIds": [
+         "EID_Distraught"
+      ]
+   },
+   {
+      "guid": "623074E0279E883B3D226528E72C540E",
+      "key": "578053ec14e717e52cbad62b1f3704da4e3d2ba9cd0125ad17b1cb600f9da328",
+      "cosmeticIds": [
+         "Character_GelatoCourage",
+         "Character_GelatoCourageOwl",
+         "Character_GelatoCourageOwl_B",
+         "Character_GelatoCourageOwl_C",
+         "Character_GelatoCourageOwl_D",
+         "Character_GelatoCourageOwl_E",
+         "Character_GelatoCourage_B",
+         "Character_GelatoCourage_C",
+         "Character_GelatoCourage_D",
+         "Character_GelatoCourage_E"
+      ]
+   },
+   {
+      "guid": "6261EE20A79577BE9F3CAED16BE29CF8",
+      "key": "e77f68e03ad4d167e5ed235610eda29bcfd96282fb08124ebf3fb784dd1c7390",
+      "cosmeticIds": [
+         "EID_JumpingJoy_WKPG4"
+      ]
+   },
+   {
+      "guid": "63516700C5CFA6F1BE71B29214957E33",
+      "key": "791f4eb70f378c9cab8fcd3c0a4a84955633957cedb9cd78feeda90ed3eda284",
+      "cosmeticIds": [
+         "BID_295_Jellyfish",
+         "Glider_ID_155_Jellyfish",
+         "Pickaxe_ID_223_Jellyfish"
+      ]
+   },
+   {
+      "guid": "63722D44ECCA0F4178B85F5A6BC4C31B",
+      "key": "8f8d942f46e67c19258ba023f76c16001c056f2e6b02994ffc073a9e1f6446f0",
+      "cosmeticIds": [
+         "EID_Vivid_I434X",
+         "Glider_ID_308_VividMale_H8JAS",
+         "Pickaxe_ID_661_VividMale1H_ZN6Q0"
+      ]
+   },
+   {
+      "guid": "63B2E664F9DEE5B42299191174C3B3C3",
+      "key": "53518e481a8f503005ab7a6311d260f271dbdf6d481fae7bd5d9211749c432cb",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "6450BD104AFF3B6ABA9AA0EC0748E775",
+      "key": "0c00742fc472473e2c546eeb87dccdb0a83c306982aa5b0852bf5733b855befa",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "65000C27C3BC5B9B904A0D20050D6B36",
+      "key": "245c108bbb568090ebf84e06cd853fae06ac8e393ed4129107f37cf1eeeb56f2",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "6537263AA4E53B6A7B7D4AE3DE12826C",
+      "key": "e96390474917256049e268b29325128ff85c1f8bb9253485a414f06887881714",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "664AE10E66BFDC167AE20432295E8F7F",
+      "key": "300e441e049cdfe588cd8946e6dd0c7dce2ca2c545e539d50c24ca706e4ac8bd",
+      "cosmeticIds": [
+         "Character_SweetLetter"
+      ]
+   },
+   {
+      "guid": "6686344942A2886FC4FD4D3763A4890D",
+      "key": "0a986782a4afa55f9bdbe5acac2e931d5947b6b6e59ff1a67a2e2d87b20ee955",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "66B8D4B61985C510209FD18445953344",
+      "key": "56ad6875ffb10b1a76fd606cb0764fbd453223d6b2ef5795b2eca8cffcfdcdd9",
+      "cosmeticIds": [
+         "EID_Spooky"
+      ]
+   },
+   {
+      "guid": "6782F1D85E7DFD1D835C9B7B2A461001",
+      "key": "cf09e2dcb65790b8d20a7c04e370c7dc3a8c13d677ce90add973a7c745423a0d",
+      "cosmeticIds": [
+         "EID_LastVoice",
+         "Glider_LastVoiceDive",
+         "Pickaxe_LastVoiceDive",
+         "Pickaxe_LastVoiceSteel",
+         "Spray_LastVoice"
+      ]
+   },
+   {
+      "guid": "681CB2E1E19D79D2FF4B67F5B42777F8",
+      "key": "238d303715569f470454ad0994bf86fa0f5875cb07359bc3427b02b52c99cf37",
+      "cosmeticIds": [
+         "EID_Meander"
+      ]
+   },
+   {
+      "guid": "682BB8BC5B0BBE6318CF2164E074E7E8",
+      "key": "340e270b016aa3de69becaa42d758ed960dd2d8f8c406723f7b37ab7cf350501",
+      "cosmeticIds": [
+         "EID_Socks_XA9HM"
+      ]
+   },
+   {
+      "guid": "6838E4BB35C0449D4F66F7E92A960D1F",
+      "key": "28e287dc903e38c96207e7f5ecf77c38512da286826637a1cf70af7ea6926ed5",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "687E53607C7004988B05C9EE1BA99AFD",
+      "key": "8d898019dcf9bc0bc344886b71576b7023483c49a4260f0bd6f5acfc76792abd",
+      "cosmeticIds": [
+         "EID_SmallFry_KFFA1"
+      ]
+   },
+   {
+      "guid": "688022C4193EA6D9DF1EDC7F6CF826DA",
+      "key": "94e477dfc4f343be46ed1f354422937636266028e148a24807e49c3d86a7368c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "6A2047910081947B9A5DCF542A9AEBE5",
+      "key": "57f8cc4d62fecdba9e22528213df92337f97ebd6986edfdc374f86d43d060505",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "6A3F6093DECACCD1F78CF802DE7AFF84",
+      "key": "4a477409f9aa92624052a0c513a432fda74bd8c48de08b809dd5d9d127a9117c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "6AD4E900C2E9E785B0442E0A60E74C66",
+      "key": "15bac691a328aa3abf09a6a6749ad0501cff3e306ab40d301651a3d553b11fa0",
+      "cosmeticIds": [
+         "BID_A_030_EnsembleMaskMale",
+         "BID_A_031_EnsembleFemale",
+         "CID_A_433_Athena_Commando_M_EnsembleSnake",
+         "EID_Spiral",
+         "Glider_ID_377_EnsembleMaroonMale",
+         "Glider_ID_378_EnsembleSnakeMale",
+         "LSID_456_Ensemble_BusGroup",
+         "LSID_457_Ensemble_Characters",
+         "Pickaxe_ID_821_EnsembleFemale",
+         "Pickaxe_ID_822_EnsembleSnakeMale",
+         "Wrap_495_Ensemble"
+      ]
+   },
+   {
+      "guid": "6B0D17A04F83AAF1E4EC1D0D481D7B03",
+      "key": "7e04809c40a9a4a9990f57a89451193ae3a95033dbb75326bc6ae8310d2c3c55",
+      "cosmeticIds": [
+         "EID_CrabDance"
+      ]
+   },
+   {
+      "guid": "6B91F0DFD2780364EC6FC5E531665208",
+      "key": "b01858b5ae09af172cb022d5064157789a4a6bb8102877a9aaef7ce34be8ea1e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "6BE73A630C01192C39807CEDA006C77C",
+      "key": "dcc603c6369c9cd812430c5cebc0e49ceddee932974b0e2d1b94d5752c467451",
+      "cosmeticIds": [
+         "Pickaxe_ID_327_GalileoKayak_50NFG"
+      ]
+   },
+   {
+      "guid": "6CED8B5F648ED1ACCC8F1194901775AF",
+      "key": "aa37c24f7f455678848cf8fe0af66ee50cfc5c71ed7671fc902b15dcfd4e689c",
+      "cosmeticIds": [
+         "BID_252_EvilBunny",
+         "Pickaxe_ID_196_EvilBunny"
+      ]
+   },
+   {
+      "guid": "6CFF02B6F01FBC306D428E8EE2CA6232",
+      "key": "d4169708c17a74978e459762b4b6d644b14a565bd865ead976f89f66ebcd4df9",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "6D85E82539341B90944E84FFAAD872FB",
+      "key": "98088193b29b1360e7afec9517224ad72030bf67966fec803451f4cf692b424c",
+      "cosmeticIds": [
+         "BID_299_BriteBomberSummer",
+         "Glider_ID_156_SummerBomber",
+         "Wrap_087_BriteBomberSummer"
+      ]
+   },
+   {
+      "guid": "6DD6F574BA76BD6B68E14FF19181F2B6",
+      "key": "67f3a70adbe895625268284778821515707c7e9b64f10056f09403d46936c3e6",
+      "cosmeticIds": [
+         "EID_Shaka"
+      ]
+   },
+   {
+      "guid": "6DEBEC4266A3BC248F8A8FD4B76878BF",
+      "key": "c2308027d55a4e18137dbbd47ad0845901628b91a675f3f0142bf12efe62a7f8",
+      "cosmeticIds": [
+         "EID_Eerie_8WGYK"
+      ]
+   },
+   {
+      "guid": "6EA156BE3D18E1D649D7D4B3F8C0FACA",
+      "key": "a80283f6833cbb822f51c29b45e1d331a2e0ec6b472c17279b3f3efafc3007aa",
+      "cosmeticIds": [
+         "BID_906_GrandeurMale_4JIZO",
+         "LSID_372_Grandeur_UOK4E"
+      ]
+   },
+   {
+      "guid": "6ED300E6401C02B19FDF5F82D945C661",
+      "key": "395af41963c6bfcea7cd68a42b3af0d920b8692fb802980a28bbd0eddd0d927d",
+      "cosmeticIds": [
+         "CID_336_Athena_Commando_M_DragonMask"
+      ]
+   },
+   {
+      "guid": "6EDDE286471D1369B09E65A6B02686CF",
+      "key": "d8c0f1871781c71fdd37e43f970086fa9a31ce94ad1102c33342fcd02a1a106f",
+      "cosmeticIds": [
+         "Pickaxe_ID_152_DragonMask"
+      ]
+   },
+   {
+      "guid": "6F9CD990050CE04CE577325C3A6FFC81",
+      "key": "78e97fa16c507db718c50b638c4c81ed229718d24b1b0ad6553e098209404996",
+      "cosmeticIds": [
+         "EID_Chorus"
+      ]
+   },
+   {
+      "guid": "713D64294CD1C40F60DEEB805E3A2D87",
+      "key": "08938e1ed117eeae0210b719f7aa198eb99265dee9c89d9f31a157f75d860e5f",
+      "cosmeticIds": [
+         "BID_193_TeriyakiFishMale",
+         "Glider_ID_110_TeriyakiFish"
+      ]
+   },
+   {
+      "guid": "715D5B8D89F01C804C2ED33648157A6C",
+      "key": "19b31c426769bf78eefcfdfa5102250c56744398ebd217bb3b6a1327bd3631c6",
+      "cosmeticIds": [
+         "BID_446_Barefoot"
+      ]
+   },
+   {
+      "guid": "71BEC74046C6920A467E57B69FA3835A",
+      "key": "aba9b5c41e3e9829972f783b7911b29033ba64aad74bc33b9bc4aa6ea20ace42",
+      "cosmeticIds": [
+         "BID_201_WavyManMale",
+         "BID_202_WavyManFemale",
+         "EID_WackyWavy"
+      ]
+   },
+   {
+      "guid": "71C3BFE2AF0BC8DE7BC3735614CE6263",
+      "key": "84d2ecbd44d4c34730d56adf3848e6ee84863dfa4465eafa4741bb176125e90d",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "71EC943F69634C4E436D461E06D88193",
+      "key": "696dfc0006e6ebf3d7ebabeb49768c4ce39bd27c9da041214698416c364e6e62",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "726DD9BDA97CE92DFF162668027518BE",
+      "key": "fd07736967285612274b3d0e6b4aa4f8d5775f146df56957c1c02eefae98e9a6",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "72CC2893A6B672F3854F36629B770774",
+      "key": "d0181080a65146e3c5128aa7ec2c595612c139fa42137a8b28642565cf9203cd",
+      "cosmeticIds": [
+         "BID_890_UproarBraids_EF68P",
+         "MusicPack_112_Uproar_59WME",
+         "Pickaxe_ID_699_UproarBraidsFemale_LY5GM",
+         "SPID_325_UproarGraffiti_QFE4O"
+      ]
+   },
+   {
+      "guid": "72FCE9EE6B90885970CBD74AA2992B68",
+      "key": "52f15c3b01bbf01c7a9155961dddcdb126ab01e599021b77d962deaacd0ea68a",
+      "cosmeticIds": [
+         "BannerToken_003_2019WorldCup"
+      ]
+   },
+   {
+      "guid": "7313591AB9F0A7E46AB016065DE8F65A",
+      "key": "3402f46cb5b5a7e71e2c5e258717e6d6f40f68c96ff1e34f3fab538b34d910dd",
+      "cosmeticIds": [
+         "CID_398_Athena_Commando_M_TreasureHunterFashion"
+      ]
+   },
+   {
+      "guid": "73794262E9FAA8543111C22668BFB4E5",
+      "key": "d9a574d4c4752961a36f8fb337038a61c4de926e4af8f7573da3775d6eedcf89",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "738B025296E10AD69AE5FDA250CE65FF",
+      "key": "d949b37437a997c368a3e2c05a4b7f8bb6def90bc94c8b2eb2a0d166cc7c37d2",
+      "cosmeticIds": [
+         "EID_Outburst"
+      ]
+   },
+   {
+      "guid": "738C0E8B5DAB633906DC77FE4C4E48F9",
+      "key": "aabd597db591a7ebaac0132f1216355c18fb4abed2c51b161cdee3a983da65f5",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "73997D156EB0408D62DFD6C98F37F153",
+      "key": "b0291e9342bfab60c9b7c453306d3d469534c27afe256b6c9679fc65db38a843",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "73D899AB236474741E0B023F2B00FD88",
+      "key": "0a46508ea815dab4be5307ffd344db37ea3be049301e639d8635b144b2db02a6",
+      "cosmeticIds": [
+         "Wrap_HydroBottle"
+      ]
+   },
+   {
+      "guid": "73FDB8F2BDCCF4518225CB3E28DD9C0A",
+      "key": "301a3f0cef262de6ccaae64f0a0784fc58147493970122958c82751fe2043da7",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "74245D2573276B4C9ECCF61B23367A72",
+      "key": "2392ed27bd9402567d5c8ba9c64cd124a8919d212412f11ce43f3e4ace2ed889",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "74AF07F9A2908BB2C32C9B07BC998560",
+      "key": "5743aaa3f24674fab72b57d7dc9411cf08c240c2bb6d5e10a32a90405b087f49",
+      "cosmeticIds": [
+         "BID_302_Hairy",
+         "Glider_ID_158_Hairy"
+      ]
+   },
+   {
+      "guid": "768A95DE7B657B7B23D5A0DE283EB49F",
+      "key": "24b2c0cf8e9aef0a36ac00d0bc291ba7821b29ec6bec9e5b06be9deada129f9d",
+      "cosmeticIds": [
+         "Wrap_049_PajamaPartyGreen",
+         "Wrap_050_PajamaPartyRed"
+      ]
+   },
+   {
+      "guid": "769BE2DF780774E9A97E451EFB71A763",
+      "key": "c89bb98392ee2b83bfbe54dfab1cca84c345b4f36ef007c7cfbfcacc43881d76",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "772E01C212E9A77A501AF954ADA90B09",
+      "key": "9d0e22e9b6e66c633372af22ca3a0cfc11946d7d83488251019f7afea68e7ff6",
+      "cosmeticIds": [
+         "BID_945_SleekGlasses_GKUD9",
+         "EID_Sleek_S20CU",
+         "MusicPack_122_Sleek_3ST6M",
+         "Pickaxe_ID_744_SleekGlassesMale_ID69U",
+         "Pickaxe_ID_745_SleekMale_ECRL0"
+      ]
+   },
+   {
+      "guid": "77B485EBF8E72CC8CD19F8646A6D0491",
+      "key": "4975072500eec411afd0fcc3b6e56c0f1372b9b1bfa601fdb3d14cbe2992d184",
+      "cosmeticIds": [
+         "EID_Noodles_X6R9E"
+      ]
+   },
+   {
+      "guid": "77C937AE673A9DBFDFA373E0FD928533",
+      "key": "246832ccd653de82e0e0ba80d16f9dfdc6965a1a88a625cd3b262dcd2799e29a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "7852B2522C39A15D1933661727D2D795",
+      "key": "4f836fd9298b389ac4ca67d7b83e28d9c8ab9c74889b177fef2deefeaf52f21a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "78FA1DF9C04F25EC129AA57492626563",
+      "key": "0194f5fc0b1ae02bb1753b6f2ebc3d9e511cc5f3aea139cb6d22f3b5fb3b410e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "793D221E5331282DD7F3681100944880",
+      "key": "07947ae04f446500f59479a6c9457ef5ad5750439c61f768a49ddabc421c5711",
+      "cosmeticIds": [
+         "EID_TwistFire_I2VTA"
+      ]
+   },
+   {
+      "guid": "794E59D9FCF36814F264C9A5938124E5",
+      "key": "b87af873d5c9ff33425089b3c19a73ad47d045c6768f5f5d2cddc24e72b2d559",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "79F7D9C856E8CF354109D3298F076C06",
+      "key": "024dd338cd22d0cabf298c5ded20e54ae4bba39e5449a7febab2fa5aa9e66a56",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "7A59383C41DD998408A74BC37C7D6887",
+      "key": "9d2aebba1a475776443cf1027aa5a4321ffa981173403f321052994baa097aef",
+      "cosmeticIds": [
+         "CID_A_080_Athena_Commando_M_Hardwood_I15AL",
+         "CID_A_081_Athena_Commando_M_Hardwood_B_JRP29",
+         "CID_A_082_Athena_Commando_M_Hardwood_C_YS5XC",
+         "CID_A_083_Athena_Commando_M_Hardwood_D_7S0PN",
+         "CID_A_084_Athena_Commando_M_Hardwood_E_II9YS",
+         "CID_A_085_Athena_Commando_F_Hardwood_K7ZZ1",
+         "CID_A_086_Athena_Commando_F_Hardwood_B_B7ZQA",
+         "CID_A_087_Athena_Commando_F_Hardwood_C_AOU16",
+         "CID_A_088_Athena_Commando_F_Hardwood_D_WPHX2",
+         "CID_A_089_Athena_Commando_F_Hardwood_E_4TDWH",
+         "EID_BasketballDribble_E6OJV",
+         "TOY_Basketball_Hookshot_LUWQ6"
+      ]
+   },
+   {
+      "guid": "7A8E25F664219ED6CCF3AB1658D0E557",
+      "key": "4d5fb2c96a48de21c9a1a2b7a35b7afbfba137fb056753a2c68031d27eccb633",
+      "cosmeticIds": [
+         "BID_330_AstronautEvilUpgrade",
+         "Wrap_118_AstronautEvil"
+      ]
+   },
+   {
+      "guid": "7ADE21079D27D9CA3931F676358A0F72",
+      "key": "8d6b5bc5c607369876e0fd12295bcf12e18321d169abec19004225197852a63e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "7AEE99564551FF8EE98E6887410AE8E2",
+      "key": "0ae99ddffd249ec770b786e5ef3350c3c30a9a622e0bfe306157d5b50ab9776a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "7B1151E3094646DFFD37B6492B117FDB",
+      "key": "e16c4d1dd4e01c31291a3cc85765c88c63b8d64ca2c2080542976af32fa8d636",
+      "cosmeticIds": [
+         "BID_733_TheGoldenSkeletonFemale_SG4HF",
+         "Pickaxe_ID_577_TheGoldenSkeletonFemale1H_Y6VJG",
+         "Wrap_356_GoldenSkeletonF_FT0B3"
+      ]
+   },
+   {
+      "guid": "7BF9CA82EA29E080F7106C60B645B76F",
+      "key": "0f536b3309df446f2d7fd2c5ec1e2beeb439dccda70ad3efdb9aa3c36d93f4c4",
+      "cosmeticIds": [
+         "EID_Skeemote_K5J4J"
+      ]
+   },
+   {
+      "guid": "7C04002177805455CCA13E61F418D117",
+      "key": "71a72aa74e6021208782250b34392cac536551b873e8dc5e5bba44afec69d854",
+      "cosmeticIds": [
+         "LoadingScreen_Genius"
+      ]
+   },
+   {
+      "guid": "7C13D9408B7434500647EEDFE55A63D9",
+      "key": "bde6ba188207307b4307f995193a756d35b7b5f08cead2e5a48f4b88fddbc53a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "7C469274E430B5E3005EF1799DE618CC",
+      "key": "e63e42370f01236fa4052853faeee4830f47c8267774ebc230604ef5649c34f4",
+      "cosmeticIds": [
+         "BID_A_060_WayfareMale",
+         "BID_A_061_WayfareFemale",
+         "BID_A_062_WayfareMaskFemale",
+         "EID_Wayfare",
+         "Glider_ID_388_Wayfare",
+         "Pickaxe_ID_848_WayfareFemale",
+         "Pickaxe_ID_849_WayfareMale",
+         "Pickaxe_ID_850_WayfareMaskFemale"
+      ]
+   },
+   {
+      "guid": "7D4C5F196ECABABFD430C68C3FB04C0E",
+      "key": "a36eec6e66cc1d249ef63f21a6469a39ba583a7215919c6d6a8e880d45016b9b",
+      "cosmeticIds": [
+         "Backpack_BraveBuild",
+         "Backpack_HeavyRoar",
+         "Backpack_HeavyRoarCarton",
+         "Character_BraveBuild",
+         "Character_BraveBuildSuper",
+         "Character_HeavyRoar",
+         "Glider_BraveBuild",
+         "Pickaxe_BraveBuild",
+         "Pickaxe_HeavyRoar"
+      ]
+   },
+   {
+      "guid": "7DA161D7F5AB6AF6582AE0A40C803E35",
+      "key": "2d22f69bd4c24f21d1208e4d271dca998aff65fa21cf69d651b45428fa8090e5",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "7E5BFF3AFC483F87B5891536C0AF3DFD",
+      "key": "74404544540f620e0d9dd7b0696f7fac40e95b437c54587bb2b4d90e7d1a7a31",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "7E9E6546A8C7109E9966F9C010D794A7",
+      "key": "fe1254f5223121ec09eed6a2980ac0c136dbb861bfe131eb2af30495c4cccc8d",
+      "cosmeticIds": [
+         "EID_BurgerFlipping"
+      ]
+   },
+   {
+      "guid": "7E9FAC0F2BFC4AE3A2ED4C87D1A57DBF",
+      "key": "c5a47ff2aa7b90501b20bc7d8ba00d9e86a6d2b67fb4ff17cb7cb2b2eaadf010",
+      "cosmeticIds": [
+         "CID_464_Athena_Commando_M_Flamingo",
+         "Pickaxe_ID_231_Flamingo2"
+      ]
+   },
+   {
+      "guid": "7EE5B905919FC30BA533A9B72266C37D",
+      "key": "9000f6f3020eeb5dc546d83971f1b3fa36f439f79dda5dcda275464a67aa0805",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "7F0F5EB44D49E7563DD5A196121D49E1",
+      "key": "08122f9bc81324b0b3eac0f4e4629b428eaefcd9383e89e2ffbc25a7bdb82967",
+      "cosmeticIds": [
+         "BID_146_AnimalJacketsFemale",
+         "CID_265_Athena_Commando_F_AnimalJackets"
+      ]
+   },
+   {
+      "guid": "7F2E96A8331098ACD5BB8DC29D4A3F57",
+      "key": "9034db376c9164023010442c176ce8270761b6c2b495c6f9cc4ba89fbbf38ae9",
+      "cosmeticIds": [
+         "Backpack_FolkEveningSheath",
+         "Pickaxe_FolkEvening"
+      ]
+   },
+   {
+      "guid": "7F5ACEFE3F67BC0CCEB59A4E8EB82BAF",
+      "key": "8831b61c1d8bca912dcf0e7f123295a49990d68df4044de756fd35ace4f2abae",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "7F863227B67DD0D99A7A4BBEE0682666",
+      "key": "dbd6dfbda41c654b30177beb1cc9ed2ca7e692758a0dfeb91426f16c98218ac8",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "7FA066BD68EDBE54C44CEAF5FDE591AA",
+      "key": "32aae1acbef16ded750993f0cf5a494f1f0cf3250719efd51cbdbd54a94a54a8",
+      "cosmeticIds": [
+         "BID_976_LittleEgg_Female_4EJ99",
+         "EID_LittleEgg_69OX0",
+         "Pickaxe_ID_771_LittleEggFemale"
+      ]
+   },
+   {
+      "guid": "7FA4F2374FFE075000BC209360056A5A",
+      "key": "9f2c088999482fc008324c0265fad8a009291ccdf30b075d85fb3387efba7a32",
+      "cosmeticIds": [
+         "CID_223_Athena_Commando_M_Dieselpunk"
+      ]
+   },
+   {
+      "guid": "7FE6E196D4EF15F90CF5FCD812543E7C",
+      "key": "840afd94a46d88355e2529f98ff917b854c688a6132041f085ee95cd2e459d8b",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "8022BB6AFCA2733E261C32590EA86E9B",
+      "key": "1f32995d5f6c41f8ec0ee1ae1917e969b1dac2898986ef3615e39a1100e0d653",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "802F5EF63DFD75EFCF29ECB136B7F3DE",
+      "key": "21a025a4efd9f8fe843aec9a965d6afcdbd40fc390850bf26194551c9aced6a7",
+      "cosmeticIds": [
+         "CarSkin_OctaneAW2",
+         "CarSkin_SourdoughAW",
+         "ID_Booster_AW",
+         "Wheel_BasicAW",
+         "Wheel_Law"
+      ]
+   },
+   {
+      "guid": "8033BA4F3E1FB68ABADE271C9BE4EE42",
+      "key": "5c6c00f1159d6afa5e49c429a8cfda1687774864c1dcf89b74613b886291e238",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "80B01346D82C75E9165D30C8D4670D67",
+      "key": "bd4488af8fcb7764acb6784931c58e5846ed3de43410e6398355d5f4e585056d",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "80FC6D214CD513415CB0A54044683293",
+      "key": "7d76355e88eb8351e91fa645d3136b845f5764a4b5e4699a062745f644806cc1",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "819F658DBDBB5D333430800891F28361",
+      "key": "bbffa4bafe83b22528b943aeb1145f0bc4e2e6b08a86c808cb1c8e9cb1f7321d",
+      "cosmeticIds": [
+         "CID_719_Athena_Commando_F_Blonde"
+      ]
+   },
+   {
+      "guid": "824E9EFFEB0EBD1CF7039D36C4C50E63",
+      "key": "f386ff41a1a4199c5b3411e260530277b01f9210dfd46aa2269c8f438edf1441",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "82669F5A2F9B703D1A6BEA3BCB922D7D",
+      "key": "2debbdaeb0cf6aa65dde2cc853e20aa4570ffcd35ca929dc2e457695aa502fa9",
+      "cosmeticIds": [
+         "Pickaxe_ID_221_SkullBriteEclipse"
+      ]
+   },
+   {
+      "guid": "828B24CF7786DF74D8511CA89DEED8CF",
+      "key": "9c26a1bfb9908627666174a62a27facfb77a6d0eb499d3d0ed2add67b6b719a1",
+      "cosmeticIds": [
+         "BID_634_York_Female",
+         "BID_635_York_Male",
+         "CID_905_Athena_Commando_M_York",
+         "CID_906_Athena_Commando_M_York_B",
+         "CID_907_Athena_Commando_M_York_C",
+         "CID_908_Athena_Commando_M_York_D",
+         "CID_909_Athena_Commando_M_York_E",
+         "CID_910_Athena_Commando_F_York",
+         "CID_911_Athena_Commando_F_York_B",
+         "CID_912_Athena_Commando_F_York_C",
+         "CID_913_Athena_Commando_F_York_D",
+         "CID_914_Athena_Commando_F_York_E",
+         "Glider_ID_248_York",
+         "Pickaxe_ID_491_YorkMale"
+      ]
+   },
+   {
+      "guid": "8335E3DF8B0DFBCB0C05EFB5FF1B8A81",
+      "key": "b21c7f50f7763c9a4666da5d7519a84bb468b1b10ed0c96c68d6fef5a69047d8",
+      "cosmeticIds": [
+         "Pickaxe_ID_204_Miner"
+      ]
+   },
+   {
+      "guid": "854D0D9F4EF33FB4410CB98340952245",
+      "key": "c18cc89f36292f9201e9d37eac2a3ad7de8a8061a8dc4feb35e39fecf6a2cf3e",
+      "cosmeticIds": [
+         "CID_304_Athena_Commando_M_Gnome"
+      ]
+   },
+   {
+      "guid": "8566FD040AC2B245597E11D1F85DB4E5",
+      "key": "484a2aa307a87f19977f1bbce3cc0a9f550987053ba10db0d85d2506cb7e1675",
+      "cosmeticIds": [
+         "BID_658_Historian_4RCG3",
+         "Glider_ID_257_Historian_VS0BJ",
+         "Pickaxe_ID_508_HistorianMale_6BQSW"
+      ]
+   },
+   {
+      "guid": "856E286187F84C14D7808F68B4F04154",
+      "key": "da90d268ff188321a0aa5b8bd2de762d2b5c39fe4edaa43f6c0f58d84c2924d3",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "857A238C0BA80D892571ACE78CD3187C",
+      "key": "78b2c4a8e020463cfbf19e184fa74bc4bdc37ad016d5cd81338a133e9f75d9a9",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "86588ED13DD870C5FDBF91B3C739D156",
+      "key": "1c5aa0dae75be6aa9ab0b7fe0f68f37d16a1bb71e005959937602f9d2508233b",
+      "cosmeticIds": [
+         "BannerToken_002_Doggus"
+      ]
+   },
+   {
+      "guid": "8675F0B46A008B0B6C0ABDD41A619443",
+      "key": "f496198510792a577d87bcd54136df4b2349be1cfd51a275ec72003d91fc4f04",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "8680408E4982495D8EC65D930CE902F3",
+      "key": "648a1c6bd80d48c965daedf39a612c305480a76a539acbd620f5b0cf66f416c1",
+      "cosmeticIds": [
+         "BID_188_FortniteDJFemale"
+      ]
+   },
+   {
+      "guid": "87F01091E4DA4FE3FFC9AD92A20A8DCE",
+      "key": "a7ee50be5404579416d9042b216ac39e7b6184d37d574c172be65d9a2c3bd6ed",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "88E5DC354F07186FFE1EA93D874832A6",
+      "key": "e851a6eff448024ab69d892c97e764b93bc14b3826cff0f13d0e22b24301c27b",
+      "cosmeticIds": [
+         "EID_Coping"
+      ]
+   },
+   {
+      "guid": "88FA70760D757D80F661FA53B4762EC2",
+      "key": "eceb55efa729c8eabd74d78ce4f543f1339d45c3f1d4adf07843d7ce50ae82ed",
+      "cosmeticIds": [
+         "BID_877_BistroAstronaut_LWL45",
+         "BID_878_BistroSpooky_VPF4T",
+         "Glider_ID_319_BistroAstronautFemale_A4839",
+         "MusicPack_106_Bistro_DQZH0",
+         "Pickaxe_ID_682_BistroAstronautFemale_A3MD2"
+      ]
+   },
+   {
+      "guid": "89CD763ACF4C3672A0F74AC0F45C291F",
+      "key": "bed70f6e74e1d9a0ceb7b2df62924bfbb685d53681f0b0da2ec328438ecd65e7",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "89D641BBEFFD9A227200861A01807ECF",
+      "key": "ad70d39bd252e8784b0472035cf45117f784469d43914855e3a40fc5ebea3160",
+      "cosmeticIds": [
+         "EID_Comrade_6O5AK"
+      ]
+   },
+   {
+      "guid": "8A154454D5B98503B341742F927C2457",
+      "key": "82b261e6a60d94fcb578c3b8fada37328cbe6ba3423275f219200550a2966391",
+      "cosmeticIds": [
+         "EID_Downward_8GZUA"
+      ]
+   },
+   {
+      "guid": "8A6DABC9AF8B5FE521D365DB605D0AE0",
+      "key": "4fbdb54aa0539dc62c77c19e8f4d519cb5fab04682809a082e745ab87689cfe8",
+      "cosmeticIds": [
+         "BID_284_NeonLines",
+         "CID_429_Athena_Commando_F_NeonLines"
+      ]
+   },
+   {
+      "guid": "8AB2A1D47937F30D49879F4043164045",
+      "key": "330babe77e35a861ae66425be9a1aaa3ba0f6064b944868bbb79607f99fa7918",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "8AE56A5795250C959CD4357AF32DA563",
+      "key": "18bf7e8132e4879be7cb32262c3771198164b2b1ec9a625251f641f663fd7dd3",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "8AE930B0D623C1C2B3926C52ECF6250B",
+      "key": "bb0b59bfcedef4353f67566f601ecfbf84dd450e3f6514fd9d8242c184a695b2",
+      "cosmeticIds": [
+         "Pickaxe_ID_605_GrimMale_8GT61"
+      ]
+   },
+   {
+      "guid": "8B9DC1A32A4081596F0AE60926CF6846",
+      "key": "e0efe7ff84c02699d0dc1bdc69d88a2c744d4a665041bafed79452ac31e7ad0e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "8C4383893F90632D5516AD37E0CD5173",
+      "key": "2544c89edf570c61fa8146d9d38d1de29b4946cba1369a4828a230f88898a3c9",
+      "cosmeticIds": [
+         "Glider_Headset"
+      ]
+   },
+   {
+      "guid": "8C623F6A49CFF9ADC7895A466CA1C896",
+      "key": "90b99874b8be8ce06cda4f81fd4c6b09c3d276fb8d61385ad3197df92bd4cc95",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "8CB3CD29BF1611B7CA90D1C635859415",
+      "key": "b3b815190b90cf6083c2a35d6ba757411a87f66a55e8d505bb5cdaa038a14185",
+      "cosmeticIds": [
+         "EID_ChickenLeg_TDJ0O"
+      ]
+   },
+   {
+      "guid": "8D336ADD3E862004534F4D310F0A681F",
+      "key": "3a1e24bb2fbae8d07a80f3648b1fa82a78344133b50e3bbc93a4b14f71d7c5ed",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "8D44654E9EA2AAC35E489476B1948E58",
+      "key": "0f06ff8ab488206777b4b2cf10fe4ea896350f829f8dd3f8fae3f8f87b7860ea",
+      "cosmeticIds": [
+         "Glider_Elevate",
+         "LoadingScreen_Elevate",
+         "Pickaxe_ShinyStar",
+         "Wrap_ShinyStar"
+      ]
+   },
+   {
+      "guid": "8D578CF915DB851F9BE73C937D3565E4",
+      "key": "5e4f2450af5cbade2d5ebd15423b9f65da1ea69f93cc69a50c0edfcd8035ac07",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "8D9CFEEB5299B3F8400B8E2E67B8A1C9",
+      "key": "c30165b8e0267275dc1acc894462449ae0b6d9cca9cc7e314e171901247e2075",
+      "cosmeticIds": [
+         "Backpack_FishBowlBone",
+         "EID_Fishbowl",
+         "Glider_HighBeam",
+         "Pickaxe_FishBowl"
+      ]
+   },
+   {
+      "guid": "8DA867A3B1F0E3A0985B0AB812C3582A",
+      "key": "bd2f12d741138f64f176d0f9ee9fe234835b323e267ee9824faab7795fe385d5",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "8DCAE39C7D9690E19F52655F02C613B2",
+      "key": "6591db895b1b5eab8b96bb4d547b6bc8b4b755dd44828f3ff2d943a5e50281f7",
+      "cosmeticIds": [
+         "BID_336_MascotMilitiaBurger",
+         "BID_337_MascotMilitiaTomato",
+         "EID_ScoreCardBurger",
+         "Pickaxe_ID_251_MascotMilitiaBurger",
+         "Pickaxe_ID_252_MascotMilitiaTomato"
+      ]
+   },
+   {
+      "guid": "8DF1F1277DF980247E3117412EEBC87D",
+      "key": "ce40528117ed504741ddda9a7a52f0685231c95bf70300db75cc1ce61b20fbe9",
+      "cosmeticIds": [
+         "EID_DoubleTake"
+      ]
+   },
+   {
+      "guid": "8E00C7A2A21FA7B4E700B07C507A41BE",
+      "key": "7720668020bb4e5782d668d412780e265e5a9b3e8e073771ff07a38afd8cad97",
+      "cosmeticIds": [
+         "Pickaxe_DomeRoof"
+      ]
+   },
+   {
+      "guid": "8E1887D55A60F69B33B234242FF49653",
+      "key": "6287d9696f82465d23855864a7dcf60905a14cfc328d0e9d6c7b484a42c37d55",
+      "cosmeticIds": [
+         "AlfredoSet",
+         "EID_Alfredo",
+         "Glider_ID_367_AlfredoMale",
+         "Pickaxe_ID_801_AlfredoMale",
+         "Wrap_476_Alfredo"
+      ]
+   },
+   {
+      "guid": "8ED082067AC31EE587FE16E5507E95D3",
+      "key": "feebdc75fcadf9dd5fa07c703b7cf3f98d0f52be49cf3ff2112d05c9a2de95ce",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "8F6ACF5D43BC4BC272D72EBC072BDB4F",
+      "key": "aec4f92bc3bcda08c1fc158047bce5e9c06cb64d31c62bbf13400afd140d5231",
+      "cosmeticIds": [
+         "CID_246_Athena_Commando_F_Grave"
+      ]
+   },
+   {
+      "guid": "8FA260F3D15A59A4DC39757B8F982367",
+      "key": "3c4b82e8686b9b50dc2ae329d9be2309e443594e8d574ba8a34b2abb08082749",
+      "cosmeticIds": [
+         "EID_Delirious"
+      ]
+   },
+   {
+      "guid": "90641BE26C6A325EB05DA1FF911EEE87",
+      "key": "cc361e13f9d394ef08dfcce22a8feafecb2fdf0d9f1e45a70cd9fa9b0d1910d3",
+      "cosmeticIds": [
+         "EID_Reign"
+      ]
+   },
+   {
+      "guid": "9078B5331B187C32C649D4B1E5530EEC",
+      "key": "9755348f0d9f75285120718d975358986f180c024451221f848e3a9c9812b77d",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "907E8D93213A838738E26D30AE3A5DCB",
+      "key": "22cd59ff64e380cea35abf51ff37751386e32a10e75a669eeeb8d6f94214e587",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "90ABE984619A1CC48646BC37CAF2D4E1",
+      "key": "60192b9acbef341af1fa7169438cbb53475fcc3ecaefd453e957de4cf8e3a26d",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "91181AD6BCB9443F7F6479DA8BA9B7A4",
+      "key": "724bf428442e0e971ae5c3f924b507f0ad5ffad558bd9a6da0cb06611edfc435",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "919FDAB2FDB531820404333B27DC7B06",
+      "key": "5bd0aca74cba6a0b207105e5446bd85293c63c898d7457c1b19f324285047468",
+      "cosmeticIds": [
+         "BID_296_Sarong",
+         "Wrap_092_Sarong"
+      ]
+   },
+   {
+      "guid": "91BEC79063CD316E69E79215E0CE6437",
+      "key": "b84e7ab13390a33c389197e3ef409020416a40e14e444d7e99984c85c706d73e",
+      "cosmeticIds": [
+         "EID_ModerateAmount_9LUN1"
+      ]
+   },
+   {
+      "guid": "91C415954BF27B6E43970FB8A75FE8BB",
+      "key": "6211f2c4803e46edf7af7a538625aa28d61dbc36cbd39c974b129aad1b8c4b1c",
+      "cosmeticIds": [
+         "BID_176_NautilusMale",
+         "BID_177_NautilusFemale",
+         "Glider_ID_103_Nautilus",
+         "Pickaxe_ID_131_Nautilus"
+      ]
+   },
+   {
+      "guid": "91DE2263000EF60E067F04C5505104C0",
+      "key": "27bd8bdec2509da907e0642b620073ed0200988e1a0b5b1d7be881ef312b286e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "922A62BF1FB397B890EADCC9ED9E6F90",
+      "key": "3af673a84ace52487915c884243f0923e96ee17e4d98ae53b73bc22ba17944ce",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "925BD833E71FF05FB73136BF57189C5C",
+      "key": "5ac5d9a4cff5f8f4fec73a2b2faf392795c1d5da6fbfc20ea4e79e036465d731",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "9261CD0F921EAA3CD6AA8C0716FB042B",
+      "key": "5becb37965b15a7039df497057c9cb8b6044f930f93025d2d75b61ed4a6198f4",
+      "cosmeticIds": [
+         "BID_689_TyphoonRobot_SMLZ7",
+         "EID_Typhoon_VO9OF",
+         "Pickaxe_ID_542_TyphoonFemale1H_CTEVQ",
+         "Pickaxe_ID_543_TyphoonRobotMale_S4B4M"
+      ]
+   },
+   {
+      "guid": "9286B7920158C7D54CF5E6E01EA9266F",
+      "key": "34c51d81911c30d91bb6950955f207a3c620c0c48da88a9b605acdc8af3b1a59",
+      "cosmeticIds": [
+         "EID_Ordinary"
+      ]
+   },
+   {
+      "guid": "929B82B3454DF80CC45B11A55400B6E7",
+      "key": "8e5fcab26b217c1c4a2a73c31f21cd4c73b34c4ddbb8222b069494a5725074be",
+      "cosmeticIds": [
+         "BID_180_IceMaiden",
+         "CID_298_Athena_Commando_F_IceMaiden",
+         "Glider_ID_107_IceMaiden"
+      ]
+   },
+   {
+      "guid": "9481CF79929F97F77D8F7D2607B42A6C",
+      "key": "136f1f956d832ad5f25c187623baaced514a0454a4a608e4103588aee41f54bf",
+      "cosmeticIds": [
+         "BannerToken_001_Cattus"
+      ]
+   },
+   {
+      "guid": "958DC719715C145004E1E028E72464D0",
+      "key": "6530ab40a692a70e5d032ab25bf8c6cfe285d8396f497f30096e7fe1d85d153d",
+      "cosmeticIds": [
+         "Backpack_RedOasis",
+         "Character_RedOasisApricot",
+         "Character_RedOasisBlackberry",
+         "Character_RedOasisGooseberry",
+         "Character_RedOasisJackfruit",
+         "Character_RedOasisPomegranate"
+      ]
+   },
+   {
+      "guid": "95C6C2B37E1D15D60BB5C20D9D47BA31",
+      "key": "7b1747d317b6bfedadd70ca85e96462d7fa218321d471710e811bd8aa8b4ecba",
+      "cosmeticIds": [
+         "EID_Noble",
+         "Glider_ID_368_NobleMale",
+         "LSID_440_Noble",
+         "Pickaxe_ID_808_NobleMale"
+      ]
+   },
+   {
+      "guid": "95E3B6C026DC5455DCF2CEFE2C20C998",
+      "key": "aecdf13afe72a43c7d31bbaceb31b44030fe8cd1173bbba5a5ae8066ba75a8f1",
+      "cosmeticIds": [
+         "EID_Encounter"
+      ]
+   },
+   {
+      "guid": "95EE98AB79EAA4E2871EFA0E4BA9CD7E",
+      "key": "2c9089da45bb010a278b5b2907eb0b722af735704413bcce0b424628a867d196",
+      "cosmeticIds": [
+         "EID_Butter_1R26Q"
+      ]
+   },
+   {
+      "guid": "96FD474CBA52137DC5ABF658BE17C792",
+      "key": "64b5af6d447b5e8c351943630bd33183b0c75682409c1af86fd812ce6c857315",
+      "cosmeticIds": [
+         "BID_862_BigBucksBattleship_1JA5G"
+      ]
+   },
+   {
+      "guid": "975414A2AAC78A3710C3A47A8E3B7A57",
+      "key": "2d059af4ad392c1d77167ec1af38bc477bec31198570dc896a801c9811593638",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "97D5F3D0A78B050F427B5B300FC03EB5",
+      "key": "05ef9e652e8aa947392dcda217860070b11ef92efc9ee2c22b8e4717f7431835",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "97E91E4F436B598D654592793B595536",
+      "key": "3e3d25c617a26f3e036ff0b87a18471a539a94b400c45092fb635890745b8f24",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "987329E3B70FEAD522EBF7435E5CA6DD",
+      "key": "8f8cf2410876e4b61c8d43b41d80ec0739aa2d25d1e6bf7c50a742d31793c872",
+      "cosmeticIds": [
+         "EID_Boomer_N2RQT"
+      ]
+   },
+   {
+      "guid": "988F75A036552441259F047F4DD6FDC8",
+      "key": "b9dafa9ba233134f8208f7c0819429f02ba16ca3d6285bc97e98ce2d351944e6",
+      "cosmeticIds": [
+         "Backpack_RelayStick",
+         "Character_RelayStick",
+         "Character_RelayStickBounty",
+         "EID_RelayStick_Carmine",
+         "EID_RelayStick_Plume",
+         "Pickaxe_RelayStick",
+         "Sparks_Guitar_RelayStick",
+         "Sparks_Keytar_RelayStick",
+         "Wrap_RelayStick"
+      ]
+   },
+   {
+      "guid": "98BA4AE4D7202053DB73B55D8DE72248",
+      "key": "e9462a94f21b19234f641416847478c59fe5de62429c9d8effb484a914489cb6",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "98BCB8B7136162178BF364D6105BB9B7",
+      "key": "73576107ebd61d6470dd8bd6a6c1d18fd0328fc26376a60e2e7cabd18226c55a",
+      "cosmeticIds": [
+         "CID_995_Athena_Commando_M_GlobalFB_H5OIJ",
+         "CID_996_Athena_Commando_M_GlobalFB_B_RVED4",
+         "CID_997_Athena_Commando_M_GlobalFB_C_N6I4H",
+         "CID_998_Athena_Commando_M_GlobalFB_D_UTIB8",
+         "CID_999_Athena_Commando_M_GlobalFB_E_OISU6",
+         "CID_A_001_Athena_Commando_F_GlobalFB_HDL2W",
+         "CID_A_002_Athena_Commando_F_GlobalFB_B_0CH64",
+         "CID_A_003_Athena_Commando_F_GlobalFB_C_J4H5J",
+         "CID_A_004_Athena_Commando_F_GlobalFB_D_62OZ5",
+         "CID_A_005_Athena_Commando_F_GlobalFB_E_GTH5I"
+      ]
+   },
+   {
+      "guid": "98CAB76B2CB8406085C8CDF566FFF5DD",
+      "key": "72e70e61e69d82c64086474a0bb2a5738fc18547b44a742d176730112711071c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "9904FE82E1630F9BF753E5AA195B4E1E",
+      "key": "49cba039d0e74f6378ecf113399f01dcca03960f5e9586fe78fcec646037af22",
+      "cosmeticIds": [
+         "BID_A_027_SpectacleWebMale"
+      ]
+   },
+   {
+      "guid": "9944BE1C4E9D73E4FA195380EF0B7BBB",
+      "key": "2d0c68462d24b4abca30b93a85ab8bd86ceceb37f96dc124de681f5f459efee7",
+      "cosmeticIds": [
+         "BID_214_LoveLlama",
+         "Glider_ID_122_Valentines"
+      ]
+   },
+   {
+      "guid": "99B0F5AFB03FFA1BC3B8AFF75267CAD2",
+      "key": "77819f7c69fb10da8bf52a4ee709e1299ceace9afc4bfe0b412d8ff900f6c32e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "99E94152C1F777A1D8519A532741EE40",
+      "key": "dd30863de2c5de69c7d23f0b13da0bc188971ccbdef7baf0ed5c353907277334",
+      "cosmeticIds": [
+         "Pickaxe_ID_762_LurkFemale"
+      ]
+   },
+   {
+      "guid": "99F8F15A893B9B4BAC2E12BFDCE251B9",
+      "key": "d4e3087c096ecb31abe64befd379e2390317a7f0fe335b3f7ff9874efe763eb9",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "99F93AEDE16EDDD2D43F8FFFED3A4126",
+      "key": "e371a2346ea0c3fd8c72d80a246ed0900e761351c100671dc4863d7feece1997",
+      "cosmeticIds": [
+         "EID_Ringer"
+      ]
+   },
+   {
+      "guid": "9A3C083767A87B837556F6F97B75999C",
+      "key": "36c44a9ec4dc93baca89d51de181fb5177e5c1ac5748de91948386a807685799",
+      "cosmeticIds": [
+         "Backpack_GalaxyLevel",
+         "EID_GalaxyLevel",
+         "Glider_GalaxyLevel",
+         "Pickaxe_GalaxyLevel",
+         "Spray_GalaxyLevel"
+      ]
+   },
+   {
+      "guid": "9AB2CF1E3AE8201C3815E433580D23F7",
+      "key": "8c7ced129524d781927f154d490c9d9a5148e98aacad1e7ac192533cfe4735fd",
+      "cosmeticIds": [
+         "EID_Obstruct"
+      ]
+   },
+   {
+      "guid": "9AC78A87102681DA9D49DE0DF70149AC",
+      "key": "281f375e0e371aee6cbfed2a96abef99fc92c9c02b2a002ee6e18798cbb7754b",
+      "cosmeticIds": [
+         "EID_Affluent"
+      ]
+   },
+   {
+      "guid": "9AEA6E7C6885D6E9A1E71E1C1D660FE6",
+      "key": "44c9dba9b951880ebe257c8d98dff3d72a8c6dd28290b9eea4cbec9b5729a127",
+      "cosmeticIds": [
+         "EID_Resonant"
+      ]
+   },
+   {
+      "guid": "9B4BD31E84E9FBD35CF3A63A1FD4B57A",
+      "key": "3801b9533116b65acd644fa68e965b1c5b45b3ad4e748ae0b1d7a24186d466c3",
+      "cosmeticIds": [
+         "EID_Trajectory"
+      ]
+   },
+   {
+      "guid": "9B730D57F59135CF774023F0DC1A99E7",
+      "key": "976272d90dd7d4c3daafca8c0c648759685db15b1843b86ca84605300e83f1f2",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "9CDB7E60150C8A93BF60EF4983D2A9FC",
+      "key": "64c18e6236a52d9c379b8c050e2f79f565babe56c80100ea7274558329447a3e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "9DB21D9B45B9CAE4BCFD141C0ECD737C",
+      "key": "41f7d03f0831f06fb6d8ad6fe80adb67d6b0e036311e96eacad3857d938d70d2",
+      "cosmeticIds": [
+         "Backpack_CarrotCake",
+         "Backpack_ChessBoard",
+         "EID_CarrotCake",
+         "Pickaxe_CarrotCake",
+         "Pickaxe_ChessBoard",
+         "Wrap_Chessboard"
+      ]
+   },
+   {
+      "guid": "9DB808E8A3748C92F9B2836D97F12E43",
+      "key": "f3fec211c82a3316cfd0d8f0b7e15f92ba4b2f4adedc9fdc4af6ac43d0ee540a",
+      "cosmeticIds": [
+         "Backpack_FNCS_S29"
+      ]
+   },
+   {
+      "guid": "9E6F84C908A6CEE29032FB050FBC2EBA",
+      "key": "19764523a2617e0fc79d24cad5ca9ba5ae40cb51b32dca39b18b58e513d371f3",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "9E7468047D1781BCB546D5AE215B5073",
+      "key": "1185908f88d64109c467a8b578a7d6e3b6ef1aa2b464db7b285cd03b53fa154f",
+      "cosmeticIds": [
+         "Backpack_TimeSquare",
+         "Backpack_TimeSquareBite",
+         "Character_TimeSquare",
+         "Sparks_Drum_TimeSquare",
+         "Sparks_Guitar_TimeSquare"
+      ]
+   },
+   {
+      "guid": "9E9072AA036FB1FF6B2AAD7BEFE7BF17",
+      "key": "3911e064eb7866bb5cf1d2d2c7a8c2b1667767a0303c989288502465130ade43",
+      "cosmeticIds": [
+         "BID_827_AntiquePal_BL5ER",
+         "Pickaxe_ID_649_AntiquePalMale1H_GBT24"
+      ]
+   },
+   {
+      "guid": "9FD68EDC1A5A456225A1C14E1488C573",
+      "key": "bdf2191419a649682fcd20c6fe5ecdd04188ac0359a54280ece7eaa3e9f87c18",
+      "cosmeticIds": [
+         "LoadingScreen_MercurialStorm"
+      ]
+   },
+   {
+      "guid": "9FF6F385935B70741BCE31AD20DC71E3",
+      "key": "a6948535fd648488ee1f591eeff02ac1eaee489c3c5a03f62f2dc20226911aa1",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A02E08C8CE48D4D8676358FF7BE55533",
+      "key": "77dc00e2c9e9978238078cd91715b2bbd70bf734a45eacbdfaf4f0f4f5211e5c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A062151202F2D5FCAD103D17B9300CE2",
+      "key": "262891d3114d876d0244b0d637fb5f8da7a8a36c9b029775850077eb8fe2b937",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A08F80FECB766B071C66017C5902DBD1",
+      "key": "438b111b38e36d14cc6771f0026882e9aebed35eca81752c2daa73b3bd4e584b",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A0926AD8C6EDE29250AC4A0A93156E7B",
+      "key": "91e37fc99eea9ef70f65e21f96c91e77d4c04fcebb81b3e09a71b541d9529f71",
+      "cosmeticIds": [
+         "EID_Donut1",
+         "EID_Donut2",
+         "Glider_ID_206_Donut",
+         "Pickaxe_ID_382_Donut1H"
+      ]
+   },
+   {
+      "guid": "A0C6985E7B2D24E0A3F68456F221258F",
+      "key": "088f2245fb5a41eecd71c87ed7c8710f785c77408518e03d42f12ccc002c14cb",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A10B1E27AF53CDC331BF4797C97B6B9B",
+      "key": "7f2e5f4f32fb1d7a4e051838f421e6fc4f08a6d7785f5d9e60d0407926b9098e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A13ABC32168BF8FE80F667ACB4BD5AAF",
+      "key": "5ac5cc6239355b6549f28f438fb157b1a2af1cd787c9daf6909122c0f4483305",
+      "cosmeticIds": [
+         "EID_Triumphant"
+      ]
+   },
+   {
+      "guid": "A25DFB2C9EBAECE22F893DAA48A7138F",
+      "key": "779299b1ed20feff71c9288358b84dc37902be559764a58c2948c3cd6f3f4888",
+      "cosmeticIds": [
+         "BID_566_TeriyakiAtlantis",
+         "Pickaxe_ID_435_TeriyakiAtlantisMale1H"
+      ]
+   },
+   {
+      "guid": "A2A3968C8EF4EA9F7979BC1FC57B871D",
+      "key": "c5551137d38180bb5bc8ad194786ea320b19a4bfd22639485dfd56184a5f77a2",
+      "cosmeticIds": [
+         "Glider_ID_139_EarthDay"
+      ]
+   },
+   {
+      "guid": "A31042B93988941EE77BC1E2DA6AA05E",
+      "key": "a4352e7d41ac3954efdcbb97a2ae7ac70cfc1d19f396b1d3bd32d66f305a3dc5",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A3254C97AE656A9B7301225E06E6B58F",
+      "key": "b67bf483ef0ac84cba206600975b2c98d234b984f67c43f6b706644676c885b6",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A34195EF9068F0DD323EA0B07305EA47",
+      "key": "798730d98123b2c200b0932069660f41008115c46fbe48fd5a845557e3f7701a",
+      "cosmeticIds": [
+         "EID_DontSneeze"
+      ]
+   },
+   {
+      "guid": "A3618360BF2BE3C452DD4E212CED6D0F",
+      "key": "8670f7ff62ed7cfe07b28f189b6656e18e06d32d440ef42f62fb930a8ce29283",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A398C07C0A77D834038E7192FAB52B4B",
+      "key": "ffee2d694f136117b5e0e854b7671ebe852a50e87a69da36856bb8e4527eef20",
+      "cosmeticIds": [
+         "Backpack_FearlessFlightHero",
+         "Backpack_FearlessFlightMenace",
+         "LoadingScreen_FearlessFlight",
+         "Pickaxe_FearlessFlightMenaceUniversal"
+      ]
+   },
+   {
+      "guid": "A504A381A11922EACD522BAB09F60577",
+      "key": "172ae3fa64facd009f036b6f22ace6d6534cd9d98df31b6f66cfc08abcfd6438",
+      "cosmeticIds": [
+         "EID_Undead"
+      ]
+   },
+   {
+      "guid": "A5A71DA2F913ED0FD001BBCEC58F97FF",
+      "key": "8050b82c95c83538122dcf0677ab58b929ae2c73fee00b614ba785e760bddccd",
+      "cosmeticIds": [
+         "EID_GasStation_104FQ"
+      ]
+   },
+   {
+      "guid": "A6130F4077B928D41D298463C61C0F34",
+      "key": "a16dc69159486fcba2365d02ceaaf05597867e712e8e9d8edceded9f0db314eb",
+      "cosmeticIds": [
+         "Wrap_094_Watermelon"
+      ]
+   },
+   {
+      "guid": "A6855B699FE10FE50301AFE1A4FA74CB",
+      "key": "7ca5c56ca5ba7545872d20bc33828b020d5e9555c7fb0628b856e9befb6221c6",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A69EA08281B5018543EC525AC7716B70",
+      "key": "d56d2208a108b847c348e6897e5e20404a5e9c32a32d0180a2f3f72d673f153c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A6E44EB3DA45A5323BF1FEB33C6421F6",
+      "key": "97d350cd3547f8c3438d0f19da04afc439cd172bc408dc29eb524e1c50165af7",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A6E8A0C1D732A1D028B92BE981E0B8E5",
+      "key": "deef44daf033b84dd597cb0e1b88f35f6462880f86172ba438b78e6a454e7f72",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A724F84D683BDA0424F8573492BEE2F9",
+      "key": "3705c212a982f200c5f8635b855d6bbd56cd91e16d39f8f3047be0d43d9425f5",
+      "cosmeticIds": [
+         "Sparks_Bass_HeadphoneJack"
+      ]
+   },
+   {
+      "guid": "A758D2324A07ED9DE9E0818F6856693A",
+      "key": "669cc14784075e8a0a219e915ddf24a7b5813efb18f0f41f28f1386d17e41a4b",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A7D34E80FA70CDD2F367DBEF93B98467",
+      "key": "29512b6cc5ec42ac7b771ad9a7902b6b8395940d7ba5cdbd136499945362a4f5",
+      "cosmeticIds": [
+         "BID_283_StormSoldier",
+         "Glider_ID_151_StormSoldier",
+         "Pickaxe_ID_218_StormSoldier"
+      ]
+   },
+   {
+      "guid": "A7FAF0883F9147F93079F3A40413A83C",
+      "key": "fb035d7bd7b1e68df3bdd8ea80950686a73199e7188905b75b542e3b4d0d51b7",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "A871664A8BB4DC1C1CCF27F042ACA0A2",
+      "key": "92aa23a0c2659060d222818e5f832dca28c0a27984491aef875a5d098a5a776e",
+      "cosmeticIds": [
+         "Wheel_SassyA"
+      ]
+   },
+   {
+      "guid": "A92DE306E5174C82739D774151D7B661",
+      "key": "445f6c4e1ee5dada7eca909bfcba7759e31f044c6f9362d251b8a6d38c6c089a",
+      "cosmeticIds": [
+         "LSID_374_GuavaKey_IY0H9"
+      ]
+   },
+   {
+      "guid": "A93064DA8BDA456CADD2CD316BE64EE5",
+      "key": "9f38813d04dfb849782112baa4e6a8bd0a6a402ea7b0c419153c7e0c483adaae",
+      "cosmeticIds": [
+         "EID_Bunnyhop"
+      ]
+   },
+   {
+      "guid": "A9823E3BC8FF6814492A2DE0334F124B",
+      "key": "c32c850f658eb6c8076c60b844d904bcb14d81b65685199cbbc9501e0d140453",
+      "cosmeticIds": [
+         "EID_Concentrate_0W5GY"
+      ]
+   },
+   {
+      "guid": "A9AFB4A346420DB1399A2FB2065528F5",
+      "key": "663ce8f8268b3660b2829973428db050be0b4f7dc31222faa99584d91d0460c8",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "AAB934D179F489B8084EB057031AB845",
+      "key": "a091761060979163fb0750552bc8b8c89cef36d9305e8ce364966fed9ce71040",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "AB10C0F1C99E5A6E4E477300FBD5D170",
+      "key": "b4badbe7abd38e7dee89921184753e458ca09a2acbcc6825984748e03a9f2b83",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "AB2F922860753269B1C2335CE5C0DD5D",
+      "key": "fe08e444d01584cb169613e45fad4bcc090a14ca9d3f273d9cd1a0bbe6a11ddf",
+      "cosmeticIds": [
+         "EID_Melody"
+      ]
+   },
+   {
+      "guid": "AB8487812A4604F9FC59CA9BA2C6C2A6",
+      "key": "354dffd5ff8b4e863d437d8e021eda0e70659d1ed6963963fcf6d875589bb6ca",
+      "cosmeticIds": [
+         "EID_Lineage"
+      ]
+   },
+   {
+      "guid": "ABBCFB5A5EEF4E14C2FB2A379152E402",
+      "key": "651ae592b9aed25d6d1997b923250e55ada61092db8ee4029e88866836e61578",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "AC22C5B2B654FE15BDCC8B664D033140",
+      "key": "cc4d9d760a17ac9ed7d14124a6152dcacd027a84f3203a40679f1b7aa3a4c783",
+      "cosmeticIds": [
+         "CID_A_232_Athena_Commando_F_CritterStreak_YILHR"
+      ]
+   },
+   {
+      "guid": "AC424209DFAB55305097B2050E16E2E9",
+      "key": "79f5eef8ca25a0d6d238e1f3f17e22a6f0f632148c5a944268439535c74b3eb6",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "AC44D9C67B1FB24E70D94C827FC465AE",
+      "key": "56b1dca89f6130ca9989cc77912faa15f3577b15d1fd0035ff56ccf83c20a8cc",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "AC6F67B037F362174DD4DCEF7522D107",
+      "key": "b3890ff29442e3d5ac2ec73936587bb1ede5df1e7b4772ab95d9284cad8bf0f5",
+      "cosmeticIds": [
+         "BID_301_HeistSummer"
+      ]
+   },
+   {
+      "guid": "AC74E15ED1B7D4C09EE43D611C96282F",
+      "key": "004e668a8988f776f1e0fce8aed8a88e9a936fddbc93b71fd4fa82e983e3bf3e",
+      "cosmeticIds": [
+         "EID_Prance"
+      ]
+   },
+   {
+      "guid": "AC86B4636DC6A3B6D2DF6DA8B5632796",
+      "key": "547927633b287636a6842de8564ba52fbb0ca6c464c3d65c09c4a0baff5b6523",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "AE04BC41397F3D492390E60E59B39CAC",
+      "key": "c42ddeff805f3d0e7fc50a842a707e1209b3ace70b88e0aa8900ae641e95f407",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "AE9F7B3419C7FBD2414D72E2E1C8A7BA",
+      "key": "929228b6788ba7ad2d59f6c18ad0d4ae3c3a8262764b097e613dd002479ca510",
+      "cosmeticIds": [
+         "CID_547_Athena_Commando_F_Meteorwoman",
+         "EID_AntiVisitorProtest",
+         "EID_ProVisitorProtest"
+      ]
+   },
+   {
+      "guid": "AEC9FD29ACF48B274A1A573C9ECF4B06",
+      "key": "ece4fecce503ab54636092a9f204216d49d8cffa89d7d22dd97e0776e3f9cbf8",
+      "cosmeticIds": [
+         "Pickaxe_ID_249_Squishy1H"
+      ]
+   },
+   {
+      "guid": "AEE3BAAED938060FA62CF46437980785",
+      "key": "001d8525f186c8a1f7e4a267976a7ab7ff39b1960ee604a06d2fa2941036997e",
+      "cosmeticIds": [
+         "EID_HeavyRoarDance"
+      ]
+   },
+   {
+      "guid": "AF3080C00CB8CB301C167B00E9671CD4",
+      "key": "c0b9900e819e60137c3a0fc8303a06c6eb90372eccf914242ad6a349988e79b1",
+      "cosmeticIds": [
+         "BID_710_SmallFry_GDE1J",
+         "Pickaxe_ID_558_SmallFryMale_YBD34"
+      ]
+   },
+   {
+      "guid": "AFCCB7C08EC6957EEDDAAD676C3D3513",
+      "key": "32ea2f117a1bdb8d627bafd13fbe8899493e304c4b765f9bb33bf108736d8345",
+      "cosmeticIds": [
+         "EID_TwistDaytona"
+      ]
+   },
+   {
+      "guid": "B0030ECDA329A8B589D249F794EA90B3",
+      "key": "05f17415825027bd433140660a54f40e9a6c3b2fb54b29fc7c6bbaa8db538171",
+      "cosmeticIds": [
+         "CID_A_094_Athena_Commando_F_Cavern_33LMC"
+      ]
+   },
+   {
+      "guid": "B0894F58B3D7DEA37D3432AB32B78EB4",
+      "key": "80a0fc47ce3ba7dcf499b67f7ae0a5a1ccb567d1a0d5d6998e4fe00ea737e1ae",
+      "cosmeticIds": [
+         "BID_950_Solstice_APTB0"
+      ]
+   },
+   {
+      "guid": "B0ACC6254D42350D124727B035C9CE55",
+      "key": "64315511aef26aeeb585cd5b6b9c4d1ad61d67eca27fb5e013bf410562253c9d",
+      "cosmeticIds": [
+         "CID_299_Athena_Commando_M_SnowNinja"
+      ]
+   },
+   {
+      "guid": "B16BF216C9085E63B70056FF0459F87A",
+      "key": "c4a42a424930e955b04f4a64ede2b37a91bd1ccf64ce2d993f049b74b5ada702",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "B1B800E199A6D4649287C11AE89F67CA",
+      "key": "dee7455df7c8c3773b78ce61963179989400dfa15b5b63de17c1b1d53703d6f7",
+      "cosmeticIds": [
+         "BID_257_Swashbuckler",
+         "Pickaxe_ID_201_Swashbuckler"
+      ]
+   },
+   {
+      "guid": "B1EB196DD39D0736E7E08F99B07D8B9A",
+      "key": "d5f0e1058f2e862fbe97a4103cbd98b7166052fd38399a0c181ac7fb237cc8a3",
+      "cosmeticIds": [
+         "EID_JanuaryBop",
+         "EID_SandwichBop"
+      ]
+   },
+   {
+      "guid": "B229884F839295B4B9EDC380B045C64B",
+      "key": "49598fbd97a7cd0e528b5ee2f1d6941722a83860ed687e1866db05d6cd979311",
+      "cosmeticIds": [
+         "BID_745_BuffCatComic_AB1AX",
+         "LSID_287_BuffCatComic_JBE9O",
+         "MusicPack_084_BuffCatComic_5JC9Y",
+         "Pickaxe_ID_588_BuffCatComicMale_12ZAD"
+      ]
+   },
+   {
+      "guid": "B3A4B83DA3274522D4B9F117DCF9A0B3",
+      "key": "cb99fbbdfaf4bae72bfa9b19cdbd85de0e39a5652cbf78b78ff33a6e5efc67d0",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "B3BE1C036099F140800BB7D5FF1D9C49",
+      "key": "6cbb7dfb7e6dd8edba39382210cb940af1f5927fa51a34e385a104a22cf80ad1",
+      "cosmeticIds": [
+         "Pickaxe_ID_535_ConvoyTarantulaMale_GQ82N"
+      ]
+   },
+   {
+      "guid": "B3D2793477E5D467475BE403774360E5",
+      "key": "1cd8f98a71a4d7fda1f5fd2be3e4863cf63db7af5e3b04bac345c6c694d53933",
+      "cosmeticIds": [
+         "EID_FearlessFlight"
+      ]
+   },
+   {
+      "guid": "B4585A36D49CF15E1E236775B8C659C1",
+      "key": "09e774f944de4c16c38671ccf662d3939ab1973dd864ae9d127d54f8d4f13a4a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "B4BE2A5487426AFF06CB7089EA9B75BE",
+      "key": "c3b1dbb793ec43830383d123bce53c59db4bfc1ad6c59369f4d33652b1d28d18",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "B4D5B451ED92972585CC2F14FBD89BEA",
+      "key": "5b93af10b750b5c5fea1beb526bca250544c98a5a985a820db467ce2a8386ae7",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "B66A53100DFB8F33CD5D55E2F66FE10E",
+      "key": "c33ec302981a7499c14321e0242a938976100111fc356a5a213f334898882548",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "B66EED5CA4F4ED75170872E30B9B0E23",
+      "key": "ac74fcfeecdc659d0437153d7712a9afe71d01a8d9e4be54d20787b7a3686612",
+      "cosmeticIds": [
+         "EID_Fireworks_WKX2W",
+         "Pickaxe_ID_420_CandyAppleSour_JXBZA"
+      ]
+   },
+   {
+      "guid": "B76B4F80113A2C0EBD320FC79DE5F441",
+      "key": "2b2cacdcf945c939e0e065abc8a6e2375050d9e21a24aedd23f64c367e4b4581",
+      "cosmeticIds": [
+         "EID_Interstellar"
+      ]
+   },
+   {
+      "guid": "B77D921A94CDDAA841609065AE4C7BC0",
+      "key": "48b0cc2e3c56a4afa1d4fe16367aa58b1a56c2e8ee57c394670f8da2e7d5eec0",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "B7D9219AF6290146AAFF711E464C5849",
+      "key": "8b01afe3b6c9b65fd39bca0919d9ed6bd68303cea76342328c39895a3418750a",
+      "cosmeticIds": [
+         "EID_TrophyCelebration"
+      ]
+   },
+   {
+      "guid": "B7E28BEF6DBEF8710E68B66900B42430",
+      "key": "b07b6e4565c7f72ad69f08cb85621217eefe1565f26a186ef7a47d9d36e3952c",
+      "cosmeticIds": [
+         "EID_BankNotes"
+      ]
+   },
+   {
+      "guid": "B8C17AF9BC0DF3113AC6C498DF3325C2",
+      "key": "884971a330f852f2b4fad3edd293cb834801a129302f0072262138b9c28753b5",
+      "cosmeticIds": [
+         "Wrap_085_Beach"
+      ]
+   },
+   {
+      "guid": "B8F307A56B6EEFACD6250B2E60A24A4C",
+      "key": "6b261233aebb74accc22f9bc65463417e14d96f36c8381b644c2208b67cf7fc9",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "B9C9B09F29DF6BC9DA94C36184CECFFF",
+      "key": "d7f1343394d5f745232f73d1faca8ecda462311a45f01c9399f55ac9510bfc88",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "B9E5ABB4D4F783F13E7A32B971597F03",
+      "key": "1c659fcbc2c126ed76b391d97984d90ea3f6108ddd26a3d7ba9c5dd80cd87542",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "B9E8BA33F3FF6F9DB4CA35F51437B433",
+      "key": "ea02c6d5440770c78212b7d397a64d03bf02cc5d9ba01c73c5f17518faa73d21",
+      "cosmeticIds": [
+         "EID_Iconic"
+      ]
+   },
+   {
+      "guid": "BA02A6A5604CB94ED9B9D7A197670870",
+      "key": "3aebd45ddc3b81385a513a0a3c252dea564125f3a0298812f3e7f32fd7196795",
+      "cosmeticIds": [
+         "Character_HeavyRoar",
+         "EID_Incantation"
+      ]
+   },
+   {
+      "guid": "BA490514EFDA436A2679E381BD558AA3",
+      "key": "dca04ac413a2ff9d87d1f789fe28cac511e4fa5175cc80f4b88a637744fbfc17",
+      "cosmeticIds": [
+         "EID_Haste1_T98Z9",
+         "Season18_Haste_TrickShotStyle1_Schedule"
+      ]
+   },
+   {
+      "guid": "BA4D882E7B09657A5E05773F702103CF",
+      "key": "3e389e378945ded441363426596500caf654695d0eacf18f630aea353f194aeb",
+      "cosmeticIds": [
+         "Wrap_045_Angel"
+      ]
+   },
+   {
+      "guid": "BA6DF4F82C5CAB3CE1C51156BFCACE71",
+      "key": "4833a586794fd5210d193f92ad852a786233d13920a0cedd4237e67f17a06f5a",
+      "cosmeticIds": [
+         "BID_361_BlackMondayFemale_R0P2N",
+         "EID_BlackMondayFemale_6HO4L",
+         "EID_BlackMondayMale_E0VSB",
+         "Glider_ID_176_BlackMondayCape_4P79K",
+         "MusicPack_030_BlackMonday_X91ZH",
+         "Pickaxe_ID_276_BlackMondayFemale1H_1V4HE"
+      ]
+   },
+   {
+      "guid": "BAEF248980269F569C6E1FFF2B885DF6",
+      "key": "d9be8340621c69bd6bef3b30e63dcc47ce220e6b748355c1aaec49551ffc1b13",
+      "cosmeticIds": [
+         "BID_402_TourBus",
+         "EID_TourBus",
+         "Pickaxe_ID_302_TourBus1H"
+      ]
+   },
+   {
+      "guid": "BB09F8C7991800CA61A7144E3A6219FA",
+      "key": "a3e1efbb9ac2ca0433ebac48ca4d1200d71e59aa6d2872c496cdef65a316f687",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "BB26302A83A2B42228EF6A731E598360",
+      "key": "aba187f8e26eb631172f9c0ab899db2ca01a9fd57f017471224aa0e96812cd45",
+      "cosmeticIds": [
+         "Wrap_084_4thofJuly"
+      ]
+   },
+   {
+      "guid": "BB59BEF60B72A241855EEC0FD63154D9",
+      "key": "640408ea8ead923441ea687b5703ac7f4c7d0c6c8401b199f2a954c52d5f566e",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "BBF6A8617FF257E7E4E0A36D174F975F",
+      "key": "f7b0e14225e08c48c66d73f83bd476688328cf6e8c34faf8b92277907c69cedf",
+      "cosmeticIds": [
+         "Character_CattleJar",
+         "EID_CattleJar",
+         "Pickaxe_CattleJar",
+         "Wrap_CattleJar"
+      ]
+   },
+   {
+      "guid": "BC3890EAABBF03778EE82AD7DD4F9C12",
+      "key": "46fb447622a4c4b2439d72946942bddf7bf32cad38bde6336dda7cc8df309b16",
+      "cosmeticIds": [
+         "BID_A_034_ChiselMale",
+         "Glider_ID_376_ChiselMale",
+         "Wrap_496_Chisel"
+      ]
+   },
+   {
+      "guid": "BDB776E27E5002716EFCCF94F23D1B19",
+      "key": "52409f8c057848a0818d3be01c86c773c53fb80588eb7cac535493feccbae3ee",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "BDB9B53603F92D55B57E8DB38FCEB570",
+      "key": "80fae1b3960010587d3b3618d2d4b0f0c3d116bfda4b471d44ba78d6d8ec5376",
+      "cosmeticIds": [
+         "EID_Goodbye"
+      ]
+   },
+   {
+      "guid": "BE20AAF89FE897368E52AAA193DEEB53",
+      "key": "8c7459868f6fe082b3173939d510f49c0545099dbbbc8c1cb2d3e4750792ba97",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "BE2C3EF59AB81D812AF5B8153325998F",
+      "key": "5bb3682022d9b7d2f677b5d9e5d4fd82d23cd0cc8e8b393bb80f4bb7003f11dc",
+      "cosmeticIds": [
+         "BID_872_Giggle_LN5LR",
+         "Glider_ID_323_GiggleMale_XADT7",
+         "Pickaxe_ID_687_GiggleMale_YCQ4S"
+      ]
+   },
+   {
+      "guid": "BE4F0BD53F53B4B8E570EEBF8829D35A",
+      "key": "d9eda39ede6280c49ebdce1f32e9d015bbbf11f477351a3137050b52d1fdd437",
+      "cosmeticIds": [
+         "EID_Repetition"
+      ]
+   },
+   {
+      "guid": "BE6386E7E95BB83F727A5282D4E1FF37",
+      "key": "16c102fc9fd8dcf397ef06b4ffe4a89cb502a7ebbe307edd92d036e4f1182e7b",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "BE9040B1851D0A64B7F061CB66EA9203",
+      "key": "e4c35ab3d2416e3f742eaaba45c7f25041379598df5d98620f39ff14270b8926",
+      "cosmeticIds": [
+         "EID_FlipIt"
+      ]
+   },
+   {
+      "guid": "BF344823BEE88FA8760A410311A30150",
+      "key": "99c7c4ec218940b444e5d5994c234f0823e048157b08c2e5ea5be917e9f3ab3c",
+      "cosmeticIds": [
+         "BID_A_067_AstralFemale",
+         "EID_Astral",
+         "LSID_479_Astral",
+         "Pickaxe_ID_851_AstralFemale"
+      ]
+   },
+   {
+      "guid": "BF953D81273D8772F12F57646A49430E",
+      "key": "24fdaf410ba55f73863238253185bb3d3dca30231b89adebb479ee12cb845710",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "BFE1F518C16A9F061B140D829ADDB0ED",
+      "key": "6c790f6235ddef5bda728278222b0bfffcc4c952c587e0e2f0c52a57d2a4a455",
+      "cosmeticIds": [
+         "BID_806_Foray_WG30D",
+         "CID_A_138_Athena_Commando_F_Foray_YQPB0",
+         "CID_A_139_Athena_Commando_M_Foray_SD8AA"
+      ]
+   },
+   {
+      "guid": "C015FB76A9E7912825A5F9CA69671961",
+      "key": "e337c2d6e17c965e0291305cb62b559b08c7b1acc08b3d8b5cf1c83e3e1e7fdf",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "C0AD693BD109852AFC71C988E5C3589A",
+      "key": "a137cd7d320ba3326fc87ac4f7cccfa54830e26ecc4d2f676b6f5bd02b30a4d7",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "C11DB2552EF4F3974E331EC72026EFBA",
+      "key": "fd66b6526be2d5ea1fe2580dc774da0c48b9b897d0421a180ebf365775799b59",
+      "cosmeticIds": [
+         "EID_Medicinal"
+      ]
+   },
+   {
+      "guid": "C17D1F224DBE7ACE1D1D998F9EC974B4",
+      "key": "94a175c2660689d58fe89e22ad22ef5b5dd06c02301cf39e3bc6fb2ed3fcf2df",
+      "cosmeticIds": [
+         "CID_303_Athena_Commando_F_SnowFairy"
+      ]
+   },
+   {
+      "guid": "C182F32A4B301086F8EE1E49B34C502D",
+      "key": "83854ef1effc5e4d7e4b9e70a60fe09b29840188fa377f2a5e7bd649a62d111f",
+      "cosmeticIds": [
+         "EID_Shimmy"
+      ]
+   },
+   {
+      "guid": "C1C31115267D6802AD699472D2621F25",
+      "key": "cc0c9e945cba45cc86216ffdcfd22f8046e6456f69740cadbe00483dbd7f91d9",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "C1E73246C58C0BAC3FF50B346684D278",
+      "key": "956bcfb1fb1656c3550d2387ec9a5950b120a10f892ab58fb92a88c3de369a6a",
+      "cosmeticIds": [
+         "EID_Marvelous"
+      ]
+   },
+   {
+      "guid": "C2216794035D5FC95DCC07FA72E1EC86",
+      "key": "e024bd5b2841fada5b97fc386ddfbd7278d66537f43423bcce5d7fe9398841e3",
+      "cosmeticIds": [
+         "EID_HNYGoodRiddance"
+      ]
+   },
+   {
+      "guid": "C23FA9BDE9342B508B8AABBEEA6699A2",
+      "key": "de646d492bbd3d30650b736918041c15e9edebad0fb678b81db197f998f52880",
+      "cosmeticIds": [
+         "BID_867_CritterFrenzy_3VYKQ",
+         "Pickaxe_ID_676_CritterFrenzyMale_B21OE",
+         "Wrap_404_CritterFrenzy_SNXC0"
+      ]
+   },
+   {
+      "guid": "C348806ECD35F176A5C50306B0A07DB9",
+      "key": "c7cfa6feff829f9e51f82219aecaaa48ac5ae49a6443240678b55327c7afae9c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "C50EC9789A634E9BA829CD5C4653C248",
+      "key": "d69a8555c511ea9277ccda0182ee1b15f7db20036f01f3cee01b6abcf38ddc85",
+      "cosmeticIds": [
+         "Backpack_CashewRoll",
+         "Backpack_KettlePress",
+         "Pickaxe_YogaPatio"
+      ]
+   },
+   {
+      "guid": "C5188047D9661347FC4483CCB04ACD4C",
+      "key": "4e57ac6792e0a04a09aa425acfb376401e37ccd58825d3a9c7cacea6c6c60b8f",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "C5C1E0742C0BFE4264242F3774C13B41",
+      "key": "04ee5a6670d986f1ec5052ec243dafb58090ea26295fb2e1979eb99c3b0185a1",
+      "cosmeticIds": [
+         "EID_Martian_SK4J6"
+      ]
+   },
+   {
+      "guid": "C5E60B749B12EE642D011809C151C105",
+      "key": "ddb78ddd7971b5ca666936b53baebaf5498067b1c7b3c5053b35104803925afe",
+      "cosmeticIds": [
+         "EID_SunMelt"
+      ]
+   },
+   {
+      "guid": "C624A3D18A8A2494288EE915D11518B7",
+      "key": "feaf9b0e8f5a901c7624877a42f2d05b56283788c11049fe41dcc15e30773a94",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "C66F354B49A4389E7636C1BF53CE8D97",
+      "key": "062b0cccb20f77702e22fe37d6bca1ec31358751d87bf35d8410b4c242eaff34",
+      "cosmeticIds": [
+         "BID_204_TennisFemale"
+      ]
+   },
+   {
+      "guid": "C6F7AEC922E28FB25AFBC50442F57877",
+      "key": "a89359356cf14b1be5ae49580ec36465e93d383f24195ea523e1df9a6fa4d201",
+      "cosmeticIds": [
+         "EID_BluePhoto_JSG4D"
+      ]
+   },
+   {
+      "guid": "C73DB27E321E8B5D3747E2209CED62F2",
+      "key": "b0bfb6e86fb649a78f6043e06938be53032402bf517e6565dd02b77ec2df777d",
+      "cosmeticIds": [
+         "EID_TwiceBaked",
+         "Pickaxe_CraftGlue",
+         "Pickaxe_EarthLane",
+         "Pickaxe_TwiceBaked"
+      ]
+   },
+   {
+      "guid": "C7623A35411F3D5FBDE2688C7E4A69EB",
+      "key": "a808b8f6650ab01d9d6df6ed2560dfdf23b60df452b40f8477d5e00e30bc65ac",
+      "cosmeticIds": [
+         "BID_189_StreetGothMale",
+         "BID_190_StreetGothFemale",
+         "Glider_ID_109_StreetGoth"
+      ]
+   },
+   {
+      "guid": "C76299772B1BE272260BF3396F83FC1E",
+      "key": "ba204332dc1885dc64b5ba93ae1624cc4644ae5069e6006d90b33e4050e8b93e",
+      "cosmeticIds": [
+         "Emoji_S18_ClashV_I1DF9",
+         "Glider_ID_317_VertigoMale_E3F81",
+         "Pickaxe_ID_668_ClashVMale1H_5TA18",
+         "Trails_ID_102_HightowerVertigo_G63FW"
+      ]
+   },
+   {
+      "guid": "C76B70EC836344CCFB8762C4747B4263",
+      "key": "53e5012df616913e487ad51df43ae8b412ab93c933a618fa5ddd0536f96fde40",
+      "cosmeticIds": [
+         "EID_Dignified"
+      ]
+   },
+   {
+      "guid": "C779C5126616BE8EA5FF851D2FF1FF34",
+      "key": "b8af7bc8b6d9981beb5a194c9509987d55aada5e26472fc2126e47ff37331432",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "C811FB0357FAC2A923E8DE46507A2D92",
+      "key": "22333b0561ef86bfb861c9ddadb99b4e1f7af34d87fc25abb37eb8c81d4c83bc",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "C8EDBD039269967B5BE92CCDD8A9D62F",
+      "key": "f2047bc2e136d9d8de7070e450029f6c10adbf0c167958d9c523816a0f5dac8e",
+      "cosmeticIds": [
+         "Backpack_CoyoteTrailDark",
+         "EID_CoyoteTrail",
+         "Glider_CoyoteTrail",
+         "Pickaxe_CoyoteTrail",
+         "Pickaxe_CoyoteTrailDark",
+         "Spray_CoyoteTrail",
+         "Wrap_CoyoteTrail"
+      ]
+   },
+   {
+      "guid": "C97E930BC95DC795F4416A7B93E3B9CC",
+      "key": "2b144f6d7a83df2b702cb6d931b6669fe1be823c0e5258e0ffb1cf8e3f313f4a",
+      "cosmeticIds": [
+         "Pickaxe_OceanBreeze"
+      ]
+   },
+   {
+      "guid": "C97FBD76436AD77913E727A0AD147FEB",
+      "key": "3634126742e0f4b6848438c0dd3792d57521374e0a336c10bd1d23fd83e642ee",
+      "cosmeticIds": [
+         "BID_181_SnowNinjaMale"
+      ]
+   },
+   {
+      "guid": "CB2F74DD1C6D7FB4560BF4AA6B7460EE",
+      "key": "d4c5f207b6030190bea7fd8597eb5e7c4eacddc09d2acfb9b570c7120d492df8",
+      "cosmeticIds": [
+         "MusicPack_178_S24FNCSDrops"
+      ]
+   },
+   {
+      "guid": "CB34283BE466D2421549051C400A9E52",
+      "key": "ad39b2473c7ba12881591bf9da2b5b09b00594b232ed6e9d6680dc7f24cc9b2a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "CB3D84444FF0E551D18939AA7226B17F",
+      "key": "53818801de1f1985b2f6dc92c378956fddbee995f7ad0dc5b220425cc4f84d2a",
+      "cosmeticIds": [
+         "BID_194_Krampus",
+         "Glider_ID_108_Krampus"
+      ]
+   },
+   {
+      "guid": "CB64FB9BB49C7D49609F8594DE9AD1FE",
+      "key": "8774bab1b671304759fc9526575093b1b1e06035c1118107fbd507d8ac8ab74d",
+      "cosmeticIds": [
+         "EID_Bewilder"
+      ]
+   },
+   {
+      "guid": "CBAC886CCED55EEAEDC0D4BED9588035",
+      "key": "fb96cb91bf492482413eb571cef7e16f40a4294e084dff12251446d78533c9f2",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "CBFF239A1792F25920D863F223368B54",
+      "key": "2773777141f7334477bb2ce4134a952bf4a8bb10bf5fa544b3072859be9588bf",
+      "cosmeticIds": [
+         "BID_276_Pug",
+         "Pickaxe_ID_215_Pug",
+         "Wrap_071_Pug"
+      ]
+   },
+   {
+      "guid": "CCFB247DE6ED8DB4856E039A5AE681B8",
+      "key": "67c8b1a2a70212216a507d6a79cfb250d4133f5f83d71423630e850e95106bd7",
+      "cosmeticIds": [
+         "EID_RhymeLock_5B2Y3"
+      ]
+   },
+   {
+      "guid": "CD6B95C728B11810F8EE4C396D02EFCA",
+      "key": "16e968fc10206c9c263a3bb5c6eff4e579f12c36de9c8e1b0c46f6ad4c9fe61c",
+      "cosmeticIds": [
+         "EID_Psychic_7SO2Z"
+      ]
+   },
+   {
+      "guid": "CDCC968B6DEB5D05990F5D530A4B19D0",
+      "key": "80088b989c6be056c47ff2f5d2c8078ce2c4f03132ee461db64ec325c8233d13",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "CDEC0DDD7FBB9465CA1B5C0FE67C36AC",
+      "key": "b4158b3d4cc7063ce27944c015d3b94f90f9b1a096a84b36cf1cfbac14e3bbb4",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "CE60A61FBEAC33EBF231E79C6BBB3D19",
+      "key": "cbb5c2cc20a295bd50f9394bb53dac40202bcadd60219f4f3c8d9db5be708629",
+      "cosmeticIds": [
+         "Character_FolkEvening",
+         "Wrap_FolkEvening"
+      ]
+   },
+   {
+      "guid": "CE9D023C0D7DBF7634F2AEF6200BDB36",
+      "key": "2728539a3267a2c4262de18c417842b6497f6ae5fe99d7b93f5d4cb1613022ac",
+      "cosmeticIds": [
+         "Backpack_DarkAzalea",
+         "Pickaxe_DarkAzalea",
+         "Wrap_DarkAzeala"
+      ]
+   },
+   {
+      "guid": "D01F7B7A687A459D3F28B8A3BD96E31D",
+      "key": "b221c5091cde7c68c8252575837230e80b771dd0917fa65bb606723554173eaf",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "D02365ADD1205D3E408F2C1EDF520907",
+      "key": "e62fa5f7f9eb86523494fb1ed6bfea0aaab64f82f87eafcafdafa9ec3f4f1621",
+      "cosmeticIds": [
+         "EID_Camouflage"
+      ]
+   },
+   {
+      "guid": "D0707546203A02CE99300D9F13D18EF7",
+      "key": "7cd649ee61930dab88523b35dd30ca71bd1d5e8168efba00ad510653f9ee334f",
+      "cosmeticIds": [
+         "EID_Fantasy"
+      ]
+   },
+   {
+      "guid": "D14FDB2BB2FB7746797F25470913BFF1",
+      "key": "0900e023170d9c0a146e84278da7d9018bd5ed4a97f8d79f1935c57779bea057",
+      "cosmeticIds": [
+         "BID_907_Nucleus_J147F",
+         "Glider_ID_327_NucleusMale_55HFK",
+         "LSID_373_Nucleus_TZ5C1",
+         "Pickaxe_ID_708_NucleusMale_72W2J"
+      ]
+   },
+   {
+      "guid": "D1EBFA5EEFFAFC07E39EE2D9986CF8FB",
+      "key": "8dd336c71ea588e9b59a2392542eedc4d8fa1ef585effcc2ab8cf1318158c6e8",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "D2016D80822A26E49A7365FE575FC8B3",
+      "key": "0e984aee16eb6e7bd01821a184d7c2a5ef9b0cf979ab5c350ec683e0ebc980e7",
+      "cosmeticIds": [
+         "EID_Deceiver"
+      ]
+   },
+   {
+      "guid": "D24667CC40ED6564CE26A31E63E327BA",
+      "key": "3a78215b22c6fc8404c78e4fb6611c9aa007b9589652c4d20d0df5120461c993",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "D24B0606E503B97BFEB8EF12C6F1340B",
+      "key": "c0217a1b3bb1412c545fd23a785c0624bdf8814ed810f4caad938e2f7b0f2f7a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "D2FAE1D098B2B4695EB59FAAD504798D",
+      "key": "6540c8a83bc655ca4256e03787aeef76455b6702ee0b4675cd7df724bca2e711",
+      "cosmeticIds": [
+         "BID_924_LateralMale_Y2INS",
+         "BID_925_LateralFemale_7RK0Z",
+         "Pickaxe_ID_727_LateralFemale_D9XJG"
+      ]
+   },
+   {
+      "guid": "D345D95CF72A6C367ED8F9E0A52F1C76",
+      "key": "7e675bccd37c32fd5e6b1fc70eb0fe9e3b78a402d656bb625306c58264f43735",
+      "cosmeticIds": [
+         "EID_Goodbye_Upbeat"
+      ]
+   },
+   {
+      "guid": "D47524F6F863DCCBB2455472F0FEFE2C",
+      "key": "711a221d98a7d8b9efeb243866dd96a08a507356632db7e5d4e822776e327593",
+      "cosmeticIds": [
+         "CID_A_416_Athena_Commando_M_Armadillo",
+         "CID_A_417_Athena_Commando_F_Armadillo"
+      ]
+   },
+   {
+      "guid": "D47DF51158673BE6CD4D32E84C91DF7F",
+      "key": "f84cd02b8a23364d43ab171e41e02b00666140f432b9004a5f8815b8612a4b13",
+      "cosmeticIds": [
+         "CID_632_Athena_Commando_F_GalileoZeppelin_SJKPW",
+         "Glider_ID_189_GalileoZeppelinFemale_353IC"
+      ]
+   },
+   {
+      "guid": "D48BB37F98A9EDC6639CD34F0F277359",
+      "key": "0ee3bd3380b37742087f68d262c93da28a1218a34afebe175f47c0f5dea3f05f",
+      "cosmeticIds": [
+         "Backpack_FirstClass",
+         "Character_FirstClass",
+         "Character_FirstClassSecond",
+         "Character_FirstClassSecond_B",
+         "Character_FirstClassSecond_C",
+         "Character_FirstClassSecond_D",
+         "Character_FirstClassSecond_E",
+         "Character_FirstClass_B",
+         "Character_FirstClass_C",
+         "Character_FirstClass_D",
+         "Character_FirstClass_E",
+         "EID_FirstClass",
+         "Pickaxe_FirstClass",
+         "Spray_FirstClass_Raven"
+      ]
+   },
+   {
+      "guid": "D49757E2D55451A0D5B341906FE2ABE4",
+      "key": "3d63309e3822ff050357ecb1834d90b14df78c0e76f5fc554d11f2aa792fdb57",
+      "cosmeticIds": [
+         "BID_259_Ashton_SaltLake",
+         "EID_AshtonSaltLake",
+         "Glider_ID_142_AshtonSaltLake",
+         "Pickaxe_ID_203_AshtonSaltLake"
+      ]
+   },
+   {
+      "guid": "D50ABA0F48BD66E4044616BDC40F4AD6",
+      "key": "18dce68c0d32b4fac3e89fff1d26d5174ab2a5f95a6e927782e293757e194ad1",
+      "cosmeticIds": [
+         "BID_115_DieselpunkMale"
+      ]
+   },
+   {
+      "guid": "D517F2A448CCB9B47E5004894BC62ACF",
+      "key": "a8e750511f75b32b2a0d110b3a0cff61567b3e269ef21a9cae7616f747d7b6f5",
+      "cosmeticIds": [
+         "BID_863_Tomcat_5V2TZ",
+         "Glider_ID_318_Wombat_1MQMN",
+         "Pickaxe_ID_680_TomcatMale_LOSMX"
+      ]
+   },
+   {
+      "guid": "D71B95B305E6875284CDF3F28DBDC2AF",
+      "key": "90af3ca8f4cafd01f7321b179ee79047d96247f5c078587234491600538bbf33",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "D7727B4696A62373E9EBD9803F705B3C",
+      "key": "5c46d72330a93ae03cf23301b6df97b8cb7e35a3885a5bdfa56f61ee2fdd1653",
+      "cosmeticIds": [
+         "Wrap_036_EvilSuit"
+      ]
+   },
+   {
+      "guid": "D776CA2A40FD9EC1F8522E9E13E99031",
+      "key": "b9162e973436cdd186f548ac430db033d38e33ff49b12585c05b7977fde89278",
+      "cosmeticIds": [
+         "Glider_ID_121_BriteBomberDeluxe"
+      ]
+   },
+   {
+      "guid": "D7EDE7B4CE393235BF4EB8779C55D5AE",
+      "key": "b6f6097c4c4c9b03296d65d27bc6f17c6929975c1c26fe01fd106377ca96719e",
+      "cosmeticIds": [
+         "BID_928_OrbitTeal_R54N6",
+         "Glider_ID_336_OrbitTealMale_VCPM0",
+         "Pickaxe_ID_728_OrbitTealMale_3NIST"
+      ]
+   },
+   {
+      "guid": "D80CDC979BC760ECC941D3E40C7B6CD2",
+      "key": "cd31adc93617cc65325c8b48e903a8e2846bdc1ab9d38d7669d06b62de099b77",
+      "cosmeticIds": [
+         "Character_BestDressedFNCS"
+      ]
+   },
+   {
+      "guid": "D825771F72189E14464845D8BD1AB447",
+      "key": "818f84ab701462a03a1e1bfb3a663ab8f11ef4f27be88d60a00c57fd8ddb00b6",
+      "cosmeticIds": [
+         "EID_Darling"
+      ]
+   },
+   {
+      "guid": "D82BF0194AE18598B8B08491E2256E16",
+      "key": "dc434988002105581bae813d59b92358ae58a8bf2fcc9d2c14a85a75129c4239",
+      "cosmeticIds": [
+         "CID_255_Athena_Commando_F_HalloweenBunny"
+      ]
+   },
+   {
+      "guid": "D83FAFF508200C47DF03BDFF2F801FEC",
+      "key": "b3d3fb00e9280ae3e6ff9d3a87200acee45a221d31cd5f5864e378a03b3b1a86",
+      "cosmeticIds": [
+         "BID_665_Jupiter_XD7AK",
+         "EID_Jupiter_7JZ9R",
+         "Glider_ID_258_JupiterMale_LB0TE",
+         "Pickaxe_ID_510_JupiterMale_G035V"
+      ]
+   },
+   {
+      "guid": "D85DFC0115FC3C75A6AD9C5D15B0DBF4",
+      "key": "285a7992ea9d2487b1f924bde660b2e271139e9ce5698f141def17ec14a31b16",
+      "cosmeticIds": [
+         "Wrap_080_Blackout1"
+      ]
+   },
+   {
+      "guid": "D8FDE5644FE474C7C3D476AA18426FEB",
+      "key": "a2bcecfd6a7d5f1139be9c9bb5dd2d3b15fa86b33265985e159bac030d5cfba0",
+      "cosmeticIds": [
+         "BID_126_DarkBomber"
+      ]
+   },
+   {
+      "guid": "D938886074C83017118B4484AECE11AB",
+      "key": "c231c01e6d34560ea7db1e4b53dd5aa74f92157e595d70666b1d4bc97f008a9b",
+      "cosmeticIds": [
+         "BID_737_Alchemy_1WW0D",
+         "EID_Alchemy_BZWS8",
+         "Glider_ID_287_Alchemy_W87KL",
+         "LSID_294_Alchemy_09U3R",
+         "Pickaxe_ID_581_Alchemy_HKAS0",
+         "Wrap_348_Alchemy_FYA4I"
+      ]
+   },
+   {
+      "guid": "D979E822DB9DB03D1522C7B6C492BB2F",
+      "key": "b81d26427173d9ad7dce4da8b3c8888b2cf8b50b973ef76b7dc2ca6885e297c4",
+      "cosmeticIds": [
+         "Sparks_Guitar_BottlePhone"
+      ]
+   },
+   {
+      "guid": "DB982042FC23E63A912CF079BB11B4D7",
+      "key": "5f149d17c16f53a4cf98c8366452dcc4f5c5ca89b7b3921c0e9485cfcadc75f4",
+      "cosmeticIds": [
+         "EID_Devotion"
+      ]
+   },
+   {
+      "guid": "DC060EA83FE6F9729B19150E40C7987E",
+      "key": "cd6ddddd086dbe113eab7c7f3fbfc103d26fca8aee56678009d2ade913f1c8b6",
+      "cosmeticIds": [
+         "Glider_ID_357_JourneyFemale",
+         "LSID_421_SCRN_JourneyMentor",
+         "Pickaxe_ID_769_JourneyMentorFemale"
+      ]
+   },
+   {
+      "guid": "DC487286E8C1CD5FE18AC3FE76034EF2",
+      "key": "de1f48c0adaa40ff0f1d5b8ed5a648d42df826b2712819d724e15c4834a3f7d3",
+      "cosmeticIds": [
+         "CID_478_Athena_Commando_F_WorldCup",
+         "Wrap_102_WorldCup2019"
+      ]
+   },
+   {
+      "guid": "DC8B99FB6774F84C4C0AA8DF768B758F",
+      "key": "46df9eaf93f32dd902164ea8caefd3ec08cc8586fc253efcaeab575e4f5b2035",
+      "cosmeticIds": [
+         "EID_Aloha_C82XX"
+      ]
+   },
+   {
+      "guid": "DC912741D5C6F75E4B0FEE33D7E3ECB5",
+      "key": "d09ead5a1131d0dc70e3d568908cb2912b39b0be5a14f824d90267f5be5b022f",
+      "cosmeticIds": [
+         "EID_LetsBegin"
+      ]
+   },
+   {
+      "guid": "DC953387B24FC2DCBECCD2CCF61BB973",
+      "key": "193e2dcfbf3e3db90cb637079e59219b02c6ee5400afb130304588827e7d3d5d",
+      "cosmeticIds": [
+         "EID_RollerBlade",
+         "Pickaxe_RollerBlade"
+      ]
+   },
+   {
+      "guid": "DD07D332EE51C9C9585F5249FD62A45A",
+      "key": "f05bfb8c0f08499de23a534279a79e1a1f6b99157a42f2fbb1bb31e70613be77",
+      "cosmeticIds": [
+         "CID_A_223_Athena_Commando_M_Glitz_MJ5WQ"
+      ]
+   },
+   {
+      "guid": "DD660E9B181B4FB3D8A9D263E3FA4B36",
+      "key": "0145a9f3d5db185d94546696c45ffa885dbd3d3e3f6b14e5df36e41bfc3c3dfa",
+      "cosmeticIds": [
+         "Character_DriedSilk",
+         "Glider_DriedSilk",
+         "Glider_OliveStomp",
+         "Sparks_Bass_DriedSilk",
+         "Sparks_Guitar_OliveStomp",
+         "Wrap_DriedSilk",
+         "Wrap_OliveStomp"
+      ]
+   },
+   {
+      "guid": "DE4CBA7A27B818D6B299767036C671A9",
+      "key": "a3b6b178e6037635d9e0c4d6338228e1744d7d01b6587f6ac0fbc148993cbc93",
+      "cosmeticIds": [
+         "BID_A_064_ApexWild_RedMale",
+         "EID_ApexWild",
+         "Pickaxe_ID_841_ApexWildMale",
+         "Wrap_508_ApexWild"
+      ]
+   },
+   {
+      "guid": "DFE6C0504C061EEF0E77A43EE3B613E6",
+      "key": "ca6a4d01e37fd956ccec225b17256fdacb4af68054e21b56fff3f908c00c22ef",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E003ABE22717994943D06FA3F41D1CB1",
+      "key": "674328c89db80fcf680b9ac03892b4f63a39fd32d5df4cf67fe2300de27fe064",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E047757EE42F321629ACB70579AFFE3B",
+      "key": "79abb1b8d70274025b3261477c483bd890a2fad623fb76a3be1c92e29ccf018f",
+      "cosmeticIds": [
+         "EID_Stumble"
+      ]
+   },
+   {
+      "guid": "E04FBD38CB934DB1363EF57C85E48F9F",
+      "key": "13efe3ef384621d1ce0df09d1f6be1e2b8064584acb05a53fece9d96eb3d0ac7",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E0632A3499001FD204066071F9E44663",
+      "key": "c9efe31e35df67edabdaa86b8be8a2cb70411e8479f5a4357297b1a3d7615925",
+      "cosmeticIds": [
+         "EID_Disconnect"
+      ]
+   },
+   {
+      "guid": "E098A699B1A5E20B03B5CBBCDB85D4E3",
+      "key": "a0a631d40aa351ac786212a2ad24037b205240d9129842834bbabe53fe0ab335",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E0AEF4894E1283946745F7902F7E105A",
+      "key": "ecc5ca244b3dd379cd6d3d68173ca4c681db40d0e73819bac9f69d8fe9ad0430",
+      "cosmeticIds": [
+         "BID_954_Rover_0FV73",
+         "CID_A_342_Athena_Commando_M_Rover_WKA61",
+         "EID_Rover_98BFX",
+         "Pickaxe_ID_751_RoverFemale_44TG1",
+         "Pickaxe_ID_752_RoverMale_I98VZ"
+      ]
+   },
+   {
+      "guid": "E0FB7B394449CE6450EA90C93D710EB8",
+      "key": "36b5f0357ea52aebbf93242ebc4ef8fba528d3814e0e857866ac53a23fe34ba2",
+      "cosmeticIds": [
+         "BID_300_DriftSummer",
+         "Glider_ID_157_Drift",
+         "Pickaxe_ID_230_Drift1H",
+         "Wrap_088_DriftSummer"
+      ]
+   },
+   {
+      "guid": "E176769F750C1A6152A78B04761894E2",
+      "key": "c3f44d6351b55b89fac1915f6546aa6bb32f132c573d4e36651ca943e51c3556",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E1B1A5908EF6377D7FB29F776486A6A0",
+      "key": "a9a641dd0fba90a4ed94ee1a19606c9e34b10b05f7926afca0e17fd900d9daa7",
+      "cosmeticIds": [
+         "Backpack_Basil",
+         "EID_BasilStrong",
+         "Spray_BasilStrong_Pickaxe"
+      ]
+   },
+   {
+      "guid": "E242355FF51310B9E4D8C595E9933F91",
+      "key": "bcbb86008233dd9b732e1255d10aa46b756e85267b9c1fd4451302a1244aadb3",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E28AF2E3BB7EBBB69D962A15879E696E",
+      "key": "8491377e764fc11986f17230f9126f56c0a1f5d3870c3f3654086f31b8be9efb",
+      "cosmeticIds": [
+         "Character_DualParadox",
+         "Pickaxe_DualParadox",
+         "Pickaxe_DualParadoxGold"
+      ]
+   },
+   {
+      "guid": "E2A2B587160A4C443BF5455EDEC37D7E",
+      "key": "fa71f715ee14f1a91a432128cbe8376fa213eb9f7754f6353d98f03fe77fc9d9",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E36F7DC3B2ECE987FC956C3CF7E71F21",
+      "key": "f98d623c3451eda75e12379bba8e83cc18879202b473864ec209ab9d8631e37c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E3D0A604B93651DDC6779B14F21D0FDA",
+      "key": "f203d1de0670109c5f9190645e4d10025a6727bab9997cd57340cdde5ce92799",
+      "cosmeticIds": [
+         "BID_328_WildWest",
+         "BID_329_WildWestFemale",
+         "Pickaxe_ID_114_BadassCowboyCowSkull"
+      ]
+   },
+   {
+      "guid": "E4143E437DE7481237AFAB40C59D96E6",
+      "key": "6b7e4d0a9df34d8d80852b195b2d3d0496972435342cc25b8a23f5bb474e9744",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E45BD1CD4B6669367E57AFB5DC2B4478",
+      "key": "1177ebb5fb253044bf67633fc1608461e4285b323519345a1255e1687070f183",
+      "cosmeticIds": [
+         "CID_229_Athena_Commando_F_DarkBomber"
+      ]
+   },
+   {
+      "guid": "E46E6578D28965DB74B642E1CB239A5D",
+      "key": "0e0dceaa4727a3b42e2c319d8b837855648c48077c6c82f2253f068743d88e3f",
+      "cosmeticIds": [
+         "BID_758_Broccoli_TK4HH",
+         "Pickaxe_ID_597_BroccoliMale_GMZ6W"
+      ]
+   },
+   {
+      "guid": "E47EFA3166A5D7B35CEC27B19AC66AE5",
+      "key": "254452a801e11cae98a8b3f9aca8423be490da8aa5e0da896a869e346b6caccf",
+      "cosmeticIds": [
+         "BID_818_Buffet_XRF7H",
+         "CID_A_173_Athena_Commando_F_PartyTrooperBuffet_55Z8G",
+         "Glider_ID_304_BuffetFemale_AOF61",
+         "LSID_325_RiftTourMKTG1_18M49",
+         "Pickaxe_ID_644_BuffetFemale_TOH8A",
+         "Wrap_383_Buffet_KGN3R"
+      ]
+   },
+   {
+      "guid": "E4873B9E0B86905E8654D93E9279743E",
+      "key": "e3184d2a84aea64e662d762492d696616337348975b358927667d5230cbd31ed",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E48EFA857D8E6914B2505B05AADFB193",
+      "key": "e0051dcad79f3f358d4fc735d621ad538c5c18d584833a4c25bc538d4ab7352d",
+      "cosmeticIds": [
+         "EID_Backspin_R3NAI",
+         "Glider_ID_241_BackspinMale_97LM4",
+         "Pickaxe_ID_465_BackspinMale1H_R40E7"
+      ]
+   },
+   {
+      "guid": "E4C183B0EF31ADF061F175068046568E",
+      "key": "005f9f370b1e2e78c2b0f2b36c59180e4644e20c987c611a89fc898ddb0c8e9d",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E4D8D083C49828F6BF310ECA74A84F98",
+      "key": "3718ed6571dee3dc42d73515b3e5ca8c76de89cde9ae414e5a6c24690d6f385c",
+      "cosmeticIds": [
+         "BID_850_TextileRamFemale_2R9WR",
+         "BID_851_TextileKnightMale_MIPJ6",
+         "BID_852_TextileSparkleFemale_X8KOH",
+         "BID_853_TextilePupMale_LFOE4",
+         "EID_Textile_3O8QG",
+         "Glider_ID_316_TextileMale_3S90R",
+         "Pickaxe_ID_675_TextilePupMale_96JZF",
+         "Wrap_394_TextileSilver_ZUH63",
+         "Wrap_395_TextileBlack_DBVU2",
+         "Wrap_396_TextileGold_GC2TL"
+      ]
+   },
+   {
+      "guid": "E50209164841E1829F672AB1B33D069F",
+      "key": "d443139824c0e1c3b540ca0bbbe45600677c470e0541d00e34abc3c1f41e355f",
+      "cosmeticIds": [
+         "CID_333_Athena_Commando_M_Squishy",
+         "Glider_ID_118_Squishy"
+      ]
+   },
+   {
+      "guid": "E582349045884D5CD6A5518608336738",
+      "key": "12ec131ffe4fffa4147db0379f991cd30518cbeb08e7afa634362122a85e2f81",
+      "cosmeticIds": [
+         "BID_142_SamuraiUltra"
+      ]
+   },
+   {
+      "guid": "E59B013651F078E718F08ECF9E1559EE",
+      "key": "ad31b2f5ab799137d0b6ef04c15ad48a17f3b8df2f9053e5dd73721afa9b657e",
+      "cosmeticIds": [
+         "BID_250_TheBomb",
+         "Pickaxe_ID_194_TheBomb"
+      ]
+   },
+   {
+      "guid": "E5C19AD4D84758F8B943DA9A9D608712",
+      "key": "a98c73ee43878e07f94926b5f05e5b7082f59cb0f49fa303d6f504d7e4b03f4f",
+      "cosmeticIds": [
+         "EID_Bargain_Y5KHN"
+      ]
+   },
+   {
+      "guid": "E66DF3CF1BFE84F0B1966967210DD6D9",
+      "key": "0c62c3fe215b74bbda8999c07d6ac7216e7227949fb104328de5b620141efb3c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E6CB9B5FE721FB85529A6558D32987CA",
+      "key": "68a4a21efef7fbcd08d8d67c94501b57b091c9118ee0b37d27b6ba823879d5be",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E7C565B86445735863B8080B9BE651F7",
+      "key": "eccdcfffe8acd32f26b85effd0dd9d268f7a2773ff93df7555ab2dfe56fb5de7",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "E7D27A42770632B7A50BED813D9B1696",
+      "key": "6f1003364f5d98f35e284b92bc9978e2d7a27fab07becdfac81679e44f5f8704",
+      "cosmeticIds": [
+         "BID_977_SnowfallFemale_VRIU0",
+         "EID_Snowfall_H6LU9",
+         "Glider_ID_363_SnowfallFemale",
+         "LSID_420_SCRN_Snowfall",
+         "Pickaxe_ID_775_SnowfallFemale"
+      ]
+   },
+   {
+      "guid": "E8555D6A18160009C6FE750CDADD8BFF",
+      "key": "6c0da140bf12969849b4a6e63c110c47d943bbef045781c59c86fed9770d36c5",
+      "cosmeticIds": [
+         "Backpack_WeaveHarbor",
+         "EID_WeaveHarbor",
+         "MusicPack_212_WeaveHarbor",
+         "Pickaxe_WeaveHarbor",
+         "Wrap_WeaveHarbor"
+      ]
+   },
+   {
+      "guid": "E8585F83E40CD4CF0272EA6012055A97",
+      "key": "e0bad7b4b10184be49aae02ee3f92ad438216f8ff7e796113adddc89783ecac1",
+      "cosmeticIds": [
+         "BID_987_Rumble_Female",
+         "BID_988_Rumble",
+         "Glider_ID_365_RumbleFemale",
+         "LSID_429_Rumble",
+         "Pickaxe_ID_791_RumbleFemale",
+         "Pickaxe_ID_792_RumbleMale"
+      ]
+   },
+   {
+      "guid": "E9EB23F83112E35700E8BC975D74BADE",
+      "key": "cbcbdbb45db32dfbf4367bad956ee5b0dad7590369126b848986f7e00620510c",
+      "cosmeticIds": [
+         "EID_ArmyBunny"
+      ]
+   },
+   {
+      "guid": "EA894BE3D14E66D4D1D86D9AE2EE9514",
+      "key": "4e9974afc1f2e9cba4bf3719543a05331640e6c15939eb9c93824434e7e62c84",
+      "cosmeticIds": [
+         "EID_Vacant"
+      ]
+   },
+   {
+      "guid": "EB06D2E764EF6E03658811E0A1B7BBC9",
+      "key": "3694d5f8d9e6cbfe9015681cfa1ebdbad7202c515fc6f1fd9ca17d4e6de23278",
+      "cosmeticIds": [
+         "EID_Canine"
+      ]
+   },
+   {
+      "guid": "EB16EA013B751792698E05435797C1ED",
+      "key": "cbd2600fcd76228e266da2798b9df74ece5249fc97686338272a229a33fe8b83",
+      "cosmeticIds": [
+         "BID_245_BaseballKitbashFemale",
+         "BID_246_BaseballKitbashMale",
+         "Glider_ID_135_Baseball",
+         "Pickaxe_ID_183_BaseballBat2018"
+      ]
+   },
+   {
+      "guid": "EBA3BC7F0023BE91CE5EFB7E1BC001A8",
+      "key": "31d29b6b03487b8a82b86681e2aefee1ccbc91ec839c99f164b6bb1cb0b45b80",
+      "cosmeticIds": [
+         "EID_Feral"
+      ]
+   },
+   {
+      "guid": "EBB742679C34C9D4E056A5EAADF325B9",
+      "key": "a2eb2577444891ebbd2fd6930f0afd68d088b7ec0ec01ecac463d8f414df43bb",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "EBE32FA2FA482E04BAAA6F78C6A15AAB",
+      "key": "76451242bca9f41c09b06890b501089f9249df0432070c65b0ab4bc71f4628e4",
+      "cosmeticIds": [
+         "EID_Harmony"
+      ]
+   },
+   {
+      "guid": "EBFE6788D367D741AF0A4FD098CDFD39",
+      "key": "1407894c6c93e3d3fe7503a62b1fa5318540c6eeeab483e5a9268b011f39cea2",
+      "cosmeticIds": [
+         "BID_271_AssassinSuitMale",
+         "EID_AssassinSalute",
+         "EID_AssassinVest",
+         "Pickaxe_ID_213_AssassinSuitSledgehammer",
+         "Wrap_066_AssassinSuit02"
+      ]
+   },
+   {
+      "guid": "ECC8CCC7C241C9B739143FE703D69DDA",
+      "key": "02f348c9307a9089ade97ed8b46cf32010b798f21935770c9fc07d53607f771d",
+      "cosmeticIds": [
+         "EID_Hoist"
+      ]
+   },
+   {
+      "guid": "ECC9E1F04B18E523B2681C2037A17B56",
+      "key": "028795856ccae73169789db2a982a44da470e2fa3dd7adbf12e8a962f0be8f10",
+      "cosmeticIds": [
+         "CID_602_Athena_Commando_M_NanaSplit"
+      ]
+   },
+   {
+      "guid": "ECE91B4E506E33C16FA440F4B4313824",
+      "key": "746af85db84b0f7b1fdbc6374dac247b81abfd3a70100e713ce8e1822f9900a9",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "ED088B11311A599D6225CE85545F019A",
+      "key": "d4d31187824c5d12fd5d6f0a6face8e3f175d1dc0b242d7e90f9ba0fa0ee7421",
+      "cosmeticIds": [
+         "BID_832_Lavish_TV630",
+         "Pickaxe_ID_653_LavishMale1H_SWKJB"
+      ]
+   },
+   {
+      "guid": "ED61A5415E40BB0A188CDB1DA91F22D2",
+      "key": "c06b8525083595db61029ce8c3576ba68aba8b8d00cceb28383088e48ffa2520",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "EDF724493161095DB54E9613C243A355",
+      "key": "629eddb0e60eefbf06eee4593588466a0d9d893ef4be1bb68405af933bed1e38",
+      "cosmeticIds": [
+         "BID_A_002_IndigoMale",
+         "EID_Indigo",
+         "Pickaxe_ID_796_IndigoMale"
+      ]
+   },
+   {
+      "guid": "EE0C67580F774526D46A64757F5DE77E",
+      "key": "a91ab50cfa7c1a7b056525184753c929e2a6e585c08372b277963ea63b576725",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "EF7C5225BD60644B313ABEE69182A302",
+      "key": "2133493c9c94132330f18ac193cf477cac074c557a8c62491ede03f149a96b12",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "EFF73F810AF0A5536912C24E91399CBC",
+      "key": "be50476bf8cdd9679c8165f000444e006a706e86d07ccb41536e300fbfa033b9",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F00E08CB606091AEFAB37D9B0A01B833",
+      "key": "b849a800ae7175b77c29e7d57fda3bb898867064d8936afd41ebec19ee2f0482",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F0257C3CA050371B68517D5B0476A24D",
+      "key": "10f53a7142e3cfadef88c99d8ed470cba4da816a20cde567557e67b1afe578bc",
+      "cosmeticIds": [
+         "EID_Punctual"
+      ]
+   },
+   {
+      "guid": "F044853E82632E827ED91FB4AFBD28DF",
+      "key": "2c7d695d0d77284a187f1c729402e7f23692d2dffb22b5515663bc51789e6955",
+      "cosmeticIds": [
+         "BID_875_SunriseCastle_91J3L",
+         "BID_876_SunrisePalace_7JPK6",
+         "EID_Sunrise_RPZ6M",
+         "Glider_ID_324_SunriseCastleMale_2R4Q3",
+         "LSID_358_Sunrise_1Q2KG",
+         "Pickaxe_ID_693_SunriseCastle1H_5XE1U",
+         "Pickaxe_ID_694_SunrisePalace1H_SDI6M"
+      ]
+   },
+   {
+      "guid": "F07BE27DCEFDF52818EE7BA2CD9CA504",
+      "key": "95ce3b03f55a85a05624b418e15d58ca3cc93c8e71544ac89c36aa7703e3bf68",
+      "cosmeticIds": [
+         "BID_255_MoonlightAssassin",
+         "Pickaxe_ID_200_MoonlightAssassin"
+      ]
+   },
+   {
+      "guid": "F1149C7FD94E0FDD1D3F42659E99D52D",
+      "key": "98eec6a5f33c6413a34c8c008edbf00cbdacef28488b494af4808fe01d377a52",
+      "cosmeticIds": [
+         "EID_Metronome"
+      ]
+   },
+   {
+      "guid": "F1DBEE1A4C88D59EBB63579C7163E7B6",
+      "key": "edd49fd90c7818680cfeaf02bece7800dc10bfa65b3ea8d5ac4d458755743120",
+      "cosmeticIds": [
+         "EID_Hurtle"
+      ]
+   },
+   {
+      "guid": "F2A5D91602A7C130FA1FB30A050E98A2",
+      "key": "32b844876e1c5629248492545ff2c101a36d818576d15062479a1a3032769c0f",
+      "cosmeticIds": [
+         "BID_946_Galactic_S1CVQ",
+         "Glider_ID_346_GalacticFemale_LXRL3"
+      ]
+   },
+   {
+      "guid": "F2C401EFDB4A6B5DD0B80C4E58D4A4A5",
+      "key": "00f8abd237c6a363c0ba856d23ee6d49a84d6af9f19bb4c5691813971f2d1abc",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F2E3A44428F24B0E4F481938A8E3D8EE",
+      "key": "5606f9f1e23b9063e9f8472bf25844d9132829e08b146d2c58012e816576f790",
+      "cosmeticIds": [
+         "LSID_305_Downpour_CHB8O"
+      ]
+   },
+   {
+      "guid": "F32262244DE021E18BF22F9BF7594474",
+      "key": "d3c1c4add2af055e7c4ad0c88c1f70bed63aee97aeed92b706c32904c2af4ab3",
+      "cosmeticIds": [
+         "CID_280_Athena_Commando_M_Snowman"
+      ]
+   },
+   {
+      "guid": "F33B69585B65C333655C545A038BCEE5",
+      "key": "d3e814a005248816d8e6ea8ef6b21e8540e4bebaff3d8def058d7a00c1d0012c",
+      "cosmeticIds": [
+         "EID_Stallion",
+         "Glider_StallionSmoke",
+         "LoadingScreen_Stallion",
+         "Pickaxe_StallionAviator",
+         "Pickaxe_StallionSmoke"
+      ]
+   },
+   {
+      "guid": "F395571A36D2BD888861E61EEBD45AF8",
+      "key": "0ffdf918f4c838a6dd7e6a714499874e48cd5dc5aff97752993c50b7acf586f2",
+      "cosmeticIds": [
+         "BID_701_SkirmishMale_5LH4I",
+         "BID_702_SkirmishFemale_P9FE3",
+         "Glider_ID_277_Skirmish_9KK2W",
+         "LSID_274_Skirmish_PJ9TZ",
+         "Pickaxe_ID_553_SkirmishFemale_J2JXX",
+         "Pickaxe_ID_554_SkirmishMale_ML78Q"
+      ]
+   },
+   {
+      "guid": "F3A99CD0D4F58EECEEB0D112506AD846",
+      "key": "659b4244f70a93a8ad56bc836afa7bb991485e2645e425b43bd6fef19b7639a8",
+      "cosmeticIds": [
+         "BID_820_QuarrelFemale_7CW31",
+         "BID_821_QuarrelMale_IKIS8",
+         "Glider_ID_305_QuarrelMale_ZTHTQ",
+         "LSID_328_Quarrel_K4C12",
+         "Pickaxe_ID_645_QuarrelFemale_W3B7A",
+         "Pickaxe_ID_646_QuarrelMale_PTOBI"
+      ]
+   },
+   {
+      "guid": "F418C01DC7E0766DCA8D731E61DE5748",
+      "key": "6898410a5ed7720ba8053e222b07ba12e117ff77d9b3ef9bdf0165e50516a78d",
+      "cosmeticIds": [
+         "EID_Rotisserie"
+      ]
+   },
+   {
+      "guid": "F44BDB2A36AC4B617C7F6421713C656E",
+      "key": "4a0cc2aa2a2bd7ad7d3bbd70db24e853e87541a91bf4f5c75d821037fd942207",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F4729DF9DB149229267F9389E3C95851",
+      "key": "0c25c6394513586f2316e12bc8efb7da65ca26c42041ef85a7cdaeee61e26055",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F51F080981F8DC32B09FC3C62A977363",
+      "key": "36a5f68bc3f76b255efe6524f1a02acd4839b6f3040d6b75511bfac5ce1f5246",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F533FEDB46B06F324383349BDBC825D1",
+      "key": "67b6faefcd11efcc456d845b41e856fd56550dfb48d3646abca7bb5c86223817",
+      "cosmeticIds": [
+         "BID_184_SnowFairyFemale"
+      ]
+   },
+   {
+      "guid": "F60CFFFA32CF6A877B50DA7F0A88326E",
+      "key": "396228a5b0787f16a86e87cf23d945f619fa04f1bd3552e9e0e77ad6e429a5fa",
+      "cosmeticIds": [
+         "CID_392_Athena_Commando_F_BountyBunny",
+         "Pickaxe_ID_198_BountyBunny",
+         "Wrap_047_Bunny",
+         "Wrap_048_Bunny2"
+      ]
+   },
+   {
+      "guid": "F62A404ADA885AF5A67C30DE1F03BBD6",
+      "key": "cc09b80acc57a44eaf321b2a2b08f609c7be6ac366480bf420ea3fa565724a61",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F6838AF4144E8386A184FBB0823C15D0",
+      "key": "223cea9e71e367eafa582e077bf25ac0ec91ecbc5e31b9b9f3cd1c0c60ebd9e5",
+      "cosmeticIds": [
+         "BID_229_LuckyRiderMale",
+         "BID_232_Leprechaun",
+         "Pickaxe_ID_174_LuckyRider"
+      ]
+   },
+   {
+      "guid": "F6CD3CF3046D856E3934D86042C683A9",
+      "key": "b36a419370d25233c97a1ad3407e2210362211255b48cc085b5c6e39dd85649c",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F6E92DDBC70C8184E837D31905B2F2A7",
+      "key": "50248f6ad4fecafdd81f6c742acfb61925e1492bbedd9bd9b3a2da8b7a0e8b46",
+      "cosmeticIds": [
+         "BID_826_RuckusMini_4EP8L",
+         "EID_RuckusMini_HW9YF",
+         "Pickaxe_ID_659_RuckusMini_O051M",
+         "Wrap_387_RuckusMini_6I5DM"
+      ]
+   },
+   {
+      "guid": "F707FA321C9644351C5F87893C16580F",
+      "key": "6ce5b45b5025dcd65919b3eea6f2252e5ef05a0040da33ed1fa4993bf7e3772d",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F71D60AE5231E90CEA7F53D90DC4F007",
+      "key": "bdeafc074e884b4ba9eed358cb4df39210a5f82ad39777338265cf61838d70cf",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F73156B85666DAE88D9359504D1F7C85",
+      "key": "6cebef7bf7b0b16843a0ae92dd0229548ed0c147a5df556fe5a4b8b6f75455a6",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F7591219D2C7DE5F225F0DCF06F27FE9",
+      "key": "d0598bd058941d1e474c282a9c1ff9d842dbab9ac089a4493d1f36ed2c0eb105",
+      "cosmeticIds": [
+         "EID_Inspect"
+      ]
+   },
+   {
+      "guid": "F78569F2AD7950F870965BC647904647",
+      "key": "7b7f8d87393c4817e6656a104e116c6669f226cd80a09f8b40380ccf8e580141",
+      "cosmeticIds": [
+         "BID_653_Football20_1BS75",
+         "CID_937_Athena_Commando_M_Football20_UIC2Q",
+         "CID_938_Athena_Commando_M_Football20_B_I18W6",
+         "CID_939_Athena_Commando_M_Football20_C_9OP0F",
+         "CID_940_Athena_Commando_M_Football20_D_ZID7Q",
+         "CID_941_Athena_Commando_M_Football20_E_KNWUY",
+         "CID_942_Athena_Commando_F_Football20_YQUPK",
+         "CID_943_Athena_Commando_F_Football20_B_GR3WN",
+         "CID_944_Athena_Commando_F_Football20_C_FO6IY",
+         "CID_945_Athena_Commando_F_Football20_D_G1UYT",
+         "CID_946_Athena_Commando_F_Football20_E_EFKP3",
+         "CID_947_Athena_Commando_M_Football20Referee_IN7EY",
+         "CID_949_Athena_Commando_M_Football20Referee_C_SMMEY",
+         "CID_950_Athena_Commando_M_Football20Referee_D_MIHME",
+         "CID_951_Athena_Commando_M_Football20Referee_E_QBIBA",
+         "CID_952_Athena_Commando_F_Football20Referee_ZX4IC",
+         "CID_953_Athena_Commando_F_Football20Referee_B_5SV7Q",
+         "CID_955_Athena_Commando_F_Football20Referee_D_OFZIL",
+         "CID_956_Athena_Commando_F_Football20Referee_E_DQTP6",
+         "EID_Football20Flag_C3QEE",
+         "EID_FootballTD_U2HZI"
+      ]
+   },
+   {
+      "guid": "F7CAA8D040108722FFA35FAA63DFD63E",
+      "key": "58dc1859a90fa1efc11b123cfb1b01e38eb31efe11f40d64af3f122b6cbc3e67",
+      "cosmeticIds": [
+         "BID_164_SnowmanMale"
+      ]
+   },
+   {
+      "guid": "F8D604C6FA9156F47356B54E1E442A97",
+      "key": "11c98e284a8dbfff54fabc37a0b65bedefb3e2068a5a57d1229750c0e0ef38ac",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "F8E2B9191F948DBBEC6F6688BBA7DB41",
+      "key": "d11bf74adb070bd3af0ba50347e2fe08b833eb713ea8699efb3c3ab1e6dddae7",
+      "cosmeticIds": [
+         "EID_Swish"
+      ]
+   },
+   {
+      "guid": "F9AF8CDE150D2D1E65B64710D70C23A7",
+      "key": "dd2a474e84eed84fff41ef0386ee08de41b97cba847a63222fed8dc5154a74e7",
+      "cosmeticIds": [
+         "EID_DuckTeacher_9IPLU"
+      ]
+   },
+   {
+      "guid": "FA393ED7DFD20657B9C8659CB0295F64",
+      "key": "1b9c26b5584bd04f3ffa0a711cf2b71c6249e51bdfa16c9e62b2c9dc0c26f5fe",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "FAE51F5AC49A240384D5B57EA08B1F90",
+      "key": "a1eb137fd0151a05f8155c16ce09befa74043b4680472b94e6b65ad5fea1a05b",
+      "cosmeticIds": [
+         "Backpack_InstantGravel",
+         "Character_InstantGravel",
+         "Character_InstantGravelNoble",
+         "EID_InstantGravel",
+         "Glider_InstantGravel",
+         "Pickaxe_InstantGravelNoble",
+         "Wrap_InstantGravel"
+      ]
+   },
+   {
+      "guid": "FBAC0AD8C03AAB2DC3BC077597517179",
+      "key": "e688fc078479de994fc5189cb4c37a42443be350a26cc6e6cd1258203210e623",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "FC4E841A2B346A848784A3190B5D05B2",
+      "key": "6b8f991d73d469cc57389989c68265a78bf3cc40293ba7d6257bef5185b8df25",
+      "cosmeticIds": [
+         "Backpack_EmeraldGlassGreen",
+         "Backpack_EmeraldGlassPink",
+         "Backpack_EmeraldGlassRebel",
+         "Backpack_EmeraldGlassStandAlone",
+         "EID_Beyond",
+         "EID_Scribe",
+         "Pickaxe_EmeraldGlassGreen",
+         "Pickaxe_EmeraldGlassPink",
+         "Pickaxe_EmeraldGlassRebel",
+         "Pickaxe_EmeraldGlassTransform"
+      ]
+   },
+   {
+      "guid": "FC4FC301558D3E9321A55180263EB17B",
+      "key": "397ba3ba988d44d4faf9bd60d5d8362173ed750c9fa0d3d4bafb60a9f5e79446",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "FCD2F65146D53215F92F558CBA418191",
+      "key": "ddca7ffd2b38cdb810ead9e734b05c693cbd7eccf720ce9d7599a2412917e377",
+      "cosmeticIds": [
+         "CID_336_Athena_Commando_M_DragonMask"
+      ]
+   },
+   {
+      "guid": "FD0C3696948675DC3C2CBF5098D57D0D",
+      "key": "ac15b24e1fc05726718b6a2243133f39e0ff1d864e49d56274441e2a8a3057a5",
+      "cosmeticIds": [
+         "BID_744_CavernMale_CF6JE",
+         "LSID_296_Cavern_60EXF",
+         "Pickaxe_ID_589_CavernMale_9U0A8"
+      ]
+   },
+   {
+      "guid": "FE0FA56F4B280D2F0CB2AB899C645F3E",
+      "key": "8588b40eb01feb0b70ed98be3e5522effbc8948077a6c07311be698862c45bab",
+      "cosmeticIds": [
+         "CID_220_Athena_Commando_F_Clown"
+      ]
+   },
+   {
+      "guid": "FF5A507BCC4519B928075C3DF4603E8E",
+      "key": "115bf96fc5853986650d4191a9bf18512d566c86db4fc4e3828056110afae73b",
+      "cosmeticIds": [
+         "EID_IndigoApple"
+      ]
+   }
+]
