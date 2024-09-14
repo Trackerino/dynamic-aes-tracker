@@ -2105,7 +2105,10 @@
       "guid": "664AE10E66BFDC167AE20432295E8F7F",
       "key": "300e441e049cdfe588cd8946e6dd0c7dce2ca2c545e539d50c24ca706e4ac8bd",
       "cosmeticIds": [
-         "Character_SweetLetter"
+         "Backpack_SweetLetter",
+         "Character_SweetLetter",
+         "Pickaxe_SweetLetter",
+         "Wrap_SweetLetter"
       ]
    },
    {
