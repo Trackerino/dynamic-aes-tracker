@@ -458,6 +458,15 @@
       ]
    },
    {
+      "guid": "183F391FC33450CB879EE601584DBD34",
+      "key": "22dd7fe6e43719e5bd1ce31502728532c9e8603debe504a9aeefd14d47f67486",
+      "cosmeticIds": [
+         "Backpack_BikeMold",
+         "Pickaxe_BikeMold",
+         "Wrap_BikeMold"
+      ]
+   },
+   {
       "guid": "18657B021FD5011618877BD5D709EB51",
       "key": "ead2c49b505363cf86a369140a1b2334442464972c377d682f0dc0a2bc31a6d4",
       "cosmeticIds": [
