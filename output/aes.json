@@ -4650,6 +4650,13 @@
       ]
    },
    {
+      "guid": "E5DEC1C078C14E27A5FE8A9D0852A4C5",
+      "key": "2e28306e900e223e85866c76eab1fe6fd8fcf46d3f083aa4fb80222e217e34b3",
+      "cosmeticIds": [
+         "Character_FreeDrive"
+      ]
+   },
+   {
       "guid": "E66DF3CF1BFE84F0B1966967210DD6D9",
       "key": "0c62c3fe215b74bbda8999c07d6ac7216e7227949fb104328de5b620141efb3c",
       "cosmeticIds": []
