@@ -4942,6 +4942,13 @@
       ]
    },
    {
+      "guid": "F4242EAC57C7B6ED79960A59D7978A67",
+      "key": "6b21339f10480f565a018e5b4f06ae51738c0f22a1c84ac6fd0660767157fa2c",
+      "cosmeticIds": [
+         "EID_Farewell"
+      ]
+   },
+   {
       "guid": "F44BDB2A36AC4B617C7F6421713C656E",
       "key": "4a0cc2aa2a2bd7ad7d3bbd70db24e853e87541a91bf4f5c75d821037fd942207",
       "cosmeticIds": []
