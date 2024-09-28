@@ -4770,6 +4770,19 @@
       ]
    },
    {
+      "guid": "EC3A3B043274AFE81C98D457AA06DC81",
+      "key": "99cd0fa7ec8f310912c8f0e3504d78b36abf707ba1c9b3c147088cb498fb0d56",
+      "cosmeticIds": [
+         "Backpack_CitrusSpoon",
+         "Backpack_NutmegMayo",
+         "EID_CitrusSpoon",
+         "EID_SatinCheddar",
+         "Pickaxe_CitrusSpoon",
+         "Pickaxe_NutmegMayo",
+         "Pickaxe_SatinCheddar"
+      ]
+   },
+   {
       "guid": "ECC8CCC7C241C9B739143FE703D69DDA",
       "key": "02f348c9307a9089ade97ed8b46cf32010b798f21935770c9fc07d53607f771d",
       "cosmeticIds": [
