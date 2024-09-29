@@ -3945,6 +3945,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "C4110935D0C729ED5C9C6DEFC3B339D2",
+      "key": "d6261d6352546b65d2fd41ef8e9401f9eb6c5116880065f7e75b0aa292cd0ebe",
+      "cosmeticIds": [
+         "EID_Perish"
+      ]
+   },
+   {
       "guid": "C50EC9789A634E9BA829CD5C4653C248",
       "key": "d69a8555c511ea9277ccda0182ee1b15f7db20036f01f3cee01b6abcf38ddc85",
       "cosmeticIds": [
