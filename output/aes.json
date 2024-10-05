@@ -617,6 +617,11 @@
       ]
    },
    {
+      "guid": "1EC3010F39DA0C13B7232CB98575B7F9",
+      "key": "2ea98711e84a4d323622c68aa8b1e9230339613cbafee025adc7457c0f09bc5f",
+      "cosmeticIds": []
+   },
+   {
       "guid": "1EFA43A2FEDB492EA32BB6AF50E8B0CA",
       "key": "ba45be10200197cb2ff6a15476972476a5ba211b1900f9cf1164aee9bb1b098b",
       "cosmeticIds": [
@@ -4017,6 +4022,11 @@
       "cosmeticIds": [
          "BID_204_TennisFemale"
       ]
+   },
+   {
+      "guid": "C6870C1BBEDEBE42C5F6DAD9A0C7F02E",
+      "key": "0366dcae8523d92145cd476753944a422c1bc6bce23a47515b7eaf101cb159bc",
+      "cosmeticIds": []
    },
    {
       "guid": "C6F7AEC922E28FB25AFBC50442F57877",
