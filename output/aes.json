@@ -453,7 +453,13 @@
       "guid": "1759015C47EAE151CF9C269B847F125A",
       "key": "db20fb2f01be83b4bca4c9042e1c1c1d73bd67d976fb8529c18645abf7c74aec",
       "cosmeticIds": [
-         "Character_WarmShadeWagon"
+         "Backpack_WarmShadeWagon",
+         "Character_WarmShadeWagon",
+         "EID_WarmShade",
+         "EID_WarmShadeWagon",
+         "Pickaxe_WarmShadeWagon",
+         "Pickaxe_WarmShadeWeasel",
+         "Wrap_WarmShade"
       ]
    },
    {
@@ -962,6 +968,13 @@
          "BID_870_CritterManiac_8Y8KK",
          "Pickaxe_ID_683_CritterManiacMale_S4I63",
          "Wrap_409_CritterManiac_1B4II"
+      ]
+   },
+   {
+      "guid": "2E8C63FEDFFE6B835126B6FF7CB47062",
+      "key": "07fb92487742f08b1271c592dabb7c0a0d250631b7fa4f8d72eda9feab41f354",
+      "cosmeticIds": [
+         "Wheel_Melonpanb"
       ]
    },
    {
