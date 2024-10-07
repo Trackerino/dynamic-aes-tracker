@@ -4141,6 +4141,13 @@
       ]
    },
    {
+      "guid": "CB7BF49198C9D5695AC69EDCE2448EF6",
+      "key": "716c3e03d71cd35c377b00976c683c2fb1023e7524ea4cbffe35b4903bc4d41f",
+      "cosmeticIds": [
+         "Character_CraneAnchor"
+      ]
+   },
+   {
       "guid": "CBAC886CCED55EEAEDC0D4BED9588035",
       "key": "fb96cb91bf492482413eb571cef7e16f40a4294e084dff12251446d78533c9f2",
       "cosmeticIds": []
