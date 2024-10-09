@@ -4144,7 +4144,11 @@
       "guid": "CB7BF49198C9D5695AC69EDCE2448EF6",
       "key": "716c3e03d71cd35c377b00976c683c2fb1023e7524ea4cbffe35b4903bc4d41f",
       "cosmeticIds": [
-         "Character_CraneAnchor"
+         "Backpack_CraneAnchor",
+         "Character_CraneAnchor",
+         "EID_CraneAnchor",
+         "Pickaxe_CraneAnchor",
+         "Wrap_CraneAnchor"
       ]
    },
    {
