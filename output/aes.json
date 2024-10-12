@@ -3887,6 +3887,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "BE857852220784849F13E1F3B6448051",
+      "key": "49cfaf4fa18b80a5cf627a89743305fa225fdc60ccab84b3e31d65c5f0fd074e",
+      "cosmeticIds": [
+         "EID_Enchant"
+      ]
+   },
+   {
       "guid": "BE9040B1851D0A64B7F061CB66EA9203",
       "key": "e4c35ab3d2416e3f742eaaba45c7f25041379598df5d98620f39ff14270b8926",
       "cosmeticIds": [
