@@ -3026,6 +3026,15 @@
       "cosmeticIds": []
    },
    {
+      "guid": "92034B55AFBF9B8D79879A805EA50D70",
+      "key": "3ff49f4f721b58a412e50204d347034ffa91e6899a9b516508d11b98ae3862ea",
+      "cosmeticIds": [
+         "Backpack_ElbowChatUniversal",
+         "Pickaxe_ElbowChat",
+         "Wrap_ElbowChat"
+      ]
+   },
+   {
       "guid": "922A62BF1FB397B890EADCC9ED9E6F90",
       "key": "3af673a84ace52487915c884243f0923e96ee17e4d98ae53b73bc22ba17944ce",
       "cosmeticIds": []
