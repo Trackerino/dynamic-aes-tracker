@@ -183,7 +183,9 @@
       "guid": "083635DE237C87482DC022635E04BC7E",
       "key": "9ead4f4554d3ad4ede6a09ca03f20ee4662314f17a5ddda65c3605ed8ae7ba65",
       "cosmeticIds": [
-         "Character_ShrimpStroll"
+         "Character_ShrimpStroll",
+         "EID_ShrimpStroll",
+         "Sparks_Guitar_ShrimpStroll"
       ]
    },
    {
@@ -4271,7 +4273,8 @@
       "guid": "D12059472F9FC9E8C71C715BFAE3333B",
       "key": "a613f56c03653b53e97745da8acb99f80d08b8118a940380ce658c3c6b1cf06d",
       "cosmeticIds": [
-         "CarBody_Bullet"
+         "CarBody_Bullet",
+         "Wheel_RL167"
       ]
    },
    {
