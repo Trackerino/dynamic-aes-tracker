@@ -5226,6 +5226,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "FC29F85DE0913DA71729BF081D5BC360",
+      "key": "751854acbdf400d7a47e33184b70437eec54cbe8e890f1b263542dece61fa2a0",
+      "cosmeticIds": [
+         "EID_Caffeine"
+      ]
+   },
+   {
       "guid": "FC4E841A2B346A848784A3190B5D05B2",
       "key": "6b8f991d73d469cc57389989c68265a78bf3cc40293ba7d6257bef5185b8df25",
       "cosmeticIds": [
