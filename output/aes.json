@@ -680,6 +680,15 @@
       ]
    },
    {
+      "guid": "205E83E941E613D6DDF175294CD7B508",
+      "key": "5bf1dd7c0ad74b0bc6f9cfa94d7fb768da096b0bb894fb01f9c3d6a673019d90",
+      "cosmeticIds": [
+         "EID_FlowerVase",
+         "Pickaxe_FreshWave",
+         "Pickaxe_MistressSombre"
+      ]
+   },
+   {
       "guid": "210726DF9DCD78AD95B4D407D5D9157B",
       "key": "717cef4eb80d0419ac6bc8d1f04e2af4d1416acbffcdd41248f4269cace79091",
       "cosmeticIds": [
