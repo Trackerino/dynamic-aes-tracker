@@ -3983,6 +3983,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "C04C5C304930D43E84F58FF9AB79B9FD",
+      "key": "4517c4053365a4e9367cbe6601ac0edf5b2e29507e07a022501f2fc3194b5fae",
+      "cosmeticIds": [
+         "Character_MotorMonth"
+      ]
+   },
+   {
       "guid": "C0AD693BD109852AFC71C988E5C3589A",
       "key": "a137cd7d320ba3326fc87ac4f7cccfa54830e26ecc4d2f676b6f5bd02b30a4d7",
       "cosmeticIds": []
