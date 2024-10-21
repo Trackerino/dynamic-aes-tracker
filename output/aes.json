@@ -3986,7 +3986,11 @@
       "guid": "C04C5C304930D43E84F58FF9AB79B9FD",
       "key": "4517c4053365a4e9367cbe6601ac0edf5b2e29507e07a022501f2fc3194b5fae",
       "cosmeticIds": [
-         "Character_MotorMonth"
+         "Backpack_MotorMonth",
+         "Character_MotorMonth",
+         "Pickaxe_MotorMonth",
+         "Sparks_Keytar_MotorMonth",
+         "Wrap_MotorMonth"
       ]
    },
    {
