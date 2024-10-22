@@ -357,6 +357,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "11F0730066B941C7A4E9255EA2FE23F1",
+      "key": "ff7bcb753f87fb7d96d31ebcb26edc5690582b56a630f99c553be2572336e5d6",
+      "cosmeticIds": [
+         "EID_Memory"
+      ]
+   },
+   {
       "guid": "1234642F4676A00CE54CA7B32D78AF0C",
       "key": "35df2f858a76f7a0be0b44ea4881b1bb49c160e146439c4134ae4c1631d2f080",
       "cosmeticIds": [
