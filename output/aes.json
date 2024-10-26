@@ -1405,7 +1405,10 @@
       "guid": "40F971FB92CABB4A1A3E8D087963C88D",
       "key": "6258321a2c9f0f9135c826da6c72402f30dc2c9cf4ff838dcd371752a0c1fbb6",
       "cosmeticIds": [
-         "JazzShoes"
+         "Backpack_JazzShoes",
+         "EID_JazzShoes",
+         "JazzShoes",
+         "Wrap_JazzShoes"
       ]
    },
    {
