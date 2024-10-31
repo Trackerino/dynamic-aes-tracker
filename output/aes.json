@@ -1604,6 +1604,13 @@
       ]
    },
    {
+      "guid": "4A0188CF04863E6BDB96AA76EC733554",
+      "key": "af9c249696f5eda8816f7e5bcc36b3ebe58561f2d0a67f498d8a7ce4235671ee",
+      "cosmeticIds": [
+         "Wrap_CanvasPrint"
+      ]
+   },
+   {
       "guid": "4A8216304A1A18CB9583BC8CFF99EE26",
       "key": "405de71c216dd6f8442e8538ab554a4e6a719e4db4736880881101ce56f34006",
       "cosmeticIds": [
