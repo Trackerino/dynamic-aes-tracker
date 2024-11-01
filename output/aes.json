@@ -269,6 +269,13 @@
       ]
    },
    {
+      "guid": "0B41D34A225C92221083EE4627031631",
+      "key": "26db2efd838246ba81e1dbcb78a1336f53bc643d317d951ba7c584848ad53cdd",
+      "cosmeticIds": [
+         "GameFeaturePlugin_Kiln"
+      ]
+   },
+   {
       "guid": "0C2DFF3432352A23684E05B0794DFFC7",
       "key": "146e7972681d067b33b2be694b46810b8e0d565ecec88f80b8e5f100bc9a34a0",
       "cosmeticIds": []
