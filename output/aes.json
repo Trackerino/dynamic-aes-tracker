@@ -867,6 +867,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "28415C253906F793828C5BFDE29021EE",
+      "key": "5779105d7847476415922f243a631c42d6d1794e48fda4b6e1b67a8fa87e3681",
+      "cosmeticIds": [
+         "EID_Enrapture"
+      ]
+   },
+   {
       "guid": "286270CA017B478C6FF6B5B815428F93",
       "key": "3946cd5b4d0e9902c277d88b035deca0c538c18b5dd114dcfa5124a0f76f1785",
       "cosmeticIds": []
