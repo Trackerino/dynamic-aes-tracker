@@ -1827,7 +1827,11 @@
    {
       "guid": "55E06C93E20E98E33AEDD3921554723E",
       "key": "35807412de2ba68098d19f79bc91fa097d55f0fe291217aa0333c34158770011",
-      "cosmeticIds": []
+      "cosmeticIds": [
+         "Backpack_ClayPlug",
+         "EID_ClayPlug_Graffiti",
+         "Pickaxe_ClayPlug"
+      ]
    },
    {
       "guid": "566C4D92AF66F45DF5E2D7EB43CC27AE",
