@@ -1736,6 +1736,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "505B0CFC5F0C2722538390A1B86CD96B",
+      "key": "f9ed304b8ba91d65a0136a6dac0ff40b96b5eec3c02ef5be987b614554d93f76",
+      "cosmeticIds": [
+         "EID_Thrash"
+      ]
+   },
+   {
       "guid": "5098C0AED639B6C90A785C727F0DED4B",
       "key": "fd836aed654d8009ad718f1e4b6d1706fa33d3413567fd7f434059f0496e1dff",
       "cosmeticIds": []
@@ -1829,6 +1836,7 @@
       "key": "35807412de2ba68098d19f79bc91fa097d55f0fe291217aa0333c34158770011",
       "cosmeticIds": [
          "Backpack_ClayPlug",
+         "Character_HeavyRoar",
          "EID_ClayPlug_Graffiti",
          "Pickaxe_ClayPlug"
       ]
