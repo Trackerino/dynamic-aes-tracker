@@ -1836,6 +1836,8 @@
       "key": "35807412de2ba68098d19f79bc91fa097d55f0fe291217aa0333c34158770011",
       "cosmeticIds": [
          "Backpack_ClayPlug",
+         "Character_BraveBuild",
+         "Character_BraveBuildSuper",
          "Character_HeavyRoar",
          "EID_ClayPlug_Graffiti",
          "Pickaxe_ClayPlug"
