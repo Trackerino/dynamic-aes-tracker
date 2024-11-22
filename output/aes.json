@@ -2289,6 +2289,17 @@
       ]
    },
    {
+      "guid": "67E6E3BB6F124A14AA5C077219A41814",
+      "key": "7a0e92c24859ca8fff530c17d619b4be0e000b437ef9f0c650539d02966e93e2",
+      "cosmeticIds": [
+         "EID_Cobbler",
+         "Shoes_BreathTaleCalla",
+         "Shoes_BreathTalePetunia",
+         "Shoes_BreathTaleYarrow",
+         "Shoes_CleverBite"
+      ]
+   },
+   {
       "guid": "681CB2E1E19D79D2FF4B67F5B42777F8",
       "key": "238d303715569f470454ad0994bf86fa0f5875cb07359bc3427b02b52c99cf37",
       "cosmeticIds": [
