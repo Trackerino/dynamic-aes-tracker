@@ -281,6 +281,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "0C8FB41BED80602548CCB764A876CE40",
+      "key": "d39ce0c50e90e26f8b50bbee2b046568f8926bbc1904dd9fcbab06fabc51dcd8",
+      "cosmeticIds": [
+         "Shoes_StrandModePear"
+      ]
+   },
+   {
       "guid": "0CAB99F6E84D4E4C616B895E243F3B67",
       "key": "0d6537d482a39cbb04b7cb010437d64370cf6d9ce92762667dbc58750f103d92",
       "cosmeticIds": []
