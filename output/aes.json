@@ -284,7 +284,11 @@
       "guid": "0C8FB41BED80602548CCB764A876CE40",
       "key": "d39ce0c50e90e26f8b50bbee2b046568f8926bbc1904dd9fcbab06fabc51dcd8",
       "cosmeticIds": [
-         "Shoes_StrandModePear"
+         "Shoes_StrandModeGuava",
+         "Shoes_StrandModeMango",
+         "Shoes_StrandModeMelon",
+         "Shoes_StrandModePear",
+         "Shoes_ToeBean"
       ]
    },
    {
