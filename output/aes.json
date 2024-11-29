@@ -1870,6 +1870,7 @@
          "Character_BraveBuild",
          "Character_BraveBuildSuper",
          "Character_HeavyRoar",
+         "EID_ClayPlug",
          "EID_ClayPlug_Graffiti",
          "Pickaxe_ClayPlug"
       ]
@@ -3455,6 +3456,9 @@
          "Shoes_BreathTaleFreesia",
          "Shoes_BreathTaleLinea",
          "Shoes_BreathTaleMargot",
+         "Shoes_StrandModeAcai",
+         "Shoes_StrandModeFigs",
+         "Shoes_StrandModeLychee",
          "Shoes_StrandModePeach"
       ]
    },
