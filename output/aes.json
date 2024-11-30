@@ -5048,6 +5048,13 @@
       ]
    },
    {
+      "guid": "E9E8A12CD60F5B7E5FCE97F43565BD4E",
+      "key": "7024e6c02fcc9902b38c37c4ee5cd9ad34401861eaa9601b6791d0eca1a10b0f",
+      "cosmeticIds": [
+         "GameFeaturePlugin_QuailPlaylist_v3"
+      ]
+   },
+   {
       "guid": "E9EB23F83112E35700E8BC975D74BADE",
       "key": "cbcbdbb45db32dfbf4367bad956ee5b0dad7590369126b848986f7e00620510c",
       "cosmeticIds": [
