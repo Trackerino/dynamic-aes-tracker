@@ -1005,6 +1005,16 @@
       ]
    },
    {
+      "guid": "2D7CC66E132AF5D216B481F2D0B56EB7",
+      "key": "d4e0770e6d14412ba6138aab370e65a535a0c756e312a385137facdd7a3856ee",
+      "cosmeticIds": [
+         "Shoes_FunnyBunny",
+         "Shoes_LungeStreamClef",
+         "Shoes_LungeStreamForte",
+         "Shoes_LungeStreamTenor"
+      ]
+   },
+   {
       "guid": "2DCD2E2A9A816AA9035999F8E6F85F6E",
       "key": "eb1338658b74500ca5cae22016b98e82ae1f6151f60a113340d725f0a190174a",
       "cosmeticIds": [
@@ -2451,6 +2461,13 @@
       "key": "d8c0f1871781c71fdd37e43f970086fa9a31ce94ad1102c33342fcd02a1a106f",
       "cosmeticIds": [
          "Pickaxe_ID_152_DragonMask"
+      ]
+   },
+   {
+      "guid": "6F6C4D2FDC4CE08C906A1D23BE9271F3",
+      "key": "58db401a134bec96b9b8244cb9240eef84d5eef33091b48c49e5f213f0a63b2c",
+      "cosmeticIds": [
+         "EID_Takeout"
       ]
    },
    {
