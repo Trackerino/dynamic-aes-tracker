@@ -2270,6 +2270,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "647BB55310F2041CF6D0EAB8DE19C90A",
+      "key": "76da28071ca96d8a72774302c564209c3a16f114839c07dd61135093975a0a4f",
+      "cosmeticIds": [
+         "EID_SuperNova"
+      ]
+   },
+   {
       "guid": "64F68FB4F73B65DF1A6CABB6871A3839",
       "key": "98a240d5a5d38dfee9ff4104232d20f994b57511c5f49bbd4b0890a8caad8147",
       "cosmeticIds": []
