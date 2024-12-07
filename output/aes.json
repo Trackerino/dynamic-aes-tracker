@@ -1214,7 +1214,13 @@
       "guid": "35182C05BA21A7373CD33B20303E6944",
       "key": "a0e00a8d2fe6ac653a0e4fdcf9788872cfb182fab223cce6b7ea674795663e65",
       "cosmeticIds": [
-         "Character_PuffinSmile"
+         "Backpack_IntenseCello",
+         "Backpack_PuffinSmile",
+         "Backpack_ShakeCrunch",
+         "Character_PuffinSmile",
+         "EID_Guitar_ShakeCrunch",
+         "Pickaxe_IntenseCello",
+         "Pickaxe_PuffinSmile"
       ]
    },
    {
