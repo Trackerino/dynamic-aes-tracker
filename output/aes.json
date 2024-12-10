@@ -5377,6 +5377,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "F4F783537F2D2C107AE36A4A35E9CFFC",
+      "key": "de43349965384a4009a00d3c0c01627eb4e7143c11bb5ade44ad967331f7ac36",
+      "cosmeticIds": [
+         "ID_DriftTrail_Daikon"
+      ]
+   },
+   {
       "guid": "F51F080981F8DC32B09FC3C62A977363",
       "key": "36a5f68bc3f76b255efe6524f1a02acd4839b6f3040d6b75511bfac5ce1f5246",
       "cosmeticIds": []
