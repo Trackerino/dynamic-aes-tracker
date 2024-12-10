@@ -150,7 +150,9 @@
       "guid": "06381A8251E28744D95CD28E6C038AFB",
       "key": "f1b0c1127843d9e67d87c8fc13f75f2746521fc0d50740e6fab65d54c622be51",
       "cosmeticIds": [
-         "Character_SnailAisle"
+         "Backpack_SnailAisle",
+         "Character_SnailAisle",
+         "Pickaxe_SnailAisle"
       ]
    },
    {
