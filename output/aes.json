@@ -1842,6 +1842,15 @@
       "cosmeticIds": []
    },
    {
+      "guid": "540DEA2C5E3510D32704C41A4B323118",
+      "key": "1963dcbbe5513edbb55823a244224747969d4b3229ff89dd5d3ed32d9f2e0dbe",
+      "cosmeticIds": [
+         "Shoes_LungeStreamAlto",
+         "Shoes_LungeStreamMezzo",
+         "Shoes_LungeStreamPitch"
+      ]
+   },
+   {
       "guid": "545B9777127F4BE242F802C627356B7E",
       "key": "44d23f2af2c45dc1a81a7937fc029a61bc8999732d425f599af97c12b78f0788",
       "cosmeticIds": [
