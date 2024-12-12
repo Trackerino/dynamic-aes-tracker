@@ -2550,6 +2550,14 @@
       "cosmeticIds": []
    },
    {
+      "guid": "71D436C87063424964A94E713024B9E6",
+      "key": "89d7a5cabedbd9d9c126b928d76bb51fb7d40adfc4d4f0f44e9dd43e83bf8b41",
+      "cosmeticIds": [
+         "ID_Booster_Hero",
+         "Wheel_161Hero"
+      ]
+   },
+   {
       "guid": "71EC943F69634C4E436D461E06D88193",
       "key": "696dfc0006e6ebf3d7ebabeb49768c4ce39bd27c9da041214698416c364e6e62",
       "cosmeticIds": []
