@@ -596,6 +596,14 @@
       "cosmeticIds": []
    },
    {
+      "guid": "1AAE4EC52903C3E43A4EFF4C124A23B3",
+      "key": "b098b56f5063fa737281548a7f0dbb092fc741043a2419c859887b55724ae823",
+      "cosmeticIds": [
+         "Backpack_TofuResort",
+         "Pickaxe_TofuResort"
+      ]
+   },
+   {
       "guid": "1AFD764881D1E33FDAA65707010712AD",
       "key": "71b2b2637bb1eb0add896cf675726ad7c289680626520059d9a66c7f3d541373",
       "cosmeticIds": []
@@ -1613,6 +1621,13 @@
       ]
    },
    {
+      "guid": "4744CB522E987917912D3EBE55FCCDD5",
+      "key": "0451a41c3b00c333a505222d5f2af23958658540ac20b912c571c5cace49c12c",
+      "cosmeticIds": [
+         "Sparks_Keytar_DerbySwarm"
+      ]
+   },
+   {
       "guid": "4755D9C0E2D1DE1C09B77DEA8B830471",
       "key": "f6d50ee72561be9fbfb29ee27196840f0d399cc01d4ba6d80166327d036cc417",
       "cosmeticIds": [
@@ -1814,6 +1829,13 @@
       "guid": "5098C0AED639B6C90A785C727F0DED4B",
       "key": "fd836aed654d8009ad718f1e4b6d1706fa33d3413567fd7f434059f0496e1dff",
       "cosmeticIds": []
+   },
+   {
+      "guid": "50B2925BE94FDDD614E135A07311E0CD",
+      "key": "b03ce4663994ba08ab3aed6255d04915ca1daf74000a15dfa23d605d1d984143",
+      "cosmeticIds": [
+         "Sparks_Bass_SourWire"
+      ]
    },
    {
       "guid": "510BE1093533EDED92752C0B90A80895",
@@ -2103,6 +2125,14 @@
       "guid": "5AEDD4DB5DA39071FCFC2404EEB3D02D",
       "key": "a9aa1ee4342b7f5f873c44115b9ce5b382927bb0c76ebc573bc39932c15ea3c6",
       "cosmeticIds": []
+   },
+   {
+      "guid": "5AF3DCF487A866620466420D51E86C1B",
+      "key": "78a938014b48c44006c542d614a2e75646f81e3e69c3818ad1433fc4b5517f1e",
+      "cosmeticIds": [
+         "Sparks_Drum_TuckBeetle",
+         "Sparks_Drum_TuckBeetle,50B2925BE94FDDD614E135A07311E0CD"
+      ]
    },
    {
       "guid": "5B26536B2ACB973C651C0D1A285C0E37",
