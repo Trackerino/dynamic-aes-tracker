@@ -2209,6 +2209,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "5E30C7403A702908F7E67AFC6C9C5BF4",
+      "key": "89dc9c2a803245be6e53c64cb278b5939e2043443cf711a5e31be9d60ca4dd90",
+      "cosmeticIds": [
+         "EID_FeatherMud"
+      ]
+   },
+   {
       "guid": "5F55EB861A32231A4F36A5918A31256E",
       "key": "98f4ebfa01174eac21237e8337ea89213629051d83dda5aaae7d65c273c383ac",
       "cosmeticIds": []
