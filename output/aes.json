@@ -2212,7 +2212,11 @@
       "guid": "5E30C7403A702908F7E67AFC6C9C5BF4",
       "key": "89dc9c2a803245be6e53c64cb278b5939e2043443cf711a5e31be9d60ca4dd90",
       "cosmeticIds": [
-         "EID_FeatherMud"
+         "Backpack_FeatherMudGlance",
+         "Backpack_FeatherMudLounge",
+         "EID_FeatherMud",
+         "Pickaxe_FeatherMudGlance",
+         "Pickaxe_FeatherMudLounge"
       ]
    },
    {
@@ -5659,6 +5663,13 @@
       "key": "115bf96fc5853986650d4191a9bf18512d566c86db4fc4e3828056110afae73b",
       "cosmeticIds": [
          "EID_IndigoApple"
+      ]
+   },
+   {
+      "guid": "FFA545CC9145A22C3945CD5850E69A8F",
+      "key": "3e1a7136f86a556705da04ecb2e5f2f838398354e6d4ec8ab6dd02586ad47270",
+      "cosmeticIds": [
+         "EID_Macintosh"
       ]
    }
 ]
