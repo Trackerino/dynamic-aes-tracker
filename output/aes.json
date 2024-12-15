@@ -3761,6 +3761,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "A69F223BF8EAC85B7968C06A3A8748C7",
+      "key": "077c21229f811035351ce68d21758d8b892c087581a9f03d52c132440563ce13",
+      "cosmeticIds": [
+         "EID_Polarity"
+      ]
+   },
+   {
       "guid": "A6E44EB3DA45A5323BF1FEB33C6421F6",
       "key": "97d350cd3547f8c3438d0f19da04afc439cd172bc408dc29eb524e1c50165af7",
       "cosmeticIds": []
