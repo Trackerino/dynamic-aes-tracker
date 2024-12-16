@@ -4838,6 +4838,13 @@
       ]
    },
    {
+      "guid": "D9A43D5EF8EC6AC2DADE89B7B345B4A9",
+      "key": "6d503ca069ad6ff51e0b275ea9d2dd93a95fdaea0ee2a2ef184ecac0ec8a4bf4",
+      "cosmeticIds": [
+         "EID_Crosswalk"
+      ]
+   },
+   {
       "guid": "DB982042FC23E63A912CF079BB11B4D7",
       "key": "5f149d17c16f53a4cf98c8366452dcc4f5c5ca89b7b3921c0e9485cfcadc75f4",
       "cosmeticIds": [
