@@ -739,6 +739,17 @@
       ]
    },
    {
+      "guid": "2071F7A7C5CCCDD3348461241F90CA95",
+      "key": "e607cca78ff6dc79112229f7ac3f356f8521b87f26b98b23654427c9be7c9a0d",
+      "cosmeticIds": [
+         "Shoes_JoyJingle",
+         "Shoes_StemDotBallet",
+         "Shoes_StemDotTempo",
+         "Shoes_StemDotTwirl",
+         "Shoes_SurpriseStep"
+      ]
+   },
+   {
       "guid": "210726DF9DCD78AD95B4D407D5D9157B",
       "key": "717cef4eb80d0419ac6bc8d1f04e2af4d1416acbffcdd41248f4269cace79091",
       "cosmeticIds": [
@@ -3061,6 +3072,15 @@
       "key": "648a1c6bd80d48c965daedf39a612c305480a76a539acbd620f5b0cf66f416c1",
       "cosmeticIds": [
          "BID_188_FortniteDJFemale"
+      ]
+   },
+   {
+      "guid": "86ED92FA0E4776D8D3B60F8259B393A9",
+      "key": "24e22ae4b7851b223aedac70e1467bd579e3c9fc38b0fc91542068026cb42273",
+      "cosmeticIds": [
+         "Backpack_PageTruffle",
+         "Backpack_PageTruffleBead",
+         "Pickaxe_PageTruffle"
       ]
    },
    {
