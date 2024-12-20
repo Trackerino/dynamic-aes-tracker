@@ -875,6 +875,13 @@
       ]
    },
    {
+      "guid": "26021F66A417204C4528397FC89B4FD7",
+      "key": "04ac664338f97cdb58c96316fee8ca6b0a09ab563f553018eb818e2c12b535b8",
+      "cosmeticIds": [
+         "Character_CordSyrup"
+      ]
+   },
+   {
       "guid": "2648ACDF6B7E55495928F2319101BB8A",
       "key": "b4a85afa28852946a6448582c6ad203ad6cdfc6d41e49e5e388125031f53deb7",
       "cosmeticIds": []
@@ -4130,6 +4137,13 @@
       "guid": "B8F307A56B6EEFACD6250B2E60A24A4C",
       "key": "6b261233aebb74accc22f9bc65463417e14d96f36c8381b644c2208b67cf7fc9",
       "cosmeticIds": []
+   },
+   {
+      "guid": "B9A0974966FFA6519F942CB8ABC6DE65",
+      "key": "a92d5f9ac18b97f477cfb8d8395259da2fc3f3e32a3b3ca582606becd66ba910",
+      "cosmeticIds": [
+         "Character_SwissKale"
+      ]
    },
    {
       "guid": "B9C9B09F29DF6BC9DA94C36184CECFFF",
