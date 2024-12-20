@@ -1362,7 +1362,9 @@
    {
       "guid": "38D31B8D75B45FE43423A479A2A76E16",
       "key": "306ddf8245ce662f1a1a73d4f15b0fe16f360af6631efeed10f411f2565d62f4",
-      "cosmeticIds": []
+      "cosmeticIds": [
+         "GameFeaturePlugin_BrickSoupPastelGlaze"
+      ]
    },
    {
       "guid": "3988E0693BAEB40EB8FB796CF560C182",
@@ -4590,6 +4592,13 @@
       "guid": "CBAC886CCED55EEAEDC0D4BED9588035",
       "key": "fb96cb91bf492482413eb571cef7e16f40a4294e084dff12251446d78533c9f2",
       "cosmeticIds": []
+   },
+   {
+      "guid": "CBDFCC904B6577B868E32565F7F4605C",
+      "key": "5fdade1f8824efa88fa672a7600b25f34f6a26b111caf223159ab81fc24494ec",
+      "cosmeticIds": [
+         "Character_PastelGlazeGift"
+      ]
    },
    {
       "guid": "CBFF239A1792F25920D863F223368B54",
