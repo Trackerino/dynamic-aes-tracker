@@ -2722,6 +2722,15 @@
       ]
    },
    {
+      "guid": "764FF921F91FF41FAFBCFB6B899027E9",
+      "key": "ded2990257fa7fad6f13b2a063315c15609b8365b69194cadfc3c0a885520c0b",
+      "cosmeticIds": [
+         "Backpack_PastelGlazeGift",
+         "Backpack_PastelGlazeGrain",
+         "Sparks_Mic_PastelGlaze"
+      ]
+   },
+   {
       "guid": "768A95DE7B657B7B23D5A0DE283EB49F",
       "key": "24b2c0cf8e9aef0a36ac00d0bc291ba7821b29ec6bec9e5b06be9deada129f9d",
       "cosmeticIds": [
@@ -4602,7 +4611,10 @@
       "guid": "CBDFCC904B6577B868E32565F7F4605C",
       "key": "5fdade1f8824efa88fa672a7600b25f34f6a26b111caf223159ab81fc24494ec",
       "cosmeticIds": [
-         "Character_PastelGlazeGift"
+         "Character_PastelGlazeGift",
+         "Character_PastelGlazeGift,764FF921F91FF41FAFBCFB6B899027E9",
+         "EID_PastelGlaze",
+         "EID_PastelGlaze,764FF921F91FF41FAFBCFB6B899027E9"
       ]
    },
    {
