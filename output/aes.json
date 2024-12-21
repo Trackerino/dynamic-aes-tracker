@@ -3932,6 +3932,13 @@
       ]
    },
    {
+      "guid": "ABA511C2F9B2E385A7D190A7E0C16DE4",
+      "key": "281ff77908454a98474f06cf7122fed996542636d9726207b2c3bc9cdc5eea84",
+      "cosmeticIds": [
+         "CarBody_Wurst"
+      ]
+   },
+   {
       "guid": "ABBCFB5A5EEF4E14C2FB2A379152E402",
       "key": "651ae592b9aed25d6d1997b923250e55ada61092db8ee4029e88866836e61578",
       "cosmeticIds": []
