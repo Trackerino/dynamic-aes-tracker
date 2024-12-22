@@ -316,6 +316,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "0CD9ED7A97214AD457FA85684FE090B9",
+      "key": "1ef008eb048987c358f112095e2be13b27429a1d990e957d08e79a0f58b55584",
+      "cosmeticIds": [
+         "CarBody_Smoke"
+      ]
+   },
+   {
       "guid": "0D8B24BCF7F9C0293FFE1264A5D05613",
       "key": "bf5b024abb2023441b359fb8bf99659705b59fb33d75a817e06b3163bfe847fe",
       "cosmeticIds": [
@@ -883,7 +890,10 @@
       "guid": "26021F66A417204C4528397FC89B4FD7",
       "key": "04ac664338f97cdb58c96316fee8ca6b0a09ab563f553018eb818e2c12b535b8",
       "cosmeticIds": [
-         "Character_CordSyrup"
+         "Backpack_CordSyrup",
+         "Backpack_CordSyrup,B9A0974966FFA6519F942CB8ABC6DE65",
+         "Character_CordSyrup",
+         "Pickaxe_CordSyrup"
       ]
    },
    {
@@ -3017,6 +3027,13 @@
       ]
    },
    {
+      "guid": "8207433B768D45F10DF899C58D4DA5A8",
+      "key": "cb3e8c64cd835d3581553652a638ed69a024db223703922fb5bf5a94610c5190",
+      "cosmeticIds": [
+         "EID_AlmondSplash"
+      ]
+   },
+   {
       "guid": "824E9EFFEB0EBD1CF7039D36C4C50E63",
       "key": "f386ff41a1a4199c5b3411e260530277b01f9210dfd46aa2269c8f438edf1441",
       "cosmeticIds": []
@@ -4170,7 +4187,9 @@
       "guid": "B9A0974966FFA6519F942CB8ABC6DE65",
       "key": "a92d5f9ac18b97f477cfb8d8395259da2fc3f3e32a3b3ca582606becd66ba910",
       "cosmeticIds": [
-         "Character_SwissKale"
+         "Backpack_SwissKale",
+         "Character_SwissKale",
+         "EID_SwissKale"
       ]
    },
    {
