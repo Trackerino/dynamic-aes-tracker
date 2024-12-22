@@ -695,6 +695,13 @@
       ]
    },
    {
+      "guid": "1E8F4857F5C74E2E544D020B8594D855",
+      "key": "3a647ae6065f32bfd869e8c23b32ffca6d9801cb8b9ffcd23454c92dd4dbd7f8",
+      "cosmeticIds": [
+         "Character_MustardToast"
+      ]
+   },
+   {
       "guid": "1EC3010F39DA0C13B7232CB98575B7F9",
       "key": "2ea98711e84a4d323622c68aa8b1e9230339613cbafee025adc7457c0f09bc5f",
       "cosmeticIds": []
@@ -2784,7 +2791,9 @@
    {
       "guid": "7857ECCA6B0B91759DC87671F8DCCC62",
       "key": "2c787935c39b9e0e1537786b584beb4507c5ff71fa22710e5ce970c89f8ee91c",
-      "cosmeticIds": []
+      "cosmeticIds": [
+         "Character_FreightCalf"
+      ]
    },
    {
       "guid": "78FA1DF9C04F25EC129AA57492626563",
@@ -3871,6 +3880,13 @@
       "guid": "A758D2324A07ED9DE9E0818F6856693A",
       "key": "669cc14784075e8a0a219e915ddf24a7b5813efb18f0f41f28f1386d17e41a4b",
       "cosmeticIds": []
+   },
+   {
+      "guid": "A76470952FE7FC15145AE4E1EB9D85A7",
+      "key": "d1584fae4702ac05f41ae5bc2d5a656061b719c013e5fa0d734d88fe9f7b1f68",
+      "cosmeticIds": [
+         "CarBody_Seba"
+      ]
    },
    {
       "guid": "A7D34E80FA70CDD2F367DBEF93B98467",
