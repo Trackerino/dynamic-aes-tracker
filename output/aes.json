@@ -698,7 +698,13 @@
       "guid": "1E8F4857F5C74E2E544D020B8594D855",
       "key": "3a647ae6065f32bfd869e8c23b32ffca6d9801cb8b9ffcd23454c92dd4dbd7f8",
       "cosmeticIds": [
-         "Character_MustardToast"
+         "Backpack_FreightCalf",
+         "Backpack_MustardToast",
+         "Character_MustardToast",
+         "Pickaxe_FreightCalf",
+         "Pickaxe_MustardToast",
+         "Sparks_Guitar_MustardToast",
+         "Wrap_MustardToast"
       ]
    },
    {
@@ -1234,6 +1240,16 @@
          "EID_TennisLeash",
          "Pickaxe_TennisLeash",
          "Wrap_TennisLeash"
+      ]
+   },
+   {
+      "guid": "32AA2546A88B1797C12F9C35A8492CD2",
+      "key": "5c13184298650a4f9d045b99b41ceb2302cd9e99b197880a12ccac168277c9aa",
+      "cosmeticIds": [
+         "Shoes_StemDotChaCha",
+         "Shoes_StemDotDemi",
+         "Shoes_StemDotTrot",
+         "Shoes_StemDotWaltz"
       ]
    },
    {
@@ -3895,7 +3911,8 @@
       "guid": "A76470952FE7FC15145AE4E1EB9D85A7",
       "key": "d1584fae4702ac05f41ae5bc2d5a656061b719c013e5fa0d734d88fe9f7b1f68",
       "cosmeticIds": [
-         "CarBody_Seba"
+         "CarBody_Seba",
+         "Wheel_Seba"
       ]
    },
    {
@@ -4698,6 +4715,13 @@
       "key": "16e968fc10206c9c263a3bb5c6eff4e579f12c36de9c8e1b0c46f6ad4c9fe61c",
       "cosmeticIds": [
          "EID_Psychic_7SO2Z"
+      ]
+   },
+   {
+      "guid": "CD71F014D32872D388A7AF01D94B1C15",
+      "key": "a627d7edcbaf9ff667481a81c701bebf471d181f58883a19ae434fed39240aaf",
+      "cosmeticIds": [
+         "EID_Streamline"
       ]
    },
    {
