@@ -1608,6 +1608,16 @@
       ]
    },
    {
+      "guid": "431FB998877020823CAE2A8E617FC6F4",
+      "key": "9edf2e2c53a37e3ba5ba734f5199c2cabb1da8f67195ed9734a640957658f501",
+      "cosmeticIds": [
+         "EID_SequinPie",
+         "Pickaxe_SequinPie",
+         "Wrap_SequinPie",
+         "Wrap_SequinPie,F1FD75AEB8137DD7B45C83780192AA98"
+      ]
+   },
+   {
       "guid": "44DB36B2D2B3854669780458D2FE48C4",
       "key": "82d974b2600c44a83c77d4dd0c7e3b9543980b280acdb00f03afc76972d6cbde",
       "cosmeticIds": [
@@ -5530,6 +5540,15 @@
       "key": "edd49fd90c7818680cfeaf02bece7800dc10bfa65b3ea8d5ac4d458755743120",
       "cosmeticIds": [
          "EID_Hurtle"
+      ]
+   },
+   {
+      "guid": "F1FD75AEB8137DD7B45C83780192AA98",
+      "key": "2a722554a8800a3bba9611dd94da1b7deecf24a6b39355cd342f46367f96e2a4",
+      "cosmeticIds": [
+         "Backpack_BeetTread",
+         "Pickaxe_BeetTread",
+         "Wrap_BeetTread"
       ]
    },
    {
