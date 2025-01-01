@@ -3192,6 +3192,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "87F5E8CBD1402EA8F4F60FD1458198A4",
+      "key": "3248189cdf2e57762132a4d56290af7354ae436006b8e04cbfff66ac80818d06",
+      "cosmeticIds": [
+         "EID_Scrolls"
+      ]
+   },
+   {
       "guid": "88E5DC354F07186FFE1EA93D874832A6",
       "key": "e851a6eff448024ab69d892c97e764b93bc14b3826cff0f13d0e22b24301c27b",
       "cosmeticIds": [
