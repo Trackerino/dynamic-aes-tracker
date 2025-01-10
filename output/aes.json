@@ -1415,6 +1415,13 @@
       ]
    },
    {
+      "guid": "38C1A63C9EDBD8ADA477345EE890FD7B",
+      "key": "c9bb066cdb4cedfd6abc63b616935d8638987ff650b91017a54a2291f348c2db",
+      "cosmeticIds": [
+         "EID_Sherwood"
+      ]
+   },
+   {
       "guid": "38D31B8D75B45FE43423A479A2A76E16",
       "key": "306ddf8245ce662f1a1a73d4f15b0fe16f360af6631efeed10f411f2565d62f4",
       "cosmeticIds": [
@@ -5385,6 +5392,13 @@
          "LSID_429_Rumble",
          "Pickaxe_ID_791_RumbleFemale",
          "Pickaxe_ID_792_RumbleMale"
+      ]
+   },
+   {
+      "guid": "E8D9A4BC39C0DCD0F8C24184D1AE73E4",
+      "key": "b43b75f32901b87f6d2ed12f33dafaca5da3f53f39db2428f769f84e0a707dc9",
+      "cosmeticIds": [
+         "EID_SherwoodForest"
       ]
    },
    {
