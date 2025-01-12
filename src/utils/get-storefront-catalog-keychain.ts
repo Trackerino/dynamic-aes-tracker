@@ -25,7 +25,8 @@ export default async (auth: AuthData) => {
   const metaEntries = data.storefronts
     .flatMap((storefront) => storefront.catalogEntries)
     .map((offer) => offer.metaInfo?.find((meta) => meta.key === 'EncryptionKey')?.value || offer.meta?.EncryptionKey)
-    .filter((k) => k) as string[];
+    .filter((k) => k)
+    .flatMap((x) => x!.split(','));
 
   return {
     success: true as const,
