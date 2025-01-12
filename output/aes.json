@@ -1418,7 +1418,8 @@
       "guid": "38C1A63C9EDBD8ADA477345EE890FD7B",
       "key": "c9bb066cdb4cedfd6abc63b616935d8638987ff650b91017a54a2291f348c2db",
       "cosmeticIds": [
-         "EID_Sherwood"
+         "EID_Sherwood",
+         "EID_Sherwood,E8D9A4BC39C0DCD0F8C24184D1AE73E4"
       ]
    },
    {
@@ -2164,6 +2165,16 @@
          "BID_171_Rhino",
          "Glider_ID_102_Rhino",
          "Pickaxe_ID_127_Rhino"
+      ]
+   },
+   {
+      "guid": "59881A06EBD2C9A333EB1F04A6409265",
+      "key": "135f0d5ee5999d296b755257ba1fb5cb5c45890af496ea87eff0b1dfab5af55b",
+      "cosmeticIds": [
+         "Shoes_LungeStreamTreble",
+         "Shoes_StemDotClog",
+         "Shoes_StemDotHinge",
+         "Shoes_StemDotShimmy"
       ]
    },
    {
