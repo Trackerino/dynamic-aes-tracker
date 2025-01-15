@@ -1504,6 +1504,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "3D738885316A0BCFE38A3B60108D4195",
+      "key": "60b3bdca329e4dc3b199c59ac56e500abbbfa25da6b1547efc0f6701b904f8e1",
+      "cosmeticIds": [
+         "Character_AvocadoSeal"
+      ]
+   },
+   {
       "guid": "3D8D56FDB72DACCA7E656FBC0F125916",
       "key": "80c5fbea798b57671acf6f11a3f8b715ab42538b5d8b58c780948f6dd9cb4d47",
       "cosmeticIds": []
@@ -2557,6 +2564,13 @@
       "guid": "688022C4193EA6D9DF1EDC7F6CF826DA",
       "key": "94e477dfc4f343be46ed1f354422937636266028e148a24807e49c3d86a7368c",
       "cosmeticIds": []
+   },
+   {
+      "guid": "691EE5E7D12D2AAB8094DC5C5C3294EA",
+      "key": "1df9c58c2fbf1122fbc37aaab15ee55defbf486400449227009db11d766f1c90",
+      "cosmeticIds": [
+         "CarSkin_NerdBig01"
+      ]
    },
    {
       "guid": "6A2047910081947B9A5DCF542A9AEBE5",
