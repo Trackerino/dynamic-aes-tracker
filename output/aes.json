@@ -1507,7 +1507,14 @@
       "guid": "3D738885316A0BCFE38A3B60108D4195",
       "key": "60b3bdca329e4dc3b199c59ac56e500abbbfa25da6b1547efc0f6701b904f8e1",
       "cosmeticIds": [
-         "Character_AvocadoSeal"
+         "Backpack_AvocadoSeal",
+         "Backpack_ButterPlate",
+         "Character_AvocadoSeal",
+         "EID_AvocadoSeal",
+         "Pickaxe_AvocadoSeal",
+         "Pickaxe_ButterPlate",
+         "Wrap_AvocadoSeal",
+         "Wrap_ButterPlate"
       ]
    },
    {
@@ -2569,7 +2576,9 @@
       "guid": "691EE5E7D12D2AAB8094DC5C5C3294EA",
       "key": "1df9c58c2fbf1122fbc37aaab15ee55defbf486400449227009db11d766f1c90",
       "cosmeticIds": [
-         "CarSkin_NerdBig01"
+         "CarSkin_NerdBig01",
+         "ID_Booster_Big",
+         "Wheel_RL176"
       ]
    },
    {
