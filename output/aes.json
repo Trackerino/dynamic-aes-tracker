@@ -1774,6 +1774,13 @@
       ]
    },
    {
+      "guid": "47CCB9DF0EE91BDE66F94F73D0F7C9D3",
+      "key": "7d8d3ebed2f5bcde51aba772d5ce12c14e29fc8b7fe01b0f66a05738ab19c08b",
+      "cosmeticIds": [
+         "GameFeaturePlugin_SourForkSupplyDrop"
+      ]
+   },
+   {
       "guid": "47F6751F0EE3E8716C1B9DBC9796AAE7",
       "key": "d5634820b60c3b8882a36aa48cfebc20ac5d08934b8dfd43f7ccb729efdcf46c",
       "cosmeticIds": [
@@ -3055,6 +3062,13 @@
       "cosmeticIds": [
          "Backpack_FolkEveningSheath",
          "Pickaxe_FolkEvening"
+      ]
+   },
+   {
+      "guid": "7F2F547752CC7BEE86E81B09A1562A34",
+      "key": "36743607883dea48b68f4f29637f89fbaf28dabb0c84d9ce5a6f479beeaaf88c",
+      "cosmeticIds": [
+         "GameFeaturePlugin_SourFork"
       ]
    },
    {
