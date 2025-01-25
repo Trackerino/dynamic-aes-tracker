@@ -1981,6 +1981,19 @@
       "cosmeticIds": []
    },
    {
+      "guid": "524E3ABF1DD30667B36C83F283B05195",
+      "key": "a6c1ea0c5bf25084946b8566fb3f9ef24a50fdbc53c9b2589298a372f4631e26",
+      "cosmeticIds": [
+         "Backpack_CafeStove",
+         "Backpack_YamPowder",
+         "EID_SureBamboo",
+         "Pickaxe_CafeStove",
+         "Pickaxe_SureBamboo",
+         "Pickaxe_YamPowder",
+         "Wrap_SureBamboo"
+      ]
+   },
+   {
       "guid": "527F2B6C4F2C5163258E0DB828A68B6B",
       "key": "7acc4f45572e8109b4b71460c764ca75de5e5ff6c2d7ea29aed65323bff00bff",
       "cosmeticIds": [
