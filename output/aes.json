@@ -946,6 +946,15 @@
       "cosmeticIds": []
    },
    {
+      "guid": "279FC777D7F0D465F1A94C6FC9523154",
+      "key": "4186118896c7fb85ed8f0485f5c277155b208d8730cd1aeac7d237e779cb26f6",
+      "cosmeticIds": [
+         "Shoes_StemDotSlide",
+         "Shoes_TunaCabinLard",
+         "Shoes_TunaCabinTallow"
+      ]
+   },
+   {
       "guid": "27D6556F776B2BDA97B480C1141DDDCA",
       "key": "baf52a6f92eec11156427038a02456dcb35da2b61c1ad3a627c3ef05e0b004a8",
       "cosmeticIds": [
