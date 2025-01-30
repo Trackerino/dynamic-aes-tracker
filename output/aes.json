@@ -1104,6 +1104,17 @@
       ]
    },
    {
+      "guid": "2DCF5899864B58847F7721F5BC6CC7B2",
+      "key": "d29e916093131be113ded96638dcabf767199d89f3f80574d496603ad71e992d",
+      "cosmeticIds": [
+         "ID_Body_Squash",
+         "ID_Booster_Aventurine",
+         "Wheel_Aventurine01",
+         "Wheel_Aventurine02",
+         "Wheel_AventurineAnimated"
+      ]
+   },
+   {
       "guid": "2E03F4DA95202509D578A5960D35A8A3",
       "key": "52b2f105eae9e737a83091da5e362a01ebcd48d3f625c7bcb06db3aa7bcef8d4",
       "cosmeticIds": [
@@ -5597,6 +5608,13 @@
       "guid": "EE0C67580F774526D46A64757F5DE77E",
       "key": "a91ab50cfa7c1a7b056525184753c929e2a6e585c08372b277963ea63b576725",
       "cosmeticIds": []
+   },
+   {
+      "guid": "EF0F3917780CD815EF15D46DED289E29",
+      "key": "0bd16a698e9bf46c21edb50f057c6166636d57224fc71bfc944b173e85c4de72",
+      "cosmeticIds": [
+         "EID_Mirage"
+      ]
    },
    {
       "guid": "EF7C5225BD60644B313ABEE69182A302",
