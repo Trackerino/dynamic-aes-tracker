@@ -3058,6 +3058,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "7E3B0175F4929DD5C6C8A2D889B24F81",
+      "key": "04e88da5589481e5cad94ea215eecd4b97397e01dacaba479cd31a4761daef1c",
+      "cosmeticIds": [
+         "Character_ThickWatch"
+      ]
+   },
+   {
       "guid": "7E5BFF3AFC483F87B5891536C0AF3DFD",
       "key": "74404544540f620e0d9dd7b0696f7fac40e95b437c54587bb2b4d90e7d1a7a31",
       "cosmeticIds": []
