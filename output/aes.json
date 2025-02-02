@@ -5611,6 +5611,16 @@
       "cosmeticIds": []
    },
    {
+      "guid": "EEA28D2A16458D0B2ACBF1ECC12E2D33",
+      "key": "e499401807c0a5411e5d208bce2220ef525e0dce2307288ef77d7aab1c862b91",
+      "cosmeticIds": [
+         "Shoes_TunaCabinAlgae",
+         "Shoes_TunaCabinCanola",
+         "Shoes_TunaCabinOmega",
+         "Shoes_TunaCabinSchmaltz"
+      ]
+   },
+   {
       "guid": "EF0F3917780CD815EF15D46DED289E29",
       "key": "0bd16a698e9bf46c21edb50f057c6166636d57224fc71bfc944b173e85c4de72",
       "cosmeticIds": [
