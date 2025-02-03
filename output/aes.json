@@ -3061,7 +3061,9 @@
       "guid": "7E3B0175F4929DD5C6C8A2D889B24F81",
       "key": "04e88da5589481e5cad94ea215eecd4b97397e01dacaba479cd31a4761daef1c",
       "cosmeticIds": [
-         "Character_ThickWatch"
+         "Backpack_ThickWatch",
+         "Character_ThickWatch",
+         "Pickaxe_ThickWatch"
       ]
    },
    {
