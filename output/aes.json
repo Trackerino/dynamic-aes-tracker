@@ -356,6 +356,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "0EBAD64EEBF8F23CD123EE324606E44B",
+      "key": "ec6c91549f36383d2b96f5566db71b754679522ec27eb60fdc761d07e6b06764",
+      "cosmeticIds": [
+         "EID_Tailor"
+      ]
+   },
+   {
       "guid": "0EC19805A48534C8892FA21C75024971",
       "key": "59c79b488e6be9b3204806cd77c39bd7ceeb626209149722a1b77241c8918927",
       "cosmeticIds": [
