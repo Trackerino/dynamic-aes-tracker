@@ -2587,7 +2587,11 @@
    {
       "guid": "65A22570A201A6CB2BD8818EF11B5134",
       "key": "544562fafec80ce7b5c4d90ee9c824e9dfbec9c4f8d807a30c732f640b21bcf6",
-      "cosmeticIds": []
+      "cosmeticIds": [
+         "Backpack_AgileRug",
+         "Character_AgileRug",
+         "Pickaxe_AgileRug"
+      ]
    },
    {
       "guid": "664AE10E66BFDC167AE20432295E8F7F",
