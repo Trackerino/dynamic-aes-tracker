@@ -623,6 +623,19 @@
       ]
    },
    {
+      "guid": "19FDB99E0C353A75CAF1D0159A566939",
+      "key": "b3ecc690d4a480b1e82582ed6a01dcd0be534f24d870cbdbd98abf368a2adef3",
+      "cosmeticIds": [
+         "Backpack_CoconutShell",
+         "Backpack_FineCheek",
+         "EID_CoconutShell",
+         "Glider_CoconutShell",
+         "LoadingScreen_Fluctuation",
+         "Pickaxe_CoconutShell",
+         "Pickaxe_FineCheek"
+      ]
+   },
+   {
       "guid": "1A10A7700C3780E2B1A03037D64E1EE5",
       "key": "22f422916aab695b8ccedf1e3f50747315b90dc6a2bfb9e3a3640715f645998f",
       "cosmeticIds": [
@@ -5979,6 +5992,15 @@
       "key": "d11bf74adb070bd3af0ba50347e2fe08b833eb713ea8699efb3c3ab1e6dddae7",
       "cosmeticIds": [
          "EID_Swish"
+      ]
+   },
+   {
+      "guid": "F93D796690441FECFCE4788C6267E68F",
+      "key": "73bce0d69bd9c376f9191754e1eb7f8fc9847ecdcc43354588fe40e26abb6208",
+      "cosmeticIds": [
+         "Shoes_PacketCrescentAlpine",
+         "Shoes_PacketCrescentAqua",
+         "Shoes_PacketCrescentCocoa"
       ]
    },
    {
