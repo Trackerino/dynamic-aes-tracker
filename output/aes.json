@@ -2511,6 +2511,13 @@
       ]
    },
    {
+      "guid": "61BE5430F67E7F312C135EA28BA97B0A",
+      "key": "30ee74ca26b8b491377af4e87833b867d1e68b4b26a68ee13f00bac9efb799b9",
+      "cosmeticIds": [
+         "EID_Blacklight"
+      ]
+   },
+   {
       "guid": "61D055FFB6523C2E6B09EEEF500F82EC",
       "key": "983e618af446313db594dc968d1b3b798ae20454d5973a08343041f434853c00",
       "cosmeticIds": [
