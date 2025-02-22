@@ -217,6 +217,13 @@
       ]
    },
    {
+      "guid": "085B45A328636210BA7F89048850D3E0",
+      "key": "13791a075c93bdb444a3be582f7adea91c1ea7e70296dbb916a806c79aa80bbd",
+      "cosmeticIds": [
+         "Carskin_RetroGray05"
+      ]
+   },
+   {
       "guid": "08788A9DA34F4164ADA4F09FBF698CC3",
       "key": "0e5851add0460cd0035003118f8a00530c11da3df736bd99360d825378b5fcf8",
       "cosmeticIds": [
@@ -932,6 +939,13 @@
       "guid": "234D1D3D37EFF3322E44B31200C1ACEA",
       "key": "4f7946a19dc921583bbdab0c402af7863c91a3cc7e1d2d40ae1e375ef7542acb",
       "cosmeticIds": []
+   },
+   {
+      "guid": "23A4F7643C3C07459C41524C56C570D0",
+      "key": "e66cd79207da0c4d29d2af9e6af7396cc268920e03e6e88ebfd7f78e76c08019",
+      "cosmeticIds": [
+         "ID_Booster_Gray"
+      ]
    },
    {
       "guid": "258AB620A71C14508FB6614003DCD34E",
@@ -4321,6 +4335,13 @@
       ]
    },
    {
+      "guid": "B131DCAC656E0661C141EA1915FEB1D8",
+      "key": "51d802b4b6ac1fc1be05fd420d4e44de40edd404a37c84415124ea4b2c7cc897",
+      "cosmeticIds": [
+         "CarSkin_RetroGray04"
+      ]
+   },
+   {
       "guid": "B16BF216C9085E63B70056FF0459F87A",
       "key": "c4a42a424930e955b04f4a64ede2b37a91bd1ccf64ce2d993f049b74b5ada702",
       "cosmeticIds": []
@@ -5109,6 +5130,13 @@
          "EID_AshtonSaltLake",
          "Glider_ID_142_AshtonSaltLake",
          "Pickaxe_ID_203_AshtonSaltLake"
+      ]
+   },
+   {
+      "guid": "D4F62AA186C552C0319E3358A2C54AF7",
+      "key": "420878f28cea40dc978fa7824c6d058cba0d8247b136b6f12cae57cfe2c94a11",
+      "cosmeticIds": [
+         "Wheel_Gray"
       ]
    },
    {
