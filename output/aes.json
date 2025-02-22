@@ -1147,6 +1147,11 @@
       ]
    },
    {
+      "guid": "2D525F5D540A77DC64F789C8A9AEA404",
+      "key": "78792af814949cbfbeba91e97592f9be6df3b69bbd43592f1a704e0a13c4b4c7",
+      "cosmeticIds": []
+   },
+   {
       "guid": "2D7CC66E132AF5D216B481F2D0B56EB7",
       "key": "d4e0770e6d14412ba6138aab370e65a535a0c756e312a385137facdd7a3856ee",
       "cosmeticIds": [
@@ -1999,6 +2004,11 @@
          "Glider_PowerFarmer",
          "Pickaxe_PowerFarmer"
       ]
+   },
+   {
+      "guid": "4EFCDD6576BC90902F83172AB4B90937",
+      "key": "4d2815668be8996dd2ab9e6880eb14cbf38a82e4128d10dd9d67d3f92d5a0008",
+      "cosmeticIds": []
    },
    {
       "guid": "4EFDA950DA6AA1E6422D2FBF6B89DE85",
