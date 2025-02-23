@@ -1921,6 +1921,13 @@
       ]
    },
    {
+      "guid": "49A3F94560A78BE15EE711CF011D255B",
+      "key": "6ecd2271ec6401f53d32ad35338f4a3880582c56e98b681aea2daf92c929e86d",
+      "cosmeticIds": [
+         "EID_Caddie"
+      ]
+   },
+   {
       "guid": "4A0188CF04863E6BDB96AA76EC733554",
       "key": "af9c249696f5eda8816f7e5bcc36b3ebe58561f2d0a67f498d8a7ce4235671ee",
       "cosmeticIds": [
@@ -4774,6 +4781,15 @@
       "key": "ddb78ddd7971b5ca666936b53baebaf5498067b1c7b3c5053b35104803925afe",
       "cosmeticIds": [
          "EID_SunMelt"
+      ]
+   },
+   {
+      "guid": "C61E057F57D56B6DB06CEF14D9A29033",
+      "key": "bd1a2a2856bc912ceb268430bc3223c82b291a376fb1e71a35fee5039679256c",
+      "cosmeticIds": [
+         "Shoes_ChoreNoodlePebble",
+         "Shoes_ChoreNoodleRubble",
+         "Shoes_UmamiGlintOchre"
       ]
    },
    {
