@@ -5720,6 +5720,21 @@
       ]
    },
    {
+      "guid": "EC454874D426F991902B1D1A1FF73ECC",
+      "key": "4d8969ecba85dee1f0863cd137047aa2f103f8b3da6f6941b497b67c084e76ce",
+      "cosmeticIds": [
+         "Backpack_KneeLens",
+         "Backpack_StudyBench",
+         "Character_KneeLens",
+         "Character_StudyBench",
+         "EID_KneeLens",
+         "EID_StudyBench",
+         "Pickaxe_KneeLens",
+         "Pickaxe_StudyBench",
+         "Wrap_KneeLens"
+      ]
+   },
+   {
       "guid": "ECC8CCC7C241C9B739143FE703D69DDA",
       "key": "02f348c9307a9089ade97ed8b46cf32010b798f21935770c9fc07d53607f771d",
       "cosmeticIds": [
