@@ -3729,6 +3729,13 @@
       ]
    },
    {
+      "guid": "95A1B7732F56AA8F89902A528693D4B2",
+      "key": "b59d535588271969e7d9702b512b92ed2f4bf1c3c6bc30b926e52c00b6789155",
+      "cosmeticIds": [
+         "EID_TaxiCab"
+      ]
+   },
+   {
       "guid": "95C6C2B37E1D15D60BB5C20D9D47BA31",
       "key": "7b1747d317b6bfedadd70ca85e96462d7fa218321d471710e811bd8aa8b4ecba",
       "cosmeticIds": [
@@ -6112,6 +6119,18 @@
          "Glider_InstantGravel",
          "Pickaxe_InstantGravelNoble",
          "Wrap_InstantGravel"
+      ]
+   },
+   {
+      "guid": "FB4797DDA897448063640F054648DAAE",
+      "key": "fbcb7c80d34a350ed9a28634d34fb2af2160b1f60edf01c7beaf0de4cb052fb0",
+      "cosmeticIds": [
+         "Shoes_DaintyFoilDrip",
+         "Shoes_DaintyFoilUnagi",
+         "Shoes_EnergyBuryCayenne",
+         "Shoes_EnergyBuryChili",
+         "Shoes_EnergyBuryFresno",
+         "Shoes_EnergyBuryPasilla"
       ]
    },
    {
