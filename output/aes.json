@@ -883,6 +883,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "2221D9B672BBBE65DCEBFDE85EE861FD",
+      "key": "082b5c1556a1af2b515dac26009d8a46cf5cf64d6b129344f9c81d95d98705c6",
+      "cosmeticIds": [
+         "EID_Panoramic"
+      ]
+   },
+   {
       "guid": "22AB4BDC10065AA49B38DE88522DF836",
       "key": "d4bf0bfa82ad48eb48c5b9b5c741db0edceab881fa087f2fbb53c5e22f2353ec",
       "cosmeticIds": [
