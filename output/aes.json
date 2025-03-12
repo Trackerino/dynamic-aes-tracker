@@ -2131,7 +2131,12 @@
       "guid": "5323402ED7D836C086FA636511BEDB1B",
       "key": "fe988dcc7d45e77dffc46f31d89a2e67e985ddc9ced4e7675373b249005a577d",
       "cosmeticIds": [
-         "Character_CabbageSugar"
+         "Backpack_CabbageSugar",
+         "Character_CabbageSugar",
+         "EID_CabbageSugar",
+         "Pickaxe_CabbageSugar",
+         "Sparks_Bass_BalloonDish",
+         "Sparks_Guitar_BalloonDish"
       ]
    },
    {
@@ -4393,7 +4398,11 @@
       "guid": "B0B047843D36FE23C847361C6F23BD79",
       "key": "af8a3168b3613c397bd7ee67c5ac1c924c114c3fb2e82cd3f13864943a9fbf1c",
       "cosmeticIds": [
-         "Shoes_WhiskerCaesarChomp"
+         "Shoes_GildHide",
+         "Shoes_WhiskerCaesarChomp",
+         "Shoes_WhiskerCaesarDove",
+         "Shoes_WhiskerCaesarFleet",
+         "Shoes_WhiskerCaesarThaw"
       ]
    },
    {
@@ -4530,6 +4539,13 @@
       "guid": "B8F307A56B6EEFACD6250B2E60A24A4C",
       "key": "6b261233aebb74accc22f9bc65463417e14d96f36c8381b644c2208b67cf7fc9",
       "cosmeticIds": []
+   },
+   {
+      "guid": "B90D1C3E61DC4573EB5344E1ED6423A5",
+      "key": "b6190e6cb8ce344fc8cfb4b16c6ce179528e58d090ee613dee138ca36f93796e",
+      "cosmeticIds": [
+         "CarSkin_BrickViz03"
+      ]
    },
    {
       "guid": "B9A0974966FFA6519F942CB8ABC6DE65",
