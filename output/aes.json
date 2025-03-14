@@ -3520,6 +3520,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "8BE245EED86D70820F7CDB6F595FABF0",
+      "key": "f6d4b6444240d75dc2f990809ad3ba7e1073c3ee6ed035f9b77870107778d86d",
+      "cosmeticIds": [
+         "EID_Telescope"
+      ]
+   },
+   {
       "guid": "8C4383893F90632D5516AD37E0CD5173",
       "key": "2544c89edf570c61fa8146d9d38d1de29b4946cba1369a4828a230f88898a3c9",
       "cosmeticIds": [
