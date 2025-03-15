@@ -744,6 +744,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "1D3CA08888F448FA0F4733563B552933",
+      "key": "bb4f806e7eac6ca6684a9237afbee243dfca1a52dc9d71abf00f140144cf9c1e",
+      "cosmeticIds": [
+         "EID_Shades"
+      ]
+   },
+   {
       "guid": "1DF43E667862B117F72B5F39E750853A",
       "key": "0618f1de6995c61bda74ae5b913f96f512745c068c1dac029dff0c7d7229001c",
       "cosmeticIds": [
@@ -5122,7 +5129,11 @@
       "guid": "D0ADFB1558682C0FA5B5FAA4858201CD",
       "key": "c5e1d05a47ceb44709f036cab1c3487dede0a5f256b99110ba3084213499794c",
       "cosmeticIds": [
-         "Character_GnocchiTea"
+         "Backpack_GnocchiTea",
+         "Character_GnocchiTea",
+         "EID_GnocchiTea",
+         "Pickaxe_GnocchiTea",
+         "Wrap_GnocchiTea"
       ]
    },
    {
@@ -5454,7 +5465,8 @@
       "guid": "DFF3851DC0536215B6DBB4086D869D16",
       "key": "e285fd5f01989392a1c451c75f8b12f83887211ecbda8ab9341a7ef87e342dd1",
       "cosmeticIds": [
-         "CarBody_Mudpie"
+         "CarBody_Mudpie",
+         "Wheel_Mudpie02"
       ]
    },
    {
