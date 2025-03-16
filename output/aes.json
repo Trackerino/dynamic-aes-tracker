@@ -2833,6 +2833,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "6D41D46B22E496E8EE4EB412DE735776",
+      "key": "f17446ae1243fd91e64f59ab594c0f2850b57f000eae89e71ef5443fac9443e8",
+      "cosmeticIds": [
+         "EID_Masquerade"
+      ]
+   },
+   {
       "guid": "6D85E82539341B90944E84FFAAD872FB",
       "key": "98088193b29b1360e7afec9517224ad72030bf67966fec803451f4cf692b424c",
       "cosmeticIds": [
