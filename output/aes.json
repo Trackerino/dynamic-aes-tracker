@@ -1621,6 +1621,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "3C90EB8774718B3B5ACDB9A39846B1F4",
+      "key": "1aa42eb3ea80629eef47e17d9cb0b349fd9c99ad8a89d4b4a3061def554d1532",
+      "cosmeticIds": [
+         "Character_TwilightSpot"
+      ]
+   },
+   {
       "guid": "3CE25AC56856D0E10426276F61265547",
       "key": "344b550d7474aa839f5bd960752e00b80f1d91f77fd48f5d7a071123d527bd4a",
       "cosmeticIds": []
