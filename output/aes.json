@@ -5484,6 +5484,14 @@
       ]
    },
    {
+      "guid": "DF3F349661781053C6C652B228CAE3E4",
+      "key": "01758528903ac8ab83b918b0565ee26f158d1e3c91b1eaa13a8559f1a03ddb59",
+      "cosmeticIds": [
+         "EID_Helium",
+         "EID_Vinyl"
+      ]
+   },
+   {
       "guid": "DFE6C0504C061EEF0E77A43EE3B613E6",
       "key": "ca6a4d01e37fd956ccec225b17256fdacb4af68054e21b56fff3f908c00c22ef",
       "cosmeticIds": []
