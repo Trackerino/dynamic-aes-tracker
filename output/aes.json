@@ -1624,7 +1624,16 @@
       "guid": "3C90EB8774718B3B5ACDB9A39846B1F4",
       "key": "1aa42eb3ea80629eef47e17d9cb0b349fd9c99ad8a89d4b4a3061def554d1532",
       "cosmeticIds": [
-         "Character_TwilightSpot"
+         "Backpack_TwilightSpotShine",
+         "Backpack_TwilightSpotSpell",
+         "Character_TwilightSpot",
+         "Character_TwilightSpotShine",
+         "Character_TwilightSpotSpell",
+         "EID_TwilightSpot",
+         "EID_TwilightSpot_Hand",
+         "Emoji_S34_TwilightSpot",
+         "Pickaxe_TwilightSpotSpell",
+         "Wrap_TwilightSpot"
       ]
    },
    {
@@ -3863,6 +3872,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "97DDC2D8500F9A216A154738C39F123E",
+      "key": "f54dfdbc7f97cef20e877e966377c177f8f79f9dd7446be8402957a090eb560f",
+      "cosmeticIds": [
+         "EID_Terrier"
+      ]
+   },
+   {
       "guid": "97E91E4F436B598D654592793B595536",
       "key": "3e3d25c617a26f3e036ff0b87a18471a539a94b400c45092fb635890745b8f24",
       "cosmeticIds": []
@@ -4575,6 +4591,17 @@
       "guid": "B8AFF95FE7104F5FCFB26E4F57694E6E",
       "key": "e7f43ec9b3adbde5230eb2d5b8abd0374cdf98f07127986170c6b00c3834bfcd",
       "cosmeticIds": []
+   },
+   {
+      "guid": "B8B2DA73DBEC8406A7EA30BE9B63E356",
+      "key": "6cdc2bef5766087939b2798260fb666767385b1a436365d23defed5fd29b075e",
+      "cosmeticIds": [
+         "Shoes_ChoreNoodleCrag",
+         "Shoes_ChoreNoodleGraphite",
+         "Shoes_GoblinPennyClove",
+         "Shoes_GoblinPennyDemure",
+         "Shoes_StoneAnchor"
+      ]
    },
    {
       "guid": "B8C17AF9BC0DF3113AC6C498DF3325C2",
