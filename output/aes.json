@@ -424,6 +424,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "119AE8DF262267157E76E05B4FF3F84E",
+      "key": "61d15b5d500b8ad874ebd549484316bc51bfd554cd3ce4d666c5ed52521307c8",
+      "cosmeticIds": [
+         "EID_Vegas"
+      ]
+   },
+   {
       "guid": "11F0730066B941C7A4E9255EA2FE23F1",
       "key": "ff7bcb753f87fb7d96d31ebcb26edc5690582b56a630f99c553be2572336e5d6",
       "cosmeticIds": [
