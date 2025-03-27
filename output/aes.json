@@ -2518,6 +2518,13 @@
       ]
    },
    {
+      "guid": "5C410ACDDF340610F2573F595E002AC5",
+      "key": "e4cb0cebfe2fa73b07cb85492953a144b316cd4b0546023aa44fe64c53361e04",
+      "cosmeticIds": [
+         "Character_SoapPocket"
+      ]
+   },
+   {
       "guid": "5D6562F1EAD89513C82C2F37A24E7F82",
       "key": "23673e49009d0ef2690bacf5c678914fe938d4a029d2995afa8fc7ebca1714b4",
       "cosmeticIds": [
@@ -4110,6 +4117,13 @@
       "cosmeticIds": [
          "BID_827_AntiquePal_BL5ER",
          "Pickaxe_ID_649_AntiquePalMale1H_GBT24"
+      ]
+   },
+   {
+      "guid": "9F3ECC71D61E100D15AB398777E34A12",
+      "key": "e4509c1be3972270d662ba97fa7e07aba2c3b5a722cf14aebee71eeb1f30466a",
+      "cosmeticIds": [
+         "CarBody_Rage"
       ]
    },
    {
