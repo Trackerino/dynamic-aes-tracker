@@ -1809,7 +1809,10 @@
       "guid": "43A45B945DE35DE1EC0853B59A7A095E",
       "key": "5bc7325863e1166bb4ddf58aca0768dfe78a01280c55d7b3940c2269b73ebe48",
       "cosmeticIds": [
-         "Character_TruckScale"
+         "Backpack_TruckScale",
+         "Character_TruckScale",
+         "EID_TruckScale",
+         "Pickaxe_TruckScale"
       ]
    },
    {
@@ -3881,6 +3884,13 @@
       ]
    },
    {
+      "guid": "969BC0596ABEE58537B875FD3B4601BA",
+      "key": "cfe37a542c54156ef2cda918ae0bc9bf8fca6f54d8369e3ff4fe0700bf1a8892",
+      "cosmeticIds": [
+         "EID_Studs"
+      ]
+   },
+   {
       "guid": "96FD474CBA52137DC5ABF658BE17C792",
       "key": "64b5af6d447b5e8c351943630bd33183b0c75682409c1af86fd812ce6c857315",
       "cosmeticIds": [
@@ -5432,6 +5442,16 @@
       "key": "285a7992ea9d2487b1f924bde660b2e271139e9ce5698f141def17ec14a31b16",
       "cosmeticIds": [
          "Wrap_080_Blackout1"
+      ]
+   },
+   {
+      "guid": "D876BE3A06C2A15B1BD61F7A5EC6AEEA",
+      "key": "38a15e18d6acaa156e3a1225571f957751b809e6ff9704117c59df605a28139f",
+      "cosmeticIds": [
+         "EID_Omega",
+         "LoadingScreen_BroadPoodle",
+         "Pickaxe_BroadPoodle_Drum",
+         "Pickaxe_BroadPoodle_Guitar"
       ]
    },
    {
