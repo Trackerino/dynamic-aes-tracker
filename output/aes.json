@@ -2524,7 +2524,19 @@
       "guid": "5C410ACDDF340610F2573F595E002AC5",
       "key": "e4cb0cebfe2fa73b07cb85492953a144b316cd4b0546023aa44fe64c53361e04",
       "cosmeticIds": [
-         "Character_SoapPocket"
+         "Backpack_GarlicWhisk",
+         "Backpack_TotalFlock",
+         "Character_GarlicWhisk",
+         "Character_SoapPocket",
+         "Character_TotalFlock",
+         "EID_GarlicWhisk",
+         "EID_GarlicWhisk_Clobber",
+         "EID_SoapPocket",
+         "EID_SoapPocket_Punch",
+         "EID_TotalFlock",
+         "EID_TotalFlock_Slash",
+         "Pickaxe_SoapPocket",
+         "Pickaxe_TotalFlock"
       ]
    },
    {
@@ -4133,7 +4145,10 @@
       "guid": "9F3ECC71D61E100D15AB398777E34A12",
       "key": "e4509c1be3972270d662ba97fa7e07aba2c3b5a722cf14aebee71eeb1f30466a",
       "cosmeticIds": [
-         "CarBody_Rage"
+         "CarBody_Rage",
+         "Wheel_Hug",
+         "Wheel_Hug2",
+         "Wheel_RageB"
       ]
    },
    {
