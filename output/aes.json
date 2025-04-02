@@ -6347,6 +6347,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "FA3ABADC65EDD3BA423E923357BE9CE5",
+      "key": "4536723996750507707bfc0349143027060825e37e964ea829998f8796faaea9",
+      "cosmeticIds": [
+         "EID_Clippers"
+      ]
+   },
+   {
       "guid": "FAE51F5AC49A240384D5B57EA08B1F90",
       "key": "a1eb137fd0151a05f8155c16ce09befa74043b4680472b94e6b65ad5fea1a05b",
       "cosmeticIds": [
