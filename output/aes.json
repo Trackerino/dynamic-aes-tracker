@@ -1025,6 +1025,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "26D920B3DAAC93330212740C77E916BB",
+      "key": "f80e92d905344273da42b0bdb90d5c030543dfbe5093a3e9aaa89d61445a6458",
+      "cosmeticIds": [
+         "EID_Mannequin"
+      ]
+   },
+   {
       "guid": "2764E12E58C474C6AC7F5035A80A78A2",
       "key": "22816566ad592bc67fab52c7ccdc51ba3a2fd1bc67d6be664725ba52d366cc5d",
       "cosmeticIds": [
