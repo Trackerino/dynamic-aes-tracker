@@ -775,7 +775,10 @@
       "guid": "1E7E0CE12235FBC263C7D06426399118",
       "key": "b5eeb6a7fe8138ad417835e7ae85ee686f4f6e88b05481bf922a67a9fd14e606",
       "cosmeticIds": [
-         "Character_CrumpleFold"
+         "Backpack_CrumpleFold",
+         "Character_CrumpleFold",
+         "Pickaxe_CrumpleFold",
+         "Wrap_CrumpleFold"
       ]
    },
    {
@@ -6290,6 +6293,13 @@
       "guid": "F73156B85666DAE88D9359504D1F7C85",
       "key": "6cebef7bf7b0b16843a0ae92dd0229548ed0c147a5df556fe5a4b8b6f75455a6",
       "cosmeticIds": []
+   },
+   {
+      "guid": "F73C6F4CF5627A8618B11FAC0529E5D6",
+      "key": "70101ea3958d30e01e5772e4b40f1d55c9d94b3098a44ed3d6741c6b2d534d0b",
+      "cosmeticIds": [
+         "EID_BarrelRoll"
+      ]
    },
    {
       "guid": "F7591219D2C7DE5F225F0DCF06F27FE9",
