@@ -2756,6 +2756,13 @@
       ]
    },
    {
+      "guid": "6494EB145120A8365BA3274A354E48EC",
+      "key": "f3faaea769fff8504905c59bc1553fca1891c7a0aa86210ac3059b1afca4fdf4",
+      "cosmeticIds": [
+         "Character_PuzzleShed"
+      ]
+   },
+   {
       "guid": "64F68FB4F73B65DF1A6CABB6871A3839",
       "key": "98a240d5a5d38dfee9ff4104232d20f994b57511c5f49bbd4b0890a8caad8147",
       "cosmeticIds": []
