@@ -1193,6 +1193,14 @@
       ]
    },
    {
+      "guid": "2CCB626EE709616C5D67D5B2EFBDF17E",
+      "key": "1117257b536d110f6fb43b9a2d2723d3651c7a9091704daa174b756adc239de4",
+      "cosmeticIds": [
+         "EID_NerdStomp",
+         "EID_Vitality"
+      ]
+   },
+   {
       "guid": "2CEE3C1783B9E41EB66238BAD32EFF23",
       "key": "b9d9532fd69b83c2c81b2b56a4444c1951293eb8fd8a8db74761db20d1ed177a",
       "cosmeticIds": []
@@ -2962,6 +2970,13 @@
       "key": "c2308027d55a4e18137dbbd47ad0845901628b91a675f3f0142bf12efe62a7f8",
       "cosmeticIds": [
          "EID_Eerie_8WGYK"
+      ]
+   },
+   {
+      "guid": "6E9BFB5119DD8AD81EBD266D2D6EF8A6",
+      "key": "0f4f5a3681f78e36226c461b4fa6a187a0d51c5e3b317425b39dae566e95187a",
+      "cosmeticIds": [
+         "Shoes_GroovyGlow"
       ]
    },
    {
