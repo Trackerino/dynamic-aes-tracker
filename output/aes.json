@@ -2767,7 +2767,23 @@
       "guid": "6494EB145120A8365BA3274A354E48EC",
       "key": "f3faaea769fff8504905c59bc1553fca1891c7a0aa86210ac3059b1afca4fdf4",
       "cosmeticIds": [
-         "Character_PuzzleShed"
+         "Backpack_CajunTaco",
+         "Backpack_ChiveFlake",
+         "Backpack_PuzzleShed",
+         "Backpack_TwinkleLoop",
+         "Character_CajunTaco",
+         "Character_ChiveFlake",
+         "Character_PuzzleShed",
+         "Character_TwinkleLoop",
+         "EID_CajunTaco",
+         "EID_ChiveFlake",
+         "EID_PuzzleShed",
+         "Glider_PuzzleShed",
+         "Pickaxe_CajunTaco",
+         "Pickaxe_ChiveFlake",
+         "Pickaxe_PuzzleShed",
+         "Sparks_Bass_CajunTaco",
+         "Sparks_Keytar_ChiveFlake"
       ]
    },
    {
@@ -3091,6 +3107,13 @@
       "key": "3402f46cb5b5a7e71e2c5e258717e6d6f40f68c96ff1e34f3fab538b34d910dd",
       "cosmeticIds": [
          "CID_398_Athena_Commando_M_TreasureHunterFashion"
+      ]
+   },
+   {
+      "guid": "733A9B459F596541572CE5A75157823D",
+      "key": "d1aea56638266c98a3d9d4271141be05fb1f9c28fabf8671e5101b7e94484300",
+      "cosmeticIds": [
+         "CarSkin_MaserTimmy2"
       ]
    },
    {
