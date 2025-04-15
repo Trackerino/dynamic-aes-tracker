@@ -154,6 +154,14 @@
       "cosmeticIds": []
    },
    {
+      "guid": "044787796990FAE0EDFBF2EE3DD231EF",
+      "key": "aee500d3dfbe76333ecff47c177976bad16a020206a6af4e6389adbb8144aeb4",
+      "cosmeticIds": [
+         "EID_IcedOut",
+         "EID_Knockout"
+      ]
+   },
+   {
       "guid": "053E7EE2FE8B6EB117A01D1E0AF82AD1",
       "key": "483a810f47bfe1f0327f75823eac14403fe00e13163ed6dd4d9b798ffa773360",
       "cosmeticIds": []
@@ -2795,7 +2803,10 @@
       "guid": "64AA0D64B46EE80BAE5A51DB53B274E1",
       "key": "c9ebf9f17ee7913b3c26d7aa95bf8d2c6391794fe7b3502b34d4e0f6f2113a87",
       "cosmeticIds": [
-         "Shoes_RugbyTrunkGlimmer"
+         "Shoes_RugbyTrunkCricket",
+         "Shoes_RugbyTrunkGlimmer",
+         "Shoes_RugbyTrunkGolf",
+         "Shoes_RugbyTrunkJudo"
       ]
    },
    {
