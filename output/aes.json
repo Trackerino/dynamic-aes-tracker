@@ -2820,6 +2820,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "651A28F69CEF2E5A29BF7578D4178CF8",
+      "key": "11dd54b33bade5abc6058749de89476f7a1dfdeca3e5f30de3505ad24fca9f49",
+      "cosmeticIds": [
+         "Character_ButtonCase"
+      ]
+   },
+   {
       "guid": "6537263AA4E53B6A7B7D4AE3DE12826C",
       "key": "e96390474917256049e268b29325128ff85c1f8bb9253485a414f06887881714",
       "cosmeticIds": []
