@@ -2830,7 +2830,15 @@
       "guid": "651A28F69CEF2E5A29BF7578D4178CF8",
       "key": "11dd54b33bade5abc6058749de89476f7a1dfdeca3e5f30de3505ad24fca9f49",
       "cosmeticIds": [
-         "Character_ButtonCase"
+         "Backpack_ButtonCase",
+         "Backpack_CombCrater",
+         "Character_ButtonCase",
+         "Character_CombCrater",
+         "EID_ButtonCase",
+         "EID_CombCrater",
+         "Pickaxe_ButtonCase",
+         "Pickaxe_CombCrater",
+         "Wrap_ButtonCase"
       ]
    },
    {
