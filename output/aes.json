@@ -484,7 +484,8 @@
       "guid": "12FE0A05F765391B9A3B98599D32F8EE",
       "key": "bfd32cc35f55840f44a894dcc152cb091bbce5ee68fcd28fc388d084f4a1bfa1",
       "cosmeticIds": [
-         "CarBody_Frog"
+         "CarBody_Frog",
+         "Wheel_Frog"
       ]
    },
    {
@@ -3091,6 +3092,13 @@
       "key": "78e97fa16c507db718c50b638c4c81ed229718d24b1b0ad6553e098209404996",
       "cosmeticIds": [
          "EID_Chorus"
+      ]
+   },
+   {
+      "guid": "70138A053C25364806203EBB0A2F4B37",
+      "key": "eb73bd433ec231c62fec6408bccda8d1f4bc30f09d296f22c5ad768881cf477d",
+      "cosmeticIds": [
+         "Shoes_WhimFlairCalcite"
       ]
    },
    {
