@@ -519,7 +519,8 @@
       "guid": "14DBE38E6524D47A0E5B711AA2FC9A11",
       "key": "6bd64d5a2a22fea6be5efc5bc47656a1178177213da0f4613831bf7ed9866caf",
       "cosmeticIds": [
-         "CarBody_Magnet"
+         "CarBody_Magnet",
+         "Wheel_Magnet"
       ]
    },
    {
@@ -2095,7 +2096,14 @@
       "guid": "4A73071059B018FF7BF6D108A89CB0CE",
       "key": "ae5872e5478e722e84c98d0d6ff602d7b696834000e9e80dfb113401f2441df5",
       "cosmeticIds": [
-         "Character_OatmealSpreadGolem"
+         "Backpack_OatmealSpreadActive",
+         "Backpack_OatmealSpreadGolem",
+         "Character_OatmealSpreadActive",
+         "Character_OatmealSpreadGolem",
+         "EID_OatmealSpread",
+         "EID_OatmealSpread_Golem",
+         "Pickaxe_OatmealSpreadActive",
+         "Pickaxe_OatmealSpreadGolem"
       ]
    },
    {
@@ -3384,6 +3392,14 @@
          "BID_733_TheGoldenSkeletonFemale_SG4HF",
          "Pickaxe_ID_577_TheGoldenSkeletonFemale1H_Y6VJG",
          "Wrap_356_GoldenSkeletonF_FT0B3"
+      ]
+   },
+   {
+      "guid": "7B207555FF502443B58AB63D660A6DF3",
+      "key": "eb3e6c16a41fe343a1491e2da1bab877ed0ae23ffc5a6c4060491a61d8918ac9",
+      "cosmeticIds": [
+         "EID_Innocent",
+         "EID_Phantom"
       ]
    },
    {
