@@ -4600,6 +4600,14 @@
       ]
    },
    {
+      "guid": "AB49364AF91E33E44F23A9322A23D541",
+      "key": "e191b5b1283efeb2bbaf98815e266c15fa039042fc77bf7212b01d3df557f81f",
+      "cosmeticIds": [
+         "EID_FlamingPants",
+         "EID_GreatWall"
+      ]
+   },
+   {
       "guid": "AB8487812A4604F9FC59CA9BA2C6C2A6",
       "key": "354dffd5ff8b4e863d437d8e021eda0e70659d1ed6963963fcf6d875589bb6ca",
       "cosmeticIds": [
