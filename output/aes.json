@@ -4746,6 +4746,14 @@
       ]
    },
    {
+      "guid": "B14BA64F371AD2C5BFABD50C8F81867C",
+      "key": "fade77db1ebfd0f21e07afaaa132a66fe343eb96ffdc6015c88623d7f93a3a70",
+      "cosmeticIds": [
+         "EID_Rascals",
+         "EID_TimesTicking"
+      ]
+   },
+   {
       "guid": "B16BF216C9085E63B70056FF0459F87A",
       "key": "c4a42a424930e955b04f4a64ede2b37a91bd1ccf64ce2d993f049b74b5ada702",
       "cosmeticIds": []
