@@ -2061,7 +2061,9 @@
    {
       "guid": "4953CA170F2B37FBF04B5E67092BD3AF",
       "key": "dad75d7439a8ce018c710ce01a2681691860d7b7a8a1a3fb730434eb2e1e3da9",
-      "cosmeticIds": []
+      "cosmeticIds": [
+         "Character_StylusFluff"
+      ]
    },
    {
       "guid": "4969808C5315EFB4839F94626ECD600C",
