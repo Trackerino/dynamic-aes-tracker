@@ -2062,7 +2062,14 @@
       "guid": "4953CA170F2B37FBF04B5E67092BD3AF",
       "key": "dad75d7439a8ce018c710ce01a2681691860d7b7a8a1a3fb730434eb2e1e3da9",
       "cosmeticIds": [
-         "Character_StylusFluff"
+         "Backpack_LintMermaid",
+         "Backpack_StylusFluff",
+         "Character_LintMermaid",
+         "Character_StylusFluff",
+         "EID_LintMermaid",
+         "EID_StylusFluff",
+         "Wrap_LintMermaid",
+         "Wrap_StylusFluff"
       ]
    },
    {
