@@ -3837,6 +3837,11 @@
       "cosmeticIds": []
    },
    {
+      "guid": "8C7193F200B5CEFE0C3D02FD257E835C",
+      "key": "5f0a0548abc21f7afc89f8ca0d27271f9f7ffad1a0724c15e99e7d99ce64f607",
+      "cosmeticIds": []
+   },
+   {
       "guid": "8CB3CD29BF1611B7CA90D1C635859415",
       "key": "b3b815190b90cf6083c2a35d6ba757411a87f66a55e8d505bb5cdaa038a14185",
       "cosmeticIds": [
@@ -6683,6 +6688,11 @@
          "LSID_296_Cavern_60EXF",
          "Pickaxe_ID_589_CavernMale_9U0A8"
       ]
+   },
+   {
+      "guid": "FD5BC2E6C296401BF8A8C4820C9300AA",
+      "key": "475f6590586f5e4b1a2d7b1cdcab6abaf9ec7667474292a51b89ea3f5debdef0",
+      "cosmeticIds": []
    },
    {
       "guid": "FDBD57427BDE16DE844378F86FCB0A68",
