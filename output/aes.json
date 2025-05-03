@@ -140,7 +140,10 @@
       "guid": "0289D23EC5FC4E957718EB3AF3F3A6F4",
       "key": "3eed3ae8564ba180a3d1f6beebb57fb9890790982d3d2717f5c96194c0b90823",
       "cosmeticIds": [
-         "Shoes_NailChaseOffer"
+         "Shoes_NailChaseOffer",
+         "Shoes_YogurtWakeGuide",
+         "Shoes_YogurtWakeMild",
+         "Shoes_YogurtWakePatty"
       ]
    },
    {
@@ -166,6 +169,14 @@
       "cosmeticIds": [
          "EID_IcedOut",
          "EID_Knockout"
+      ]
+   },
+   {
+      "guid": "0535D420DB8E2871EA63614408B83425",
+      "key": "a4bc70c3c21d110a58c6a510b6a57fac404d7c3d33f5610e6d97a452fe12c94e",
+      "cosmeticIds": [
+         "Shoes_WhimFlairAgate",
+         "Shoes_WhimFlairCitrine"
       ]
    },
    {
@@ -6357,6 +6368,14 @@
       "key": "edd49fd90c7818680cfeaf02bece7800dc10bfa65b3ea8d5ac4d458755743120",
       "cosmeticIds": [
          "EID_Hurtle"
+      ]
+   },
+   {
+      "guid": "F1F849675BE9EB29FD477BD4D8A3CFC6",
+      "key": "bf92b15d437a0fbfd44e670deccbd07900041f3314a5ae4d80347ad15063a11c",
+      "cosmeticIds": [
+         "EID_BigStepper",
+         "EID_Cuteness"
       ]
    },
    {
