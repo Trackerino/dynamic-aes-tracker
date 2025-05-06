@@ -5622,6 +5622,15 @@
       ]
    },
    {
+      "guid": "D48D3D6D48A332834CCBCA14D576E0C5",
+      "key": "e75bb2b6dcf960c27cee5c974e2e4303f2aed9030b7df7bd01d3f43475d65d11",
+      "cosmeticIds": [
+         "EID_BrokenSpot",
+         "EID_Fugitive",
+         "EID_WindTunnel"
+      ]
+   },
+   {
       "guid": "D49757E2D55451A0D5B341906FE2ABE4",
       "key": "3d63309e3822ff050357ecb1834d90b14df78c0e76f5fc554d11f2aa792fdb57",
       "cosmeticIds": [
