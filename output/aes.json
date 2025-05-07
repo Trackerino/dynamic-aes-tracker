@@ -3008,6 +3008,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "68C5336152906D195B21EB04925C63F6",
+      "key": "7ccb47e0f29ab0d795697a0ccb63a36ada90de0c39e22955d588a31a006049b6",
+      "cosmeticIds": [
+         "Shoes_RadioFaintKimchi"
+      ]
+   },
+   {
       "guid": "691EE5E7D12D2AAB8094DC5C5C3294EA",
       "key": "1df9c58c2fbf1122fbc37aaab15ee55defbf486400449227009db11d766f1c90",
       "cosmeticIds": [
@@ -4899,6 +4906,13 @@
       "key": "b07b6e4565c7f72ad69f08cb85621217eefe1565f26a186ef7a47d9d36e3952c",
       "cosmeticIds": [
          "EID_BankNotes"
+      ]
+   },
+   {
+      "guid": "B7E9708739B451174B1AE73576F72ED3",
+      "key": "12eb9f672483836c6b456947f1423ba73740e4e733f362655a516b93a5cc3dc1",
+      "cosmeticIds": [
+         "Character_GeneAglet"
       ]
    },
    {
