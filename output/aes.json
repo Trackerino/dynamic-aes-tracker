@@ -2197,6 +2197,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "4E031903138CDB0CB2853738BB5F0353",
+      "key": "6d6ffb70a139ccf34bc56bc737773b6316ecc90ab81a3f8916b7e7d4b4f84bc0",
+      "cosmeticIds": [
+         "CarBody_Feline"
+      ]
+   },
+   {
       "guid": "4E7938F1FAC98BDF378823116712AC7A",
       "key": "8db655829ac82d34289947467891743ec005009c6c482b3970a717c1e64c020d",
       "cosmeticIds": [
