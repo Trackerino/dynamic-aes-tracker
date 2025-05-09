@@ -217,6 +217,13 @@
       ]
    },
    {
+      "guid": "069C3FD760C2FDD240FCE3DCFF55CAD3",
+      "key": "1608f90107d2105fae6e66a76fda98190eb120793156151152cfdd8d175557b4",
+      "cosmeticIds": [
+         "EID_SynthRose"
+      ]
+   },
+   {
       "guid": "06B9F77E165673FD1C5FF5099F43D1F3",
       "key": "06fc3a87818a38b8c2ff01601d0b222de3db05986d3e2361b6be6478306c7bbd",
       "cosmeticIds": [
@@ -2200,7 +2207,8 @@
       "guid": "4E031903138CDB0CB2853738BB5F0353",
       "key": "6d6ffb70a139ccf34bc56bc737773b6316ecc90ab81a3f8916b7e7d4b4f84bc0",
       "cosmeticIds": [
-         "CarBody_Feline"
+         "CarBody_Feline",
+         "CarSkin_FelineLightning"
       ]
    },
    {
@@ -5890,7 +5898,13 @@
    {
       "guid": "DF40A550B42AB71FB4AEEE9E24A9F1F5",
       "key": "a0bb3ed580989c3cc8b5ea0079620cece607054757f8644769c1c54e0140c60f",
-      "cosmeticIds": []
+      "cosmeticIds": [
+         "Character_CobSink",
+         "Character_CoilGrip",
+         "Character_PonyShore",
+         "Character_SleetReceipt",
+         "Wrap_SleetReceipt"
+      ]
    },
    {
       "guid": "DFE6C0504C061EEF0E77A43EE3B613E6",
