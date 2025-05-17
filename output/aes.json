@@ -290,6 +290,20 @@
       ]
    },
    {
+      "guid": "0912D8118DCA0DC97986D5918BE6047F",
+      "key": "eea3eb4c6ed2bae602ee032a67d146b3efc43a7d44e6c9b32e558594a4f3c810",
+      "cosmeticIds": [
+         "Backpack_MoleAcornGloam",
+         "Backpack_MoleAcornPecan",
+         "Character_MoleAcornGloam",
+         "Character_MoleAcornPecan",
+         "Pickaxe_MoleAcornGloam",
+         "Pickaxe_MoleAcornPecan",
+         "Wrap_MoleAcornGloam",
+         "Wrap_MoleAcornPecan"
+      ]
+   },
+   {
       "guid": "099F6A310406E06EEE5B011F57E8ADC5",
       "key": "78dd27d86be155f5bc2ca3d503e2ef95e80008e5cb40bc8ec6ddb8c051116a2a",
       "cosmeticIds": [
@@ -2922,6 +2936,16 @@
       "guid": "65000C27C3BC5B9B904A0D20050D6B36",
       "key": "245c108bbb568090ebf84e06cd853fae06ac8e393ed4129107f37cf1eeeb56f2",
       "cosmeticIds": []
+   },
+   {
+      "guid": "651931BC74D31B3C85F94AD815734D90",
+      "key": "96140323148b1ff5afd5c90ab685bb800a7137b3c9aad5c0e089c3ecd5dde5ab",
+      "cosmeticIds": [
+         "Shoes_VolumeWellArgyle",
+         "Shoes_VolumeWellChecker",
+         "Shoes_VolumeWellPlaid",
+         "Shoes_VolumeWellStripe"
+      ]
    },
    {
       "guid": "651A28F69CEF2E5A29BF7578D4178CF8",
@@ -6032,6 +6056,14 @@
       "guid": "E36F7DC3B2ECE987FC956C3CF7E71F21",
       "key": "f98d623c3451eda75e12379bba8e83cc18879202b473864ec209ab9d8631e37c",
       "cosmeticIds": []
+   },
+   {
+      "guid": "E3AE47F00726AC6658C09D37F65ED52E",
+      "key": "b3c80110d913b2372a243b749eb4399702eb13f18a76b82bfdca287dda6a9701",
+      "cosmeticIds": [
+         "EID_AlienNation",
+         "EID_PlatinumGrillz"
+      ]
    },
    {
       "guid": "E3D0A604B93651DDC6779B14F21D0FDA",
