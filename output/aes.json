@@ -1960,7 +1960,12 @@
       "guid": "4486CF5940D8BC64EF29B940EBA909D3",
       "key": "eb81b179cf18a4f81c72fc069354990791a3bf42fadcebd758685ff1777a0e66",
       "cosmeticIds": [
-         "Character_WingBath"
+         "Backpack_WingBath",
+         "Character_WingBath",
+         "EID_WingBath",
+         "EID_WingBath_Sturdy",
+         "Pickaxe_WingBath",
+         "Wrap_WingBath"
       ]
    },
    {
@@ -5881,6 +5886,9 @@
       "guid": "DBB6DFD531EC29CEED526CCF23A3A5A2",
       "key": "3a0c5f7ff1863a163478eec0e1114d39eb0d671e1516d0355f54cfb42f35f776",
       "cosmeticIds": [
+         "Shoes_QuoteSlipJalopy",
+         "Shoes_SprawlBringJay",
+         "Shoes_SprawlBringToucan",
          "Shoes_StreetPaint"
       ]
    },
