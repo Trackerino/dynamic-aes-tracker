@@ -4599,6 +4599,13 @@
       ]
    },
    {
+      "guid": "A658AB1BB18930F431F113EA6819A7A2",
+      "key": "932566a6a95e2f379e59a55a3f3516e19ceb51335df1a3a58baa7444e51a0de7",
+      "cosmeticIds": [
+         "EID_GreatEscape"
+      ]
+   },
+   {
       "guid": "A6855B699FE10FE50301AFE1A4FA74CB",
       "key": "7ca5c56ca5ba7545872d20bc33828b020d5e9555c7fb0628b856e9befb6221c6",
       "cosmeticIds": []
@@ -5453,6 +5460,13 @@
       "cosmeticIds": [
          "Contrail_KelpLinen",
          "EID_Kelplinen_Calcium"
+      ]
+   },
+   {
+      "guid": "CB2042D19AA31F8841AD043A4F218069",
+      "key": "d1747d51412e1df774e1f3c360029e9ab4694840700fe804d29e32bd628e7983",
+      "cosmeticIds": [
+         "EID_Egocentric"
       ]
    },
    {
