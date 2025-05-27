@@ -1230,6 +1230,14 @@
       "cosmeticIds": []
    },
    {
+      "guid": "29E19CAB362E6412960BE58D79926049",
+      "key": "feb9f71d02932812d224f8388b912fa78e40f7ca4e69a39937c0d0542ca52246",
+      "cosmeticIds": [
+         "EID_Afterparty",
+         "EID_Crowdsurfing"
+      ]
+   },
+   {
       "guid": "29F9F9F254AE395E6518C4E938FAD223",
       "key": "6078ada9b1a8fd77149cedf1727683f18a505358086680a6a71fa86e86092d3a",
       "cosmeticIds": [
