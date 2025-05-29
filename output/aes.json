@@ -3593,6 +3593,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "7E8981626FC43AD39D8CCB3BB64F40D4",
+      "key": "5801c4d86dcf004ba004f17941a9c8d88129a49e848071fdd18997186ac70328",
+      "cosmeticIds": [
+         "EID_KnitBarrel"
+      ]
+   },
+   {
       "guid": "7E9E6546A8C7109E9966F9C010D794A7",
       "key": "fe1254f5223121ec09eed6a2980ac0c136dbb861bfe131eb2af30495c4cccc8d",
       "cosmeticIds": [
@@ -3696,6 +3703,13 @@
       "guid": "8033BA4F3E1FB68ABADE271C9BE4EE42",
       "key": "5c6c00f1159d6afa5e49c429a8cfda1687774864c1dcf89b74613b886291e238",
       "cosmeticIds": []
+   },
+   {
+      "guid": "8085668882A7951199FD70C0D80A79C8",
+      "key": "2e97405cf9a0cb15172d543480780317bec33cdb7f28ed5fe86253ccbd3dfe69",
+      "cosmeticIds": [
+         "CarBody_Rafael"
+      ]
    },
    {
       "guid": "80B01346D82C75E9165D30C8D4670D67",
@@ -5424,6 +5438,13 @@
       "guid": "C779C5126616BE8EA5FF851D2FF1FF34",
       "key": "b8af7bc8b6d9981beb5a194c9509987d55aada5e26472fc2126e47ff37331432",
       "cosmeticIds": []
+   },
+   {
+      "guid": "C809D4746D6D7383050662723FD75EE0",
+      "key": "1e7dbd84508285dabd14c6ae67910846024b5aa5d8d6f1c9e488ab3e7d27f055",
+      "cosmeticIds": [
+         "Character_ForwardLake_Dire"
+      ]
    },
    {
       "guid": "C811FB0357FAC2A923E8DE46507A2D92",
