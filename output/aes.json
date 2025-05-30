@@ -1501,6 +1501,15 @@
       ]
    },
    {
+      "guid": "31D481A8CC712487E580B9E0B0218373",
+      "key": "bf05db8f2da4d694f7160f4d859b150c49b7ccb8e9360127541e9f6804fb3f0c",
+      "cosmeticIds": [
+         "Shoes_PondRider",
+         "Shoes_YukonGladRusset",
+         "Shoes_YukonGladTube"
+      ]
+   },
+   {
       "guid": "32764FCBF59EE921F09499469FF79875",
       "key": "40bd43cd3c884279e89b6d846b26835be9dbbd6a3c8b59a2b42b40302ec8eb9a",
       "cosmeticIds": [
@@ -3708,7 +3717,8 @@
       "guid": "8085668882A7951199FD70C0D80A79C8",
       "key": "2e97405cf9a0cb15172d543480780317bec33cdb7f28ed5fe86253ccbd3dfe69",
       "cosmeticIds": [
-         "CarBody_Rafael"
+         "CarBody_Rafael",
+         "CarSkin_RafaelLivery3"
       ]
    },
    {
@@ -6261,6 +6271,13 @@
          "Character_FreeDrive",
          "Pickaxe_FreeDrive",
          "Wrap_FreeDrive"
+      ]
+   },
+   {
+      "guid": "E5EE8B4F0AEC2A9C0B75C8DB56C4DB3A",
+      "key": "6587298040afa8182ff5abc0ce6c47126cb298f398793710e290b50147e984b3",
+      "cosmeticIds": [
+         "EID_NeonDream"
       ]
    },
    {
