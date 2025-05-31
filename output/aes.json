@@ -5458,7 +5458,12 @@
       "guid": "C809D4746D6D7383050662723FD75EE0",
       "key": "1e7dbd84508285dabd14c6ae67910846024b5aa5d8d6f1c9e488ab3e7d27f055",
       "cosmeticIds": [
-         "Character_ForwardLake_Dire"
+         "Backpack_ForwardLakeDire",
+         "Character_ForwardLake_Dire",
+         "EID_ForwardLake_Dire",
+         "Glider_ForwardLakeDire",
+         "Pickaxe_ForwardLakeDire",
+         "Wrap_ForwardLake_Dire"
       ]
    },
    {
@@ -6143,6 +6148,13 @@
       "guid": "E2A2B587160A4C443BF5455EDEC37D7E",
       "key": "fa71f715ee14f1a91a432128cbe8376fa213eb9f7754f6353d98f03fe77fc9d9",
       "cosmeticIds": []
+   },
+   {
+      "guid": "E2E4998E80F5840D2F7DB6CD1A2C8F81",
+      "key": "8354aa286e4b88b01f81bc3d6099d94df4031ec7444728a8679ca158247215f3",
+      "cosmeticIds": [
+         "EID_MustardRocket"
+      ]
    },
    {
       "guid": "E36F7DC3B2ECE987FC956C3CF7E71F21",
