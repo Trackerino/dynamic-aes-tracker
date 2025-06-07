@@ -1,5 +1,20 @@
 [
    {
+      "guid": "D79AB2C3DF4BEA1654BDFC5904F2B31C",
+      "key": "4fb0e3eb8ddc1f2c3196c8bdbba696c07f322f8fbf2560702f8b0a691b8c913d",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "213432DC14EE2264EBCFE126AF507BE0",
+      "key": "475cea1131071db2c32afbb87cd142230b9c3ebb5108c6968ad7c5a016249a0a",
+      "cosmeticIds": []
+   },
+   {
+      "guid": "435081A591BB5FDB12F5366465B29558",
+      "key": "7109d60151c34e8792b3d89457b757944a3fee5ce2735b855bee7f2cca585b0e",
+      "cosmeticIds": []
+   },
+   {
       "guid": "0001859EA7AF69EF10A6F7921DD4DD9A",
       "key": "dccf763255a8d9bd55d389b18b373b70707a4c33ff5089eca5f591e324fb2b78",
       "cosmeticIds": []
