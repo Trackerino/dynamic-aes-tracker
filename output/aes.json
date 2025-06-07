@@ -1,20 +1,5 @@
 [
    {
-      "guid": "D79AB2C3DF4BEA1654BDFC5904F2B31C",
-      "key": "4fb0e3eb8ddc1f2c3196c8bdbba696c07f322f8fbf2560702f8b0a691b8c913d",
-      "cosmeticIds": []
-   },
-   {
-      "guid": "213432DC14EE2264EBCFE126AF507BE0",
-      "key": "475cea1131071db2c32afbb87cd142230b9c3ebb5108c6968ad7c5a016249a0a",
-      "cosmeticIds": []
-   },
-   {
-      "guid": "435081A591BB5FDB12F5366465B29558",
-      "key": "7109d60151c34e8792b3d89457b757944a3fee5ce2735b855bee7f2cca585b0e",
-      "cosmeticIds": []
-   },
-   {
       "guid": "0001859EA7AF69EF10A6F7921DD4DD9A",
       "key": "dccf763255a8d9bd55d389b18b373b70707a4c33ff5089eca5f591e324fb2b78",
       "cosmeticIds": []
@@ -980,6 +965,13 @@
       "key": "e96cf8b5e6d44258b7e7c75cfc3af9e77aa3f7e7e4329712680efffef5a9e3f7",
       "cosmeticIds": [
          "EID_Meditation"
+      ]
+   },
+   {
+      "guid": "213432DC14EE2264EBCFE126AF507BE0",
+      "key": "475cea1131071db2c32afbb87cd142230b9c3ebb5108c6968ad7c5a016249a0a",
+      "cosmeticIds": [
+         "GameFeaturePlugin_RipeHoneydewNight"
       ]
    },
    {
@@ -1984,6 +1976,11 @@
          "Wrap_SequinPie",
          "Wrap_SequinPie,F1FD75AEB8137DD7B45C83780192AA98"
       ]
+   },
+   {
+      "guid": "435081A591BB5FDB12F5366465B29558",
+      "key": "7109d60151c34e8792b3d89457b757944a3fee5ce2735b855bee7f2cca585b0e",
+      "cosmeticIds": []
    },
    {
       "guid": "43A45B945DE35DE1EC0853B59A7A095E",
@@ -5872,6 +5869,11 @@
       "cosmeticIds": [
          "Glider_ID_121_BriteBomberDeluxe"
       ]
+   },
+   {
+      "guid": "D79AB2C3DF4BEA1654BDFC5904F2B31C",
+      "key": "4fb0e3eb8ddc1f2c3196c8bdbba696c07f322f8fbf2560702f8b0a691b8c913d",
+      "cosmeticIds": []
    },
    {
       "guid": "D79AB2C3DF4BEA1654BDFC5904F2B31C",
