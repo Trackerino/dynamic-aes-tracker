@@ -3436,6 +3436,11 @@
       ]
    },
    {
+      "guid": "775056356849367BC0B1B596C264EEC8",
+      "key": "0b0f2a29a8a00d09869c5d0b7cb00e46a886b4e8b2019a11b0028976ef493e91",
+      "cosmeticIds": []
+   },
+   {
       "guid": "77B485EBF8E72CC8CD19F8646A6D0491",
       "key": "4975072500eec411afd0fcc3b6e56c0f1372b9b1bfa601fdb3d14cbe2992d184",
       "cosmeticIds": [
@@ -5845,6 +5850,11 @@
       "cosmeticIds": [
          "Glider_ID_121_BriteBomberDeluxe"
       ]
+   },
+   {
+      "guid": "D79AB2C3DF4BEA1654BDFC5904F2B31C",
+      "key": "4fb0e3eb8ddc1f2c3196c8bdbba696c07f322f8fbf2560702f8b0a691b8c913d",
+      "cosmeticIds": []
    },
    {
       "guid": "D7EDE7B4CE393235BF4EB8779C55D5AE",
