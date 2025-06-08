@@ -3617,6 +3617,16 @@
       ]
    },
    {
+      "guid": "7D958CCC7D90ACFD9EC1F6594D6E49C1",
+      "key": "92cfc672e05e716ca96a869161543a2fa4dc5d46a94b4eea0ede160eb308e467",
+      "cosmeticIds": [
+         "Shoes_FrontDukeBedlam",
+         "Shoes_FrontDukeCatamaran",
+         "Shoes_FrontDukeDerecho",
+         "Shoes_FrontDukeFez"
+      ]
+   },
+   {
       "guid": "7DA161D7F5AB6AF6582AE0A40C803E35",
       "key": "2d22f69bd4c24f21d1208e4d271dca998aff65fa21cf69d651b45428fa8090e5",
       "cosmeticIds": []
