@@ -756,6 +756,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "1A953EAF7548E4B173F6908B93CF5FAF",
+      "key": "909df0e1b48fff15de3ff4e3185c4ed06c5d25d08652a3a685fba3164563ca71",
+      "cosmeticIds": [
+         "EID_SolarPower"
+      ]
+   },
+   {
       "guid": "1A9B01B59F609C0D7E9EF7887DA23087",
       "key": "12441d5e13c3f497ba069edd97065d9645f64b485aafabea50e8cc205f6775f7",
       "cosmeticIds": [
