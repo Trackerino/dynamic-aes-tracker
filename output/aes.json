@@ -982,13 +982,6 @@
       ]
    },
    {
-      "guid": "213432DC14EE2264EBCFE126AF507BE0",
-      "key": "475cea1131071db2c32afbb87cd142230b9c3ebb5108c6968ad7c5a016249a0a",
-      "cosmeticIds": [
-         "GameFeaturePlugin_RipeHoneydewNight"
-      ]
-   },
-   {
       "guid": "216BD226A5871096D185626C0C8D9AC8",
       "key": "76b458bbc47392e98b6c630e5fbdb36d39755314f735aa28682663cf254c7215",
       "cosmeticIds": [
@@ -3627,10 +3620,13 @@
       "guid": "7D958CCC7D90ACFD9EC1F6594D6E49C1",
       "key": "92cfc672e05e716ca96a869161543a2fa4dc5d46a94b4eea0ede160eb308e467",
       "cosmeticIds": [
+         "Shoes_BarnCourt",
          "Shoes_FrontDukeBedlam",
          "Shoes_FrontDukeCatamaran",
          "Shoes_FrontDukeDerecho",
-         "Shoes_FrontDukeFez"
+         "Shoes_FrontDukeFez",
+         "Shoes_HowlFeast",
+         "Shoes_SprawlBringFinch"
       ]
    },
    {
@@ -5886,11 +5882,6 @@
       "cosmeticIds": [
          "Glider_ID_121_BriteBomberDeluxe"
       ]
-   },
-   {
-      "guid": "D79AB2C3DF4BEA1654BDFC5904F2B31C",
-      "key": "4fb0e3eb8ddc1f2c3196c8bdbba696c07f322f8fbf2560702f8b0a691b8c913d",
-      "cosmeticIds": []
    },
    {
       "guid": "D79AB2C3DF4BEA1654BDFC5904F2B31C",
