@@ -477,6 +477,13 @@
       ]
    },
    {
+      "guid": "10D88AE74466C3273BC93282260740D3",
+      "key": "1cc2a1bb3d79c286996c70cb8ca5354af0aa6b7a52d4029706fa0ee4630d559c",
+      "cosmeticIds": [
+         "EID_WaitingRoom"
+      ]
+   },
+   {
       "guid": "110D116208C62834812C2EDF2F305E49",
       "key": "330b85e735fb1a940218bdb0f82c243e61b31f7ab4e585282e8e6e76154c34f8",
       "cosmeticIds": [
