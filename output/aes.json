@@ -6589,6 +6589,7 @@
       "guid": "EF36A7F518A81A283A2644F7061BE727",
       "key": "7293601bae01ee888de39e557ac1093bb3c9abf68b385b60e4b8bbbabb099d3a",
       "cosmeticIds": [
+         "CarBody_FBRN",
          "Wheel_Fbrn"
       ]
    },
