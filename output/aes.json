@@ -3633,6 +3633,7 @@
          "Shoes_FrontDukeDerecho",
          "Shoes_FrontDukeFez",
          "Shoes_HowlFeast",
+         "Shoes_QuoteSlipKismet",
          "Shoes_SprawlBringFinch"
       ]
    },
@@ -4846,7 +4847,20 @@
       "guid": "AC33A405DF8913D5ADCC8D4741A70F03",
       "key": "d19705fd0254d5eaa7cd7aee2e592440372eac04b97a87cdb6479536efcfa0dc",
       "cosmeticIds": [
-         "Pickaxe_HedgeSprig"
+         "Backpack_CyclopsPrey",
+         "Backpack_HedgeSprig",
+         "Backpack_LiverRomaine",
+         "Character_CyclopsPrey",
+         "Character_HedgeSprig",
+         "Character_LiverRomaine",
+         "EID_CyclopsPrey",
+         "EID_CyclopsPrey_Sizzle",
+         "EID_HedgeSprig",
+         "EID_LiverRomaine",
+         "Pickaxe_CyclopsPrey",
+         "Pickaxe_HedgeSprig",
+         "Pickaxe_LiverRomaine",
+         "Wrap_HedgeSprig"
       ]
    },
    {
