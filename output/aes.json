@@ -2318,6 +2318,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "4EFCE22AB8266F92384D691FD5AB0F5C",
+      "key": "223d07a562b88037ef4e3c876d7cb7e3a4adaf56879994ca62a4a73136640b70",
+      "cosmeticIds": [
+         "EID_Valentine"
+      ]
+   },
+   {
       "guid": "4EFDA950DA6AA1E6422D2FBF6B89DE85",
       "key": "1c3108fae7e6005d55376fa66223851450e33d501f904726ae7c93421f39766a",
       "cosmeticIds": [
