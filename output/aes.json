@@ -5562,6 +5562,16 @@
       "cosmeticIds": []
    },
    {
+      "guid": "C8AFD634F15A1B6D889B0F226FDF7C29",
+      "key": "bf623a7b9811bf4a39405efccaf966a9282345c328da6adf31079b4f2b887470",
+      "cosmeticIds": [
+         "Backpack_SafariGnome",
+         "Character_SafariGnome",
+         "EID_SafariGnome",
+         "Wrap_SafariGnome"
+      ]
+   },
+   {
       "guid": "C8EDBD039269967B5BE92CCDD8A9D62F",
       "key": "f2047bc2e136d9d8de7070e450029f6c10adbf0c167958d9c523816a0f5dac8e",
       "cosmeticIds": [
