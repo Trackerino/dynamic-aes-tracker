@@ -2221,6 +2221,13 @@
       ]
    },
    {
+      "guid": "4A5EA47E3D6694C18725197F580440C4",
+      "key": "e506900c8ac62e4262695f3f92faa7b32f2563d8ad74c9410f6f897340b294e4",
+      "cosmeticIds": [
+         "CarBody_ZRF"
+      ]
+   },
+   {
       "guid": "4A73071059B018FF7BF6D108A89CB0CE",
       "key": "ae5872e5478e722e84c98d0d6ff602d7b696834000e9e80dfb113401f2441df5",
       "cosmeticIds": [
@@ -6003,6 +6010,13 @@
       "key": "f72151596e1c41eed33d590c6d84b406495152c210a301ccdd7bc257c34dc0b7",
       "cosmeticIds": [
          "EID_Prelude"
+      ]
+   },
+   {
+      "guid": "D8DC580C9F6F41BC517EDE761ECF2556",
+      "key": "7a491aa6d903ae8c57f6640e80c40138e10303529ba1722efbce37263601b656",
+      "cosmeticIds": [
+         "Wheel_Aglet02"
       ]
    },
    {
