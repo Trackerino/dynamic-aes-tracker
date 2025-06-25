@@ -3333,7 +3333,9 @@
    {
       "guid": "71BE7F4CE59E60C72F50DCD3420DF1FB",
       "key": "122e573525a3ae911259df5d5d57130e75ff590a324a9a3c71e199f5d8a5c459",
-      "cosmeticIds": []
+      "cosmeticIds": [
+         "Character_TimberStakeClub"
+      ]
    },
    {
       "guid": "71BEC74046C6920A467E57B69FA3835A",
