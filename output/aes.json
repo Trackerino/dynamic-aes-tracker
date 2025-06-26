@@ -2224,7 +2224,8 @@
       "guid": "4A5EA47E3D6694C18725197F580440C4",
       "key": "e506900c8ac62e4262695f3f92faa7b32f2563d8ad74c9410f6f897340b294e4",
       "cosmeticIds": [
-         "CarBody_ZRF"
+         "CarBody_ZRF",
+         "Wheel_ZRF"
       ]
    },
    {
@@ -6024,7 +6025,10 @@
       "guid": "D8DC580C9F6F41BC517EDE761ECF2556",
       "key": "7a491aa6d903ae8c57f6640e80c40138e10303529ba1722efbce37263601b656",
       "cosmeticIds": [
-         "Wheel_Aglet02"
+         "Wheel_Aglet02",
+         "Wheel_Aglet03",
+         "Wheel_Aglet04",
+         "Wheel_Aglet05"
       ]
    },
    {
