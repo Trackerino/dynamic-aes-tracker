@@ -630,7 +630,10 @@
       "key": "054cac1a2535947b0b75610777bd8318cd3cfaace62b9e6f162dd86467b24c6d",
       "cosmeticIds": [
          "Shoes_DragonBulbBlush",
-         "Shoes_DragonBulbRouge"
+         "Shoes_DragonBulbRouge",
+         "Shoes_FlashyFever",
+         "Shoes_GarageRainPlaster",
+         "Shoes_QuoteSlipGuru"
       ]
    },
    {
@@ -3335,8 +3338,22 @@
       "guid": "71BE7F4CE59E60C72F50DCD3420DF1FB",
       "key": "122e573525a3ae911259df5d5d57130e75ff590a324a9a3c71e199f5d8a5c459",
       "cosmeticIds": [
+         "Backpack_TimberStakeDrift",
+         "Backpack_TimberStakeSoul",
          "Character_TimberStakeClub",
-         "Character_TimberStakeDrift"
+         "Character_TimberStakeDrift",
+         "Character_TimberStakeDrift_B",
+         "Character_TimberStakeDrift_C",
+         "Character_TimberStakeDrift_D",
+         "Character_TimberStakeDrift_E",
+         "Character_TimberStakePurse",
+         "Character_TimberStakeSoul",
+         "Character_TimberStakeSoul_B",
+         "Character_TimberStakeSoul_C",
+         "Character_TimberStakeSoul_D",
+         "Character_TimberStakeSoul_E",
+         "EID_TimberStake",
+         "Wrap_TimberStake"
       ]
    },
    {
