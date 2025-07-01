@@ -3849,6 +3849,18 @@
       "cosmeticIds": []
    },
    {
+      "guid": "8184C7D122B746F954C5B7298FD06256",
+      "key": "838567573af9e1f9df38727610998e5f2127b64754af0e6870413149ab073a9c",
+      "cosmeticIds": [
+         "CarBody_Alokin",
+         "CarSkin_AlokinLivery01",
+         "CarSkin_AlokinLivery02",
+         "CarSkin_AlokinLivery03",
+         "Wheel_RL119",
+         "Wheel_RL119B"
+      ]
+   },
+   {
       "guid": "819F658DBDBB5D333430800891F28361",
       "key": "bbffa4bafe83b22528b943aeb1145f0bc4e2e6b08a86c808cb1c8e9cb1f7321d",
       "cosmeticIds": [
