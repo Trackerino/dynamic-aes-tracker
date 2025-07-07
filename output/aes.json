@@ -1511,6 +1511,13 @@
       ]
    },
    {
+      "guid": "30A994173A989FBDE8532A424D521AC3",
+      "key": "6bf1a4d09998bdc14730fe255283d89fb4daa2efb5aa5c6ad677ed634e59825f",
+      "cosmeticIds": [
+         "EID_CyberIce"
+      ]
+   },
+   {
       "guid": "30B53CD6A14D4EE40C71C60E9EE0DD93",
       "key": "445bdc6d2ef843760f9d0a7151b85a7f37a2a9560abfa171ba47e2efb8764dd2",
       "cosmeticIds": []
