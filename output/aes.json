@@ -157,6 +157,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "02D6157B89DFEB20039320BAACC31205",
+      "key": "b02073c9caa3002b78147b39bb0cb0339e23eea0822699757a5ae05794de7db1",
+      "cosmeticIds": [
+         "Character_ShirtTilapia"
+      ]
+   },
+   {
       "guid": "03DFE957E1454D5A0486358ED5DE9C56",
       "key": "c73d5a784e47534123ff8929fd65e7b1984b061efecfe696573d06d713ab4c1f",
       "cosmeticIds": [
