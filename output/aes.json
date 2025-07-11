@@ -160,7 +160,13 @@
       "guid": "02D6157B89DFEB20039320BAACC31205",
       "key": "b02073c9caa3002b78147b39bb0cb0339e23eea0822699757a5ae05794de7db1",
       "cosmeticIds": [
-         "Character_ShirtTilapia"
+         "Backpack_ScrapTunnel",
+         "Backpack_ShirtTilapia",
+         "Character_ScrapTunnel",
+         "Character_ShirtTilapia",
+         "EID_ShirtTilapia",
+         "EID_ShirtTilapia_Toast",
+         "Pickaxe_ShirtTilapia"
       ]
    },
    {
@@ -5804,6 +5810,13 @@
       "guid": "CF159FCCE55868D72C8E66DE0F96A409",
       "key": "684d754488b1907e38086431ffabfafd559702db55244444f2e167c8e1e41751",
       "cosmeticIds": []
+   },
+   {
+      "guid": "D015A683141A28CFF1A51677703DC0BF",
+      "key": "bbc0e5782b076d45f51ba5dfe9208410cc8252accbdebb3f26e201a4012168a7",
+      "cosmeticIds": [
+         "EID_ChelseaHotel"
+      ]
    },
    {
       "guid": "D01F7B7A687A459D3F28B8A3BD96E31D",
