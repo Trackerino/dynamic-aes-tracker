@@ -2343,6 +2343,11 @@
       ]
    },
    {
+      "guid": "4E78E447E038BED1C9DDD5950DE334B4",
+      "key": "53eb59ea8d5324dac4e5d6dc599eb3dea8aa25b7fbf011c765a2e12e679a6816",
+      "cosmeticIds": []
+   },
+   {
       "guid": "4E7938F1FAC98BDF378823116712AC7A",
       "key": "8db655829ac82d34289947467891743ec005009c6c482b3970a717c1e64c020d",
       "cosmeticIds": [
@@ -5778,6 +5783,11 @@
       "cosmeticIds": [
          "EID_Streamline"
       ]
+   },
+   {
+      "guid": "CDAD97CD0FC90BBAD6737913187036C1",
+      "key": "6e7c792f5cb75feba5b6532cede3274d9e2d8e48fdda8d7acbebd55a230c235a",
+      "cosmeticIds": []
    },
    {
       "guid": "CDCC968B6DEB5D05990F5D530A4B19D0",
