@@ -166,6 +166,7 @@
          "Character_ShirtTilapia",
          "EID_ShirtTilapia",
          "EID_ShirtTilapia_Toast",
+         "Pickaxe_ScrapTunnel",
          "Pickaxe_ShirtTilapia"
       ]
    },
@@ -187,6 +188,14 @@
       "cosmeticIds": [
          "EID_IcedOut",
          "EID_Knockout"
+      ]
+   },
+   {
+      "guid": "045A90E1FE00E2D49195D96C8E99C47F",
+      "key": "665bb66e6a0ca5f7a78165ed4eac88168951ccc1182cb2206a721001937c937b",
+      "cosmeticIds": [
+         "Shoes_SashSkewerBumble",
+         "Shoes_SashSkewerStinger"
       ]
    },
    {
