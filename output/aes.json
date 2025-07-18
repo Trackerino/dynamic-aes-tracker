@@ -194,8 +194,12 @@
       "guid": "045A90E1FE00E2D49195D96C8E99C47F",
       "key": "665bb66e6a0ca5f7a78165ed4eac88168951ccc1182cb2206a721001937c937b",
       "cosmeticIds": [
+         "Shoes_GildedSeam",
          "Shoes_SashSkewerBumble",
-         "Shoes_SashSkewerStinger"
+         "Shoes_SashSkewerStinger",
+         "Shoes_StarfallPulse",
+         "Shoes_SunsetTreads",
+         "Shoes_VisionHorseBaron"
       ]
    },
    {
@@ -2456,6 +2460,13 @@
       "guid": "514364A06F8C12C3398C5F63D909EF7D",
       "key": "0fcfdb8f77ad160f1e24e559dba2fea4caec7654eeb1b82f47608be16a8a9771",
       "cosmeticIds": []
+   },
+   {
+      "guid": "520C3EF83DC0F626B9527B25D3414F79",
+      "key": "a5ae0a28e1687571d434a7eb3fcdd7991603a71e99cbe28e38cf6e87b5849e81",
+      "cosmeticIds": [
+         "EID_BaggyPants"
+      ]
    },
    {
       "guid": "522BADEC3C1B8FB686B355A760304BF9",
