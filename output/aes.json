@@ -5522,6 +5522,15 @@
       ]
    },
    {
+      "guid": "C2995BDA75D187D3F5BDD277B8439F1C",
+      "key": "e13b7a44e38e147f52ed14251e76ba2bac83403812ff485f471ba3893988b387",
+      "cosmeticIds": [
+         "Backpack_FloralCardinal",
+         "Character_FloralCardinal",
+         "EID_FloralCardinal"
+      ]
+   },
+   {
       "guid": "C3199640B42F4B786E91D715E3EE5B33",
       "key": "0a50d589a6e91ca71586a051ad94e070f320f6367d776f9ca327db6bb011c926",
       "cosmeticIds": []
