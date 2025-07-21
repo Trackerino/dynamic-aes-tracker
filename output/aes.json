@@ -1758,6 +1758,14 @@
       "cosmeticIds": []
    },
    {
+      "guid": "37F145ECB74FC19BE0DCB5C163ACA147",
+      "key": "bcbc22122536c340c3fb64d73e675d1a1d29b847151a1ae5cf79a9ba3a0f49d5",
+      "cosmeticIds": [
+         "EID_FightNight",
+         "EID_Telenovela"
+      ]
+   },
+   {
       "guid": "38520288A2C9F2B156356BC34A111E4A",
       "key": "25bdec2cab31b09c229fe950e14eebecdf6538537acc05220aca3b98c4b9b3e4",
       "cosmeticIds": [
