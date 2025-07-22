@@ -2434,6 +2434,11 @@
       ]
    },
    {
+      "guid": "50281D487256806BE07AA1A16C4EAAE8",
+      "key": "8dd93989b06d5ffabaaf9b32c5acd968d96b6ace9322429bbded9d25059648a0",
+      "cosmeticIds": []
+   },
+   {
       "guid": "504BC0A80EE72DFEEF9CB7EE3FFCE163",
       "key": "793a081a2862d254d54dc1e27ad92c9757ba70705fe61df46983b9617a565d8e",
       "cosmeticIds": []
@@ -2879,6 +2884,11 @@
       "cosmeticIds": [
          "EID_Competitor"
       ]
+   },
+   {
+      "guid": "5E0E7C34A9D2B13E492777D23893B96D",
+      "key": "5885b078983cc7c3cfc0567906786307cce22f60e1b504a0d560fa317594d591",
+      "cosmeticIds": []
    },
    {
       "guid": "5E15C5486CE8E539552D4D3E7682F9E2",
