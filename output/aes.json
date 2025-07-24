@@ -387,6 +387,13 @@
       ]
    },
    {
+      "guid": "0AA8127187D5A085B211C1D214FBBEB9",
+      "key": "e4b0df4e6c1cd764a107154cbfb7d822085e7d6f289dfa306eb767b1f3d5d633",
+      "cosmeticIds": [
+         "Character_CampWrench"
+      ]
+   },
+   {
       "guid": "0B41D34A225C92221083EE4627031631",
       "key": "26db2efd838246ba81e1dbcb78a1336f53bc643d317d951ba7c584848ad53cdd",
       "cosmeticIds": [
@@ -2353,6 +2360,13 @@
       "cosmeticIds": [
          "Pickaxe_ID_532_WombatFemale_CWE2D",
          "Pickaxe_ID_533_WombatMale_L7QPQ"
+      ]
+   },
+   {
+      "guid": "4CE74876A1F5F67F5B6040A4A357A0FE",
+      "key": "1a84c1675d165d309b6267f9e6280380208dbe9fc660781e392e1662a604445c",
+      "cosmeticIds": [
+         "EID_EggnogFaucet"
       ]
    },
    {
