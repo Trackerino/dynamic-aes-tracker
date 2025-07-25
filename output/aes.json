@@ -6153,6 +6153,13 @@
       ]
    },
    {
+      "guid": "D87431C3F54EAF69AC67AC7A708341BC",
+      "key": "6b5c02708a44daa23f4624f5509392f19cc0358bc0e6ee16002067c25b4af003",
+      "cosmeticIds": [
+         "EID_BlankCanvas"
+      ]
+   },
+   {
       "guid": "D876BE3A06C2A15B1BD61F7A5EC6AEEA",
       "key": "38a15e18d6acaa156e3a1225571f957751b809e6ff9704117c59df605a28139f",
       "cosmeticIds": [
