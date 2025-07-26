@@ -149,7 +149,11 @@
    {
       "guid": "028A8613A60C7FAE094A08EF28E64B02",
       "key": "bb3200f696a3d12e8167612ddc42389bac9acacc4d47e2616af212971521ba3a",
-      "cosmeticIds": []
+      "cosmeticIds": [
+         "EID_DonkeyCrib",
+         "Pickaxe_CampWrench",
+         "Pickaxe_EggnogFaucet"
+      ]
    },
    {
       "guid": "02A94B6E1D64352BBF332D801395069C",
@@ -204,7 +208,11 @@
          "Shoes_SashSkewerStinger",
          "Shoes_StarfallPulse",
          "Shoes_SunsetTreads",
-         "Shoes_VisionHorseBaron"
+         "Shoes_VisionHorseBaron",
+         "Shoes_VisionHorseGown",
+         "Shoes_VisionHorseRegent",
+         "Shoes_VisionHorseRoyalty",
+         "Shoes_VisionHorseTiara"
       ]
    },
    {
@@ -6086,7 +6094,17 @@
    {
       "guid": "D685B90583DC7BD637B001936D1BF2AC",
       "key": "ecbb0792d5fbc0f40ccfa19314ec103189cf3cbe70d144aeead1134310b354a6",
-      "cosmeticIds": []
+      "cosmeticIds": [
+         "Backpack_CampWrench",
+         "Backpack_DonkeyCrib",
+         "Backpack_EggnogFaucet",
+         "Backpack_FlavorStock",
+         "Character_CampWrench",
+         "Character_FlavorStock",
+         "EID_CampWrench",
+         "EID_FlavorStock",
+         "Pickaxe_FlavorStock"
+      ]
    },
    {
       "guid": "D71B95B305E6875284CDF3F28DBDC2AF",
