@@ -5911,6 +5911,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "CF4C0CA27F633D41AD2FF470627BDD0F",
+      "key": "cbca49c6936c683d89afb20d45ab2d86f7f493471866ba635398be2dce4aa480",
+      "cosmeticIds": [
+         "EID_HighLife"
+      ]
+   },
+   {
       "guid": "D015A683141A28CFF1A51677703DC0BF",
       "key": "bbc0e5782b076d45f51ba5dfe9208410cc8252accbdebb3f26e201a4012168a7",
       "cosmeticIds": [
