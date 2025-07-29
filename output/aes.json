@@ -398,7 +398,8 @@
       "guid": "0AA8127187D5A085B211C1D214FBBEB9",
       "key": "e4b0df4e6c1cd764a107154cbfb7d822085e7d6f289dfa306eb767b1f3d5d633",
       "cosmeticIds": [
-         "Character_CampWrench"
+         "Character_CampWrench",
+         "Character_DonkeyCrib"
       ]
    },
    {
@@ -599,6 +600,11 @@
          "BID_279_CyberRunner",
          "Wrap_076_CyberRunner"
       ]
+   },
+   {
+      "guid": "135075793D05783B45453E7C5F51B606",
+      "key": "6afe6561f17b0d16b7fbf61c9f5403610748341928b937caeac2b87966caaa3d",
+      "cosmeticIds": []
    },
    {
       "guid": "1398A4C2E6C3954EDDC49F85C5AB251B",
@@ -2389,7 +2395,18 @@
       "guid": "4CE74876A1F5F67F5B6040A4A357A0FE",
       "key": "1a84c1675d165d309b6267f9e6280380208dbe9fc660781e392e1662a604445c",
       "cosmeticIds": [
-         "EID_EggnogFaucet"
+         "Backpack_CampWrench",
+         "Backpack_DonkeyCrib",
+         "Backpack_EggnogFaucet",
+         "Backpack_FlavorStock",
+         "Character_FlavorStock",
+         "EID_CampWrench",
+         "EID_DonkeyCrib",
+         "EID_EggnogFaucet",
+         "EID_FlavorStock",
+         "Pickaxe_CampWrench",
+         "Pickaxe_EggnogFaucet",
+         "Pickaxe_FlavorStock"
       ]
    },
    {
@@ -4089,6 +4106,11 @@
          "Character_PageTruffle",
          "Pickaxe_PageTruffle"
       ]
+   },
+   {
+      "guid": "873C94963B7049C6369D9633B8C9BE2F",
+      "key": "7aba938c5f3b12c67bec4c29c1bf92bb3fb570db345caab5cfc5044e06171882",
+      "cosmeticIds": []
    },
    {
       "guid": "87F01091E4DA4FE3FFC9AD92A20A8DCE",
