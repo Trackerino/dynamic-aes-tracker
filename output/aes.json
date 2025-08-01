@@ -2597,6 +2597,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "53ABC5EBB3CEA1675F98D2C29D8456EE",
+      "key": "de55547c00e059392c6c2772e8c62c098d3fea29bed9c8ac9ec7620f89a91344",
+      "cosmeticIds": [
+         "EID_CarCrash"
+      ]
+   },
+   {
       "guid": "540DEA2C5E3510D32704C41A4B323118",
       "key": "1963dcbbe5513edbb55823a244224747969d4b3229ff89dd5d3ed32d9f2e0dbe",
       "cosmeticIds": [
