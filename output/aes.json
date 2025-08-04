@@ -6514,6 +6514,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "E2894A82F538B87DB6E7AA0E3000E8E9",
+      "key": "0d3ff3d1ce4cae126b556892e06e1d83f023aa631016a8187cb6f3cb5acb199c",
+      "cosmeticIds": [
+         "EID_WildThings"
+      ]
+   },
+   {
       "guid": "E28AF2E3BB7EBBB69D962A15879E696E",
       "key": "8491377e764fc11986f17230f9126f56c0a1f5d3870c3f3654086f31b8be9efb",
       "cosmeticIds": [
