@@ -5538,6 +5538,20 @@
       ]
    },
    {
+      "guid": "BE926AA903451EC2799EE60281E49848",
+      "key": "92210944b58f2c51394aa9e937a8c6581784e8a1d287bd713b9dcd782c68515c",
+      "cosmeticIds": [
+         "CarSkin_RonB"
+      ]
+   },
+   {
+      "guid": "BF2078279C13F7CA6948E366D716659A",
+      "key": "95fa25dc5a99759bfc36f3b0263a85f19e907c84ae8779f774e5b8208bcf548e",
+      "cosmeticIds": [
+         "Pickaxe_FareSpore_Keytar"
+      ]
+   },
+   {
       "guid": "BF344823BEE88FA8760A410311A30150",
       "key": "99c7c4ec218940b444e5d5994c234f0823e048157b08c2e5ea5be917e9f3ab3c",
       "cosmeticIds": [
