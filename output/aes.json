@@ -5541,14 +5541,26 @@
       "guid": "BE926AA903451EC2799EE60281E49848",
       "key": "92210944b58f2c51394aa9e937a8c6581784e8a1d287bd713b9dcd782c68515c",
       "cosmeticIds": [
-         "CarSkin_RonB"
+         "CarSkin_RonB",
+         "ID_Booster_Dragoncat",
+         "ID_DriftTrail_Dragoncat",
+         "Wheel_Dragoncat1",
+         "Wheel_Dragoncat2",
+         "Wheel_RonB"
       ]
    },
    {
       "guid": "BF2078279C13F7CA6948E366D716659A",
       "key": "95fa25dc5a99759bfc36f3b0263a85f19e907c84ae8779f774e5b8208bcf548e",
       "cosmeticIds": [
-         "Pickaxe_FareSpore_Keytar"
+         "Backpack_FareSpore",
+         "Character_FareSpore",
+         "EID_FareSporeCookie",
+         "EID_FareSporeMilk",
+         "LoadingScreen_FaresporeKeyArt",
+         "Pickaxe_FareSpore_Guitar",
+         "Pickaxe_FareSpore_Keytar",
+         "Wrap_FareSpore"
       ]
    },
    {
