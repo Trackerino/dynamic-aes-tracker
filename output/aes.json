@@ -3484,6 +3484,14 @@
       ]
    },
    {
+      "guid": "707B4BB7ACA413C8B6ED2E049CC2D1B5",
+      "key": "cf45f22d58bade582ed2ed35fe59876df841ee1a65a93d7f34b9c91bd34470fb",
+      "cosmeticIds": [
+         "Character_FumeFleeceFade",
+         "Character_FumeFleeceJig"
+      ]
+   },
+   {
       "guid": "713D64294CD1C40F60DEEB805E3A2D87",
       "key": "08938e1ed117eeae0210b719f7aa198eb99265dee9c89d9f31a157f75d860e5f",
       "cosmeticIds": [
