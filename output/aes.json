@@ -1114,6 +1114,7 @@
       "key": "1e8806d40701e162d56d95711619fe76aa519d926e0759a9b93683ac0c3ec9b5",
       "cosmeticIds": [
          "Shoes_GlitterMane",
+         "Shoes_HoneyDrift",
          "Shoes_ShadowHeel",
          "Shoes_TabletSoilTray",
          "Shoes_TightSpoilLeaf",
@@ -7096,6 +7097,13 @@
       "key": "6b21339f10480f565a018e5b4f06ae51738c0f22a1c84ac6fd0660767157fa2c",
       "cosmeticIds": [
          "EID_Farewell"
+      ]
+   },
+   {
+      "guid": "F43779C713B33BCCF7CE140BD50299C0",
+      "key": "a9fcf54f30a2773fcd8dff3b2d69fb5f492637a49945277b926443c2b19072dd",
+      "cosmeticIds": [
+         "EID_BenderDance"
       ]
    },
    {
