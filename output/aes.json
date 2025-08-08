@@ -1103,6 +1103,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "2214CF7E3D02056E4D50250127304F69",
+      "key": "3cc66d59befd2eb8f0ff227832f59535d1d724762200cb8e27f64b394e47594e",
+      "cosmeticIds": [
+         "EID_ElectroRock"
+      ]
+   },
+   {
       "guid": "2221D9B672BBBE65DCEBFDE85EE861FD",
       "key": "082b5c1556a1af2b515dac26009d8a46cf5cf64d6b129344f9c81d95d98705c6",
       "cosmeticIds": [
