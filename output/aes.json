@@ -3495,7 +3495,8 @@
       "key": "cf45f22d58bade582ed2ed35fe59876df841ee1a65a93d7f34b9c91bd34470fb",
       "cosmeticIds": [
          "Character_FumeFleeceFade",
-         "Character_FumeFleeceJig"
+         "Character_FumeFleeceJig",
+         "Pickaxe_FumeFleeceClap"
       ]
    },
    {
@@ -5873,6 +5874,13 @@
       "cosmeticIds": [
          "Contrail_KelpLinen",
          "EID_Kelplinen_Calcium"
+      ]
+   },
+   {
+      "guid": "CB149A6893295D7858D224F87D957DED",
+      "key": "79ca223eef8d1eda63b7f201d7319be7cf689bcfc372beee857f518527b6f197",
+      "cosmeticIds": [
+         "CarBody_Chrisp"
       ]
    },
    {
