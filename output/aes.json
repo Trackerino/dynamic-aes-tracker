@@ -3494,9 +3494,26 @@
       "guid": "707B4BB7ACA413C8B6ED2E049CC2D1B5",
       "key": "cf45f22d58bade582ed2ed35fe59876df841ee1a65a93d7f34b9c91bd34470fb",
       "cosmeticIds": [
+         "Backpack_FumeFleeceClap",
+         "Backpack_FumeFleeceFade",
+         "Backpack_FumeFleeceJig",
+         "Backpack_FumeFleeceShack",
+         "Backpack_FumeFleeceWag",
+         "Character_FumeFleeceClap",
          "Character_FumeFleeceFade",
          "Character_FumeFleeceJig",
-         "Pickaxe_FumeFleeceClap"
+         "Character_FumeFleeceShack",
+         "Character_FumeFleeceWag",
+         "EID_FumeFleeceClap",
+         "EID_FumeFleeceFade",
+         "EID_FumeFleeceShack",
+         "EID_FumeFleeceWag",
+         "Pickaxe_FumeFleeceClap",
+         "Pickaxe_FumeFleeceFade",
+         "Pickaxe_FumeFleeceJig",
+         "Pickaxe_FumeFleeceShack",
+         "Pickaxe_FumeFleeceWag",
+         "Wrap_FumeFleece"
       ]
    },
    {
@@ -5880,7 +5897,9 @@
       "guid": "CB149A6893295D7858D224F87D957DED",
       "key": "79ca223eef8d1eda63b7f201d7319be7cf689bcfc372beee857f518527b6f197",
       "cosmeticIds": [
-         "CarBody_Chrisp"
+         "CarBody_Chrisp",
+         "Wheel_Chrisp01",
+         "Wheel_Chrisp02"
       ]
    },
    {
@@ -6100,6 +6119,14 @@
       "guid": "D24B0606E503B97BFEB8EF12C6F1340B",
       "key": "c0217a1b3bb1412c545fd23a785c0624bdf8814ed810f4caad938e2f7b0f2f7a",
       "cosmeticIds": []
+   },
+   {
+      "guid": "D26A2A8E61F70E3CB240BF9AEDAC8447",
+      "key": "2536d3b5cf2d554bff4ea425f961f0e1ea3e5348d8f2175bf01507d089ef1bb2",
+      "cosmeticIds": [
+         "Shoes_BalletChockCondor",
+         "Shoes_BalletChockDodo"
+      ]
    },
    {
       "guid": "D2FAE1D098B2B4695EB59FAAD504798D",
@@ -6450,6 +6477,13 @@
          "EID_ApexWild",
          "Pickaxe_ID_841_ApexWildMale",
          "Wrap_508_ApexWild"
+      ]
+   },
+   {
+      "guid": "DE66E2BC8257A4439417C9AC51726CE7",
+      "key": "9d937b8a34150c521028147c5f5589c036f22685e7de3a53e2b9d22d2e2d3f13",
+      "cosmeticIds": [
+         "EID_DustDevil"
       ]
    },
    {
