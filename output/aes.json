@@ -1255,6 +1255,13 @@
       ]
    },
    {
+      "guid": "276653ED5DFE0369F64CF561917F3281",
+      "key": "f560861d11c07ca3f2b9d57ccf6c1b4b640aa97bc3a17d2544a4f9c7f186cccb",
+      "cosmeticIds": [
+         "EID_PaintedFaces"
+      ]
+   },
+   {
       "guid": "276D93712D1C6092C442D170B8956002",
       "key": "d53bc2b920eedd5318e749ad39973141b37902e1ce13dbfea26a00cf8a7b869c",
       "cosmeticIds": [
