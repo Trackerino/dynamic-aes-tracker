@@ -5527,6 +5527,13 @@
       ]
    },
    {
+      "guid": "BCDEFDBBBD78E941085864D2E35C8B38",
+      "key": "372c108e93ea43361b9bb32351fb6ccd88e8272feae82dfcc9b24bdd9ee66744",
+      "cosmeticIds": [
+         "EID_BigBreath"
+      ]
+   },
+   {
       "guid": "BDB776E27E5002716EFCCF94F23D1B19",
       "key": "52409f8c057848a0818d3be01c86c773c53fb80588eb7cac535493feccbae3ee",
       "cosmeticIds": []
@@ -6132,7 +6139,8 @@
       "key": "2536d3b5cf2d554bff4ea425f961f0e1ea3e5348d8f2175bf01507d089ef1bb2",
       "cosmeticIds": [
          "Shoes_BalletChockCondor",
-         "Shoes_BalletChockDodo"
+         "Shoes_BalletChockDodo",
+         "Shoes_CattleClogs"
       ]
    },
    {
