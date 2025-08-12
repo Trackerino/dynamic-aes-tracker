@@ -1241,6 +1241,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "26C51B4EF2B73AA36D3008BDFB357DCF",
+      "key": "82401208604a5b70a18172afe13ee1a4c8d94fb1c3e543bbfe3af898b38a731e",
+      "cosmeticIds": [
+         "EID_Halftime"
+      ]
+   },
+   {
       "guid": "26D920B3DAAC93330212740C77E916BB",
       "key": "f80e92d905344273da42b0bdb90d5c030543dfbe5093a3e9aaa89d61445a6458",
       "cosmeticIds": [
