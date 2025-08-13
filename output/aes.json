@@ -6648,6 +6648,13 @@
       ]
    },
    {
+      "guid": "E360071A0899362E42BE24B5A8EC6C39",
+      "key": "57e379c4965ae9ec2d453a1ad78e95eea86539ab617a4a1f41f3f9f144ddbe9b",
+      "cosmeticIds": [
+         "EID_LipGloss"
+      ]
+   },
+   {
       "guid": "E36F7DC3B2ECE987FC956C3CF7E71F21",
       "key": "f98d623c3451eda75e12379bba8e83cc18879202b473864ec209ab9d8631e37c",
       "cosmeticIds": []
