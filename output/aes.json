@@ -4608,6 +4608,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "97FD6F138CAD2B70CAF113ED5F0A9893",
+      "key": "af82ee4aed21226c14c96cf7b12c3b79f452bb8c327b2fc5d39437bae3c6a444",
+      "cosmeticIds": [
+         "EID_EarlyRiser"
+      ]
+   },
+   {
       "guid": "9858EA640CD5F38627E83497187A327D",
       "key": "990d44b87ffd136feda5409925e25cf60498ec2951e46e5c3826c86bd911ef5a",
       "cosmeticIds": []
