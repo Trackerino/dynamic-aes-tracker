@@ -1577,6 +1577,13 @@
       ]
    },
    {
+      "guid": "309924B68CCE08D3F552CAFDF0C09B4E",
+      "key": "dc9b370edc3d9b2876c53c7416815658e6e0a54fcef724126fc1c8d6f2d4e1c2",
+      "cosmeticIds": [
+         "EID_FrontYard"
+      ]
+   },
+   {
       "guid": "30A11EE8EB62BEFD4E9B09611DB13857",
       "key": "6157953d770fed4a094e9ef5657a4635d3d5ce68e7472ca6714a6c3566177d1b",
       "cosmeticIds": [
@@ -6154,6 +6161,8 @@
       "cosmeticIds": [
          "Shoes_BalletChockCondor",
          "Shoes_BalletChockDodo",
+         "Shoes_BalletChockEmu",
+         "Shoes_BalletChockMoa",
          "Shoes_CattleClogs",
          "Shoes_ScalySalt"
       ]
