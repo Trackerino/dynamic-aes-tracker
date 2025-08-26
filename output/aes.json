@@ -6630,6 +6630,15 @@
       "cosmeticIds": []
    },
    {
+      "guid": "E10906E600581202139917A64D2F4B6F",
+      "key": "25a687cbef3348bfa195ba99ecfb6524498ddebebc56d9115c1b2b681ca5a34b",
+      "cosmeticIds": [
+         "Backpack_AutumnFern",
+         "Character_AutumnFern",
+         "Pickaxe_AutumnFern"
+      ]
+   },
+   {
       "guid": "E176769F750C1A6152A78B04761894E2",
       "key": "c3f44d6351b55b89fac1915f6546aa6bb32f132c573d4e36651ca943e51c3556",
       "cosmeticIds": []
