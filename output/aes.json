@@ -1008,6 +1008,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "203E0B5DBC77FD5405E9282B9BFE4D79",
+      "key": "716fcadc43346eb2a10b4a791703d45461bb18adb84a49801e761a173095ff09",
+      "cosmeticIds": [
+         "ID_DriftTrail_Mooncake"
+      ]
+   },
+   {
       "guid": "204D49F063979C3AF87EF896D074D1CF",
       "key": "49a60593e18413b98be1db20b34bf4546479111e13c07f2e4cd5f95ea4a096ef",
       "cosmeticIds": [
@@ -5094,6 +5101,13 @@
       "guid": "A9AFB4A346420DB1399A2FB2065528F5",
       "key": "663ce8f8268b3660b2829973428db050be0b4f7dc31222faa99584d91d0460c8",
       "cosmeticIds": []
+   },
+   {
+      "guid": "AA9100110552FB9B93F3E8BB6334CED2",
+      "key": "8d63ec168aea7f79d0fb8d06899eef225eb6ba80cb8bb302558cd1263c7b626b",
+      "cosmeticIds": [
+         "EID_ArmyFlour"
+      ]
    },
    {
       "guid": "AAB934D179F489B8084EB057031AB845",
