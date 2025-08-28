@@ -1011,7 +1011,11 @@
       "guid": "203E0B5DBC77FD5405E9282B9BFE4D79",
       "key": "716fcadc43346eb2a10b4a791703d45461bb18adb84a49801e761a173095ff09",
       "cosmeticIds": [
-         "ID_DriftTrail_Mooncake"
+         "CarSkin_TomahawkWings",
+         "ID_Booster_mooncake",
+         "ID_DriftTrail_Mooncake",
+         "Wheel_Mooncake1",
+         "Wheel_Mooncake2"
       ]
    },
    {
@@ -5106,7 +5110,23 @@
       "guid": "AA9100110552FB9B93F3E8BB6334CED2",
       "key": "8d63ec168aea7f79d0fb8d06899eef225eb6ba80cb8bb302558cd1263c7b626b",
       "cosmeticIds": [
-         "EID_ArmyFlour"
+         "Backpack_ArmyFlour",
+         "Backpack_IgniteEgg",
+         "Backpack_IvyStub",
+         "Character_ArmyFlour",
+         "Character_IgniteEgg",
+         "Character_IvyStub",
+         "EID_ArmyFlour",
+         "EID_IgniteEgg",
+         "EID_IgniteEgg_Jab",
+         "EID_IvyStub",
+         "Glider_IgniteEgg",
+         "Pickaxe_ArmyFlour",
+         "Pickaxe_IgniteEgg",
+         "Pickaxe_IgniteEgg_DrumStick",
+         "Pickaxe_IvyStub",
+         "Pickaxe_IvyStub_Mic",
+         "Wrap_IgniteEgg"
       ]
    },
    {
