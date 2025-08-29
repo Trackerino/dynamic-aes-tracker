@@ -1559,6 +1559,13 @@
       ]
    },
    {
+      "guid": "2F6DADFC35C362BB1A6D924753C1A4A6",
+      "key": "e2c901e75cc2150b654e7b0137f60e500ffba27b068a90933f87bcf69753daba",
+      "cosmeticIds": [
+         "EID_TriggerFinger"
+      ]
+   },
+   {
       "guid": "2FE8DBD09F14AAF7D195AA73B9613792",
       "key": "2b021e84b10a6824896f95ff59c43d2142ca933dc6dccf5ff59e49822f616145",
       "cosmeticIds": [
