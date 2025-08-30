@@ -216,6 +216,14 @@
       ]
    },
    {
+      "guid": "04D4FEC5B18A856F31023DB7EA6400FD",
+      "key": "7a5f80d5e3aeb3473df73c0f4de5f7253dbe30b21e3c2765257d402047e5a430",
+      "cosmeticIds": [
+         "Shoes_MarshCityMammoth",
+         "Shoes_MarshCityQuagga"
+      ]
+   },
+   {
       "guid": "0535D420DB8E2871EA63614408B83425",
       "key": "a4bc70c3c21d110a58c6a510b6a57fac404d7c3d33f5610e6d97a452fe12c94e",
       "cosmeticIds": [
@@ -6865,6 +6873,18 @@
       "key": "a98c73ee43878e07f94926b5f05e5b7082f59cb0f49fa303d6f504d7e4b03f4f",
       "cosmeticIds": [
          "EID_Bargain_Y5KHN"
+      ]
+   },
+   {
+      "guid": "E5DAD06F5A30E5EB2B713844830C9AEB",
+      "key": "91df8adc7459ed1134788bdca4ca234d3f31fc5ab7879a8fd571547bd4079bc1",
+      "cosmeticIds": [
+         "Backpack_CampusSire",
+         "Character_CampusSire",
+         "EID_CampusSire",
+         "EID_CampusSire_Gem",
+         "Pickaxe_CampusSire",
+         "Wrap_CampusSire"
       ]
    },
    {
