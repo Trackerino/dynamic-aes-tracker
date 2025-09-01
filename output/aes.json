@@ -2463,6 +2463,14 @@
       ]
    },
    {
+      "guid": "4C9CBE232FDC88FEFAE3A89D92044C96",
+      "key": "12ea4b72fc01ecce58c2783f97d94531c7333d8ebfe93f1a9305d0579e2b59ef",
+      "cosmeticIds": [
+         "EID_Balcony",
+         "EID_ChirpingCrickets"
+      ]
+   },
+   {
       "guid": "4CE74876A1F5F67F5B6040A4A357A0FE",
       "key": "1a84c1675d165d309b6267f9e6280380208dbe9fc660781e392e1662a604445c",
       "cosmeticIds": [
