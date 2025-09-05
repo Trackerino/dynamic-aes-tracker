@@ -5261,6 +5261,20 @@
       "cosmeticIds": []
    },
    {
+      "guid": "ACB095BD5658A758534AE9856B57A095",
+      "key": "9e89392623f794d359ef6f0ef9ce8572c9474c5eb68eeb8e70a72c9250b04321",
+      "cosmeticIds": [
+         "EID_ThreeDee"
+      ]
+   },
+   {
+      "guid": "AD8C55C3106A8B8E532AE675A3646994",
+      "key": "e160f4bba88acd5ad319e2dd6aae74da9224ac273139a2eb5c9aef8c1eac3483",
+      "cosmeticIds": [
+         "EID_Sitcom"
+      ]
+   },
+   {
       "guid": "AE04BC41397F3D492390E60E59B39CAC",
       "key": "c42ddeff805f3d0e7fc50a842a707e1209b3ace70b88e0aa8900ae641e95f407",
       "cosmeticIds": []
