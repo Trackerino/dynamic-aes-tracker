@@ -219,8 +219,14 @@
       "guid": "04D4FEC5B18A856F31023DB7EA6400FD",
       "key": "7a5f80d5e3aeb3473df73c0f4de5f7253dbe30b21e3c2765257d402047e5a430",
       "cosmeticIds": [
+         "Shoes_MarshCityAuroch",
+         "Shoes_MarshCityIbex",
          "Shoes_MarshCityMammoth",
-         "Shoes_MarshCityQuagga"
+         "Shoes_MarshCityQuagga",
+         "Shoes_MarshCityRhino",
+         "Shoes_PeckFizzBide",
+         "Shoes_PeckFizzSlink",
+         "Shoes_TastySeaAntler"
       ]
    },
    {
@@ -645,7 +651,14 @@
       "guid": "1550A32FEFA596C33320223B0F588B37",
       "key": "a19cb24ad2f56ab961f44262b385cfb6c45539593101eb8237822e58c5eeab6a",
       "cosmeticIds": [
-         "Character_SulfurDean"
+         "Backpack_BisonDrain",
+         "Backpack_SulfurDean",
+         "Character_BisonDrain",
+         "Character_SulfurDean",
+         "EID_BisonDrain",
+         "EID_SulfurDean",
+         "Pickaxe_BisonDrain",
+         "Pickaxe_SulfurDean"
       ]
    },
    {
