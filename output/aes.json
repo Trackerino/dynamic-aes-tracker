@@ -5858,6 +5858,14 @@
       "cosmeticIds": []
    },
    {
+      "guid": "C37F6CA3CA90F87B235B1BD44FCC2A94",
+      "key": "75b2d257e91afc79e61b177055e1727f825e55d27acdc8f13b9859451cd3ef66",
+      "cosmeticIds": [
+         "EID_LateNight",
+         "EID_TeenSpirit"
+      ]
+   },
+   {
       "guid": "C4110935D0C729ED5C9C6DEFC3B339D2",
       "key": "d6261d6352546b65d2fd41ef8e9401f9eb6c5116880065f7e75b0aa292cd0ebe",
       "cosmeticIds": [
