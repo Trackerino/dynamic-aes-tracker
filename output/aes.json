@@ -6134,6 +6134,13 @@
       ]
    },
    {
+      "guid": "CCF83523946EA33F3B05F95A5ED66508",
+      "key": "d2d1a8e46589d4d947287e9e2bd6d12b6c17798f0ce520dbde9d2071868871a0",
+      "cosmeticIds": [
+         "Character_EssayViewMyth"
+      ]
+   },
+   {
       "guid": "CCFB247DE6ED8DB4856E039A5AE681B8",
       "key": "67c8b1a2a70212216a507d6a79cfb250d4133f5f83d71423630e850e95106bd7",
       "cosmeticIds": [
@@ -7163,6 +7170,13 @@
       "guid": "ED61A5415E40BB0A188CDB1DA91F22D2",
       "key": "c06b8525083595db61029ce8c3576ba68aba8b8d00cceb28383088e48ffa2520",
       "cosmeticIds": []
+   },
+   {
+      "guid": "EDAFCFEBD9FE4B6A2B6E9F064721454A",
+      "key": "0f0a302a2924c793cfdc4657503e7335baa909f0b2411d76d09a9a7a3f773bf3",
+      "cosmeticIds": [
+         "CarBody_Macht"
+      ]
    },
    {
       "guid": "EDF724493161095DB54E9613C243A355",
