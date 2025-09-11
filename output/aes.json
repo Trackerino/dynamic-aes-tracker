@@ -1056,6 +1056,14 @@
       ]
    },
    {
+      "guid": "205D136092FBBA43E5C3DA9E959D4746",
+      "key": "f15875c7293622d88328f1d1b09d57cf328e68b8481ee90d27869919c8334f97",
+      "cosmeticIds": [
+         "EID_ClaimReflect_Barn",
+         "Pickaxe_ClaimReflect_DrumStick"
+      ]
+   },
+   {
       "guid": "205E83E941E613D6DDF175294CD7B508",
       "key": "5bf1dd7c0ad74b0bc6f9cfa94d7fb768da096b0bb894fb01f9c3d6a673019d90",
       "cosmeticIds": [
@@ -3348,7 +3356,10 @@
       "guid": "66BFA64F40445E39E197E7FA604D8001",
       "key": "c8bae2e902750a14b2c03f89140c7bb8e68d2e85035e98f58642e2f8e07f4ac9",
       "cosmeticIds": [
-         "Shoes_NumbGulpFabric"
+         "Shoes_NumbGulpFabric",
+         "Shoes_NumbGulpSew",
+         "Shoes_NumbGulpThimble",
+         "Shoes_NumbGulpWoven"
       ]
    },
    {
