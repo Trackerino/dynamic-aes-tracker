@@ -72,6 +72,14 @@
       ]
    },
    {
+      "guid": "013F2E11BBB670B970153B0CD04FA985",
+      "key": "ee2eb228b85372275cb993e5c24b5cfc824643e8944d023b0e31a48b06f57eca",
+      "cosmeticIds": [
+         "EID_Embrace",
+         "EID_SpaceWalk"
+      ]
+   },
+   {
       "guid": "01BCAD21B42507D45972A0E634D3BF68",
       "key": "2c5cd82833705076312d38613ca7e7ce69c00c2c026458d9c9b20bf53686064c",
       "cosmeticIds": [
@@ -4948,6 +4956,15 @@
       "guid": "A062151202F2D5FCAD103D17B9300CE2",
       "key": "262891d3114d876d0244b0d637fb5f8da7a8a36c9b029775850077eb8fe2b937",
       "cosmeticIds": []
+   },
+   {
+      "guid": "A0751E35F9F458DEA62ADEA92DB5D904",
+      "key": "4fe16b4bca509afba762439918ac7dfea8d3852b3d472a9f5791b9a97a3fff1c",
+      "cosmeticIds": [
+         "Backpack_BasketSuburb",
+         "EID_BasketSuburb",
+         "Pickaxe_BasketSuburb"
+      ]
    },
    {
       "guid": "A08F80FECB766B071C66017C5902DBD1",
