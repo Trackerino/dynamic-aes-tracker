@@ -3364,6 +3364,8 @@
       "guid": "66BFA64F40445E39E197E7FA604D8001",
       "key": "c8bae2e902750a14b2c03f89140c7bb8e68d2e85035e98f58642e2f8e07f4ac9",
       "cosmeticIds": [
+         "Shoes_BalletChockOstrich",
+         "Shoes_ConfettiWagon",
          "Shoes_NumbGulpFabric",
          "Shoes_NumbGulpSew",
          "Shoes_NumbGulpThimble",
@@ -6165,7 +6167,15 @@
       "guid": "CCF83523946EA33F3B05F95A5ED66508",
       "key": "d2d1a8e46589d4d947287e9e2bd6d12b6c17798f0ce520dbde9d2071868871a0",
       "cosmeticIds": [
-         "Character_EssayViewMyth"
+         "Backpack_EssayViewMyth",
+         "Backpack_EssayViewPier",
+         "Character_EssayViewMyth",
+         "Character_EssayViewPier",
+         "EID_EssayViewMyth",
+         "EID_EssayViewPier",
+         "Pickaxe_EssayViewMyth",
+         "Pickaxe_EssayViewPier",
+         "Wrap_EssayView"
       ]
    },
    {
@@ -7203,7 +7213,8 @@
       "guid": "EDAFCFEBD9FE4B6A2B6E9F064721454A",
       "key": "0f0a302a2924c793cfdc4657503e7335baa909f0b2411d76d09a9a7a3f773bf3",
       "cosmeticIds": [
-         "CarBody_Macht"
+         "CarBody_Macht",
+         "Wheel_Macht01"
       ]
    },
    {
