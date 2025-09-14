@@ -3155,7 +3155,12 @@
       "guid": "6067689CD8164C13E64AC0A14E14DE96",
       "key": "61587751b7848153b74d60ff9e4f570a9c07c44bd87e3b41dced818c70c638d7",
       "cosmeticIds": [
-         "Character_CamelGram"
+         "Backpack_CamelGram",
+         "Character_CamelGram",
+         "EID_CamelGram",
+         "EID_CamelGram_Lift",
+         "Pickaxe_CamelGram",
+         "Wrap_CamelGram"
       ]
    },
    {
