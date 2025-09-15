@@ -5156,6 +5156,14 @@
       ]
    },
    {
+      "guid": "A7E8232F250D566050CD13978345C730",
+      "key": "74c2c09074440e49da4c4fb0725243f9ec1481c01fe7eb9d4ffa6902f339b95e",
+      "cosmeticIds": [
+         "EID_Illusion",
+         "EID_WalkupApology"
+      ]
+   },
+   {
       "guid": "A7F859B562B3AB262A2876C962C79A78",
       "key": "51fe328b797c2850a501da7979dd5fae0668dc76e95d7af0888b889b58f86a50",
       "cosmeticIds": []
