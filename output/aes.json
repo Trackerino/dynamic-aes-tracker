@@ -1310,6 +1310,13 @@
       ]
    },
    {
+      "guid": "274F2CC2F36E179B6A86A87BBE430E45",
+      "key": "6dc5ed74ed6829f5947451f354ebd3e30d50dff2364fc2753ccc6f5912ededd5",
+      "cosmeticIds": [
+         "CarBody_Eggplant"
+      ]
+   },
+   {
       "guid": "2764E12E58C474C6AC7F5035A80A78A2",
       "key": "22816566ad592bc67fab52c7ccdc51ba3a2fd1bc67d6be664725ba52d366cc5d",
       "cosmeticIds": [
@@ -7031,6 +7038,13 @@
       "guid": "E66DF3CF1BFE84F0B1966967210DD6D9",
       "key": "0c62c3fe215b74bbda8999c07d6ac7216e7227949fb104328de5b620141efb3c",
       "cosmeticIds": []
+   },
+   {
+      "guid": "E6B0E6F62474E3F79EF2348E2CD48318",
+      "key": "00c565a4221c89b51e0cf426cd5962c6fb9f23480d8a38dc7a5d493ac2a19648",
+      "cosmeticIds": [
+         "Character_GlowFang"
+      ]
    },
    {
       "guid": "E6CB9B5FE721FB85529A6558D32987CA",
