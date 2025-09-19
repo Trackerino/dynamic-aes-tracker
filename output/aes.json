@@ -561,6 +561,13 @@
       ]
    },
    {
+      "guid": "114F3FBD8C04315250A3E72B896679F6",
+      "key": "a70883dd6b79c1c25fd7a43725c078691ecc6eaf36a3a4e72b6ec18b349ac5b9",
+      "cosmeticIds": [
+         "EID_GalaxyGirls"
+      ]
+   },
+   {
       "guid": "1162D72490AB6D040106B276D14B20D2",
       "key": "528c9b7dd98c3cbc9798ba53281641d2ca923af5e728769b17f9efe68964ba84",
       "cosmeticIds": []
@@ -7050,7 +7057,9 @@
       "guid": "E6B0E6F62474E3F79EF2348E2CD48318",
       "key": "00c565a4221c89b51e0cf426cd5962c6fb9f23480d8a38dc7a5d493ac2a19648",
       "cosmeticIds": [
-         "Character_GlowFang"
+         "Character_GlowFang",
+         "EID_GlowFang",
+         "Pickaxe_GlowFang"
       ]
    },
    {
