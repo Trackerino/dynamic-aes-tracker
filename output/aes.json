@@ -227,6 +227,7 @@
       "guid": "04D4FEC5B18A856F31023DB7EA6400FD",
       "key": "7a5f80d5e3aeb3473df73c0f4de5f7253dbe30b21e3c2765257d402047e5a430",
       "cosmeticIds": [
+         "Shoes_DoodleJay",
          "Shoes_MarshCityAuroch",
          "Shoes_MarshCityIbex",
          "Shoes_MarshCityMammoth",
@@ -1320,7 +1321,8 @@
       "guid": "274F2CC2F36E179B6A86A87BBE430E45",
       "key": "6dc5ed74ed6829f5947451f354ebd3e30d50dff2364fc2753ccc6f5912ededd5",
       "cosmeticIds": [
-         "CarBody_Eggplant"
+         "CarBody_Eggplant",
+         "Wheel_Eggplant"
       ]
    },
    {
@@ -2268,6 +2270,13 @@
       "guid": "4538F6D411E3A548ED65FC9F04FE46DE",
       "key": "d0acd8daae8af72e5e3741fa587758e97b440c780c23d846802c057d32a3b254",
       "cosmeticIds": []
+   },
+   {
+      "guid": "455D9CD54CFFE6D6F92D671FEBD35542",
+      "key": "43fa3cdc5502dfa30f98d8d75e1db797a966abfb6a7440e6d8ac2f41214c1223",
+      "cosmeticIds": [
+         "Shoes_HintLimpLatke"
+      ]
    },
    {
       "guid": "456073B2B8FECC95083FD5C9C86ABC13",
