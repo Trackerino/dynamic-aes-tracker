@@ -1770,6 +1770,11 @@
       "cosmeticIds": []
    },
    {
+      "guid": "335599361AF8AF77EA1EF7A8E5C32E38",
+      "key": "9a1f9b0709c02e5afe3d8973fcc39b0981cf90b1276af54eb2c737f0bce07fce",
+      "cosmeticIds": []
+   },
+   {
       "guid": "335BDA9AA7DA27137CB7F1DA56FA2E6B",
       "key": "1891321c497743ef21da4d826dee6c7c6d6534b9971d2b6cde7fb44181f82a38",
       "cosmeticIds": []
@@ -7453,6 +7458,11 @@
          "Pickaxe_ID_645_QuarrelFemale_W3B7A",
          "Pickaxe_ID_646_QuarrelMale_PTOBI"
       ]
+   },
+   {
+      "guid": "F3BB8307D7CC868746E009F2ECD49E03",
+      "key": "fd48fdb0e8bb26f92f450d177613a84032a88a49d81e22af9e8fc16dfb8b01cc",
+      "cosmeticIds": []
    },
    {
       "guid": "F418C01DC7E0766DCA8D731E61DE5748",
