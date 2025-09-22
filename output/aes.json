@@ -3466,6 +3466,14 @@
       ]
    },
    {
+      "guid": "691DF73FFB69A412EED4FE9CF77DE62A",
+      "key": "527fe679684eaee75632d54582bc649d0655c3e8c4e26ad795a4482f5e018ef1",
+      "cosmeticIds": [
+         "EID_CleanCash",
+         "EID_TampaTwoStep"
+      ]
+   },
+   {
       "guid": "691EE5E7D12D2AAB8094DC5C5C3294EA",
       "key": "1df9c58c2fbf1122fbc37aaab15ee55defbf486400449227009db11d766f1c90",
       "cosmeticIds": [
