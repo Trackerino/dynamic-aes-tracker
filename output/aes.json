@@ -2281,7 +2281,10 @@
       "key": "43fa3cdc5502dfa30f98d8d75e1db797a966abfb6a7440e6d8ac2f41214c1223",
       "cosmeticIds": [
          "Shoes_HintLimpLatke",
-         "Shoes_PineRoot"
+         "Shoes_JetPropel",
+         "Shoes_PineRoot",
+         "Shoes_VoidKnotBuffalo",
+         "Shoes_VoidKnotOxen"
       ]
    },
    {
@@ -6516,7 +6519,10 @@
       "guid": "D58BBEDDEB0C4E60FA24368CF1B13B41",
       "key": "caf5ae256a54b4ab2403fa98ba0f3a8cfd3a63a28f0d2aba339bb61b4865edbe",
       "cosmeticIds": [
-         "CarBody_Bawu"
+         "CarBody_Bawu",
+         "ID_Booster_GoldenLychee01",
+         "Wheel_Bawu01",
+         "Wheel_GoldenLychee"
       ]
    },
    {
