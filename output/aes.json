@@ -2296,7 +2296,9 @@
          "Shoes_JetPropel",
          "Shoes_PineRoot",
          "Shoes_VoidKnotBuffalo",
-         "Shoes_VoidKnotOxen"
+         "Shoes_VoidKnotOxen",
+         "Shoes_ZincLatchLock",
+         "Shoes_ZincLatchZipper"
       ]
    },
    {
@@ -3710,7 +3712,15 @@
       "guid": "71620B66D3EA4C31EA81482F7476809B",
       "key": "eeb453874cdc3cf95780c642c792f6537c86dc0d6d7de05fbbc74d1e237f2a44",
       "cosmeticIds": [
-         "Character_PineTrimPack"
+         "Backpack_PineTrimPack",
+         "Backpack_PineTrimSurge",
+         "Character_PineTrimPack",
+         "Character_PineTrimSurge",
+         "EID_PineTrimPack",
+         "EID_PineTrim_Crisp",
+         "Pickaxe_PineTrimPack",
+         "Pickaxe_PineTrimSurge",
+         "Wrap_PineTrim"
       ]
    },
    {
