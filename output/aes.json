@@ -572,6 +572,7 @@
       "guid": "114F3FBD8C04315250A3E72B896679F6",
       "key": "a70883dd6b79c1c25fd7a43725c078691ecc6eaf36a3a4e72b6ec18b349ac5b9",
       "cosmeticIds": [
+         "EID_BeatMachine",
          "EID_GalaxyGirls"
       ]
    },
@@ -5432,6 +5433,13 @@
       "key": "e160f4bba88acd5ad319e2dd6aae74da9224ac273139a2eb5c9aef8c1eac3483",
       "cosmeticIds": [
          "EID_Sitcom"
+      ]
+   },
+   {
+      "guid": "ADBFE7F2A54812B162018CD560B700C3",
+      "key": "0c34e11132df2d9f610d8761a127bf176a7cfba412be2c4e95ebe213eddf7c92",
+      "cosmeticIds": [
+         "EID_RockClimb"
       ]
    },
    {
