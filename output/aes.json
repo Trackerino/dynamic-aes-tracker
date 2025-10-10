@@ -4183,6 +4183,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "7F6BFF9985DC4B8A9ED64C33FF0FDABF",
+      "key": "0aabb77cf430ae6ee17c050b42b54daf4545c133223f8ea995b4c91ddfa2ebbe",
+      "cosmeticIds": [
+         "Backpack_ShyTurkey"
+      ]
+   },
+   {
       "guid": "7F863227B67DD0D99A7A4BBEE0682666",
       "key": "dbd6dfbda41c654b30177beb1cc9ed2ca7e692758a0dfeb91426f16c98218ac8",
       "cosmeticIds": []
@@ -6509,6 +6516,7 @@
       "guid": "D37EB78A194F9316C0DEF6C4E653424A",
       "key": "cc452ae01657151bb08a37472b12fb54594496de54baa1d3af2ed61f1242ae4f",
       "cosmeticIds": [
+         "Character_SlugRipple",
          "Spray_SlugRipple"
       ]
    },
