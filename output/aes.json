@@ -893,6 +893,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "1A5E2F9951B92EF4F7BD32E6539570B6",
+      "key": "5c9ab09a243aa75a8c3bb827d43c7fbfd110480727e46c743a9bc953f259ddeb",
+      "cosmeticIds": [
+         "EID_PearPencil"
+      ]
+   },
+   {
       "guid": "1A953EAF7548E4B173F6908B93CF5FAF",
       "key": "909df0e1b48fff15de3ff4e3185c4ed06c5d25d08652a3a685fba3164563ca71",
       "cosmeticIds": [
