@@ -4279,6 +4279,13 @@
       ]
    },
    {
+      "guid": "81FA9205F59FEFC9A111BE5F21C5FEDB",
+      "key": "bf61f41c991768907b3b3d24b889f546e8aafd942a74a5f443be2f0163c3a553",
+      "cosmeticIds": [
+         "Character_PureCereal"
+      ]
+   },
+   {
       "guid": "8207433B768D45F10DF899C58D4DA5A8",
       "key": "cb3e8c64cd835d3581553652a638ed69a024db223703922fb5bf5a94610c5190",
       "cosmeticIds": [
@@ -4532,6 +4539,13 @@
       ]
    },
    {
+      "guid": "8D20E9471670799C68F61E08FEA33FCF",
+      "key": "e9ec865b791830ef7c911ac5998337669927cc15707004fa8db5251594d3e787",
+      "cosmeticIds": [
+         "CarBody_Banjo"
+      ]
+   },
+   {
       "guid": "8D336ADD3E862004534F4D310F0A681F",
       "key": "3a1e24bb2fbae8d07a80f3648b1fa82a78344133b50e3bbc93a4b14f71d7c5ed",
       "cosmeticIds": []
@@ -4629,6 +4643,13 @@
       "key": "3c4b82e8686b9b50dc2ae329d9be2309e443594e8d574ba8a34b2abb08082749",
       "cosmeticIds": [
          "EID_Delirious"
+      ]
+   },
+   {
+      "guid": "905BFFE4DB8C13963481CE59EF5EAE37",
+      "key": "f4caf057ff5342ec4497033fe1094582cc58d9d495f9ccaf1de717f164c1b766",
+      "cosmeticIds": [
+         "Character_ArcanaAgate"
       ]
    },
    {
