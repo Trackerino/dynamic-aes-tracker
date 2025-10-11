@@ -4282,8 +4282,10 @@
       "guid": "81FA9205F59FEFC9A111BE5F21C5FEDB",
       "key": "bf61f41c991768907b3b3d24b889f546e8aafd942a74a5f443be2f0163c3a553",
       "cosmeticIds": [
+         "Backpack_PureCereal",
          "Character_PureCereal",
-         "Character_RevoltCrush"
+         "Character_RevoltCrush",
+         "EID_PureCereal"
       ]
    },
    {
@@ -5648,6 +5650,13 @@
       "guid": "B4D5B451ED92972585CC2F14FBD89BEA",
       "key": "5b93af10b750b5c5fea1beb526bca250544c98a5a985a820db467ce2a8386ae7",
       "cosmeticIds": []
+   },
+   {
+      "guid": "B5991083D7A18E71E22701A6611EECBD",
+      "key": "1cd01fab037634a137a9ce174bf95528bb33dee09211ab266214aadb654c630f",
+      "cosmeticIds": [
+         "Shoes_KinQuackSardine"
+      ]
    },
    {
       "guid": "B66A53100DFB8F33CD5D55E2F66FE10E",
