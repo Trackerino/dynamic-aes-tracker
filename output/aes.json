@@ -4652,7 +4652,16 @@
       "guid": "905BFFE4DB8C13963481CE59EF5EAE37",
       "key": "f4caf057ff5342ec4497033fe1094582cc58d9d495f9ccaf1de717f164c1b766",
       "cosmeticIds": [
-         "Character_ArcanaAgate"
+         "Backpack_FluteLamp",
+         "Backpack_LycheeNickel",
+         "Character_ArcanaAgate",
+         "Character_FluteLamp",
+         "Character_LycheeNickel",
+         "EID_FluteLamp",
+         "EID_LycheeNickel",
+         "Glider_LycheeNickel",
+         "Pickaxe_FluteLamp",
+         "Pickaxe_LycheeNickel"
       ]
    },
    {
