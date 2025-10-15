@@ -4552,7 +4552,10 @@
       "guid": "8D20E9471670799C68F61E08FEA33FCF",
       "key": "e9ec865b791830ef7c911ac5998337669927cc15707004fa8db5251594d3e787",
       "cosmeticIds": [
-         "CarBody_Banjo"
+         "CarBody_Banjo",
+         "ID_Booster_Banjo",
+         "ID_DriftTrail_Banjo",
+         "Wheel_Banjo01"
       ]
    },
    {
@@ -5671,6 +5674,7 @@
       "guid": "B5991083D7A18E71E22701A6611EECBD",
       "key": "1cd01fab037634a137a9ce174bf95528bb33dee09211ab266214aadb654c630f",
       "cosmeticIds": [
+         "Shoes_AmberVine",
          "Shoes_KinQuackSardine"
       ]
    },
