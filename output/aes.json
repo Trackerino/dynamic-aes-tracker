@@ -2954,6 +2954,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "58B4107DDC0FE4D8BF441CB05156C662",
+      "key": "fc2765b92c54ce013644670824de4ced7b0953d22c4f1331da3ff40896eca08c",
+      "cosmeticIds": [
+         "EID_Decline"
+      ]
+   },
+   {
       "guid": "591DF838AC4B3A6350E40E026B26D5C0",
       "key": "301bc6a07c494014f10a6d95f36b36c87a9158fb18745ca3f31294845b149321",
       "cosmeticIds": [
@@ -4290,9 +4297,13 @@
       "key": "bf61f41c991768907b3b3d24b889f546e8aafd942a74a5f443be2f0163c3a553",
       "cosmeticIds": [
          "Backpack_PureCereal",
+         "Backpack_RevoltCrush",
          "Character_PureCereal",
          "Character_RevoltCrush",
-         "EID_PureCereal"
+         "EID_PureCereal",
+         "EID_RevoltCrush",
+         "Pickaxe_RevoltCrush",
+         "Wrap_RevoltCrush"
       ]
    },
    {
