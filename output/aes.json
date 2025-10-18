@@ -4296,13 +4296,17 @@
       "guid": "81FA9205F59FEFC9A111BE5F21C5FEDB",
       "key": "bf61f41c991768907b3b3d24b889f546e8aafd942a74a5f443be2f0163c3a553",
       "cosmeticIds": [
+         "Backpack_GnatGala",
          "Backpack_PureCereal",
          "Backpack_RevoltCrush",
          "Character_PureCereal",
          "Character_RevoltCrush",
+         "EID_GnatGala",
+         "EID_GnatGala_Pancake",
          "EID_PureCereal",
          "EID_RevoltCrush",
          "Pickaxe_RevoltCrush",
+         "Wrap_GnatGala",
          "Wrap_RevoltCrush"
       ]
    },
@@ -5686,6 +5690,7 @@
       "key": "1cd01fab037634a137a9ce174bf95528bb33dee09211ab266214aadb654c630f",
       "cosmeticIds": [
          "Shoes_AmberVine",
+         "Shoes_KinQuackHaddock",
          "Shoes_KinQuackSardine"
       ]
    },
