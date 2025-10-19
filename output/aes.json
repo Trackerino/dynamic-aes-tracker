@@ -4677,16 +4677,27 @@
       "guid": "905BFFE4DB8C13963481CE59EF5EAE37",
       "key": "f4caf057ff5342ec4497033fe1094582cc58d9d495f9ccaf1de717f164c1b766",
       "cosmeticIds": [
+         "Backpack_ArcanaAgate",
+         "Backpack_BaskIsle",
          "Backpack_FluteLamp",
          "Backpack_LycheeNickel",
          "Character_ArcanaAgate",
+         "Character_BaskIsle",
          "Character_FluteLamp",
          "Character_LycheeNickel",
+         "Character_OboeThorn",
+         "EID_ArcanaAgate",
+         "EID_BaskIsle",
          "EID_FluteLamp",
          "EID_LycheeNickel",
+         "EID_OboeThorn",
          "Glider_LycheeNickel",
+         "Pickaxe_ArcanaAgate",
+         "Pickaxe_BaskIsle",
          "Pickaxe_FluteLamp",
-         "Pickaxe_LycheeNickel"
+         "Pickaxe_LycheeNickel",
+         "Pickaxe_LycheeNickel_Guitar",
+         "Pickaxe_OboeThorn"
       ]
    },
    {
@@ -5691,7 +5702,9 @@
       "cosmeticIds": [
          "Shoes_AmberVine",
          "Shoes_KinQuackHaddock",
-         "Shoes_KinQuackSardine"
+         "Shoes_KinQuackSardine",
+         "Shoes_LeftMuscleDoe",
+         "Shoes_PrideOxenReclaim"
       ]
    },
    {
