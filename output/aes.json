@@ -6598,9 +6598,12 @@
       "guid": "D37EB78A194F9316C0DEF6C4E653424A",
       "key": "cc452ae01657151bb08a37472b12fb54594496de54baa1d3af2ed61f1242ae4f",
       "cosmeticIds": [
+         "Backpack_SlugRipple",
          "Character_ServeStreet",
          "Character_SlugRipple",
-         "Spray_SlugRipple"
+         "EID_SlugRipple",
+         "Spray_SlugRipple",
+         "Wrap_SlugRipple"
       ]
    },
    {
@@ -6793,6 +6796,14 @@
       "key": "285a7992ea9d2487b1f924bde660b2e271139e9ce5698f141def17ec14a31b16",
       "cosmeticIds": [
          "Wrap_080_Blackout1"
+      ]
+   },
+   {
+      "guid": "D85FEA654843C9DE8E411C09FAA732F6",
+      "key": "06459ccb2baa44bfdb000e0722e17a28f09dba058f66ac4d2a13812fcf66d6a0",
+      "cosmeticIds": [
+         "Backpack_MatchaSpare",
+         "EID_MatchaSpare"
       ]
    },
    {
