@@ -4201,7 +4201,9 @@
       "key": "0aabb77cf430ae6ee17c050b42b54daf4545c133223f8ea995b4c91ddfa2ebbe",
       "cosmeticIds": [
          "Backpack_ShyTurkey",
-         "Character_ShyTurkey"
+         "Character_ShyTurkey",
+         "EID_ShyTurkey",
+         "Pickaxe_ShyTurkey"
       ]
    },
    {
@@ -6456,6 +6458,13 @@
       "guid": "CDEC0DDD7FBB9465CA1B5C0FE67C36AC",
       "key": "b4158b3d4cc7063ce27944c015d3b94f90f9b1a096a84b36cf1cfbac14e3bbb4",
       "cosmeticIds": []
+   },
+   {
+      "guid": "CE179BE277616715D2268213D497737D",
+      "key": "f9d21f1241c3cc2ce143ce75f2864ce094188c58ed82e341e9a608bf6c7fc314",
+      "cosmeticIds": [
+         "EID_BackPlates"
+      ]
    },
    {
       "guid": "CE60A61FBEAC33EBF231E79C6BBB3D19",
