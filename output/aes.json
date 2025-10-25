@@ -5709,8 +5709,12 @@
       "key": "1cd01fab037634a137a9ce174bf95528bb33dee09211ab266214aadb654c630f",
       "cosmeticIds": [
          "Shoes_AmberVine",
+         "Shoes_BananaFlare",
          "Shoes_DevilDash",
+         "Shoes_EnvyGraspDock",
          "Shoes_KinQuackHaddock",
+         "Shoes_KinQuackHalibut",
+         "Shoes_KinQuackHerring",
          "Shoes_KinQuackSardine",
          "Shoes_LeftMuscleDoe",
          "Shoes_PrideOxenReclaim"
@@ -6612,10 +6616,16 @@
       "guid": "D37EB78A194F9316C0DEF6C4E653424A",
       "key": "cc452ae01657151bb08a37472b12fb54594496de54baa1d3af2ed61f1242ae4f",
       "cosmeticIds": [
+         "Backpack_PolkaSkate",
          "Backpack_SlugRipple",
+         "Character_PolkaSkate",
          "Character_ServeStreet",
          "Character_SlugRipple",
+         "EID_PolkaSkate",
+         "EID_PolkaSkate_Box",
          "EID_SlugRipple",
+         "Pickaxe_PolkaSkate",
+         "Pickaxe_PolkaSkate_Bass",
          "Spray_SlugRipple",
          "Wrap_SlugRipple"
       ]
