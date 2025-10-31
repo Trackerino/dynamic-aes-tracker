@@ -308,6 +308,16 @@
       ]
    },
    {
+      "guid": "074ECAF6D3C315FB367ACF8B180F71EF",
+      "key": "f7c5a035b3f554af82bc52df802ef151df90e6de42c49f2986aa3b8f1f9faa31",
+      "cosmeticIds": [
+         "Backpack_TulipGlory",
+         "Character_TulipGlory",
+         "EID_TulipGlory",
+         "Pickaxe_TulipGlory"
+      ]
+   },
+   {
       "guid": "0761FE4D1D72BFFCD0BC1E79482A404F",
       "key": "dd0f06dccc190021d0cc2b6338761be3a45841e925e7860f4f392e9faad9a072",
       "cosmeticIds": [
