@@ -4930,6 +4930,13 @@
       ]
    },
    {
+      "guid": "9819D6AFB21EE64F6E558AE737E4CA51",
+      "key": "4855f9436ead47a33761ae5a23047a6cb607793fbf6fe8db70c298375469f2d6",
+      "cosmeticIds": [
+         "GameFeaturePlugin_LimeRockNightNight"
+      ]
+   },
+   {
       "guid": "9858EA640CD5F38627E83497187A327D",
       "key": "990d44b87ffd136feda5409925e25cf60498ec2951e46e5c3826c86bd911ef5a",
       "cosmeticIds": []
@@ -5051,6 +5058,13 @@
       "key": "44c9dba9b951880ebe257c8d98dff3d72a8c6dd28290b9eea4cbec9b5729a127",
       "cosmeticIds": [
          "EID_Resonant"
+      ]
+   },
+   {
+      "guid": "9B2BF8E63919695213DE1079188F07A3",
+      "key": "0af29a47eec56c305c6c7111b87c98fae5590b4ebda9f664d294ebb298d2b070",
+      "cosmeticIds": [
+         "GameFeaturePlugin_LimeRock"
       ]
    },
    {
