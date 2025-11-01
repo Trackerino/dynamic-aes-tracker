@@ -5266,6 +5266,13 @@
       ]
    },
    {
+      "guid": "A3587949A1B73998661E348D05724DD9",
+      "key": "5bed3a670245076fd823e527d5148464d8724f69e12db78a943a1f60745e5364",
+      "cosmeticIds": [
+         "Character_QueenTruth_Rind"
+      ]
+   },
+   {
       "guid": "A3618360BF2BE3C452DD4E212CED6D0F",
       "key": "8670f7ff62ed7cfe07b28f189b6656e18e06d32d440ef42f62fb930a8ce29283",
       "cosmeticIds": []
@@ -6671,6 +6678,13 @@
          "Pickaxe_ServeStreet",
          "Spray_SlugRipple",
          "Wrap_SlugRipple"
+      ]
+   },
+   {
+      "guid": "D3F28058BC1076C7A75DC9E360E69403",
+      "key": "6460963b44cf8645f8a64000f1c3bdf9723042d702fb0f4c755186e429775099",
+      "cosmeticIds": [
+         "CarBody_Sprinkle"
       ]
    },
    {
