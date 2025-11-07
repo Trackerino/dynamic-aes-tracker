@@ -1891,6 +1891,13 @@
       ]
    },
    {
+      "guid": "359E4F23ADD44B13DA70C7177FDC864D",
+      "key": "61179746c3c7b5ecfee87711aad090e0e28ab2c957f36b8df931d6410b61c060",
+      "cosmeticIds": [
+         "Companion_FinFlake"
+      ]
+   },
+   {
       "guid": "35C2B057E5168DCA74B6F1DDAC745E60",
       "key": "ef785a2656374b44d5987d042f1cb0ea9e45cc546b2135aa3a6a1b1fd17632af",
       "cosmeticIds": [
@@ -4568,6 +4575,13 @@
       ]
    },
    {
+      "guid": "8B0822E94C9265FF84608B916A8D6CA0",
+      "key": "9e9ae9f7a762986ee3ed2f33411fefd793490c59e0328e7315e3cc9d027a2618",
+      "cosmeticIds": [
+         "Companion_DoveSlide"
+      ]
+   },
+   {
       "guid": "8B9DC1A32A4081596F0AE60926CF6846",
       "key": "e0efe7ff84c02699d0dc1bdc69d88a2c744d4a665041bafed79452ac31e7ad0e",
       "cosmeticIds": []
@@ -7186,6 +7200,13 @@
       ]
    },
    {
+      "guid": "E2054F60D27D94E251F322B92F9782F3",
+      "key": "beca4e7f0e87bfbf88080e34dc3fe6b120f92c3c75521c6ec734310ee111618d",
+      "cosmeticIds": [
+         "Companion_CrescentNail"
+      ]
+   },
+   {
       "guid": "E242355FF51310B9E4D8C595E9933F91",
       "key": "bcbb86008233dd9b732e1255d10aa46b756e85267b9c1fd4451302a1244aadb3",
       "cosmeticIds": []
@@ -7221,6 +7242,13 @@
       "key": "8354aa286e4b88b01f81bc3d6099d94df4031ec7444728a8679ca158247215f3",
       "cosmeticIds": [
          "EID_MustardRocket"
+      ]
+   },
+   {
+      "guid": "E336A9116DBE8051BE28B340AC9758A1",
+      "key": "10b199c5aa80f4fcccc6bad83842cbcad4b39cf821285f5db36e4f2d79d4bd4e",
+      "cosmeticIds": [
+         "Companion_RoseBruin"
       ]
    },
    {
