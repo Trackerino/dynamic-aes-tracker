@@ -1030,6 +1030,14 @@
       "cosmeticIds": []
    },
    {
+      "guid": "1D03B87E7082AFE8D9DC9BA37B45BEFD",
+      "key": "2f970c55d3aae5ac7e966827444e997a2ae34adfbc940544b933b160ac3ed3b5",
+      "cosmeticIds": [
+         "EID_Matador",
+         "EID_YouthFlume"
+      ]
+   },
+   {
       "guid": "1D3CA08888F448FA0F4733563B552933",
       "key": "bb4f806e7eac6ca6684a9237afbee243dfca1a52dc9d71abf00f140144cf9c1e",
       "cosmeticIds": [
