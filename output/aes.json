@@ -4583,6 +4583,14 @@
       ]
    },
    {
+      "guid": "8B9B3B18B0D5F489D67D4A354405F245",
+      "key": "81db6bc2474b65f488dd71566293f5648db19a1b4140e99d252fbcc86649292c",
+      "cosmeticIds": [
+         "EID_LazyDays",
+         "EID_LottaLove"
+      ]
+   },
+   {
       "guid": "8B9DC1A32A4081596F0AE60926CF6846",
       "key": "e0efe7ff84c02699d0dc1bdc69d88a2c744d4a665041bafed79452ac31e7ad0e",
       "cosmeticIds": []
