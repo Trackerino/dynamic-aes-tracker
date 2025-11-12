@@ -1446,6 +1446,13 @@
       ]
    },
    {
+      "guid": "280A27CA67688F28791E96A28AB98CD6",
+      "key": "d69c530153f2eea964b276a4d8c52f553f9a7e310ba67f9d04c09d5bb8d30b7c",
+      "cosmeticIds": [
+         "Character_DuckCoast"
+      ]
+   },
+   {
       "guid": "280F643808DE5EAB39E77B23E2193CE9",
       "key": "9586ec6c22ccc2316f75a94dc6c0548fe3d98899ada1aff0725cf6b00390c6e3",
       "cosmeticIds": []
@@ -6843,6 +6850,13 @@
       ]
    },
    {
+      "guid": "D5D99AF03E7643E9184DEAD11C13B80A",
+      "key": "0cc62645de46c44a6bec605c05ae9543133d999230c09a7add33a4c60eaeda01",
+      "cosmeticIds": [
+         "EID_GraftGlint"
+      ]
+   },
+   {
       "guid": "D685B90583DC7BD637B001936D1BF2AC",
       "key": "ecbb0792d5fbc0f40ccfa19314ec103189cf3cbe70d144aeead1134310b354a6",
       "cosmeticIds": [
@@ -7256,6 +7270,13 @@
       "key": "8354aa286e4b88b01f81bc3d6099d94df4031ec7444728a8679ca158247215f3",
       "cosmeticIds": [
          "EID_MustardRocket"
+      ]
+   },
+   {
+      "guid": "E2FEAC04C0CEAF6A906D05EFE8311BDB",
+      "key": "144cf0418490450830b91639ac7473efb2342e44fae960e80a7a30d021022cfa",
+      "cosmeticIds": [
+         "Companion_ZestySilo"
       ]
    },
    {
