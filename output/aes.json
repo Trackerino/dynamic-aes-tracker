@@ -6610,6 +6610,20 @@
       ]
    },
    {
+      "guid": "Character_FrostGalore",
+      "key": "10d09160f4c4",
+      "cosmeticIds": [
+         "A3587949A1B73998661E348D05724DD9"
+      ]
+   },
+   {
+      "guid": "Companion_ZestySilo",
+      "key": "10d09160f4c4",
+      "cosmeticIds": [
+         "E2FEAC04C0CEAF6A906D05EFE8311BDB"
+      ]
+   },
+   {
       "guid": "D015A683141A28CFF1A51677703DC0BF",
       "key": "bbc0e5782b076d45f51ba5dfe9208410cc8252accbdebb3f26e201a4012168a7",
       "cosmeticIds": [
@@ -7022,6 +7036,13 @@
       "key": "6d503ca069ad6ff51e0b275ea9d2dd93a95fdaea0ee2a2ef184ecac0ec8a4bf4",
       "cosmeticIds": [
          "EID_Crosswalk"
+      ]
+   },
+   {
+      "guid": "DA_Featured_DuckCoast_Bundle",
+      "key": "10d09160f4c4",
+      "cosmeticIds": [
+         "280A27CA67688F28791E96A28AB98CD6"
       ]
    },
    {
