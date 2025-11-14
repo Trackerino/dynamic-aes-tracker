@@ -3184,6 +3184,14 @@
       ]
    },
    {
+      "guid": "5C6148A9033B83B21B1498DFD76451C3",
+      "key": "1efea396f5e1109c332e5772b0fc62ca30abf94f508a41ee77e660c831408d80",
+      "cosmeticIds": [
+         "EID_CopyThat",
+         "EID_IceMagic"
+      ]
+   },
+   {
       "guid": "5D6562F1EAD89513C82C2F37A24E7F82",
       "key": "23673e49009d0ef2690bacf5c678914fe938d4a029d2995afa8fc7ebca1714b4",
       "cosmeticIds": [
@@ -5324,9 +5332,12 @@
       "guid": "A3587949A1B73998661E348D05724DD9",
       "key": "5bed3a670245076fd823e527d5148464d8724f69e12db78a943a1f60745e5364",
       "cosmeticIds": [
+         "Backpack_FrostGalore",
          "Character_ClimbSpill",
          "Character_FrostGalore",
-         "Character_QueenTruth_Rind"
+         "Character_QueenTruth_Rind",
+         "EID_FrostGalore",
+         "Pickaxe_FrostGalore"
       ]
    },
    {
