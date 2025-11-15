@@ -3594,6 +3594,8 @@
       "guid": "691BCC84F794F259604935CFF8744C57",
       "key": "45462c7110671d5286a3159b17eee9ba2fb9d96c1435931fbe15f72a6d226df8",
       "cosmeticIds": [
+         "Shoes_VaneFetaSalt",
+         "Shoes_VaneFetaWater",
          "Shoes_VoyageDartBroil"
       ]
    },
@@ -4188,7 +4190,17 @@
       "guid": "7D97C3C99AF2728F0171B6C8B02E57FB",
       "key": "ef714a6821d5e8ad484d702324ecbdc5ca3e82c0c6b3bfe7f83205fc1a964e6d",
       "cosmeticIds": [
-         "Character_CanineCronutDig"
+         "Backpack_CanineCronutDig",
+         "Backpack_CanineCronutMix",
+         "Backpack_CanineCronut_DrumStick",
+         "Character_CanineCronutDig",
+         "Contrail_CanineCronut",
+         "EID_CanineCronutDig",
+         "EID_CanineCronutMix",
+         "Pickaxe_CanineCronut_DrumStick",
+         "Pickaxe_CanineCronut_Mic",
+         "Wrap_CanineCronutDig",
+         "Wrap_CanineCronutMix"
       ]
    },
    {
