@@ -1449,7 +1449,9 @@
       "guid": "280A27CA67688F28791E96A28AB98CD6",
       "key": "d69c530153f2eea964b276a4d8c52f553f9a7e310ba67f9d04c09d5bb8d30b7c",
       "cosmeticIds": [
-         "Character_DuckCoast"
+         "Character_DuckCoast",
+         "EID_DuckCoast",
+         "Pickaxe_DuckCoast"
       ]
    },
    {
@@ -3594,6 +3596,7 @@
       "guid": "691BCC84F794F259604935CFF8744C57",
       "key": "45462c7110671d5286a3159b17eee9ba2fb9d96c1435931fbe15f72a6d226df8",
       "cosmeticIds": [
+         "Shoes_PeekTwine",
          "Shoes_VaneFetaSalt",
          "Shoes_VaneFetaWater",
          "Shoes_VoyageDartBroil"
