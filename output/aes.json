@@ -3625,6 +3625,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "6A089E5DC253EBD9216D85F142387052",
+      "key": "4489f3cb0662deea6f56c3c94d309a7c535ecc4f898115a1e6e49bc154e6e5c9",
+      "cosmeticIds": [
+         "EID_SundaySpider"
+      ]
+   },
+   {
       "guid": "6A2047910081947B9A5DCF542A9AEBE5",
       "key": "57f8cc4d62fecdba9e22528213df92337f97ebd6986edfdc374f86d43d060505",
       "cosmeticIds": []
