@@ -5392,6 +5392,13 @@
       ]
    },
    {
+      "guid": "A3B83413366BD06A2A236617243FF408",
+      "key": "f6f8ad9e6ea4040decbd4c9c99cb443d915d8bd747aa0969aa1685625e48d384",
+      "cosmeticIds": [
+         "CarBody_Garage"
+      ]
+   },
+   {
       "guid": "A504A381A11922EACD522BAB09F60577",
       "key": "172ae3fa64facd009f036b6f22ace6d6534cd9d98df31b6f66cfc08abcfd6438",
       "cosmeticIds": [
@@ -8080,6 +8087,14 @@
       "key": "d11bf74adb070bd3af0ba50347e2fe08b833eb713ea8699efb3c3ab1e6dddae7",
       "cosmeticIds": [
          "EID_Swish"
+      ]
+   },
+   {
+      "guid": "F8FAA07F4041B381DCAE1A41468CEE8A",
+      "key": "e8a31aef7ad82724e123e12342d9d88d53dc1b776c97d2301647664299af614e",
+      "cosmeticIds": [
+         "Backpack_PlankCover",
+         "Character_PlankCoverAge"
       ]
    },
    {
