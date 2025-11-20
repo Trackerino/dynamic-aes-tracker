@@ -565,6 +565,13 @@
       ]
    },
    {
+      "guid": "1042B344B2F3D38759AED36198794339",
+      "key": "b81c31238054c32980947d5bcbb6e15bcccded5815e63bdb0e05225b5d97a582",
+      "cosmeticIds": [
+         "Character_TremorMark"
+      ]
+   },
+   {
       "guid": "1050DE04C393D98D22D50388175B4834",
       "key": "685cc242b2f957d431054ee1adb967af7c7ca168cab3b32342bb9afedc811102",
       "cosmeticIds": []
