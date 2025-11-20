@@ -3159,6 +3159,13 @@
       ]
    },
    {
+      "guid": "5BCD2ECF0B745C297D28BDADE21DD459",
+      "key": "854a31be78e957d386292e7b41cc0444a15ce99b4eea35b6a97a43a1035ddbcd",
+      "cosmeticIds": [
+         "GameFeaturePlugin_EventTest"
+      ]
+   },
+   {
       "guid": "5C0BC5E8819B8968CF25C60885F0CB5E",
       "key": "139d8b77682d33330550c91d3298cd5a6107120af5aa71fe8a5887da16b6edd4",
       "cosmeticIds": [
