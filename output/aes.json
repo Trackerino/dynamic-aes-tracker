@@ -4857,6 +4857,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "90D6945E3508DADBD636438D952DD287",
+      "key": "1b49b04552216207fbf0ad701128beb4a70e0390c973fd5fd541bb4562146bb7",
+      "cosmeticIds": [
+         "EID_SuperSalty"
+      ]
+   },
+   {
       "guid": "91181AD6BCB9443F7F6479DA8BA9B7A4",
       "key": "724bf428442e0e971ae5c3f924b507f0ad5ffad558bd9a6da0cb06611edfc435",
       "cosmeticIds": []
@@ -5410,7 +5417,8 @@
       "guid": "A3B83413366BD06A2A236617243FF408",
       "key": "f6f8ad9e6ea4040decbd4c9c99cb443d915d8bd747aa0969aa1685625e48d384",
       "cosmeticIds": [
-         "CarBody_Garage"
+         "CarBody_Garage",
+         "Wheel_Garage01"
       ]
    },
    {
@@ -8116,7 +8124,19 @@
       "key": "e8a31aef7ad82724e123e12342d9d88d53dc1b776c97d2301647664299af614e",
       "cosmeticIds": [
          "Backpack_PlankCover",
-         "Character_PlankCoverAge"
+         "Character_PlankCoverAge",
+         "Character_PlankCoverAge_B",
+         "Character_PlankCoverAge_C",
+         "Character_PlankCoverAge_D",
+         "Character_PlankCoverAge_E",
+         "Character_PlankCoverWay",
+         "Character_PlankCoverWay_B",
+         "Character_PlankCoverWay_C",
+         "Character_PlankCoverWay_D",
+         "Character_PlankCoverWay_E",
+         "EID_PlankCoverAge",
+         "Glider_PlankCover",
+         "Pickaxe_PlankCover"
       ]
    },
    {
