@@ -568,7 +568,17 @@
       "guid": "1042B344B2F3D38759AED36198794339",
       "key": "b81c31238054c32980947d5bcbb6e15bcccded5815e63bdb0e05225b5d97a582",
       "cosmeticIds": [
-         "Character_TremorMark"
+         "Backpack_CinderGale",
+         "Backpack_DolphinGill",
+         "Backpack_LanternFit",
+         "Backpack_TremorMark",
+         "Character_TremorMark",
+         "EID_CornerWeek",
+         "EID_DolphinGill",
+         "EID_TremorMark",
+         "Pickaxe_CinderGale",
+         "Pickaxe_CornerWeek",
+         "Pickaxe_LanternFit"
       ]
    },
    {
@@ -3610,6 +3620,8 @@
       "guid": "691BCC84F794F259604935CFF8744C57",
       "key": "45462c7110671d5286a3159b17eee9ba2fb9d96c1435931fbe15f72a6d226df8",
       "cosmeticIds": [
+         "Shoes_DripUrgeEllipse",
+         "Shoes_DripUrgeOval",
          "Shoes_LunarShade",
          "Shoes_PeekTwine",
          "Shoes_VaneFetaSalt",
@@ -5532,6 +5544,7 @@
       "guid": "A7ED7AEB85DD44D66887D23490F4A9BD",
       "key": "e120a6a958d030a7569766d7686216161d68a956cfad2e3b233fa42c313be0b3",
       "cosmeticIds": [
+         "Backpack_CornerWeek",
          "Character_CornerWeek"
       ]
    },
