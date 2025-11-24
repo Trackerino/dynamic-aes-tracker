@@ -5151,6 +5151,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "99CD903569829420A41006C20263C694",
+      "key": "b798a4e168f441a534e27f1bdc42699b42bb56c94fd8758dbb2ac0f7b1ba0798",
+      "cosmeticIds": [
+         "EID_MerryMaking"
+      ]
+   },
+   {
       "guid": "99E94152C1F777A1D8519A532741EE40",
       "key": "dd30863de2c5de69c7d23f0b13da0bc188971ccbdef7baf0ed5c353907277334",
       "cosmeticIds": [
