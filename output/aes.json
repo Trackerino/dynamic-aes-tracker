@@ -3408,7 +3408,9 @@
       "guid": "626A08ED7CADA2A96BCB6FED28807435",
       "key": "4a126d11883d16aca70a1de900577a44567b3e51552bda2a5d4ae2e754f7d7e2",
       "cosmeticIds": [
-         "Character_SpongeHollow"
+         "Backpack_SpongeHollow",
+         "Character_SpongeHollow",
+         "Pickaxe_SpongeHollow"
       ]
    },
    {
