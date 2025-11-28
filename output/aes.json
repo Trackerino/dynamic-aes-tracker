@@ -1873,6 +1873,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "33088E8D5AA83D5EF83321CEA0FB6404",
+      "key": "0e33cb44bb93867b807fd55399c8354766a53bde14c8f7125ae9b01f9b4c033b",
+      "cosmeticIds": [
+         "EID_WipeOut"
+      ]
+   },
+   {
       "guid": "335599361AF8AF77EA1EF7A8E5C32E38",
       "key": "9a1f9b0709c02e5afe3d8973fcc39b0981cf90b1276af54eb2c737f0bce07fce",
       "cosmeticIds": []
