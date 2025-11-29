@@ -5046,6 +5046,13 @@
       ]
    },
    {
+      "guid": "95F27017E9C9297290DB60941B1C8355",
+      "key": "60f58915d2ecec5506ebff2ea82a64ed5adf3f93f1ba8faed90a68b105abcc86",
+      "cosmeticIds": [
+         "GameFeaturePlugin_SkyMango"
+      ]
+   },
+   {
       "guid": "969BC0596ABEE58537B875FD3B4601BA",
       "key": "cfe37a542c54156ef2cda918ae0bc9bf8fca6f54d8369e3ff4fe0700bf1a8892",
       "cosmeticIds": [
