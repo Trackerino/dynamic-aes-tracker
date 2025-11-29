@@ -1574,6 +1574,13 @@
       ]
    },
    {
+      "guid": "2BBA134ECCB70D2F2815F1E532B8C829",
+      "key": "2ff2ec72a7a30755d316d703589a4b9776f200c66f2f7957010d9674f3f353d7",
+      "cosmeticIds": [
+         "GameFeaturePlugin_SkyMangoNight"
+      ]
+   },
+   {
       "guid": "2BEE5F951D6A3AA790943B18CE43C474",
       "key": "7e0ba3cf60ebc6c3c6fd220b714163f3342d29ee0041c2ae294ab15f75576c1c",
       "cosmeticIds": [
