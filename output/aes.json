@@ -7211,6 +7211,13 @@
       ]
    },
    {
+      "guid": "DC5875627031B431F7CA00EB340AD357",
+      "key": "e99e0a8dcbc926cec277b968b130b0e4228c610ebe7fe5ba3cdd21f418d4bb6c",
+      "cosmeticIds": [
+         "GameFeaturePlugin_SkyMangoPlaylist"
+      ]
+   },
+   {
       "guid": "DC8B99FB6774F84C4C0AA8DF768B758F",
       "key": "46df9eaf93f32dd902164ea8caefd3ec08cc8586fc253efcaeab575e4f5b2035",
       "cosmeticIds": [
