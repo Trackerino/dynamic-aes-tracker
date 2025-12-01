@@ -693,6 +693,13 @@
       ]
    },
    {
+      "guid": "1336E91828FFC2154C0116BA347F8271",
+      "key": "12c9da5f38d2a250966276f9ce1293213d4d2de210f514ac6eda1a9068b99a61",
+      "cosmeticIds": [
+         "EID_Isolate"
+      ]
+   },
+   {
       "guid": "134343D31031634B122471F73F611CBC",
       "key": "ceab4c18ac47e3e61d731fb598739be4320c63172da66da72aa5e9f1ce611ffd",
       "cosmeticIds": [
@@ -6101,6 +6108,13 @@
       "cosmeticIds": [
          "Character_HeavyRoar",
          "EID_Incantation"
+      ]
+   },
+   {
+      "guid": "BA474EC1375159F597087FCEE4D712E9",
+      "key": "2b41c67e22abe9a55be67bf973a94ab493debf7b9999c1ea3f308d1247f562bf",
+      "cosmeticIds": [
+         "EID_AprilBevie"
       ]
    },
    {
