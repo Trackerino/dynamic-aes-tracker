@@ -323,6 +323,16 @@
       ]
    },
    {
+      "guid": "075BBAB481CFD9C18CBB3CE53B0FAC4F",
+      "key": "85477a4483c8c23aa6cba165ad4315e97afe19a6fe19bcd43151d9b393c7c9d4",
+      "cosmeticIds": [
+         "Backpack_JoltMosaic",
+         "EID_JoltMosaic",
+         "EID_WaltzScout",
+         "Pickaxe_JoltMosaic"
+      ]
+   },
+   {
       "guid": "0761FE4D1D72BFFCD0BC1E79482A404F",
       "key": "dd0f06dccc190021d0cc2b6338761be3a45841e925e7860f4f392e9faad9a072",
       "cosmeticIds": [
@@ -917,6 +927,13 @@
       "guid": "195439D6DD0FE44ADAE6BF7A44436519",
       "key": "9110b0ed51523c262a86eee526503890ee189aca99533c4ce80466ed38bc9ed4",
       "cosmeticIds": []
+   },
+   {
+      "guid": "197CDB9CF4DED81B3232613E08949F00",
+      "key": "4613730889f20e1490bc32040347bf51502a708688da450c4b479729c5570da8",
+      "cosmeticIds": [
+         "EID_BeesKnees"
+      ]
    },
    {
       "guid": "19CAB803EB00118FB3E6B3E5ABA7B234",
@@ -5909,6 +5926,13 @@
       "cosmeticIds": [
          "EID_JanuaryBop",
          "EID_SandwichBop"
+      ]
+   },
+   {
+      "guid": "B22339E30F274D155AA3136A63C7F51B",
+      "key": "1b41672db286892bea24effcfeb024e6eb60689a747ee1d9037dc791584e531e",
+      "cosmeticIds": [
+         "EID_PsychicReader"
       ]
    },
    {
