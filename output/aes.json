@@ -3731,6 +3731,17 @@
       "cosmeticIds": []
    },
    {
+      "guid": "6A8A5DF12B4F79E284DF310864FC0E14",
+      "key": "46eaf37e2f60a4da2ce97c47750068b4112c058ac6fefcd018b79bafd7632f24",
+      "cosmeticIds": [
+         "Backpack_FearCatch",
+         "Backpack_KneelReedy",
+         "EID_FearCatch",
+         "Pickaxe_FearCatch",
+         "Pickaxe_KneelReedy"
+      ]
+   },
+   {
       "guid": "6AD4E900C2E9E785B0442E0A60E74C66",
       "key": "15bac691a328aa3abf09a6a6749ad0501cff3e306ab40d301651a3d553b11fa0",
       "cosmeticIds": [
