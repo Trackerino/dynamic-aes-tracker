@@ -251,6 +251,18 @@
       ]
    },
    {
+      "guid": "0535B859F5619675BA0B867DF8A03AB0",
+      "key": "643689a965924bb882d7dc46a65b0846fe57d324d8f74c17da93850e0f1e375f",
+      "cosmeticIds": [
+         "Backpack_OvenDrastic",
+         "Backpack_ScallopLava",
+         "Backpack_TicketPoke",
+         "EID_OvenDrastic",
+         "EID_ScallopLava",
+         "EID_TicketPoke"
+      ]
+   },
+   {
       "guid": "0535D420DB8E2871EA63614408B83425",
       "key": "a4bc70c3c21d110a58c6a510b6a57fac404d7c3d33f5610e6d97a452fe12c94e",
       "cosmeticIds": [
