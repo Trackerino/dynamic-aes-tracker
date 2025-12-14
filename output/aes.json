@@ -442,7 +442,14 @@
       "guid": "09DC4C8FDC0FFF18B93CC489ED749100",
       "key": "04c4bca9992d9f398dff689a815da365582ba099ca5ecee976eb024fc72eeaea",
       "cosmeticIds": [
-         "Character_QuicheLorraineLime"
+         "Backpack_QuicheLorraineCrisp",
+         "Backpack_QuicheLorraineLime",
+         "Character_QuicheLorraineLime",
+         "EID_QuicheLorraineCrisp",
+         "EID_QuicheLorraineLime",
+         "Glider_QuicheLorraineLime",
+         "Pickaxe_QuicheLorraineCrisp",
+         "Pickaxe_QuicheLorraineLime"
       ]
    },
    {
@@ -3753,6 +3760,7 @@
          "Shoes_CheerNiceNod",
          "Shoes_CheerNiceShrug",
          "Shoes_RepairHeapAback",
+         "Shoes_RepairHeapMadly",
          "Shoes_TinselGlam"
       ]
    },
