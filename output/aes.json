@@ -279,7 +279,15 @@
       "guid": "0567579C721625B2683C6A4FB804A4AB",
       "key": "79bfaf897fb92d0f5ef4aa8bcc5b27f8b9a6a6593744368a62b18011e77f003a",
       "cosmeticIds": [
-         "Character_BoldDormRise"
+         "Backpack_BoldDormMum",
+         "Backpack_BoldDormWork",
+         "Character_BoldDormRise",
+         "Companion_ScrollVessel",
+         "EID_BoldDorm",
+         "EID_BoldDorm_Bagel",
+         "Pickaxe_BoldDormRise",
+         "Pickaxe_BoldDormWork",
+         "Wrap_BoldDorm"
       ]
    },
    {
