@@ -2535,6 +2535,16 @@
       ]
    },
    {
+      "guid": "46BCDDC1726A60A78874AE421F628E07",
+      "key": "05e7f54be8ada547f3558f97c33b1973571d8398ef6c8198a12620021a273571",
+      "cosmeticIds": [
+         "Shoes_NiftyGrateBoil",
+         "Shoes_NiftyGrateSimmer",
+         "Shoes_OrganBedCrochet",
+         "Shoes_OrganBedHook"
+      ]
+   },
+   {
       "guid": "46FC5EBAD39CE53EFB215A2E05A915FC",
       "key": "1f782d7641334f70e4f2f9304d3644f68503a09132eaf99f423d630e8e39de06",
       "cosmeticIds": [
@@ -3534,6 +3544,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "63CDF24E23EF9CD1ECD686FC560E789A",
+      "key": "3399349b74fd05c2281da9b5f3742486128e19efb251d5190be4acbc2f518435",
+      "cosmeticIds": [
+         "Companion_WittyStork"
+      ]
+   },
+   {
       "guid": "6450BD104AFF3B6ABA9AA0EC0748E775",
       "key": "0c00742fc472473e2c546eeb87dccdb0a83c306982aa5b0852bf5733b855befa",
       "cosmeticIds": []
@@ -3683,6 +3700,18 @@
          "Pickaxe_LastVoiceDive",
          "Pickaxe_LastVoiceSteel",
          "Spray_LastVoice"
+      ]
+   },
+   {
+      "guid": "67BAC6938E653AA250D6491B88F95AB2",
+      "key": "293b56167d1cadfcfea0d99f7327a64ff85abe05e68dc9087115002381228813",
+      "cosmeticIds": [
+         "Backpack_CountyFrog",
+         "EID_CountyFrog",
+         "EID_CountyFrog_Loaf",
+         "Pickaxe_CountyFrog",
+         "Pickaxe_CountyFrog_DrumStick",
+         "Pickaxe_CountyFrog_Guitar"
       ]
    },
    {
@@ -6415,6 +6444,15 @@
       "guid": "C015FB76A9E7912825A5F9CA69671961",
       "key": "e337c2d6e17c965e0291305cb62b559b08c7b1acc08b3d8b5cf1c83e3e1e7fdf",
       "cosmeticIds": []
+   },
+   {
+      "guid": "C045227910862A9A52D279BF7CAA6E76",
+      "key": "0e51646a945a355c30e8c5f10cbd40bef09f1209661d1e79064c0f6267a85f1d",
+      "cosmeticIds": [
+         "ID_Booster_LionsMane01",
+         "ID_DriftTrail_LionsMane01",
+         "Wheel_Lionsmane01"
+      ]
    },
    {
       "guid": "C04C5C304930D43E84F58FF9AB79B9FD",
