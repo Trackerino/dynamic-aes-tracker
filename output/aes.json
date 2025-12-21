@@ -2538,6 +2538,9 @@
       "guid": "46BCDDC1726A60A78874AE421F628E07",
       "key": "05e7f54be8ada547f3558f97c33b1973571d8398ef6c8198a12620021a273571",
       "cosmeticIds": [
+         "Shoes_HeatShineShred",
+         "Shoes_HeatShineTear",
+         "Shoes_LearnCurdClod",
          "Shoes_NiftyGrateBoil",
          "Shoes_NiftyGrateSimmer",
          "Shoes_OrganBedCrochet",
@@ -3210,7 +3213,9 @@
       "key": "c45a08eb810555f82e5c8ef8d20e0748e7ce1b5b64052b52ff1273de9ddeeb3f",
       "cosmeticIds": [
          "AMS_Figure_BullKeynote",
-         "Character_BullKeynote"
+         "Backpack_BullKeynote",
+         "Character_BullKeynote",
+         "Pickaxe_BullKeynote"
       ]
    },
    {
@@ -7402,7 +7407,13 @@
       "guid": "DC14C9F20354797AECB4273011E2F126",
       "key": "474935753c8aed37721cb219245f1a83d4dc5329e4a6c6ace64034c9fb97f674",
       "cosmeticIds": [
-         "Character_LatteStir"
+         "Backpack_LatteStir",
+         "Backpack_MajorSpeech",
+         "Backpack_TameEagle",
+         "Character_LatteStir",
+         "Pickaxe_MajorSpeech",
+         "Pickaxe_TameEagle",
+         "Wrap_LatteStir"
       ]
    },
    {
@@ -7903,7 +7914,8 @@
       "guid": "EA988FF846455E5B7F1ECC32EBFB63A8",
       "key": "771bd67bccf2aeec8d55e5b735c634dccc406a4f7e86729234981ab10cfe649c",
       "cosmeticIds": [
-         "CarBody_Topple"
+         "CarBody_Topple",
+         "Wheel_Topple01"
       ]
    },
    {
