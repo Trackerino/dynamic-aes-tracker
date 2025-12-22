@@ -2441,6 +2441,13 @@
       ]
    },
    {
+      "guid": "4417432BDEE32651A325D6B2E18B4921",
+      "key": "bce2eeb100bab4aab6431790496fbfea4dd393d3e872a573289154dcc2d63486",
+      "cosmeticIds": [
+         "EID_HotFashion"
+      ]
+   },
+   {
       "guid": "4486CF5940D8BC64EF29B940EBA909D3",
       "key": "eb81b179cf18a4f81c72fc069354990791a3bf42fadcebd758685ff1777a0e66",
       "cosmeticIds": [
@@ -5812,6 +5819,19 @@
       "guid": "AAB934D179F489B8084EB057031AB845",
       "key": "a091761060979163fb0750552bc8b8c89cef36d9305e8ce364966fed9ce71040",
       "cosmeticIds": []
+   },
+   {
+      "guid": "AB09FB9219AC2D674084ED227ED0415D",
+      "key": "d1d6d7401c8ef3a5c3f658cd09f4a3519afdea8023e36f0161db4521383c2c18",
+      "cosmeticIds": [
+         "Backpack_FinchVisit",
+         "Backpack_GuideQuiz",
+         "EID_GuideQuiz",
+         "Glider_GuideQuiz",
+         "Pickaxe_FinchVisit",
+         "Pickaxe_GuideQuiz_Guitar",
+         "Wrap_FinchVisit"
+      ]
    },
    {
       "guid": "AB10C0F1C99E5A6E4E477300FBD5D170",
