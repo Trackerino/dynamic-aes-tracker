@@ -2545,8 +2545,10 @@
       "guid": "46BCDDC1726A60A78874AE421F628E07",
       "key": "05e7f54be8ada547f3558f97c33b1973571d8398ef6c8198a12620021a273571",
       "cosmeticIds": [
+         "Shoes_ChimneyScar",
          "Shoes_HeatShineShred",
          "Shoes_HeatShineTear",
+         "Shoes_KnitHearth",
          "Shoes_LearnCurdClod",
          "Shoes_NiftyGrateBoil",
          "Shoes_NiftyGrateSimmer",
@@ -8573,6 +8575,15 @@
       "key": "84c0737286eccf39ca486dfc7836dde7c4be22aa2d57aa94457829b211839a76",
       "cosmeticIds": [
          "EID_Lowrider"
+      ]
+   },
+   {
+      "guid": "FDD051149BF0B6543D1B15BAC626A821",
+      "key": "5b0cd130ec92e0a274e4ba774c77dc4ec9170ed7dc26539954579373f6245b4e",
+      "cosmeticIds": [
+         "Backpack_PintPiano",
+         "EID_PintPiano",
+         "Pickaxe_PintPiano"
       ]
    },
    {
