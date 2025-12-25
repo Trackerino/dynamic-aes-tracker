@@ -2546,6 +2546,7 @@
       "key": "05e7f54be8ada547f3558f97c33b1973571d8398ef6c8198a12620021a273571",
       "cosmeticIds": [
          "Shoes_ChimneyScar",
+         "Shoes_CinnamonTwine",
          "Shoes_HeatShineShred",
          "Shoes_HeatShineTear",
          "Shoes_KnitHearth",
@@ -6534,7 +6535,14 @@
       "guid": "C18E6B7A77D09C76111B3BA9A99217F4",
       "key": "2e71c8fb9c7df44caf3b1b49c1dfa45701cd5fc3f02aeb8de0b479862574247f",
       "cosmeticIds": [
-         "Character_HonorBraceJoust"
+         "Backpack_HonorBraceJoust",
+         "Backpack_HonorBraceLeap",
+         "Character_HonorBraceJoust",
+         "Character_HonorBraceLeap",
+         "EID_HonorBraceLeap",
+         "Glider_HonorBrace",
+         "Pickaxe_HonorBraceJoust",
+         "Wrap_HonorBraceJoust"
       ]
    },
    {
