@@ -5366,6 +5366,13 @@
       ]
    },
    {
+      "guid": "9A24D57F47E6490A555106BC1845231F",
+      "key": "cd2241b07cfd482a5ca8255b6fd9a487b73f95a181cfc47603c16283a54027da",
+      "cosmeticIds": [
+         "EID_FloorSmash"
+      ]
+   },
+   {
       "guid": "9A3C083767A87B837556F6F97B75999C",
       "key": "36c44a9ec4dc93baca89d51de181fb5177e5c1ac5748de91948386a807685799",
       "cosmeticIds": [
