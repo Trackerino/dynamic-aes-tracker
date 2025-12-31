@@ -3710,6 +3710,18 @@
       ]
    },
    {
+      "guid": "6725563E1692CF2A956C90AF42C933A7",
+      "key": "4fd8745512a98b0c34ae5e08cc6c5eea34df899181864080ebd8122e08240cb7",
+      "cosmeticIds": [
+         "Backpack_BackAbsorb",
+         "Backpack_YokeQuick",
+         "Character_BackAbsorb",
+         "Character_YokeQuick",
+         "EID_YokeQuick",
+         "Pickaxe_BackAbsorb"
+      ]
+   },
+   {
       "guid": "67644F946DF9404F175F23C8D1DB3D1F",
       "key": "ff1e80710a302e0cf7912cdfd7c8147df2219e3df89f5f6a89e6b4c351392417",
       "cosmeticIds": []
