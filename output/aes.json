@@ -2555,6 +2555,7 @@
          "Shoes_ChimneyScar",
          "Shoes_CinnamonTwine",
          "Shoes_FrostStripe",
+         "Shoes_GlacierStep",
          "Shoes_HeatShineShred",
          "Shoes_HeatShineTear",
          "Shoes_KnitHearth",
@@ -5866,6 +5867,13 @@
          "Pickaxe_FinchVisit",
          "Pickaxe_GuideQuiz_Guitar",
          "Wrap_FinchVisit"
+      ]
+   },
+   {
+      "guid": "AB0BBDFEBDC2A7D0B71F4A7949AB0B68",
+      "key": "6a82a48df30cf04f0e236e817eeffcd53701351819357ba73a93ab0df764ec46",
+      "cosmeticIds": [
+         "Wheel_Lawrence"
       ]
    },
    {
