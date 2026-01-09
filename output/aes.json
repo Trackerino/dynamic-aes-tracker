@@ -519,6 +519,23 @@
       ]
    },
    {
+      "guid": "0B97B7936F975BC9AF92D4EC0A936A13",
+      "key": "613f850e00b4e05b27208c385337e57c2779acfabd1d4d272f6ce29b25cf2a39",
+      "cosmeticIds": [
+         "Backpack_LemurClam",
+         "Backpack_LiquidCouch",
+         "Backpack_MorningSoak_Cook",
+         "Backpack_OzoneCredit",
+         "Backpack_PacificSweater",
+         "EID_MorningSoak",
+         "EID_PacificSweater",
+         "Pickaxe_LemurClam",
+         "Pickaxe_MorningSoak_Cook",
+         "Pickaxe_OzoneCredit",
+         "Pickaxe_PacificSweater"
+      ]
+   },
+   {
       "guid": "0C2DFF3432352A23684E05B0794DFFC7",
       "key": "146e7972681d067b33b2be694b46810b8e0d565ecec88f80b8e5f100bc9a34a0",
       "cosmeticIds": []
@@ -5423,6 +5440,13 @@
       "key": "44c9dba9b951880ebe257c8d98dff3d72a8c6dd28290b9eea4cbec9b5729a127",
       "cosmeticIds": [
          "EID_Resonant"
+      ]
+   },
+   {
+      "guid": "9B1D0056F929F6B5C2EAE463EF9E58C9",
+      "key": "3b4e6556568149e920caf49aff5544f8e4960cd477ba7769bea1fb476ab6d736",
+      "cosmeticIds": [
+         "Companion_FillBandit"
       ]
    },
    {
