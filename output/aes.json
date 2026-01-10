@@ -754,6 +754,15 @@
       ]
    },
    {
+      "guid": "12F6B372DB54853319B9ECC79A07382B",
+      "key": "bb05da7d008baf7af79f45e51d15732c6e22b220f4f166d96b11554e1142262f",
+      "cosmeticIds": [
+         "Shoes_CoinCoachTax",
+         "Shoes_GrillCivicFilet",
+         "Shoes_LumenDrakePat"
+      ]
+   },
+   {
       "guid": "12FE0A05F765391B9A3B98599D32F8EE",
       "key": "bfd32cc35f55840f44a894dcc152cb091bbce5ee68fcd28fc388d084f4a1bfa1",
       "cosmeticIds": [
@@ -4783,6 +4792,13 @@
       "key": "648a1c6bd80d48c965daedf39a612c305480a76a539acbd620f5b0cf66f416c1",
       "cosmeticIds": [
          "BID_188_FortniteDJFemale"
+      ]
+   },
+   {
+      "guid": "86A48887BFA4D84FF63459B78209777C",
+      "key": "4bde8bf0411bdae90cfb8c25cd8b8de54dc7b051d25612408989e2ec7b38dc16",
+      "cosmeticIds": [
+         "EID_NajaSpectacle"
       ]
    },
    {
