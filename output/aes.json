@@ -3573,6 +3573,14 @@
       ]
    },
    {
+      "guid": "6320C089FA06D998FCE79174323993DA",
+      "key": "ecc5da7b85c4ce5851de6b7e7218d9484f8a843ef79e020412356f4dcf79cce8",
+      "cosmeticIds": [
+         "Backpack_SwipePlunk",
+         "Pickaxe_SwipePlunk"
+      ]
+   },
+   {
       "guid": "63516700C5CFA6F1BE71B29214957E33",
       "key": "791f4eb70f378c9cab8fcd3c0a4a84955633957cedb9cd78feeda90ed3eda284",
       "cosmeticIds": [
@@ -8614,6 +8622,13 @@
       "guid": "FBAC0AD8C03AAB2DC3BC077597517179",
       "key": "e688fc078479de994fc5189cb4c37a42443be350a26cc6e6cd1258203210e623",
       "cosmeticIds": []
+   },
+   {
+      "guid": "FBD631C4DB4F332353DA16149628BADE",
+      "key": "7ad68cf135e5076e22262dd8d13019e043921ced27d820fbb413a63f2e246b8e",
+      "cosmeticIds": [
+         "EID_ChaosTheory"
+      ]
    },
    {
       "guid": "FC29F85DE0913DA71729BF081D5BC360",
