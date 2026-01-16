@@ -1862,6 +1862,13 @@
       ]
    },
    {
+      "guid": "3079DB79CBA5D1D133A5B7BA335E85C3",
+      "key": "5609df21a6b93898703028a83b39aa713d6fafd3c49eea837a1ebe37db631668",
+      "cosmeticIds": [
+         "EID_HalfCourt"
+      ]
+   },
+   {
       "guid": "308F587F46CB50450DCA9B9CFD50E120",
       "key": "da7bf2786af19ea2f94898cc3da83577d6228977dd1985642ff589a966270b60",
       "cosmeticIds": [
@@ -7101,6 +7108,23 @@
       "key": "e62fa5f7f9eb86523494fb1ed6bfea0aaab64f82f87eafcafdafa9ec3f4f1621",
       "cosmeticIds": [
          "EID_Camouflage"
+      ]
+   },
+   {
+      "guid": "D06632AC4134D7353BC609F5B4499D3C",
+      "key": "b087d09ef6cbe11be71d7a39a1edf8fff35a5e3f871a39652b28307c324165c7",
+      "cosmeticIds": [
+         "Backpack_FairyMochi",
+         "Backpack_ProngCling",
+         "Backpack_SlopeTramp",
+         "Backpack_SonnetSpirit",
+         "EID_FairyMochi",
+         "EID_SlopeTramp",
+         "EID_SonnetSpirit",
+         "Pickaxe_FairyMochi",
+         "Pickaxe_ProngCling",
+         "Pickaxe_SonnetSpirit",
+         "Pickaxe_SonnetSpirit_DrumStick"
       ]
    },
    {
