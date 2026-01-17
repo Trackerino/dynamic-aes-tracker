@@ -757,9 +757,11 @@
       "guid": "12F6B372DB54853319B9ECC79A07382B",
       "key": "bb05da7d008baf7af79f45e51d15732c6e22b220f4f166d96b11554e1142262f",
       "cosmeticIds": [
+         "Shoes_CoinCoachLaw",
          "Shoes_CoinCoachTax",
          "Shoes_GrillCivicChop",
          "Shoes_GrillCivicFilet",
+         "Shoes_LumenDrakeKit",
          "Shoes_LumenDrakePat",
          "Shoes_MachStare",
          "Shoes_WhiskerTap"
@@ -5725,8 +5727,15 @@
       "guid": "A3A8C0C32F0223CE7E92329323211756",
       "key": "ddc3ac5b3373f61f5aab9ff23e9839fc3c2837d33deffc3cb2b49f828b6395db",
       "cosmeticIds": [
+         "Backpack_MarchTreatBay",
+         "Backpack_MarchTreatCup",
          "Backpack_MarchTreat_Guitar",
-         "Sparks_MarchTreat_Guitar"
+         "EID_MarchTreatCup",
+         "LoadingScreen_MarchTreatKeyArt",
+         "Pickaxe_MarchTreat_Guitar",
+         "Pickaxe_MarchTreat_Mic",
+         "Sparks_MarchTreat_Guitar",
+         "Wrap_MarchTreatCup"
       ]
    },
    {
