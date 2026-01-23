@@ -7221,6 +7221,13 @@
       ]
    },
    {
+      "guid": "D2C92CB87AA7463BAAD3EAF6778A0CE2",
+      "key": "ca64df419c19d56d56c6f239110b582e33b15baaa00f0cf32c6435452308e83c",
+      "cosmeticIds": [
+         "EID_StopLight"
+      ]
+   },
+   {
       "guid": "D2FAE1D098B2B4695EB59FAAD504798D",
       "key": "6540c8a83bc655ca4256e03787aeef76455b6702ee0b4675cd7df724bca2e711",
       "cosmeticIds": [
