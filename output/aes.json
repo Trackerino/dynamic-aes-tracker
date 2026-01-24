@@ -3019,6 +3019,16 @@
       "cosmeticIds": []
    },
    {
+      "guid": "5356217BD1DD0D82542A532182CE6AC4",
+      "key": "bc8ea4b22353c2e7fe16b195eb80cd05cbe46e2a85ea64b09257206b9bbfc1bb",
+      "cosmeticIds": [
+         "Shoes_BadgeAgaveRun",
+         "Shoes_MajorSailDeck",
+         "Shoes_MajorSailKnot",
+         "Shoes_UskThumpFix"
+      ]
+   },
+   {
       "guid": "53A406F15B4250D281B5A3664B6530E9",
       "key": "4ff835f3c2ad7b22fcf7f13fa4a1cb18a6f6d67cc6e416e81c1db63f387f3979",
       "cosmeticIds": []
@@ -6602,6 +6612,13 @@
       ]
    },
    {
+      "guid": "C00AC61B6DF74B627F0288C8C96CFAC3",
+      "key": "08fcd6627d24f3a0052256fcfba1a405c6c107907f8be80d8b6ec20c9c1c1dbe",
+      "cosmeticIds": [
+         "Backpack_BadgeAgave"
+      ]
+   },
+   {
       "guid": "C015FB76A9E7912825A5F9CA69671961",
       "key": "e337c2d6e17c965e0291305cb62b559b08c7b1acc08b3d8b5cf1c83e3e1e7fdf",
       "cosmeticIds": []
@@ -8041,7 +8058,14 @@
       "guid": "E6D3646B1A579B2CF0EA3785A5311D7E",
       "key": "98895ff6b855e5bb2ed73dd0bffd3ec2ab6429821ddbbe495806fd5e56afa5e7",
       "cosmeticIds": [
-         "Character_OxideHoard"
+         "Backpack_OxideHoard",
+         "Backpack_UskThump",
+         "Character_OxideHoard",
+         "EID_OxideHoard",
+         "EID_UskThump",
+         "Glider_UskThump",
+         "Pickaxe_OxideHoard",
+         "Pickaxe_UskThump"
       ]
    },
    {
