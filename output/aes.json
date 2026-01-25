@@ -3025,6 +3025,7 @@
          "Shoes_BadgeAgaveRun",
          "Shoes_MajorSailDeck",
          "Shoes_MajorSailKnot",
+         "Shoes_TombRobeSky",
          "Shoes_UskThumpFix"
       ]
    },
@@ -6267,6 +6268,14 @@
       "guid": "B4D5B451ED92972585CC2F14FBD89BEA",
       "key": "5b93af10b750b5c5fea1beb526bca250544c98a5a985a820db467ce2a8386ae7",
       "cosmeticIds": []
+   },
+   {
+      "guid": "B581BB998048D91177913B5A33CFA7D7",
+      "key": "159cfd95bae9c2700296473cf0f18d339ae3a8f448cca690dee3d80a9cef250c",
+      "cosmeticIds": [
+         "Backpack_InchEscape",
+         "Pickaxe_InchEscape"
+      ]
    },
    {
       "guid": "B5991083D7A18E71E22701A6611EECBD",
