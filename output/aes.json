@@ -4388,6 +4388,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "79EAFE32E1FC4C6EE770688C83622083",
+      "key": "335048877f94fc6e9d5dd6d70c37c9d2c07d6a3e2dfcb182ad92f6c01cc4610f",
+      "cosmeticIds": [
+         "EID_CountingStars"
+      ]
+   },
+   {
       "guid": "79F7D9C856E8CF354109D3298F076C06",
       "key": "024dd338cd22d0cabf298c5ded20e54ae4bba39e5449a7febab2fa5aa9e66a56",
       "cosmeticIds": []
@@ -7314,7 +7321,10 @@
       "guid": "D3BB306F25264D9892CF0D7AF6CD9A27",
       "key": "9c1464d760eb4bf1f05a3dd4620bfd3062a5d1cc3cfe26df5705069dbe764038",
       "cosmeticIds": [
-         "CarBody_Drof"
+         "CarBody_Drof",
+         "ID_Booster_Drofb",
+         "VTID_Booster_Drof_TitaniumWhite",
+         "Wheel_DrofB_TitaniumWhite"
       ]
    },
    {
