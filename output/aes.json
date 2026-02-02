@@ -6689,6 +6689,13 @@
       ]
    },
    {
+      "guid": "C09B0F24EF362F5E960C14759471E128",
+      "key": "add4ed2ce0151a8673886b4020dcb7a75dd3552ddb4313be7e4e70c6d2b7b60d",
+      "cosmeticIds": [
+         "EID_CouchCushion"
+      ]
+   },
+   {
       "guid": "C0AD693BD109852AFC71C988E5C3589A",
       "key": "a137cd7d320ba3326fc87ac4f7cccfa54830e26ecc4d2f676b6f5bd02b30a4d7",
       "cosmeticIds": []
