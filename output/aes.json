@@ -5380,6 +5380,13 @@
       ]
    },
    {
+      "guid": "972E706DBCB3870225E65429223897EC",
+      "key": "7873426ea0a5c599b5381179bdb1119fa30478fb23f6bad00cc311e754c57a48",
+      "cosmeticIds": [
+         "CarBody_Charged"
+      ]
+   },
+   {
       "guid": "97493B05A5BF87C5D621EBB9F9C93E41",
       "key": "741c4107e5180ff3e3b0fd8eb890d07656b5d9e9b3ff2d93a5869c9ce2a07432",
       "cosmeticIds": [
