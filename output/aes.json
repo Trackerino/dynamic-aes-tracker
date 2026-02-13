@@ -1466,6 +1466,13 @@
       ]
    },
    {
+      "guid": "249B130C31906DBC2574108F774E70F2",
+      "key": "4d489fbdec5390cc4e02a97e9216786b0cce0cac6044d8c3f08643bf451d0874",
+      "cosmeticIds": [
+         "EID_LevitateSnow"
+      ]
+   },
+   {
       "guid": "24A02AB49A4FC7FA071F834DF78FB6E9",
       "key": "0c45f20f0b52902b3a1b5106ae32ca76dd04b39bf0a087c4c61c9c0f475786e3",
       "cosmeticIds": []
@@ -6721,6 +6728,13 @@
       "guid": "C0AD693BD109852AFC71C988E5C3589A",
       "key": "a137cd7d320ba3326fc87ac4f7cccfa54830e26ecc4d2f676b6f5bd02b30a4d7",
       "cosmeticIds": []
+   },
+   {
+      "guid": "C0E87C4A78F6708EBF7C66E1D1694D31",
+      "key": "752f5b9454175a21e78cc600ba082e217b84117f0480914fef34bc54f29da1d4",
+      "cosmeticIds": [
+         "EID_ChipDip"
+      ]
    },
    {
       "guid": "C11DB2552EF4F3974E331EC72026EFBA",
