@@ -5383,7 +5383,8 @@
       "guid": "972E706DBCB3870225E65429223897EC",
       "key": "7873426ea0a5c599b5381179bdb1119fa30478fb23f6bad00cc311e754c57a48",
       "cosmeticIds": [
-         "CarBody_Charged"
+         "CarBody_Charged",
+         "Wheel_Charged"
       ]
    },
    {
