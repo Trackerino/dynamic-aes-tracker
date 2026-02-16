@@ -2876,6 +2876,13 @@
       ]
    },
    {
+      "guid": "4D2BAE4A8CD955329FA3C6337EEDBBAA",
+      "key": "4f4499b8b66611ac07b0fc4b60294ecb361144a6b93aa64ed063507348a7887a",
+      "cosmeticIds": [
+         "EID_SonnyBoy"
+      ]
+   },
+   {
       "guid": "4D896B93DC5B2D18AA2949EA7B67B4EA",
       "key": "d15ef4c7aa74cd1455f5b57a3feb2aeb694cd02756e2bbd4822a7affae465b37",
       "cosmeticIds": []
@@ -6960,6 +6967,17 @@
       ]
    },
    {
+      "guid": "C755CFF0092A1DE63DE98F9C5A10E9BC",
+      "key": "ef51421cf0c1a4135e95a75689bd6ee7e5beeb92002a106b737d854ec6c0e053",
+      "cosmeticIds": [
+         "Backpack_DrapeUltra",
+         "Backpack_PaddleHarp_Gap",
+         "EID_DrapeUltra",
+         "EID_PaddleHarp",
+         "Pickaxe_PaddleHarp_Gap"
+      ]
+   },
+   {
       "guid": "C7623A35411F3D5FBDE2688C7E4A69EB",
       "key": "a808b8f6650ab01d9d6df6ed2560dfdf23b60df452b40f8477d5e00e30bc65ac",
       "cosmeticIds": [
@@ -7402,6 +7420,13 @@
       ]
    },
    {
+      "guid": "D3A8927824A278B41BC13105C7E6B2B9",
+      "key": "6157d9b5225836f69b21c8f9652bf21a4a987c41592b5087476c7c7c996303c9",
+      "cosmeticIds": [
+         "EID_BlueZoo"
+      ]
+   },
+   {
       "guid": "D3BB306F25264D9892CF0D7AF6CD9A27",
       "key": "9c1464d760eb4bf1f05a3dd4620bfd3062a5d1cc3cfe26df5705069dbe764038",
       "cosmeticIds": [
@@ -7653,6 +7678,7 @@
       "guid": "D8DB8B7F59E5E0BB2502D05F7CA26390",
       "key": "50878ebffb60aaf39529e3a8467beaf453e4984002e76e3c30bf476cab7b4c2f",
       "cosmeticIds": [
+         "Shoes_ChasmTrystCare",
          "Shoes_ChasmTrystHill",
          "Shoes_ChasmTrystLoft",
          "Shoes_ChasmTrystRole",
