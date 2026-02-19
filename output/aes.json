@@ -174,6 +174,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "02C7A418451897310CBA2AFA067DE3A0",
+      "key": "130de6365cd2ae7c87f4ec5f129983a8f8ebd3c4d9da3e3f1b34381e506bd1db",
+      "cosmeticIds": [
+         "Character_QuirkLuster"
+      ]
+   },
+   {
       "guid": "02D6157B89DFEB20039320BAACC31205",
       "key": "b02073c9caa3002b78147b39bb0cb0339e23eea0822699757a5ae05794de7db1",
       "cosmeticIds": [
@@ -8829,6 +8836,13 @@
       "key": "dd2a474e84eed84fff41ef0386ee08de41b97cba847a63222fed8dc5154a74e7",
       "cosmeticIds": [
          "EID_DuckTeacher_9IPLU"
+      ]
+   },
+   {
+      "guid": "FA340637BB8D412BDDFC897AFFD61439",
+      "key": "a428090c0209325279a0da315420cb38966c2415c739559c6cb0aae28d634a9a",
+      "cosmeticIds": [
+         "CarBody_Econ"
       ]
    },
    {
