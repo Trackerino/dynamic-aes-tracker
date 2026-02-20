@@ -2140,6 +2140,18 @@
       "cosmeticIds": []
    },
    {
+      "guid": "3696EF39BA36762120BD6DEC1B956EDF",
+      "key": "c7a4a8745f65a9ef32ecdbdb894e2552c1c9adb15e40e98bef39164047ba3c5f",
+      "cosmeticIds": [
+         "Backpack_WavySignalBanjo",
+         "Backpack_WavySignalBeef",
+         "EID_WavySignalBeef",
+         "Pickaxe_WavySignalBanjo",
+         "Pickaxe_WavySignalBeef",
+         "Wrap_WavySignalBanjo"
+      ]
+   },
+   {
       "guid": "36A1455D04820E3D498C146613F97D3A",
       "key": "d70a9f958559b0fb14cb8b641e436014d8fb082e65ca1d1f5001494f552c9222",
       "cosmeticIds": []
@@ -2313,6 +2325,13 @@
       "guid": "3CE25AC56856D0E10426276F61265547",
       "key": "344b550d7474aa839f5bd960752e00b80f1d91f77fd48f5d7a071123d527bd4a",
       "cosmeticIds": []
+   },
+   {
+      "guid": "3D6A6FFBB7B089CC4172ACB028580BA8",
+      "key": "09acb01a29b40c710054ea39b5bd6b8d12a34ed27d8d357df832c019e47555d7",
+      "cosmeticIds": [
+         "EID_FenderJazz"
+      ]
    },
    {
       "guid": "3D738885316A0BCFE38A3B60108D4195",
