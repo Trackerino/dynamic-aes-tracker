@@ -177,7 +177,13 @@
       "guid": "02C7A418451897310CBA2AFA067DE3A0",
       "key": "130de6365cd2ae7c87f4ec5f129983a8f8ebd3c4d9da3e3f1b34381e506bd1db",
       "cosmeticIds": [
-         "Character_QuirkLuster"
+         "Backpack_BirchPalace",
+         "Backpack_QuirkLuster",
+         "Character_QuirkLuster",
+         "EID_QuirkLuster",
+         "Pickaxe_BirchPalace",
+         "Pickaxe_QuirkLuster",
+         "Wrap_RampCanal"
       ]
    },
    {
@@ -2325,6 +2331,14 @@
       "guid": "3CE25AC56856D0E10426276F61265547",
       "key": "344b550d7474aa839f5bd960752e00b80f1d91f77fd48f5d7a071123d527bd4a",
       "cosmeticIds": []
+   },
+   {
+      "guid": "3D17FFB29FE8C9D95D088B383979482C",
+      "key": "696e39fc9b4729188fd5075b234be12d7fc3409726c025f5dd9e3e932c21fc63",
+      "cosmeticIds": [
+         "Shoes_ResolveParlorDuet",
+         "Shoes_ResolveParlorLyric"
+      ]
    },
    {
       "guid": "3D6A6FFBB7B089CC4172ACB028580BA8",
@@ -8866,7 +8880,8 @@
       "guid": "FA340637BB8D412BDDFC897AFFD61439",
       "key": "a428090c0209325279a0da315420cb38966c2415c739559c6cb0aae28d634a9a",
       "cosmeticIds": [
-         "CarBody_Econ"
+         "CarBody_Econ",
+         "Wheel_Econ01"
       ]
    },
    {
