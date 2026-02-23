@@ -2238,6 +2238,15 @@
       ]
    },
    {
+      "guid": "38D507A36D2053EE84C441243C08E401",
+      "key": "f5ffc4b00f96f28d2183c8afd8cdd962ab7fcd0d70ec74bc22306256435b23a3",
+      "cosmeticIds": [
+         "Backpack_MonkeyPatentHowl",
+         "Backpack_MonkeyPatentRipe",
+         "Backpack_MonkeyPatentSeed"
+      ]
+   },
+   {
       "guid": "3988E0693BAEB40EB8FB796CF560C182",
       "key": "2a33242ec00e66b7dbf71bd359a366aaa71e250cf9452209c02fb599df6432cd",
       "cosmeticIds": []
@@ -2337,6 +2346,7 @@
       "key": "696e39fc9b4729188fd5075b234be12d7fc3409726c025f5dd9e3e932c21fc63",
       "cosmeticIds": [
          "Shoes_CascadeNectarBaste",
+         "Shoes_MapleBacon",
          "Shoes_ResolveParlorDuet",
          "Shoes_ResolveParlorLyric"
       ]
@@ -8368,6 +8378,13 @@
          "BID_246_BaseballKitbashMale",
          "Glider_ID_135_Baseball",
          "Pickaxe_ID_183_BaseballBat2018"
+      ]
+   },
+   {
+      "guid": "EB4FE25256E90CF2731C139271BADFED",
+      "key": "f134f173a59f00d6aeef06750d1bc5fe6173c85c79cc0256ba53333d723418dd",
+      "cosmeticIds": [
+         "EID_HipHurdle"
       ]
    },
    {
