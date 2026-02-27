@@ -403,6 +403,16 @@
       ]
    },
    {
+      "guid": "0866B3790EF2F03DE95B3DF247FF5AE9",
+      "key": "727a881512e8c16ae05ccfca4ceb4a9cf4c3e178d77d4d0c4a03f4f7dff019a5",
+      "cosmeticIds": [
+         "Backpack_ChoiceCrave",
+         "Backpack_TweakSmirk",
+         "Pickaxe_ChoiceCrave",
+         "Pickaxe_TweakSmirk"
+      ]
+   },
+   {
       "guid": "08788A9DA34F4164ADA4F09FBF698CC3",
       "key": "0e5851add0460cd0035003118f8a00530c11da3df736bd99360d825378b5fcf8",
       "cosmeticIds": [
@@ -3730,6 +3740,13 @@
          "BID_295_Jellyfish",
          "Glider_ID_155_Jellyfish",
          "Pickaxe_ID_223_Jellyfish"
+      ]
+   },
+   {
+      "guid": "6359981233B7EA1D65F1CCDC9DBA389E",
+      "key": "4d4fc474ed2fb2311ce76938aeb8028608650582daa88176edfe2f459c0e28f1",
+      "cosmeticIds": [
+         "EID_AweSnap"
       ]
    },
    {
@@ -7303,6 +7320,13 @@
       "key": "cbca49c6936c683d89afb20d45ab2d86f7f493471866ba635398be2dce4aa480",
       "cosmeticIds": [
          "EID_HighLife"
+      ]
+   },
+   {
+      "guid": "CFECE915F06948532425AE3C92A3A775",
+      "key": "2827fbc252707db51b6e59637e38623a163ccc5e4a93e9a47677ffc380298c7c",
+      "cosmeticIds": [
+         "EID_BriskWind"
       ]
    },
    {
