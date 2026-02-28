@@ -2216,6 +2216,13 @@
       ]
    },
    {
+      "guid": "37F16D8C8EB011C98CA7AAF5CCFF20AF",
+      "key": "b03dc9a24de8098fe3b8e520d13e371ecc63e2d7208f87665f6390cecf5d5610",
+      "cosmeticIds": [
+         "EID_ProngCling"
+      ]
+   },
+   {
       "guid": "384D4043DAEC57A2163773964E3EFB40",
       "key": "9491cc33d89e04cd4fff4c65e1718455b0eb42c7358563f4a5b9d013a1667768",
       "cosmeticIds": [
@@ -2363,6 +2370,8 @@
          "Shoes_BlizzardHide",
          "Shoes_CascadeNectarBaste",
          "Shoes_MapleBacon",
+         "Shoes_MysticBannerBest",
+         "Shoes_MysticBannerPost",
          "Shoes_ResolveParlorDuet",
          "Shoes_ResolveParlorLyric",
          "Shoes_ResolveParlorMesa"
@@ -3520,6 +3529,13 @@
          "EID_TotalFlock_Slash",
          "Pickaxe_SoapPocket",
          "Pickaxe_TotalFlock"
+      ]
+   },
+   {
+      "guid": "5C56A88E5D7D0C8E7C80D162BEFC5414",
+      "key": "abbfc7ff490a1a05d97c59336e9fa1e857731c73d61f21fc221777c734552c8f",
+      "cosmeticIds": [
+         "Companion_BitterDolly"
       ]
    },
    {
