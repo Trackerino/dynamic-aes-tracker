@@ -2269,6 +2269,13 @@
       ]
    },
    {
+      "guid": "392A5B34E6FF9E3FEFFB1C9BF283DDFA",
+      "key": "f81ffb3fd989a7a3fe9ef312703c76b49cca2c5c589e0362c18f0b88f86a7411",
+      "cosmeticIds": [
+         "EID_SantaClara"
+      ]
+   },
+   {
       "guid": "3988E0693BAEB40EB8FB796CF560C182",
       "key": "2a33242ec00e66b7dbf71bd359a366aaa71e250cf9452209c02fb599df6432cd",
       "cosmeticIds": []
@@ -2370,6 +2377,8 @@
          "Shoes_BlizzardHide",
          "Shoes_CascadeNectarBaste",
          "Shoes_GraniteEmberlyCave",
+         "Shoes_GraniteEmberlyRed",
+         "Shoes_GraniteEmberlyStone",
          "Shoes_MapleBacon",
          "Shoes_MysticBannerBest",
          "Shoes_MysticBannerPost",
