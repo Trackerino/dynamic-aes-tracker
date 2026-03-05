@@ -6558,6 +6558,13 @@
       ]
    },
    {
+      "guid": "B8BF6174A4CC4524A3ACE611BDEE0B5B",
+      "key": "3a6be0e4cde1449c5124a390053c3f7eb3868e11f1cd8bfea90e063f0aa40713",
+      "cosmeticIds": [
+         "Character_QuartzSqueak"
+      ]
+   },
+   {
       "guid": "B8C17AF9BC0DF3113AC6C498DF3325C2",
       "key": "884971a330f852f2b4fad3edd293cb834801a129302f0072262138b9c28753b5",
       "cosmeticIds": [
@@ -8554,6 +8561,13 @@
       "guid": "ED61A5415E40BB0A188CDB1DA91F22D2",
       "key": "c06b8525083595db61029ce8c3576ba68aba8b8d00cceb28383088e48ffa2520",
       "cosmeticIds": []
+   },
+   {
+      "guid": "EDA194B57CCB27F11BC4DBCCA46C5CC6",
+      "key": "0e24c071ed935e865e3274b1da611bc9a978e39ecf3845cd61a049fba3703719",
+      "cosmeticIds": [
+         "Character_RubySnapper"
+      ]
    },
    {
       "guid": "EDAFCFEBD9FE4B6A2B6E9F064721454A",
