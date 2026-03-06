@@ -7971,6 +7971,15 @@
       ]
    },
    {
+      "guid": "DE220EFE6BDFCC4F1A0CB12B2818FC02",
+      "key": "609f993048671848cc4b19a508fef66f020ec63b831cfc67b5253190c03f2132",
+      "cosmeticIds": [
+         "Backpack_MicroLeaf",
+         "EID_MicroLeaf",
+         "Pickaxe_MicroLeaf"
+      ]
+   },
+   {
       "guid": "DE4CBA7A27B818D6B299767036C671A9",
       "key": "a3b6b178e6037635d9e0c4d6338228e1744d7d01b6587f6ac0fbc148993cbc93",
       "cosmeticIds": [
