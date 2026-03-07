@@ -6090,6 +6090,13 @@
       ]
    },
    {
+      "guid": "A8A76DFD5A7313E008D465CF181A1662",
+      "key": "c01af08746f00cf7532c3427afeeb92a51e6ee262d2adf49eccb8a76897cc7a5",
+      "cosmeticIds": [
+         "Shoes_FuseBrookSlim"
+      ]
+   },
+   {
       "guid": "A92DE306E5174C82739D774151D7B661",
       "key": "445f6c4e1ee5dada7eca909bfcba7759e31f044c6f9362d251b8a6d38c6c089a",
       "cosmeticIds": [
@@ -6561,6 +6568,7 @@
       "guid": "B8BF6174A4CC4524A3ACE611BDEE0B5B",
       "key": "3a6be0e4cde1449c5124a390053c3f7eb3868e11f1cd8bfea90e063f0aa40713",
       "cosmeticIds": [
+         "Backpack_QuartzSqueak",
          "Character_QuartzSqueak"
       ]
    },
@@ -8575,7 +8583,13 @@
       "guid": "EDA194B57CCB27F11BC4DBCCA46C5CC6",
       "key": "0e24c071ed935e865e3274b1da611bc9a978e39ecf3845cd61a049fba3703719",
       "cosmeticIds": [
-         "Character_RubySnapper"
+         "Backpack_RubySnapper",
+         "Character_RubySnapper",
+         "Companion_AboutJury",
+         "Companion_ElixirFret",
+         "EID_RubySnapper",
+         "Pickaxe_QuartzSqueak",
+         "Pickaxe_RubySnapper"
       ]
    },
    {
