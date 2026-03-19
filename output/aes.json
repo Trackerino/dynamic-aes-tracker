@@ -5820,6 +5820,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "A0105DB4B3AE5A0F81381AC980A97EC6",
+      "key": "0586e5626c3856b12f30bef30f30e33843bcced43035ef805e1f1fbdde465673",
+      "cosmeticIds": [
+         "Character_CurbRestore"
+      ]
+   },
+   {
       "guid": "A02E08C8CE48D4D8676358FF7BE55533",
       "key": "77dc00e2c9e9978238078cd91715b2bbd70bf734a45eacbdfaf4f0f4f5211e5c",
       "cosmeticIds": []
