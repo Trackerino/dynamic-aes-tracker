@@ -8462,6 +8462,16 @@
       ]
    },
    {
+      "guid": "E9D448DC5EF671FCB0F41A14E16AC6CC",
+      "key": "d9e1e1e1bc8d9db41acfafde922bcce40f9eb58d3f9d5843fe3f7f0579f22028",
+      "cosmeticIds": [
+         "Backpack_AuroraOwl",
+         "Backpack_CymbalBar",
+         "EID_AuroraOwl",
+         "Pickaxe_AuroraOwl"
+      ]
+   },
+   {
       "guid": "E9E8A12CD60F5B7E5FCE97F43565BD4E",
       "key": "7024e6c02fcc9902b38c37c4ee5cd9ad34401861eaa9601b6791d0eca1a10b0f",
       "cosmeticIds": [
