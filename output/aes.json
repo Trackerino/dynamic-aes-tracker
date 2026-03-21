@@ -2562,7 +2562,9 @@
       "guid": "421DE96C45B88C1EE6CD9ECD8F95AC66",
       "key": "7d5b129ef609ec710cdaa643fd4ef3febf2ef1d2d97d75c54b6dfea6f8f4d2ea",
       "cosmeticIds": [
-         "Shoes_ChariotGlamPrime"
+         "Shoes_ChariotGlamPrime",
+         "Shoes_FuseBrookRune",
+         "Shoes_SporkSpoolZone"
       ]
    },
    {
@@ -5823,7 +5825,11 @@
       "guid": "A0105DB4B3AE5A0F81381AC980A97EC6",
       "key": "0586e5626c3856b12f30bef30f30e33843bcced43035ef805e1f1fbdde465673",
       "cosmeticIds": [
-         "Character_CurbRestore"
+         "Backpack_CurbRestore",
+         "Backpack_FamilyPoll",
+         "Character_CurbRestore",
+         "EID_CurbRestore",
+         "Pickaxe_CurbRestore"
       ]
    },
    {
@@ -8745,7 +8751,11 @@
       "guid": "F130654BD649849EDBA6D919A7DD89FE",
       "key": "99d2ae6a1abf80f09f93fdb6bc7f9c9da5559c8a9003f15a67957d5b5fcccc88",
       "cosmeticIds": [
-         "Character_OutlineLove"
+         "Backpack_OutlineLove",
+         "Character_OutlineLove",
+         "EID_OutlineLove",
+         "Glider_OutlineLove",
+         "Pickaxe_OutlineLove"
       ]
    },
    {
