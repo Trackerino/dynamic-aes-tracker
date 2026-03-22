@@ -2564,7 +2564,8 @@
       "cosmeticIds": [
          "Shoes_ChariotGlamPrime",
          "Shoes_FuseBrookRune",
-         "Shoes_SporkSpoolZone"
+         "Shoes_SporkSpoolZone",
+         "Shoes_WolfHurdleSnore"
       ]
    },
    {
@@ -2586,6 +2587,13 @@
       "guid": "42B4C9AE089C40EB9366CB594C15089A",
       "key": "52a9ea9c37497fddf5cf134a36c62b11a4b0c4cced4ea6703419928480cca23e",
       "cosmeticIds": []
+   },
+   {
+      "guid": "42B79F7809F19921F8C86D85695716C3",
+      "key": "18f973fc46398e505bbad9a8dae7ea9e35e005adfd5bfe37962352de08f52c71",
+      "cosmeticIds": [
+         "EID_DailyDose"
+      ]
    },
    {
       "guid": "42EE2C817800A9D2669E827BD8B97D34",
@@ -2996,6 +3004,15 @@
       "guid": "4D896B93DC5B2D18AA2949EA7B67B4EA",
       "key": "d15ef4c7aa74cd1455f5b57a3feb2aeb694cd02756e2bbd4822a7affae465b37",
       "cosmeticIds": []
+   },
+   {
+      "guid": "4DBADDA277F1A8BE3D2467EF323D222F",
+      "key": "8f851b2a007d3bf10d10ce6aa9a72b2f34074b5ea470dc0f9b4d8c1fe6007eb1",
+      "cosmeticIds": [
+         "Backpack_TopicProud",
+         "Pickaxe_TopicProud",
+         "Wrap_TopicProud"
+      ]
    },
    {
       "guid": "4E031903138CDB0CB2853738BB5F0353",
