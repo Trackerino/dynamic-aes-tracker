@@ -2573,6 +2573,9 @@
          "Shoes_BaseCruxTitle",
          "Shoes_ChariotGlamPrime",
          "Shoes_FuseBrookRune",
+         "Shoes_JoyGridForge",
+         "Shoes_JoyGridForm",
+         "Shoes_JoyGridVault",
          "Shoes_PaperCrease",
          "Shoes_SporkSpoolZone",
          "Shoes_WolfHurdleSnore"
@@ -6795,7 +6798,9 @@
       "guid": "BD2FD4AC2E1EEF79AF829A42DB63BB6C",
       "key": "5241c12fc312bf1873d5f714ee970e321a5a3a675925dc9349e9af020d2cf0d4",
       "cosmeticIds": [
-         "Character_NotchGnarl"
+         "Character_NotchGnarl",
+         "Pickaxe_BrineGleam",
+         "Pickaxe_NotchGnarl"
       ]
    },
    {
@@ -8252,7 +8257,9 @@
       "guid": "E304E5DE68EFA90E0680CC13D74AD623",
       "key": "10cd443aaf99f3df604e759a540b3c7fea19af352db98132208300ce8781f85c",
       "cosmeticIds": [
-         "CarBody_SheepBolt"
+         "CarBody_SheepBolt",
+         "Wheel_LuminousAirplane01",
+         "Wheel_Sheepbolt01"
       ]
    },
    {
@@ -8645,7 +8652,10 @@
       "guid": "ECAC483C32ECD8FAD751C3F21F234BB1",
       "key": "955f4aef4f0fd4ea5dc1a9b86543689c948d803caaa9d6eba57ed72c5bfc6085",
       "cosmeticIds": [
-         "Character_NotchGnarl"
+         "Backpack_BrineGleam",
+         "Backpack_NotchGnarl",
+         "Character_NotchGnarl",
+         "EID_NotchGnarl"
       ]
    },
    {
