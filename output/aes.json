@@ -5775,6 +5775,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "9C0929AC3723454B2E640D33340D90C3",
+      "key": "99f7991f5ca5565c4208349b368defcde83c391c5f6aecc2c0512ada0f6b0e0f",
+      "cosmeticIds": [
+         "Character_ParadeLotus"
+      ]
+   },
+   {
       "guid": "9CDB7E60150C8A93BF60EF4983D2A9FC",
       "key": "64c18e6236a52d9c379b8c050e2f79f565babe56c80100ea7274558329447a3e",
       "cosmeticIds": []
