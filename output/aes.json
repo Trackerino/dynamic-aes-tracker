@@ -4582,6 +4582,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "7921D8E80ABC2FC2C8AC0B9F6C2AAB6E",
+      "key": "bd547f64a75df25093397e79193583ef7d59a5a9e670fbc2d66fd69891a16121",
+      "cosmeticIds": [
+         "EID_ShoutOut"
+      ]
+   },
+   {
       "guid": "793D221E5331282DD7F3681100944880",
       "key": "07947ae04f446500f59479a6c9457ef5ad5750439c61f768a49ddabc421c5711",
       "cosmeticIds": [
