@@ -2570,6 +2570,7 @@
       "key": "7d5b129ef609ec710cdaa643fd4ef3febf2ef1d2d97d75c54b6dfea6f8f4d2ea",
       "cosmeticIds": [
          "Shoes_AntlerShade",
+         "Shoes_BaseCruxRisk",
          "Shoes_BaseCruxTitle",
          "Shoes_ChariotGlamPrime",
          "Shoes_FuseBrookRune",
@@ -5779,7 +5780,14 @@
       "guid": "9C0929AC3723454B2E640D33340D90C3",
       "key": "99f7991f5ca5565c4208349b368defcde83c391c5f6aecc2c0512ada0f6b0e0f",
       "cosmeticIds": [
-         "Character_ParadeLotus"
+         "Backpack_FlickLedge",
+         "Backpack_LadderDoor",
+         "Backpack_ParadeLotusCape",
+         "Character_ParadeLotus",
+         "EID_ParadeLotus",
+         "Pickaxe_FlickLedge",
+         "Pickaxe_LadderDoor",
+         "Pickaxe_ParadeLotus"
       ]
    },
    {
