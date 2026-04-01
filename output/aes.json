@@ -661,6 +661,14 @@
       ]
    },
    {
+      "guid": "0F7ADC20BBCEF01C933C2E2447D72DEF",
+      "key": "095e3c1817e8fcdd46c0ec792fa39edc027325750241b18a3dd4e5d3a2266ba2",
+      "cosmeticIds": [
+         "Shoes_ChoirFrameNet",
+         "Shoes_SaintApplyTask"
+      ]
+   },
+   {
       "guid": "0F810ABB0DB8672A438B14169C048145",
       "key": "f6f7c5504684bdece7684bf2abe9a119a821df0f7c7d1759e41a704203733338",
       "cosmeticIds": [
@@ -6291,6 +6299,11 @@
       "cosmeticIds": [
          "EID_Melody"
       ]
+   },
+   {
+      "guid": "AB38061C5CD693FBE0292E214A12A0B5",
+      "key": "16989409d1b73627017cd4bb7bf5de491ba0902ed1213159269a526fab4b5d85",
+      "cosmeticIds": []
    },
    {
       "guid": "AB49364AF91E33E44F23A9322A23D541",
