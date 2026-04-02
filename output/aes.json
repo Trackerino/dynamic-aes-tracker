@@ -2225,6 +2225,14 @@
       ]
    },
    {
+      "guid": "379373642809C2EB31DA3DCEEFBE902F",
+      "key": "34385b6e47d6031a2fe0d89b6b10ceb047e632a08783967ac87be1aeaabcc304",
+      "cosmeticIds": [
+         "EID_TrowelRake",
+         "Wrap_TrowelRake"
+      ]
+   },
+   {
       "guid": "37B3D2284CB3924E6592C2D1D11451E4",
       "key": "08c25c97243523d898f9590389a8e11b1c584266461eb4c094497fc2d953fa99",
       "cosmeticIds": []
