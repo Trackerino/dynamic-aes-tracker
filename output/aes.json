@@ -83,7 +83,9 @@
       "guid": "01A7097F7C067CFC53B10D9FC814C811",
       "key": "fa1824f25d48dc9220d953f30152d7ac24da78d10bc01dcec53d7fe1f100e175",
       "cosmeticIds": [
-         "CarBody_Fuego"
+         "CarBody_Fuego",
+         "Wheel_Fuego",
+         "Wheel_FuegoB"
       ]
    },
    {
