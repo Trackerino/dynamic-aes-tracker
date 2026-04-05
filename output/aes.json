@@ -879,6 +879,13 @@
       ]
    },
    {
+      "guid": "14EF5C7E3768B48441F529AC65CE4A4D",
+      "key": "5ac68a3014f8d7f09eb4905411b05babe1d9f9b5c94dc1a08023f5f7788647ef",
+      "cosmeticIds": [
+         "EID_BaggyBop"
+      ]
+   },
+   {
       "guid": "1550A32FEFA596C33320223B0F588B37",
       "key": "a19cb24ad2f56ab961f44262b385cfb6c45539593101eb8237822e58c5eeab6a",
       "cosmeticIds": [
@@ -2378,7 +2385,10 @@
       "guid": "3AED705F328B11B7288DFB3E527BE3BD",
       "key": "deb7428314a1679edf0a6fae9d337a998c228fcf9d22ad80635ab4803a0dfbf4",
       "cosmeticIds": [
-         "Pickaxe_PeaceScarf"
+         "Pickaxe_BrawnGraze",
+         "Pickaxe_BrawnGraze_Guitar",
+         "Pickaxe_PeaceScarf",
+         "Sparks_BrawnGraze_Guitar"
       ]
    },
    {
@@ -4084,7 +4094,10 @@
       "guid": "67D739AB3910C42EACDC2C97033CEE6C",
       "key": "b5fe2d5a962e8b17240d4abb585e4bf2df16da95346e26903c691009a19a8a9c",
       "cosmeticIds": [
-         "Character_BrawnGraze"
+         "Backpack_BrawnGraze",
+         "Backpack_PeaceScarf",
+         "Character_BrawnGraze",
+         "EID_PeaceScarf"
       ]
    },
    {
