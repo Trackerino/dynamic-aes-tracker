@@ -5952,6 +5952,13 @@
       ]
    },
    {
+      "guid": "A0243D42238799D467FDC00B0BD032A3",
+      "key": "ae55c09a0e62ea0769ad5867f0b575979df785242c7e24d1965a71de20e71678",
+      "cosmeticIds": [
+         "Character_TaperSlink"
+      ]
+   },
+   {
       "guid": "A02E08C8CE48D4D8676358FF7BE55533",
       "key": "77dc00e2c9e9978238078cd91715b2bbd70bf734a45eacbdfaf4f0f4f5211e5c",
       "cosmeticIds": []
@@ -6565,6 +6572,13 @@
       "cosmeticIds": [
          "BID_257_Swashbuckler",
          "Pickaxe_ID_201_Swashbuckler"
+      ]
+   },
+   {
+      "guid": "B1DE2259AC419164B63053413FEC723C",
+      "key": "b41d1aa7e5375ff9466d4354d46a1a63608ce6196cc6d0abbac66cd29fbcda41",
+      "cosmeticIds": [
+         "Backpack_DandyFlare"
       ]
    },
    {
