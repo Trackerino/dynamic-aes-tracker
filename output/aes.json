@@ -6462,6 +6462,13 @@
       ]
    },
    {
+      "guid": "ADFEC77F6E1486624A18E5DCBEB112A6",
+      "key": "b26417c07ba934644e49546d03683f757f41ffbe7f3d8ab53431859a7865ddbc",
+      "cosmeticIds": [
+         "CarBody_Greenclaw"
+      ]
+   },
+   {
       "guid": "AE04BC41397F3D492390E60E59B39CAC",
       "key": "c42ddeff805f3d0e7fc50a842a707e1209b3ace70b88e0aa8900ae641e95f407",
       "cosmeticIds": []
