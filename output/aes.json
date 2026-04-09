@@ -7344,6 +7344,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "C87AD70A91B574FCFF41043A3B5D03D6",
+      "key": "a58a2408851ba65931e298d1fc4606f3239d6e45c788fe63c6cfbda723e5ebe9",
+      "cosmeticIds": [
+         "EID_GoodGravy"
+      ]
+   },
+   {
       "guid": "C8AFD634F15A1B6D889B0F226FDF7C29",
       "key": "bf623a7b9811bf4a39405efccaf966a9282345c328da6adf31079b4f2b887470",
       "cosmeticIds": [
