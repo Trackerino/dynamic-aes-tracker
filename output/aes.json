@@ -5965,7 +5965,13 @@
       "guid": "A0243D42238799D467FDC00B0BD032A3",
       "key": "ae55c09a0e62ea0769ad5867f0b575979df785242c7e24d1965a71de20e71678",
       "cosmeticIds": [
-         "Character_TaperSlink"
+         "Backpack_TaperSlink",
+         "Character_DandyFlare",
+         "Character_TaperSlink",
+         "EID_DandyFlare",
+         "EID_TaperSlink",
+         "Glider_TaperSlink",
+         "Pickaxe_DandyFlare"
       ]
    },
    {
@@ -6475,7 +6481,8 @@
       "guid": "ADFEC77F6E1486624A18E5DCBEB112A6",
       "key": "b26417c07ba934644e49546d03683f757f41ffbe7f3d8ab53431859a7865ddbc",
       "cosmeticIds": [
-         "CarBody_Greenclaw"
+         "CarBody_Greenclaw",
+         "Wheel_GreenClaw01"
       ]
    },
    {
@@ -6595,7 +6602,12 @@
       "guid": "B1DE2259AC419164B63053413FEC723C",
       "key": "b41d1aa7e5375ff9466d4354d46a1a63608ce6196cc6d0abbac66cd29fbcda41",
       "cosmeticIds": [
-         "Backpack_DandyFlare"
+         "Backpack_DandyFlare",
+         "Companion_VastGeese",
+         "Pickaxe_TaperSlink",
+         "Pickaxe_TaperSlink_Mic",
+         "Shoes_TaperSlinkAcre",
+         "Sparks_TaperSlink_Mic"
       ]
    },
    {
