@@ -313,6 +313,13 @@
       ]
    },
    {
+      "guid": "05D265C98B30D54904D9A9CEE42F2201",
+      "key": "9c77bebb9dbcf0bb30e0a9bec9630079749f5192d690b271e67590940a4e9c46",
+      "cosmeticIds": [
+         "EID_QuatroAir"
+      ]
+   },
+   {
       "guid": "06381A8251E28744D95CD28E6C038AFB",
       "key": "f1b0c1127843d9e67d87c8fc13f75f2746521fc0d50740e6fab65d54c622be51",
       "cosmeticIds": [
@@ -9451,6 +9458,8 @@
       "guid": "FE7C8086462AB336521E83B662431371",
       "key": "f8bd1b5a051f8d658d872c7981d4d9a50d7f14dcff2fa460f0298b85c06f35f2",
       "cosmeticIds": [
+         "Shoes_AlignLapelLump",
+         "Shoes_AlignLapelThought",
          "Shoes_DraughtWhetNerve"
       ]
    },
