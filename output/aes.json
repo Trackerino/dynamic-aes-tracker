@@ -6661,6 +6661,13 @@
       ]
    },
    {
+      "guid": "B2A42025C6C2AD87917CE658C8798CED",
+      "key": "c53006bd405bef1bef24d014d41d99fd1140a454f89cba81307fb457776405c2",
+      "cosmeticIds": [
+         "Character_DemureIgloo"
+      ]
+   },
+   {
       "guid": "B3A4B83DA3274522D4B9F117DCF9A0B3",
       "key": "cb99fbbdfaf4bae72bfa9b19cdbd85de0e39a5652cbf78b78ff33a6e5efc67d0",
       "cosmeticIds": []
@@ -9465,7 +9472,8 @@
       "cosmeticIds": [
          "Shoes_AlignLapelLump",
          "Shoes_AlignLapelThought",
-         "Shoes_DraughtWhetNerve"
+         "Shoes_DraughtWhetNerve",
+         "Shoes_DraughtWhetPan"
       ]
    },
    {
