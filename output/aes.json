@@ -6697,6 +6697,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "B4A8D350D3F9C610BF7483B2F2938A27",
+      "key": "1dc44d64c25e9fc968c016c77d494980f55c031193ff687b92e1d86837747708",
+      "cosmeticIds": [
+         "Character_BiomeHose"
+      ]
+   },
+   {
       "guid": "B4BE2A5487426AFF06CB7089EA9B75BE",
       "key": "c3b1dbb793ec43830383d123bce53c59db4bfc1ad6c59369f4d33652b1d28d18",
       "cosmeticIds": []
