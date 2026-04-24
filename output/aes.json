@@ -7629,6 +7629,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "CF2F7273D12F0FAF283B3DD46D9B8EFE",
+      "key": "fdb8e9b65f6675d7440cbccd9f761397d98aca931a06ebc417e892225723d69d",
+      "cosmeticIds": [
+         "Companion_EdibleCable"
+      ]
+   },
+   {
       "guid": "CF4C0CA27F633D41AD2FF470627BDD0F",
       "key": "cbca49c6936c683d89afb20d45ab2d86f7f493471866ba635398be2dce4aa480",
       "cosmeticIds": [
