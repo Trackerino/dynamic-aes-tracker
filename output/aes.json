@@ -6700,7 +6700,12 @@
       "guid": "B4A8D350D3F9C610BF7483B2F2938A27",
       "key": "1dc44d64c25e9fc968c016c77d494980f55c031193ff687b92e1d86837747708",
       "cosmeticIds": [
-         "Character_BiomeHose"
+         "Backpack_BiomeHose",
+         "Backpack_WordUnity",
+         "Character_BiomeHose",
+         "Pickaxe_BiomeHose",
+         "Pickaxe_WordUnity",
+         "Wrap_BiomeHose"
       ]
    },
    {
@@ -9486,6 +9491,7 @@
       "cosmeticIds": [
          "Shoes_AlignLapelLump",
          "Shoes_AlignLapelThought",
+         "Shoes_BiomeHoseWorry",
          "Shoes_DraughtWhetNerve",
          "Shoes_DraughtWhetPan"
       ]
