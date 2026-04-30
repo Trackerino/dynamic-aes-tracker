@@ -5592,6 +5592,13 @@
       ]
    },
    {
+      "guid": "9501B2C146825B6D8DC8F5A65392FDF5",
+      "key": "a9e401e6dd98ae90cbb22f7e2a686a28c9f89a6f27b06ffcadf7ec3a0bce7a75",
+      "cosmeticIds": [
+         "Character_MasalaRail"
+      ]
+   },
+   {
       "guid": "958DC719715C145004E1E028E72464D0",
       "key": "6530ab40a692a70e5d032ab25bf8c6cfe285d8396f497f30096e7fe1d85d153d",
       "cosmeticIds": [
@@ -9159,6 +9166,13 @@
       "guid": "F4729DF9DB149229267F9389E3C95851",
       "key": "0c25c6394513586f2316e12bc8efb7da65ca26c42041ef85a7cdaeee61e26055",
       "cosmeticIds": []
+   },
+   {
+      "guid": "F476C2A417A9DEB4DD0CBDBEB26362D0",
+      "key": "adfb4740b86928e0ff1f1bb7bcec612101fb5d6d6ac7ee56761943016168692b",
+      "cosmeticIds": [
+         "Shoes_MaltBurgerGrab"
+      ]
    },
    {
       "guid": "F4F783537F2D2C107AE36A4A35E9CFFC",
