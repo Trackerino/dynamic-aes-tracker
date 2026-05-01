@@ -5442,6 +5442,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "8F3A9A3D0F838A650F5814CCAD54E9D9",
+      "key": "003ae269091f00e069512e3d49f85eafd7f635dc708e6376f3b41f4d54884cc4",
+      "cosmeticIds": [
+         "EID_GoldenGlory"
+      ]
+   },
+   {
       "guid": "8F6ACF5D43BC4BC272D72EBC072BDB4F",
       "key": "aec4f92bc3bcda08c1fc158047bce5e9c06cb64d31c62bbf13400afd140d5231",
       "cosmeticIds": [
