@@ -5616,7 +5616,11 @@
       "guid": "9501B2C146825B6D8DC8F5A65392FDF5",
       "key": "a9e401e6dd98ae90cbb22f7e2a686a28c9f89a6f27b06ffcadf7ec3a0bce7a75",
       "cosmeticIds": [
-         "Character_MasalaRail"
+         "Backpack_MaltBurger",
+         "Backpack_MasalaRail",
+         "Character_MasalaRail",
+         "Pickaxe_MaltBurger",
+         "Pickaxe_MasalaRail"
       ]
    },
    {
@@ -9192,6 +9196,7 @@
       "guid": "F476C2A417A9DEB4DD0CBDBEB26362D0",
       "key": "adfb4740b86928e0ff1f1bb7bcec612101fb5d6d6ac7ee56761943016168692b",
       "cosmeticIds": [
+         "Shoes_BasisAdaptGlare",
          "Shoes_MaltBurgerGrab"
       ]
    },
