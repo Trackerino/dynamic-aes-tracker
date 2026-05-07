@@ -640,6 +640,13 @@
       ]
    },
    {
+      "guid": "0DB4F3C42CB7D6FCA04A3E556C77C191",
+      "key": "ccef9ff08157f07cf9feecaa1ff9ac5e68ba1cfd4e1b01a1645cd042eaba0813",
+      "cosmeticIds": [
+         "Character_StairGummy"
+      ]
+   },
+   {
       "guid": "0DD695EB05DDF1067D46B2F758160F3E",
       "key": "1fc79a72f5b7ae099916f5861b05dfa2370804cad050bf85250d71dddcf3566d",
       "cosmeticIds": []
