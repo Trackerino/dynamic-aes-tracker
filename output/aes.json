@@ -643,7 +643,17 @@
       "guid": "0DB4F3C42CB7D6FCA04A3E556C77C191",
       "key": "ccef9ff08157f07cf9feecaa1ff9ac5e68ba1cfd4e1b01a1645cd042eaba0813",
       "cosmeticIds": [
-         "Character_StairGummy"
+         "Backpack_PandaSpeak",
+         "Backpack_PrizeTray",
+         "Backpack_StairGummy",
+         "Character_StairGummy",
+         "EID_PandaSpeak",
+         "EID_PrizeTray",
+         "EID_StairGummy",
+         "Pickaxe_PandaSpeak",
+         "Pickaxe_PrizeTray",
+         "Pickaxe_StairGummy",
+         "Wrap_PrizeTray"
       ]
    },
    {
@@ -1546,6 +1556,13 @@
       "key": "e66cd79207da0c4d29d2af9e6af7396cc268920e03e6e88ebfd7f78e76c08019",
       "cosmeticIds": [
          "ID_Booster_Gray"
+      ]
+   },
+   {
+      "guid": "23EC7FF202815A8CEDB8B647578E4489",
+      "key": "4d489d838bffd32547118cf7cb42d3020c44b9de5e25ec98982f03460f0c9ba1",
+      "cosmeticIds": [
+         "EID_PleaseHelp"
       ]
    },
    {
@@ -9224,7 +9241,8 @@
       "cosmeticIds": [
          "Shoes_BasisAdaptGlare",
          "Shoes_GuppyThrillJudge",
-         "Shoes_MaltBurgerGrab"
+         "Shoes_MaltBurgerGrab",
+         "Shoes_PandaSpeakAsh"
       ]
    },
    {
