@@ -6909,7 +6909,11 @@
       "guid": "B7D21689D8906EA8BEF8B4D237887B94",
       "key": "3b2768e6ed642e0281ad55b91fae6d6d1787ac9ad1c51ac737d8e59dba3370e5",
       "cosmeticIds": [
-         "Character_ChiliAbide"
+         "Backpack_ChiliAbide",
+         "Character_ChiliAbide",
+         "EID_ChiliAbide",
+         "Pickaxe_ChiliAbide",
+         "Pickaxe_ChiliAbide_Guitar"
       ]
    },
    {
