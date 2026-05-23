@@ -1405,6 +1405,7 @@
       "guid": "20F3A71D44149B90CF6CF32E4091DDEE",
       "key": "1f10cbc06e91e3920a5bb74a18aa6b29cb3fdea71961729bd94f2159d37de71c",
       "cosmeticIds": [
+         "Shoes_BetaThrewGear",
          "Shoes_RuralPumpTeeth"
       ]
    },
@@ -3151,6 +3152,13 @@
       "guid": "4D896B93DC5B2D18AA2949EA7B67B4EA",
       "key": "d15ef4c7aa74cd1455f5b57a3feb2aeb694cd02756e2bbd4822a7affae465b37",
       "cosmeticIds": []
+   },
+   {
+      "guid": "4DAF2AF455EF95BA2E3D56B581236D2F",
+      "key": "37cfa3fac28d473b915da3caeceed05ca788da44d3c8982827d14b9d47587d0c",
+      "cosmeticIds": [
+         "EID_PlayLoud"
+      ]
    },
    {
       "guid": "4DBADDA277F1A8BE3D2467EF323D222F",
