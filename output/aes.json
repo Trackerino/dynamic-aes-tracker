@@ -594,6 +594,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "0C7ACA1663E5F49F7BB6DADA07C8013C",
+      "key": "5c0c56c38870803a261142b00df2c7de3b8a799023362ba49b8d9bb79c330952",
+      "cosmeticIds": [
+         "Character_QuarterClaspZoom"
+      ]
+   },
+   {
       "guid": "0C8FB41BED80602548CCB764A876CE40",
       "key": "d39ce0c50e90e26f8b50bbee2b046568f8926bbc1904dd9fcbab06fabc51dcd8",
       "cosmeticIds": [
@@ -7137,6 +7144,13 @@
       "key": "80fae1b3960010587d3b3618d2d4b0f0c3d116bfda4b471d44ba78d6d8ec5376",
       "cosmeticIds": [
          "EID_Goodbye"
+      ]
+   },
+   {
+      "guid": "BE1F2AB3C7F7BED6001412875A5D57B5",
+      "key": "0d27f713e63d386265770866bbe108f6c2c24a81bb1a9de0565f7177dc8b8a8f",
+      "cosmeticIds": [
+         "Backpack_QuarterClaspJoin"
       ]
    },
    {
