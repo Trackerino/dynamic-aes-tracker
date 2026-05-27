@@ -1414,6 +1414,7 @@
       "cosmeticIds": [
          "Shoes_BetaThrewGear",
          "Shoes_BetaThrewRegal",
+         "Shoes_HeavyPlunge",
          "Shoes_RuralPumpTeeth"
       ]
    },
@@ -2676,6 +2677,15 @@
       "key": "6be8aae727fc92b9b5dca5d06d9e4eb8fdfecca63b449c1748614d64cd4f9847",
       "cosmeticIds": [
          "EID_Clerks"
+      ]
+   },
+   {
+      "guid": "420E894B7AE4CF3742278AFB20B0904F",
+      "key": "20696632082a06bdbab49faaeabfce93c9b524ecc893197abcdb04d75d9db481",
+      "cosmeticIds": [
+         "Backpack_SolveSolid",
+         "Emoticon_SolveSolid",
+         "Pickaxe_SolveSolid"
       ]
    },
    {
