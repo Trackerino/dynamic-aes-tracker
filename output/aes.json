@@ -5801,6 +5801,13 @@
       ]
    },
    {
+      "guid": "967523260CAA467671A76580974BBDD5",
+      "key": "a63fbd3cfb1e83c08d114b91abba76fe242b0dbd91d9d3a815993f95c73e131a",
+      "cosmeticIds": [
+         "CarBody_CondorMotor"
+      ]
+   },
+   {
       "guid": "9687BE7F5181893AAD73EF29D539BCE8",
       "key": "f2ed8527251620cb6aaf716220f8cd54b28b94f1329c029a325bbd5f51cc96d9",
       "cosmeticIds": []
