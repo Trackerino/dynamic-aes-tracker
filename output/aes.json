@@ -313,6 +313,13 @@
       ]
    },
    {
+      "guid": "0589E2277EBE3C7E3F31AF9B87314DE2",
+      "key": "602cdf8490bd6eb729e297fe630a6477bf0817f59a1f609a2840d2fd2df15f45",
+      "cosmeticIds": [
+         "EID_HeartBeats"
+      ]
+   },
+   {
       "guid": "05D265C98B30D54904D9A9CEE42F2201",
       "key": "9c77bebb9dbcf0bb30e0a9bec9630079749f5192d690b271e67590940a4e9c46",
       "cosmeticIds": [
@@ -597,7 +604,15 @@
       "guid": "0C7ACA1663E5F49F7BB6DADA07C8013C",
       "key": "5c0c56c38870803a261142b00df2c7de3b8a799023362ba49b8d9bb79c330952",
       "cosmeticIds": [
-         "Character_QuarterClaspZoom"
+         "Backpack_QuarterClasp",
+         "Backpack_QuarterClaspJoin_How",
+         "Character_QuarterClaspZoom",
+         "EID_QuarterClaspJoin",
+         "EID_QuarterClaspZoom",
+         "LoadingScreen_QuarterClasp",
+         "Pickaxe_QuarterClaspAbove",
+         "Pickaxe_QuarterClaspJoin",
+         "Wrap_QuarterClaspZoom"
       ]
    },
    {
