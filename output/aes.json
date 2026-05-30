@@ -1430,7 +1430,8 @@
          "Shoes_BetaThrewGear",
          "Shoes_BetaThrewRegal",
          "Shoes_HeavyPlunge",
-         "Shoes_RuralPumpTeeth"
+         "Shoes_RuralPumpTeeth",
+         "Shoes_SoleVapor"
       ]
    },
    {
@@ -5804,7 +5805,9 @@
       "guid": "967523260CAA467671A76580974BBDD5",
       "key": "a63fbd3cfb1e83c08d114b91abba76fe242b0dbd91d9d3a815993f95c73e131a",
       "cosmeticIds": [
-         "CarBody_CondorMotor"
+         "CarBody_CondorMotor",
+         "Wheel_CondorMotor01",
+         "Wheel_CondorMotor02"
       ]
    },
    {
