@@ -7162,6 +7162,15 @@
       ]
    },
    {
+      "guid": "BC38720BBB4F7874E1189A61719B3C7A",
+      "key": "061f4647f8297fe66350a8836258e3134da3943d2b77b07698281d9d57109676",
+      "cosmeticIds": [
+         "BID_A_034_ChiselMale",
+         "Glider_ID_376_ChiselMale",
+         "Wrap_496_Chisel"
+      ]
+   },
+   {
       "guid": "BC3890EAABBF03778EE82AD7DD4F9C12",
       "key": "46fb447622a4c4b2439d72946942bddf7bf32cad38bde6336dda7cc8df309b16",
       "cosmeticIds": [
