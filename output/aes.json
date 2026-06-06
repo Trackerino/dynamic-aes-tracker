@@ -7152,6 +7152,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "BB80AEA64B77F099BC2F795495301923",
+      "key": "5290f541cb4c6aafaecdfb4e3ad76e720d1da2ce9461658828f46e3855e0e77f",
+      "cosmeticIds": [
+         "Shoes_ClerkDiffer"
+      ]
+   },
+   {
       "guid": "BBF6A8617FF257E7E4E0A36D174F975F",
       "key": "f7b0e14225e08c48c66d73f83bd476688328cf6e8c34faf8b92277907c69cedf",
       "cosmeticIds": [
@@ -7164,11 +7171,7 @@
    {
       "guid": "BC38720BBB4F7874E1189A61719B3C7A",
       "key": "061f4647f8297fe66350a8836258e3134da3943d2b77b07698281d9d57109676",
-      "cosmeticIds": [
-         "BID_A_034_ChiselMale",
-         "Glider_ID_376_ChiselMale",
-         "Wrap_496_Chisel"
-      ]
+      "cosmeticIds": []
    },
    {
       "guid": "BC3890EAABBF03778EE82AD7DD4F9C12",
