@@ -9321,6 +9321,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "F30E3652C80A6CC4047F64ECF8E3C999",
+      "key": "c2320ea83e3da741fc80b06394ad34874a75c7629b069f9bb75bfef7dd63f14c",
+      "cosmeticIds": [
+         "Character_RebelTempo"
+      ]
+   },
+   {
       "guid": "F32262244DE021E18BF22F9BF7594474",
       "key": "d3c1c4add2af055e7c4ad0c88c1f70bed63aee97aeed92b706c32904c2af4ab3",
       "cosmeticIds": [
