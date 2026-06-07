@@ -9324,7 +9324,16 @@
       "guid": "F30E3652C80A6CC4047F64ECF8E3C999",
       "key": "c2320ea83e3da741fc80b06394ad34874a75c7629b069f9bb75bfef7dd63f14c",
       "cosmeticIds": [
-         "Character_RebelTempo"
+         "Backpack_PrismGlee",
+         "Backpack_RebelTempo",
+         "Backpack_RebelTempo_DrumStick",
+         "Backpack_TrickCrateCape",
+         "Character_RebelTempo",
+         "EID_PrismGlee",
+         "EID_RebelTempo",
+         "Pickaxe_RebelTempo",
+         "Pickaxe_RebelTempo_DrumStick",
+         "Pickaxe_TrickCrate"
       ]
    },
    {
