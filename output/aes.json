@@ -2442,6 +2442,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "3AC1E59FBFDC81FFB379F1938237D514",
+      "key": "ba65c621d89df9c9dacb3a3ae12862b122a779195ec1872c3c156b622b597c4b",
+      "cosmeticIds": [
+         "Character_CanyonVale"
+      ]
+   },
+   {
       "guid": "3AC281E7A5EAA2765CFE02AC98B04FC8",
       "key": "47f856367f01711468bc913f2fb875e550eb2741f856a04156de9756fab611bc",
       "cosmeticIds": []
