@@ -7068,7 +7068,12 @@
       "guid": "B9793CDA708C6CBE326218F5A08DC537",
       "key": "77286cb32e202063597051f97993490b867ffc153b259eba34faca8b10aa466a",
       "cosmeticIds": [
-         "Character_ChewyStaveCurve"
+         "Backpack_ChewyStaveCurve",
+         "Backpack_ChewyStaveGerm",
+         "Character_ChewyStaveCurve",
+         "EID_Bullseye",
+         "Pickaxe_ChewyStaveCurve",
+         "Pickaxe_ChewyStaveGerm"
       ]
    },
    {
@@ -7175,7 +7180,8 @@
       "key": "5290f541cb4c6aafaecdfb4e3ad76e720d1da2ce9461658828f46e3855e0e77f",
       "cosmeticIds": [
          "Shoes_ClerkDiffer",
-         "Shoes_FuzzyRaider"
+         "Shoes_FuzzyRaider",
+         "Shoes_PuttyChangeBegun"
       ]
    },
    {
