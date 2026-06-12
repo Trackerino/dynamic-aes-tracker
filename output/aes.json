@@ -6900,6 +6900,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "B40B2468981F2F77CA28B0C8B06AE32D",
+      "key": "314098b6dfb6a9c22a1f109cbd6e8dd6d64a3e493f5caae2590e2cef30c613ba",
+      "cosmeticIds": [
+         "Character_RecipeWhole"
+      ]
+   },
+   {
       "guid": "B4585A36D49CF15E1E236775B8C659C1",
       "key": "09e774f944de4c16c38671ccf662d3939ab1973dd864ae9d127d54f8d4f13a4a",
       "cosmeticIds": []
