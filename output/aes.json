@@ -7219,8 +7219,16 @@
       "key": "5290f541cb4c6aafaecdfb4e3ad76e720d1da2ce9461658828f46e3855e0e77f",
       "cosmeticIds": [
          "Shoes_ClerkDiffer",
+         "Shoes_DentistBind",
          "Shoes_FuzzyRaider",
          "Shoes_PuttyChangeBegun"
+      ]
+   },
+   {
+      "guid": "BBCAD420C7734078CFF8CFF6FB327D3E",
+      "key": "42dd535a46d1e95355b6dea9d4c82ce9eeab40e900f3554091a29df5265934e7",
+      "cosmeticIds": [
+         "EID_StopTraffic"
       ]
    },
    {
