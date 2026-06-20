@@ -7941,7 +7941,12 @@
       "guid": "CE66A26FAFB9F701D4C1D45590206166",
       "key": "2b95610c8c67ac27173a90138a515ddb3c96aabbf354a79fc2feeab3447a119a",
       "cosmeticIds": [
-         "Character_RaisinHunt_Rag"
+         "Backpack_RaisinHunt_Rag",
+         "Character_RaisinHunt_Rag",
+         "EID_RaisinHunt",
+         "Glider_RaisinHunt_Rag",
+         "Pickaxe_RaisinHunt_Rag",
+         "Wrap_RaisinHunt"
       ]
    },
    {
