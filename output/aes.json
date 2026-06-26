@@ -217,6 +217,13 @@
       ]
    },
    {
+      "guid": "02EDD6E4CDE26F25282755CB3D22584B",
+      "key": "e63a8c1419a066a1b5fe724b17af56f97016710eb1b10bb228c7718fe0ee4c22",
+      "cosmeticIds": [
+         "EID_BigSnorkel"
+      ]
+   },
+   {
       "guid": "03771CE78AE6AD1421FA6FD3BED4CC45",
       "key": "ab313d0d943374ffff6b45a4e683f2ed22a0c1a6d7b0790f47ec9fb211f28112",
       "cosmeticIds": [
@@ -7324,6 +7331,13 @@
       ]
    },
    {
+      "guid": "BE3DD8B6B4DA82BFFAFB8F87E9FD24DC",
+      "key": "3aa8683d4f056517aa5a320c145760a7fa1ded3ef968ff449bcefa9261592707",
+      "cosmeticIds": [
+         "Backpack_ValueEnjoy"
+      ]
+   },
+   {
       "guid": "BE4F0BD53F53B4B8E570EEBF8829D35A",
       "key": "d9eda39ede6280c49ebdce1f32e9d015bbbf11f477351a3137050b52d1fdd437",
       "cosmeticIds": [
@@ -9725,7 +9739,13 @@
       "guid": "F9E65021EB1E33AA23C37603971240FB",
       "key": "bb8923a89f1d7361a424410d8ca875492e8b76fa08cb95ca3f0b0ab0067e314e",
       "cosmeticIds": [
-         "Character_PearlTaffyOpera"
+         "Backpack_PearlTaffyOpera",
+         "Backpack_PearlTaffyVista",
+         "Character_PearlTaffyOpera",
+         "EID_PearlTaffyOpera",
+         "EID_pearltaffyvista",
+         "Pickaxe_PearlTaffy_Guitar",
+         "Pickaxe_PearlTaffy_Mic"
       ]
    },
    {
