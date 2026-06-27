@@ -7626,6 +7626,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "C4C3FFAA15924F0C3B426EB0FB58D442",
+      "key": "b70433dbcb8633563241e61e9c0b3db23349a2ad5557fe9497c54d706d2f72a6",
+      "cosmeticIds": [
+         "EID_FiestaFlame"
+      ]
+   },
+   {
       "guid": "C50EC9789A634E9BA829CD5C4653C248",
       "key": "d69a8555c511ea9277ccda0182ee1b15f7db20036f01f3cee01b6abcf38ddc85",
       "cosmeticIds": [
