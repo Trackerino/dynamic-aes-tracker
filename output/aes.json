@@ -575,7 +575,9 @@
       "guid": "0B3CFC916067E3441065C55768A6D648",
       "key": "da6561f6bd338834b02694a182272e180b10285c09a287ec2dd40ddbcc896168",
       "cosmeticIds": [
-         "Character_HonestWasp"
+         "Backpack_HonestWasp",
+         "Character_HonestWasp",
+         "Pickaxe_HonestWasp"
       ]
    },
    {
@@ -1639,6 +1641,14 @@
       "guid": "24A02AB49A4FC7FA071F834DF78FB6E9",
       "key": "0c45f20f0b52902b3a1b5106ae32ca76dd04b39bf0a087c4c61c9c0f475786e3",
       "cosmeticIds": []
+   },
+   {
+      "guid": "24B3D9F1783C9759063F8869DC7A237B",
+      "key": "6038ff76505bf406975a705a25313c478baa94c492abacb8715315411bfce153",
+      "cosmeticIds": [
+         "Shoes_JuggleFledBuff",
+         "Shoes_JuggleFledNexus"
+      ]
    },
    {
       "guid": "258AB620A71C14508FB6614003DCD34E",
