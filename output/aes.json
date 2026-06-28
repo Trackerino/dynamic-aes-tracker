@@ -1647,7 +1647,8 @@
       "key": "6038ff76505bf406975a705a25313c478baa94c492abacb8715315411bfce153",
       "cosmeticIds": [
          "Shoes_JuggleFledBuff",
-         "Shoes_JuggleFledNexus"
+         "Shoes_JuggleFledNexus",
+         "Shoes_JuggleFledWash"
       ]
    },
    {
@@ -6203,7 +6204,13 @@
       "guid": "9F1F7879ABA3F78DCD22289680C06722",
       "key": "58a41ddbf5598095a004b2c245762395b2d96724c0f9bcb5943d06b120cc065e",
       "cosmeticIds": [
-         "Character_VigorKnackDill"
+         "Backpack_VigorKnackDill",
+         "Backpack_VigorKnackGolf",
+         "Character_VigorKnackDill",
+         "EID_VigorKnack",
+         "Pickaxe_VigorKnackDill",
+         "Pickaxe_VigorKnackGolf",
+         "Wrap_VigorKnackGolf"
       ]
    },
    {
