@@ -4423,6 +4423,11 @@
       "cosmeticIds": []
    },
    {
+      "guid": "69E4A93A59305CC9A970923AEC943B76",
+      "key": "0ff74dea1c1104215f9879e63a2d95ec7a214043b0b1383fcd30e8c2dbfa93be",
+      "cosmeticIds": []
+   },
+   {
       "guid": "6A089E5DC253EBD9216D85F142387052",
       "key": "4489f3cb0662deea6f56c3c94d309a7c535ecc4f898115a1e6e49bc154e6e5c9",
       "cosmeticIds": [
@@ -7152,6 +7157,11 @@
       "cosmeticIds": [
          "CarSkin_BrickViz03"
       ]
+   },
+   {
+      "guid": "B929A6E9707050381DAE9A7DE140BAAB",
+      "key": "acf7573de3aaab267016583b01118c04a05fb5947f1417fdea9a211e0d633205",
+      "cosmeticIds": []
    },
    {
       "guid": "B9793CDA708C6CBE326218F5A08DC537",
