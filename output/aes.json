@@ -7606,6 +7606,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "C34EE5EAC0A89A0B870960F4CC7F8709",
+      "key": "a535eab4a0f4644dcb823f99e71a611de417b49f99c94a9cc82cf106d1f61b6e",
+      "cosmeticIds": [
+         "Companion_MinkCalico"
+      ]
+   },
+   {
       "guid": "C37F6CA3CA90F87B235B1BD44FCC2A94",
       "key": "75b2d257e91afc79e61b177055e1727f825e55d27acdc8f13b9859451cd3ef66",
       "cosmeticIds": [
