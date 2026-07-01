@@ -8935,6 +8935,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "E42755950C977F6C4FD14670D23CA83E",
+      "key": "3d64c818e71287f4f04bf279f6f77ab53adbc2fdb2276c472a666e890bc6ca5f",
+      "cosmeticIds": [
+         "CarBody_FancyFlake"
+      ]
+   },
+   {
       "guid": "E436CFD103805186E3B21D8F07408A01",
       "key": "bb422c88684f3c1d9bef1c6afaa5b185265b5d325ca7eba9a73c1a0de67316a2",
       "cosmeticIds": []
