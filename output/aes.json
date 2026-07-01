@@ -5485,7 +5485,14 @@
       "guid": "8AD2C1CD2F071597EA31F38DF038FA94",
       "key": "e0fbb64c57d6a476129ae9d18dcefef10ba737bc69b2f00f88ca12a1d8b484dc",
       "cosmeticIds": [
-         "Character_ChefTartar"
+         "Backpack_ChefTartar",
+         "Character_ChefTartar",
+         "Character_ChefTartar_B",
+         "Character_ChefTartar_C",
+         "Character_ChefTartar_D",
+         "EID_ChefTartar",
+         "Pickaxe_ChefTartar",
+         "Wrap_ChefTartar"
       ]
    },
    {
