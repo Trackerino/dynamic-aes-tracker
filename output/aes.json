@@ -8950,7 +8950,8 @@
       "guid": "E42755950C977F6C4FD14670D23CA83E",
       "key": "3d64c818e71287f4f04bf279f6f77ab53adbc2fdb2276c472a666e890bc6ca5f",
       "cosmeticIds": [
-         "CarBody_FancyFlake"
+         "CarBody_FancyFlake",
+         "Wheel_FancyFlake01"
       ]
    },
    {
