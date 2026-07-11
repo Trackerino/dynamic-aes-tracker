@@ -1648,6 +1648,9 @@
       "cosmeticIds": [
          "Shoes_AtlasBrightAttire",
          "Shoes_AtlasBrightMacho",
+         "Shoes_AtlasBrightShield",
+         "Shoes_BlazeWise",
+         "Shoes_CrimsonSolace",
          "Shoes_DoeViking",
          "Shoes_JuggleFledBuff",
          "Shoes_JuggleFledNexus",
@@ -5685,6 +5688,16 @@
       "guid": "8ED082067AC31EE587FE16E5507E95D3",
       "key": "feebdc75fcadf9dd5fa07c703b7cf3f98d0f52be49cf3ff2112d05c9a2de95ce",
       "cosmeticIds": []
+   },
+   {
+      "guid": "8F2BEB5BA0C028760C930E6F45D0C00E",
+      "key": "35622f130727a29070ddc27e8c9e823edad889df43cd756c34cf1aa358088211",
+      "cosmeticIds": [
+         "Backpack_TrustFan",
+         "EID_TrustFan",
+         "Pickaxe_TrustFan",
+         "Wrap_TrustFan"
+      ]
    },
    {
       "guid": "8F3A9A3D0F838A650F5814CCAD54E9D9",
