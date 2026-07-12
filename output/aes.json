@@ -2647,6 +2647,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "3E140E4263A101F606B296C2E8C12AD3",
+      "key": "a05ed1db3792f534b49ab3a0b0acac95b8e41dbd607354551345048596d34bb9",
+      "cosmeticIds": [
+         "Character_ToffeeMood"
+      ]
+   },
+   {
       "guid": "3E89561331A72D226FBF962DA29DBB82",
       "key": "ab35afdb3b9b0d24aba53b77b4a73866c45ea91dd004a8e1535706cd57bb287e",
       "cosmeticIds": [
