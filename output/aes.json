@@ -3191,6 +3191,13 @@
       ]
    },
    {
+      "guid": "4C37F566D4FF4939FD6686BE302299BC",
+      "key": "08b30848182a5906b9550f5c3cd4a4236837bd75c060d453644f5d84f1f9de1f",
+      "cosmeticIds": [
+         "Character_HornetBerm"
+      ]
+   },
+   {
       "guid": "4C3B1FC20956AE8C3C29A85446D013F4",
       "key": "75592c562e79c8c3ef826b80dab8ef9720e5c92ad038af30987dda6baf70b59a",
       "cosmeticIds": [
@@ -4560,6 +4567,13 @@
       "key": "c2308027d55a4e18137dbbd47ad0845901628b91a675f3f0142bf12efe62a7f8",
       "cosmeticIds": [
          "EID_Eerie_8WGYK"
+      ]
+   },
+   {
+      "guid": "6E83DDB40E27796AB1D4C6E71F31EFAB",
+      "key": "9168837a019a6dcb10b33d09d1aa7b8757bfd9fe6e48fdb62fcbd53417423ef3",
+      "cosmeticIds": [
+         "Backpack_DiscoButler"
       ]
    },
    {
@@ -8540,6 +8554,13 @@
       "key": "f72151596e1c41eed33d590c6d84b406495152c210a301ccdd7bc257c34dc0b7",
       "cosmeticIds": [
          "EID_Prelude"
+      ]
+   },
+   {
+      "guid": "D8B3A48DBA4208225876E0B4AC09CF1A",
+      "key": "93bbde67fadd897cd3bc0f7edc10120c3ad85904efde47668cc9d2e0dafa7653",
+      "cosmeticIds": [
+         "Backpack_TideCompost"
       ]
    },
    {
