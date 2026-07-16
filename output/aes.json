@@ -2711,6 +2711,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "40B9268855D4C0104863D06583B3D2B7",
+      "key": "eaf546e674289d1b0f9ba905243eea181292c69bc9784b61f9292f3cf6919d66",
+      "cosmeticIds": [
+         "Shoes_TideCompostZoo"
+      ]
+   },
+   {
       "guid": "40E9F547033360DFC0DD09743229B87C",
       "key": "c74fd62b9e28870b1a7665461c88ac24dc870bc32a954f1b8361fe06c68406d7",
       "cosmeticIds": [
@@ -8560,7 +8567,16 @@
       "guid": "D8B3A48DBA4208225876E0B4AC09CF1A",
       "key": "93bbde67fadd897cd3bc0f7edc10120c3ad85904efde47668cc9d2e0dafa7653",
       "cosmeticIds": [
-         "Backpack_TideCompost"
+         "Backpack_HammerVice",
+         "Backpack_HumorShale",
+         "Backpack_TideCompost",
+         "Companion_ScoffFrill",
+         "EID_CrimpPerfume",
+         "EID_TideCompost",
+         "Pickaxe_CrimpPerfume",
+         "Pickaxe_HammerVice",
+         "Pickaxe_HumorShale",
+         "Pickaxe_TideCompost"
       ]
    },
    {
