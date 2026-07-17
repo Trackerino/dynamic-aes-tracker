@@ -3208,7 +3208,9 @@
       "guid": "4C37F566D4FF4939FD6686BE302299BC",
       "key": "08b30848182a5906b9550f5c3cd4a4236837bd75c060d453644f5d84f1f9de1f",
       "cosmeticIds": [
-         "Character_HornetBerm"
+         "Backpack_HornetBerm",
+         "Character_HornetBerm",
+         "EID_HornetBerm"
       ]
    },
    {
@@ -5075,6 +5077,7 @@
       "guid": "7D4C5A233855243290BBA34737A133CE",
       "key": "1d508f83dc424943a34f39d25e5686a1ec046d0a2735b4076755bb995765d479",
       "cosmeticIds": [
+         "Backpack_BeaverStage",
          "Character_BeaverStage"
       ]
    },
