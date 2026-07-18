@@ -2043,7 +2043,12 @@
       "guid": "2ED3301CD140ACC625325010935966F1",
       "key": "83fbc03f3bfa7f8e897236f37890258eccad4cebb48ec8852257cc9a90232a11",
       "cosmeticIds": [
-         "Character_CiderPetalClover"
+         "Backpack_CiderPetalClover",
+         "Backpack_CiderPetalFlax",
+         "Character_CiderPetalClover",
+         "EID_CiderPetalClover",
+         "Pickaxe_CiderPetalClover",
+         "Pickaxe_CiderPetalFlax"
       ]
    },
    {
@@ -2721,6 +2726,7 @@
       "guid": "40B9268855D4C0104863D06583B3D2B7",
       "key": "eaf546e674289d1b0f9ba905243eea181292c69bc9784b61f9292f3cf6919d66",
       "cosmeticIds": [
+         "Shoes_DareBergAdmit",
          "Shoes_TideCompostZoo"
       ]
    },
