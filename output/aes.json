@@ -1923,6 +1923,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "2C75D346BA5D2B970C690DDEE1A2D0F2",
+      "key": "094353801bbc84343c66c271262f18ffdcbb988dacc953b3df1e75364b97079f",
+      "cosmeticIds": [
+         "Character_DangerIndex"
+      ]
+   },
+   {
       "guid": "2CB7CC414F921DD774957AAF4AD5F8FE",
       "key": "be2db196eb94c3ea458ffb6aa9fbe1edc4bd427afc8103c4197d081f28d9569e",
       "cosmeticIds": [
@@ -3222,6 +3229,13 @@
       "cosmeticIds": [
          "BID_A_009_Grapefruit",
          "EID_Grapefruit"
+      ]
+   },
+   {
+      "guid": "4BA7E1276BA833F90CE2A94C68B3132A",
+      "key": "254cb3710ef25c2e7c47ec6ccbda176bc1930493a5b3cb7e0f53434265b931c9",
+      "cosmeticIds": [
+         "Companion_SpendPlume"
       ]
    },
    {
