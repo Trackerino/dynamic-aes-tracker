@@ -1926,7 +1926,10 @@
       "guid": "2C75D346BA5D2B970C690DDEE1A2D0F2",
       "key": "094353801bbc84343c66c271262f18ffdcbb988dacc953b3df1e75364b97079f",
       "cosmeticIds": [
-         "Character_DangerIndex"
+         "Backpack_DangerIndex",
+         "Character_DangerIndex",
+         "EID_SeaFloor",
+         "Pickaxe_DangerIndex"
       ]
    },
    {
@@ -2023,6 +2026,13 @@
          "BID_870_CritterManiac_8Y8KK",
          "Pickaxe_ID_683_CritterManiacMale_S4I63",
          "Wrap_409_CritterManiac_1B4II"
+      ]
+   },
+   {
+      "guid": "2E63EC4AE24C4239E171B7ACE688765B",
+      "key": "7cb5cdbef0800cd73d7bb007b0f80325dc29a63085296bdec7a24c93d1097c66",
+      "cosmeticIds": [
+         "EID_TuffTrio"
       ]
    },
    {
@@ -3206,7 +3216,9 @@
       "guid": "4A84363EE0FA7E66347DE06A58F98BE5",
       "key": "78461339e6a1503f9d2bf3142c7b6fdec481846025453d25c288b1db82af979f",
       "cosmeticIds": [
-         "CarBody_SandScreen"
+         "CarBody_SandScreen",
+         "Wheel_SandScreen01",
+         "Wheel_SandScreen02"
       ]
    },
    {
@@ -3235,7 +3247,12 @@
       "guid": "4BA7E1276BA833F90CE2A94C68B3132A",
       "key": "254cb3710ef25c2e7c47ec6ccbda176bc1930493a5b3cb7e0f53434265b931c9",
       "cosmeticIds": [
-         "Companion_SpendPlume"
+         "Backpack_GainSneeze",
+         "Companion_SpendPlume",
+         "Pickaxe_GainSneeze",
+         "Pickaxe_GainSneezeVital",
+         "Pickaxe_GainSneeze_Guitar",
+         "Pickaxe_GainSneeze_Mic"
       ]
    },
    {
