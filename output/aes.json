@@ -7096,7 +7096,11 @@
       "guid": "B3431DFA0A9A68C5174F3FB9FF90B729",
       "key": "5c1e46a93042e3d73a9d457118d59c3fef555821b346324e1bbbbaf73f0a04fd",
       "cosmeticIds": [
-         "Backpack_HerbalFist"
+         "Backpack_FluidWedge",
+         "Backpack_HerbalFist",
+         "EID_HerbalFist",
+         "Pickaxe_FluidWedge",
+         "Pickaxe_HerbalFist"
       ]
    },
    {
