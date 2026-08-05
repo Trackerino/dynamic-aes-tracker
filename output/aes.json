@@ -1813,6 +1813,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "28C1E81970DFF780D795EA487E94AEB1",
+      "key": "15a32db0760b051c490bbf660d95d6757ddf58f6cf1e62f36ee65ed43a0be47f",
+      "cosmeticIds": [
+         "EID_RingRock"
+      ]
+   },
+   {
       "guid": "28C5CD0467F2271365DA8AC4DE122672",
       "key": "235ba34d32963b3d00e4b705882c0a257425f5b9cca56f7286f635dd4696a356",
       "cosmeticIds": []
