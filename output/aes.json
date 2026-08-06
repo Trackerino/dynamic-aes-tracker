@@ -5663,6 +5663,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "8BC9FF33ED28BE97FB5B959F51651091",
+      "key": "5bf10424b7560dc52f02778569524dbb7a2cefffe656ff7058aab4f0a2580534",
+      "cosmeticIds": [
+         "Character_SprintLuckSlaw"
+      ]
+   },
+   {
       "guid": "8BE245EED86D70820F7CDB6F595FABF0",
       "key": "f6d4b6444240d75dc2f990809ad3ba7e1073c3ee6ed035f9b77870107778d86d",
       "cosmeticIds": [
