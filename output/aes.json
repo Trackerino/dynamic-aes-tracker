@@ -5671,7 +5671,16 @@
       "guid": "8BC9FF33ED28BE97FB5B959F51651091",
       "key": "5bf10424b7560dc52f02778569524dbb7a2cefffe656ff7058aab4f0a2580534",
       "cosmeticIds": [
-         "Character_SprintLuckSlaw"
+         "Backpack_SprintLuckSlaw",
+         "Backpack_SprintLuckSweat",
+         "Character_SprintLuckSlaw",
+         "EID_SodaPop",
+         "EID_SprintLuckSlaw",
+         "LoadingScreen_SprintLuckKeyArt",
+         "Pickaxe_SprintLuckSlaw",
+         "Pickaxe_SprintLuckSweat",
+         "Pickaxe_SprintLuckSweat_Mic",
+         "Wrap_SprintLuckSweat"
       ]
    },
    {
