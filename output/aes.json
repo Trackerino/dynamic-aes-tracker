@@ -8766,6 +8766,14 @@
       ]
    },
    {
+      "guid": "DA4BEF713FB3763B2F98764C05F70C01",
+      "key": "f385bcc606341aca9a513c89b1b15916fd521447c5d76ad6ce6a56d83a08cd64",
+      "cosmeticIds": [
+         "Shoes_IronicSorbet",
+         "Shoes_WindyExhibitGym"
+      ]
+   },
+   {
       "guid": "DB982042FC23E63A912CF079BB11B4D7",
       "key": "5f149d17c16f53a4cf98c8366452dcc4f5c5ca89b7b3921c0e9485cfcadc75f4",
       "cosmeticIds": [
@@ -9878,7 +9886,13 @@
       "guid": "F62384F951BB9E124C1ED9FBEAA62F5B",
       "key": "2dfcbfc3755c813f823351a13c69436dcf77d9f35906d9b8e089c6a91416170b",
       "cosmeticIds": [
-         "Pickaxe_ShovelCrop"
+         "Backpack_ShovelCrop",
+         "Backpack_TeddyPermit",
+         "EID_ShovelCrop",
+         "Pickaxe_ShovelCrop",
+         "Pickaxe_TeddyPermit",
+         "Wrap_ShovelCrop",
+         "Wrap_TeddyPermit"
       ]
    },
    {
