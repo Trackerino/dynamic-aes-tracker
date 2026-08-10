@@ -4917,6 +4917,11 @@
       ]
    },
    {
+      "guid": "73E0E58872C24E099771D6D2F149415C",
+      "key": "cfdf9d580db4c45bedc540558fd1754ab98acc5f73bd72fc5061fd59bda81ca0",
+      "cosmeticIds": []
+   },
+   {
       "guid": "73FDB8F2BDCCF4518225CB3E28DD9C0A",
       "key": "301a3f0cef262de6ccaae64f0a0784fc58147493970122958c82751fe2043da7",
       "cosmeticIds": []
@@ -8347,6 +8352,11 @@
       "cosmeticIds": [
          "EID_Deceiver"
       ]
+   },
+   {
+      "guid": "D22498C4DE4A4580A3066DAEA1BE1662",
+      "key": "1098af3467800306ff3df7d3641cd7a5e7c25db5339588a21b5367f59b15be7b",
+      "cosmeticIds": []
    },
    {
       "guid": "D24667CC40ED6564CE26A31E63E327BA",
