@@ -7901,6 +7901,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "C62D05245A057FA0585748A09A4B79A9",
+      "key": "d48c23deb18ba5d674af446e13ac0dab143c7e31188fd770d25372896b0c8859",
+      "cosmeticIds": [
+         "EID_FreezeFrame"
+      ]
+   },
+   {
       "guid": "C66F354B49A4389E7636C1BF53CE8D97",
       "key": "062b0cccb20f77702e22fe37d6bca1ec31358751d87bf35d8410b4c242eaff34",
       "cosmeticIds": [
