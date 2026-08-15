@@ -783,6 +783,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "10B6BC4F3D82B63BB77EA8AA266D6688",
+      "key": "80f6788c5bbd3405d223519747265679ef5b2ad5b0feba5346fca01cac32fca9",
+      "cosmeticIds": [
+         "Character_EmailStamp"
+      ]
+   },
+   {
       "guid": "10B79AACE97810A1DD02E8A0E6093294",
       "key": "9a07f97284c0dd6f1af3b07b65b9caf1d31c4704e80410e3387e2a66858bc3db",
       "cosmeticIds": [
