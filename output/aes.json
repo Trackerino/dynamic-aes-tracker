@@ -2611,6 +2611,13 @@
       ]
    },
    {
+      "guid": "3CC9B8E5B7CF195B2A7FD059C26B40B1",
+      "key": "82ab2aa26a61a9a2080be932a65f8317f09c061a2a81fe02b56b7779e4724b60",
+      "cosmeticIds": [
+         "Character_GraphShook"
+      ]
+   },
+   {
       "guid": "3CE25AC56856D0E10426276F61265547",
       "key": "344b550d7474aa839f5bd960752e00b80f1d91f77fd48f5d7a071123d527bd4a",
       "cosmeticIds": []
@@ -8803,8 +8810,10 @@
       "guid": "DA4BEF713FB3763B2F98764C05F70C01",
       "key": "f385bcc606341aca9a513c89b1b15916fd521447c5d76ad6ce6a56d83a08cd64",
       "cosmeticIds": [
+         "Shoes_HouseFerret",
          "Shoes_IronicSorbet",
-         "Shoes_WindyExhibitGym"
+         "Shoes_WindyExhibitGym",
+         "Shoes_WindyExhibitYum"
       ]
    },
    {
