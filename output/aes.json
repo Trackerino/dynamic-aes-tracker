@@ -1666,6 +1666,13 @@
       ]
    },
    {
+      "guid": "2539F3ABC173915852179F37AA4FB3F1",
+      "key": "71c0b4cbd075adb07235901ef5c765e7f433de5fc1f143e8d6eddd12a0666368",
+      "cosmeticIds": [
+         "CarBody_SeasaltT1"
+      ]
+   },
+   {
       "guid": "258AB620A71C14508FB6614003DCD34E",
       "key": "7e33d4bb04996ca7c796f4a1f113325634764954dc56b18da56bf28cd550f17c",
       "cosmeticIds": []
