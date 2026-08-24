@@ -6591,6 +6591,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "A1A3F89EFFB91560440E6A4F9928321D",
+      "key": "fc9085d3918861d88edb2975153666595ceb908040b45ef51fe754b358412d00",
+      "cosmeticIds": [
+         "CarBody_TrackSpice"
+      ]
+   },
+   {
       "guid": "A25DFB2C9EBAECE22F893DAA48A7138F",
       "key": "779299b1ed20feff71c9288358b84dc37902be559764a58c2948c3cd6f3f4888",
       "cosmeticIds": [
