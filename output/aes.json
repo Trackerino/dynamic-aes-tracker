@@ -5641,6 +5641,13 @@
       ]
    },
    {
+      "guid": "891E469552F198AE4A334EE065442308",
+      "key": "8586e60fdefb89d4d19dbcf32da09891f97a62ba55c251298195ae50e477a98a",
+      "cosmeticIds": [
+         "EID_NewMoon"
+      ]
+   },
+   {
       "guid": "89CD763ACF4C3672A0F74AC0F45C291F",
       "key": "bed70f6e74e1d9a0ceb7b2df62924bfbb685d53681f0b0da2ec328438ecd65e7",
       "cosmeticIds": []
