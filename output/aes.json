@@ -6601,7 +6601,9 @@
       "guid": "A1A3F89EFFB91560440E6A4F9928321D",
       "key": "fc9085d3918861d88edb2975153666595ceb908040b45ef51fe754b358412d00",
       "cosmeticIds": [
-         "CarBody_TrackSpice"
+         "CarBody_TrackSpice",
+         "Wheel_TrackSpice01",
+         "Wheel_TrackSpice02"
       ]
    },
    {
