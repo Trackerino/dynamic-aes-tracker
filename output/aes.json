@@ -2044,7 +2044,9 @@
       "guid": "2E13C994FA87E6F3928F5017441CA5A7",
       "key": "269d5f1700e4f879411242881135411da8ce181a40b3b4659fac7609d52a3eea",
       "cosmeticIds": [
-         "Companion_SandyInland"
+         "Backpack_SpruceBark",
+         "Companion_SandyInland",
+         "Pickaxe_SpruceBark"
       ]
    },
    {
@@ -6008,7 +6010,9 @@
       "guid": "91BB5844D87D473BF4A52FE6FC459E96",
       "key": "51831a5c8197d2a58936c9a4fbf9b54a4e040bcecb1ae0b9460e7728d3db1d87",
       "cosmeticIds": [
-         "Character_SpruceBark"
+         "Character_SpruceBark",
+         "EID_SpruceBark",
+         "Wrap_SpruceBark"
       ]
    },
    {
@@ -6382,6 +6386,8 @@
       "key": "a3c113ef2820d1374893c917f90c49bcd76c6d1baa52d24c934e0d8ff56501e1",
       "cosmeticIds": [
          "Shoes_JuiceMediumEel",
+         "Shoes_JuiceMediumNap",
+         "Shoes_JuiceMediumSaw",
          "Shoes_MellowBuddy",
          "Shoes_ScribeSpiderOar"
       ]
