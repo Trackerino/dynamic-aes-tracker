@@ -9543,6 +9543,13 @@
       ]
    },
    {
+      "guid": "E75FAC03226956934D97A0CE8B4442B9",
+      "key": "07e526f4dad244d9e7eb99739463e20877dbb37bc14552cc226a7d5d1b3cf3c1",
+      "cosmeticIds": [
+         "EID_FivePoints"
+      ]
+   },
+   {
       "guid": "E7C565B86445735863B8080B9BE651F7",
       "key": "eccdcfffe8acd32f26b85effd0dd9d268f7a2773ff93df7555ab2dfe56fb5de7",
       "cosmeticIds": []
