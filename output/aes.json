@@ -5059,6 +5059,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "76CA75F6D6C856D6F16566C778F6BFFC",
+      "key": "d89602b485c675748eb0f924e91f0849cc2cafdcd9b8819f70c865e1a056cde1",
+      "cosmeticIds": [
+         "CarBody_BurnishedRaven"
+      ]
+   },
+   {
       "guid": "772E01C212E9A77A501AF954ADA90B09",
       "key": "9d0e22e9b6e66c633372af22ca3a0cfc11946d7d83488251019f7afea68e7ff6",
       "cosmeticIds": [
