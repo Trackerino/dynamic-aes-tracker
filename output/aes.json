@@ -1244,7 +1244,12 @@
       "guid": "1ACCA9B54DD5F294FEBC7675BC4C3CF6",
       "key": "4ea19cf6af4551c6e50d10337e6598e35cc67177ef3d9a7a0a9913bb536a50ad",
       "cosmeticIds": [
-         "Character_DuneBriefMerry"
+         "Backpack_DuneBriefShift",
+         "Backpack_TackleShow",
+         "Character_DuneBriefMerry",
+         "EID_DuneBrief",
+         "Pickaxe_DuneBriefMerry",
+         "Pickaxe_DuneBriefShift"
       ]
    },
    {
@@ -4659,7 +4664,8 @@
       "guid": "6B10AE9106C719672CE19448DDEE9676",
       "key": "ec7d6b5d895af96b76565d4925d0546e07b0849b4e6c3545efc81c32ca23987d",
       "cosmeticIds": [
-         "Character_DuneBriefShift"
+         "Character_DuneBriefShift",
+         "Companion_CacaoLynx"
       ]
    },
    {
@@ -5069,7 +5075,8 @@
       "guid": "76CA75F6D6C856D6F16566C778F6BFFC",
       "key": "d89602b485c675748eb0f924e91f0849cc2cafdcd9b8819f70c865e1a056cde1",
       "cosmeticIds": [
-         "CarBody_BurnishedRaven"
+         "CarBody_BurnishedRaven",
+         "Wheel_BurnishedRaven01"
       ]
    },
    {
