@@ -5723,7 +5723,8 @@
       "key": "4104abb7b6574ec27d813f8563e79cd0de578415359d80e02c74aa2ac1e2dfb8",
       "cosmeticIds": [
          "Shoes_PlushPlane",
-         "Shoes_TugBlooperCurt"
+         "Shoes_TugBlooperCurt",
+         "Shoes_TugBlooperMorse"
       ]
    },
    {
@@ -9131,6 +9132,13 @@
          "Backpack_MicroLeaf",
          "EID_MicroLeaf",
          "Pickaxe_MicroLeaf"
+      ]
+   },
+   {
+      "guid": "DE2ACC955CB3695890CDC705381AE335",
+      "key": "11b645272e271fef2203cab9d571238696e9ae61c079e412b47e1e50ea21e010",
+      "cosmeticIds": [
+         "EID_StairCrew"
       ]
    },
    {
