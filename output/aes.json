@@ -4977,7 +4977,12 @@
       "guid": "7322E515647174CF15F309107BA2F5F2",
       "key": "829422a82551a2344def13c31be9a79a530b2a8f627a244b45b938fc272fe985",
       "cosmeticIds": [
-         "Character_NoiseClueGust"
+         "Backpack_NoiseClueGust",
+         "Backpack_NoiseClueLurch",
+         "Character_NoiseClueGust",
+         "EID_NoiseClueGust",
+         "EID_NoiseClueLurch",
+         "Pickaxe_NoiseClueGust"
       ]
    },
    {
@@ -7671,7 +7676,11 @@
       "guid": "BBE4D9DBA6CA9AD9B20F1A4ECB5EA7D2",
       "key": "0599af266a47486d0a2517eebaa52d463c3e378bff9325e6041f5df1428ab983",
       "cosmeticIds": [
-         "Character_NoiseClueGust"
+         "Backpack_NoiseClue_Guitar",
+         "Character_NoiseClueGust",
+         "Glider_NoiseClueLurch",
+         "Pickaxe_NoiseClue_Guitar",
+         "Wrap_NoiseClue"
       ]
    },
    {
