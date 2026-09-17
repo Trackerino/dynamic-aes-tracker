@@ -2655,6 +2655,13 @@
       ]
    },
    {
+      "guid": "3BD01AA007E2527C01D2EB7B08E09558",
+      "key": "29a0ee1f04d5feddce4b75f8675e3430a2bb818c2e61f74144f89287063bd1f2",
+      "cosmeticIds": [
+         "Character_RetroBlade"
+      ]
+   },
+   {
       "guid": "3BD3EA919AEA03B242CD5BAF46E30D02",
       "key": "a6ef3749e0312c40f6ffb3181c42625a6c1702f9a08216ba8eda4011e058e20e",
       "cosmeticIds": []
@@ -5611,6 +5618,13 @@
          "EID_CrossWiper",
          "Pickaxe_CrossWiper",
          "Pickaxe_ToothGreek"
+      ]
+   },
+   {
+      "guid": "851DC0A15B88231DC36108594DBFB176",
+      "key": "5111d82216ecda2edb1a984c24ef2440dc9015943c25a25074eb1896a6153bca",
+      "cosmeticIds": [
+         "Character_FeelUnionMoo"
       ]
    },
    {
