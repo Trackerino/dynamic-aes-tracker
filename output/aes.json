@@ -2724,7 +2724,8 @@
       "guid": "3D4C3CC5D19DDAAAA2D70ECF500F98B0",
       "key": "28c4e5ea8e89fd1512db89d5c20eb763b583812adcc09cad1fb827b4e8865436",
       "cosmeticIds": [
-         "Shoes_SpireTendBeen"
+         "Shoes_SpireTendBeen",
+         "Shoes_TrikeFunnyLike"
       ]
    },
    {
@@ -10174,6 +10175,13 @@
          "Shoes_MaltBurgerGrab",
          "Shoes_PandaSpeakAsh",
          "Shoes_WaveLaces"
+      ]
+   },
+   {
+      "guid": "F4F09B4CF4DC49238D311F5D7F08155D",
+      "key": "ee2a7598658cf7914fbee2a6ccb2a1a8e10a7d8b682aa2326bea9b13c9bfff61",
+      "cosmeticIds": [
+         "Companion_AvenuePole"
       ]
    },
    {
