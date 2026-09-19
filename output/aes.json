@@ -2724,6 +2724,7 @@
       "guid": "3D4C3CC5D19DDAAAA2D70ECF500F98B0",
       "key": "28c4e5ea8e89fd1512db89d5c20eb763b583812adcc09cad1fb827b4e8865436",
       "cosmeticIds": [
+         "Shoes_ElbowGroutYin",
          "Shoes_SpireTendBeen",
          "Shoes_TrikeFunnyLike"
       ]
@@ -5639,7 +5640,15 @@
       "guid": "851DC0A15B88231DC36108594DBFB176",
       "key": "5111d82216ecda2edb1a984c24ef2440dc9015943c25a25074eb1896a6153bca",
       "cosmeticIds": [
-         "Character_FeelUnionMoo"
+         "Backpack_FeelUnionMoo",
+         "Backpack_FeelUnionSki",
+         "Character_FeelUnionMoo",
+         "EID_FeelUnionMoo",
+         "EID_FeelUnionSki",
+         "LoadingScreen_FeelUnionKeyArt",
+         "Pickaxe_FeelUnionMoo_Mic",
+         "Pickaxe_FeelUnionSki",
+         "Wrap_FeelUnion"
       ]
    },
    {
@@ -10181,7 +10190,9 @@
       "guid": "F4F09B4CF4DC49238D311F5D7F08155D",
       "key": "ee2a7598658cf7914fbee2a6ccb2a1a8e10a7d8b682aa2326bea9b13c9bfff61",
       "cosmeticIds": [
-         "Companion_AvenuePole"
+         "Backpack_AvenuePole",
+         "Companion_AvenuePole",
+         "Pickaxe_AvenuePole"
       ]
    },
    {
