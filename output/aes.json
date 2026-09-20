@@ -531,6 +531,7 @@
       "guid": "0A01F3E63B2AFBF7C61BFF29FB99B0DF",
       "key": "965b2f256172a71919daa49bf90f0d4f0faf159722bc3ec8cd7975dee26cf8f2",
       "cosmeticIds": [
+         "EID_FaithPerch",
          "Wrap_FaithPerch"
       ]
    },
@@ -849,7 +850,9 @@
       "guid": "11610E3CD4C1FEB0CD30383C19BA88E2",
       "key": "f32107b1c7e830f2993933e287edc87e5ffc13df1600bb343c3c43bc2a6b3443",
       "cosmeticIds": [
-         "Character_FaithPerch"
+         "Backpack_FaithPerch",
+         "Character_FaithPerch",
+         "Pickaxe_FaithPerch"
       ]
    },
    {
@@ -2498,6 +2501,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "37DB6AB6CAD90C1A3C6A2CAEA9DC5C1A",
+      "key": "f48e15e038c8275b0af449dc6f4c09d689d088c808cf36c9a3364f423b592e80",
+      "cosmeticIds": [
+         "EID_CallWaiting"
+      ]
+   },
+   {
       "guid": "37EBEF32D39E164FC25A2C913454C2F2",
       "key": "72dfa8cd2fb22365fa1fe32ae9f9931f7a4a43902ee6fbd5306cfff4448ebdae",
       "cosmeticIds": []
@@ -2733,7 +2743,8 @@
       "cosmeticIds": [
          "Shoes_ElbowGroutYin",
          "Shoes_SpireTendBeen",
-         "Shoes_TrikeFunnyLike"
+         "Shoes_TrikeFunnyLike",
+         "Shoes_WagedDusk"
       ]
    },
    {
