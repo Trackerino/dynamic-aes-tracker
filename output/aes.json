@@ -776,6 +776,14 @@
       ]
    },
    {
+      "guid": "0FE10A0FA5123C0F7C8383DF84970732",
+      "key": "c72685a518f86167834b8f4e1ee4e4dba02b5048c80f369d797ef2cfe2244734",
+      "cosmeticIds": [
+         "Backpack_RoutPinch",
+         "Pickaxe_RoutPinch"
+      ]
+   },
+   {
       "guid": "1042B344B2F3D38759AED36198794339",
       "key": "b81c31238054c32980947d5bcbb6e15bcccded5815e63bdb0e05225b5d97a582",
       "cosmeticIds": [
@@ -2742,6 +2750,7 @@
       "key": "28c4e5ea8e89fd1512db89d5c20eb763b583812adcc09cad1fb827b4e8865436",
       "cosmeticIds": [
          "Shoes_ElbowGroutYin",
+         "Shoes_PhantomStride",
          "Shoes_SpireTendBeen",
          "Shoes_TrikeFunnyLike",
          "Shoes_WagedDusk"
