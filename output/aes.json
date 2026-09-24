@@ -5131,6 +5131,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "7478655D3643077C3BC1457267290A07",
+      "key": "1ae6d873d3717a15b7d116011d8ef93b137334b501d3e0361850bd4a90b2cda8",
+      "cosmeticIds": [
+         "Character_CosmicTrellis"
+      ]
+   },
+   {
       "guid": "747A3DDB83B2BCE1E82E446990769E47",
       "key": "0fc0f0f6cefd75ff678132b0e3a026e35955c8052a0be7f61ae71f2f20ac4847",
       "cosmeticIds": []
