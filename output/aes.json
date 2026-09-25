@@ -1733,7 +1733,12 @@
       "guid": "24D7BA7EB9C320A5C8C85719DEA4D4CD",
       "key": "4e48c76695aa2690d8a0a4e26d9574f1fd60e377e7c2b825b7ba254fbb4caf34",
       "cosmeticIds": [
-         "Character_MistTycoonLife"
+         "Backpack_MistTycoonHike",
+         "Backpack_MistTycoonLife",
+         "Character_MistTycoonHike",
+         "Character_MistTycoonLife",
+         "EID_MistTycoonHike",
+         "EID_MistTycoonLife"
       ]
    },
    {
@@ -4957,7 +4962,10 @@
       "guid": "7166693B73AB4863913B7D751B284183",
       "key": "b1caefbc16812a1f58184fb06885c3891e037e0c8afa6412db6fbb881b69ae9a",
       "cosmeticIds": [
-         "Pickaxe_MistTycoonHike"
+         "LoadingScreen_MistTycoonKeyArt",
+         "Pickaxe_MistTycoonHike",
+         "Pickaxe_MistTycoon_Mic",
+         "Wrap_MistTycoon"
       ]
    },
    {
