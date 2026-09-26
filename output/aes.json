@@ -2780,6 +2780,7 @@
       "guid": "3D4C3CC5D19DDAAAA2D70ECF500F98B0",
       "key": "28c4e5ea8e89fd1512db89d5c20eb763b583812adcc09cad1fb827b4e8865436",
       "cosmeticIds": [
+         "Shoes_Cosmictrelliswand",
          "Shoes_ElbowGroutShy",
          "Shoes_ElbowGroutYin",
          "Shoes_PhantomStride",
@@ -5149,7 +5150,10 @@
       "guid": "7478655D3643077C3BC1457267290A07",
       "key": "1ae6d873d3717a15b7d116011d8ef93b137334b501d3e0361850bd4a90b2cda8",
       "cosmeticIds": [
-         "Character_CosmicTrellis"
+         "Backpack_CosmicTrellis",
+         "Character_CosmicTrellis",
+         "Pickaxe_CosmicTrellis",
+         "Pickaxe_CosmicTrellis_Guitar"
       ]
    },
    {
@@ -9788,7 +9792,15 @@
       "guid": "E8FC74BF52AF0A2E98A812AF720FD924",
       "key": "72a50c3db45468ee78f540e05459db828b08a78d015ddc93afd029aed62dfc9a",
       "cosmeticIds": [
-         "Character_DebitScent"
+         "Backpack_DebitScent",
+         "Character_DebitScent",
+         "Companion_ListDizzy",
+         "EID_DebitScent",
+         "Pickaxe_DebitScent",
+         "Pickaxe_DebitScent_Mic",
+         "Wheel_UmbraGenesis01",
+         "Wrap_CosmicTrellis",
+         "Wrap_DebitScent"
       ]
    },
    {
