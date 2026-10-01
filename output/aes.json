@@ -5180,7 +5180,16 @@
       "guid": "75B3F9FCEFAE124CD217D399F83C6011",
       "key": "ebe57a913252d371536d2045820af51513f1e2e08ab2b199138d98bb6d13a619",
       "cosmeticIds": [
-         "Character_GuardHence"
+         "Backpack_GuardHence",
+         "Backpack_JigsawWaste",
+         "Backpack_SushiAware",
+         "Backpack_TearErrand",
+         "Character_GuardHence",
+         "EID_GuardHence",
+         "EID_TearErrand",
+         "Pickaxe_GuardHence_Mic",
+         "Pickaxe_SushiAware",
+         "Pickaxe_TearErrand_Bass"
       ]
    },
    {
