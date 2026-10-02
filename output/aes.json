@@ -2737,6 +2737,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "3BDD161AE537C5AB57A1FEDAFF9A7950",
+      "key": "8ca25114e59a19982b65c5e846b9f5488e7b29c1e3561e10ca353638165696a2",
+      "cosmeticIds": [
+         "Character_ApronChow"
+      ]
+   },
+   {
       "guid": "3C90EB8774718B3B5ACDB9A39846B1F4",
       "key": "1aa42eb3ea80629eef47e17d9cb0b349fd9c99ad8a89d4b4a3061def554d1532",
       "cosmeticIds": [
