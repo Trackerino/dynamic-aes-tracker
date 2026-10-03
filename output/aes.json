@@ -3860,6 +3860,13 @@
       ]
    },
    {
+      "guid": "56EEC2A639DD2E2A9BBA9132FBEF55C6",
+      "key": "137c166b8800a88c1bd7e2efac58d3450bc26898a503bf0d006ed412f99684a1",
+      "cosmeticIds": [
+         "CarBody_RevivalLine"
+      ]
+   },
+   {
       "guid": "56FE93367C8B62ADE2A8A1653077C98B",
       "key": "39ebd063206f9d3e6fc1084e261bbbe24e5337013aa5ee20bbaa2461805ea467",
       "cosmeticIds": [
@@ -6725,6 +6732,13 @@
       "cosmeticIds": [
          "BID_827_AntiquePal_BL5ER",
          "Pickaxe_ID_649_AntiquePalMale1H_GBT24"
+      ]
+   },
+   {
+      "guid": "9EECE34D101F4FD0D96B3FB19DBDBEBC",
+      "key": "cbc514b597d60fd4e3d616a823da35a727102527b333c01a6fb0d95411ee2344",
+      "cosmeticIds": [
+         "Character_MimicGlean"
       ]
    },
    {
