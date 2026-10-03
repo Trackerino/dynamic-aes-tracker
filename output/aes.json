@@ -2714,6 +2714,7 @@
       "guid": "3B29D298F0B3FE5614789F60C21BD37F",
       "key": "827eb083d9fdf0a5b722671a56f6f4370185ca5506842c76df40eb4e1118c5c0",
       "cosmeticIds": [
+         "Shoes_ApronChow",
          "Shoes_GuardHence"
       ]
    },
@@ -2740,7 +2741,12 @@
       "guid": "3BDD161AE537C5AB57A1FEDAFF9A7950",
       "key": "8ca25114e59a19982b65c5e846b9f5488e7b29c1e3561e10ca353638165696a2",
       "cosmeticIds": [
-         "Character_ApronChow"
+         "Backpack_ApronChow",
+         "Character_ApronChow",
+         "EID_ApronChow",
+         "Pickaxe_ApronChow",
+         "Pickaxe_ApronChow_Guitar",
+         "Wrap_ApronChow"
       ]
    },
    {
