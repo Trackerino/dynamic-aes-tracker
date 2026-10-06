@@ -8010,7 +8010,10 @@
       "guid": "BE998A7FF8D704384AE51A49C3FC42EA",
       "key": "18525bba62445783254688e4372af925e26a35fd7ac91b362eadfe44081dfa5d",
       "cosmeticIds": [
-         "Character_WitchValve"
+         "Backpack_WitchValve",
+         "Character_WitchValve",
+         "EID_WitchValve",
+         "Pickaxe_WitchValve"
       ]
    },
    {
