@@ -852,6 +852,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "11300E965C7BB8F8928C1086F06AEA5C",
+      "key": "3c41fd8bb7215f4ae273e7fe9f1368e1daba847213b9d575046dd728b5a37e73",
+      "cosmeticIds": [
+         "EID_BigBite"
+      ]
+   },
+   {
       "guid": "114F3FBD8C04315250A3E72B896679F6",
       "key": "a70883dd6b79c1c25fd7a43725c078691ecc6eaf36a3a4e72b6ec18b349ac5b9",
       "cosmeticIds": [
@@ -3627,7 +3634,9 @@
       "guid": "5012FCD344333B21D0C51C76454747FF",
       "key": "fb4c73dd2800f284417d4502b2a6366e876b16842f93d43173c7bda30b7755aa",
       "cosmeticIds": [
-         "Companion_PinkySight"
+         "Backpack_PinkySight",
+         "Companion_PinkySight",
+         "Pickaxe_PinkySight"
       ]
    },
    {
