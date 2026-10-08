@@ -811,6 +811,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "109B64EE1820F6869EE7B21FFC875A3F",
+      "key": "c1dc5d80fb5aa0b14d165357651e02ce0962e5845e653bf57932470b8a49dacf",
+      "cosmeticIds": [
+         "Character_PongoQuell"
+      ]
+   },
+   {
       "guid": "10B6BC4F3D82B63BB77EA8AA266D6688",
       "key": "80f6788c5bbd3405d223519747265679ef5b2ad5b0feba5346fca01cac32fca9",
       "cosmeticIds": [
@@ -7431,6 +7438,13 @@
       "key": "05f17415825027bd433140660a54f40e9a6c3b2fb54b29fc7c6bbaa8db538171",
       "cosmeticIds": [
          "CID_A_094_Athena_Commando_F_Cavern_33LMC"
+      ]
+   },
+   {
+      "guid": "B0058A7BE8A1DE3E2C4BC4E28DCF5BE0",
+      "key": "41d5e3bd3d85b49b934d4ad46c6dabc3da7081420971d1f5b6c86976d086a712",
+      "cosmeticIds": [
+         "Spray_PongoQuell"
       ]
    },
    {
