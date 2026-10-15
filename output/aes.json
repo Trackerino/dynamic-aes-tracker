@@ -1411,6 +1411,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "1DE29A86AC8CB0600809A6C5EC89C2E6",
+      "key": "916c06df8ecfb8ffe856af5b04adfcade59148a7eed19bd52e167efc10dca2f9",
+      "cosmeticIds": [
+         "Character_RadarDigitOrtho"
+      ]
+   },
+   {
       "guid": "1DF43E667862B117F72B5F39E750853A",
       "key": "0618f1de6995c61bda74ae5b913f96f512745c068c1dac029dff0c7d7229001c",
       "cosmeticIds": [
@@ -5004,6 +5011,13 @@
          "Pickaxe_FumeFleeceShack",
          "Pickaxe_FumeFleeceWag",
          "Wrap_FumeFleece"
+      ]
+   },
+   {
+      "guid": "710B2A22C040460E34DBC51F5EAE698B",
+      "key": "a2de1defa0ae63da029781599de50a2af9cbe06eeae76c0a48a4f8aadf0e54ea",
+      "cosmeticIds": [
+         "Shoes_RadarDigit"
       ]
    },
    {
