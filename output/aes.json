@@ -3955,7 +3955,9 @@
       "guid": "57445AED405B97F5918B4C16110A7CAA",
       "key": "6924c17981e994a96530f8da07f10c6abd9abab5e4d5bbe0d7f9cec1709c0553",
       "cosmeticIds": [
-         "Character_CarryMazeFlap"
+         "Character_CarryMazeFlap",
+         "Pickaxe_CarryMazeFlap",
+         "Wrap_CarryMaze"
       ]
    },
    {
@@ -5049,7 +5051,8 @@
       "key": "a2de1defa0ae63da029781599de50a2af9cbe06eeae76c0a48a4f8aadf0e54ea",
       "cosmeticIds": [
          "Shoes_Acidwhale",
-         "Shoes_RadarDigit"
+         "Shoes_RadarDigit",
+         "Shoes_RareNailClank"
       ]
    },
    {
@@ -6765,6 +6768,8 @@
       "guid": "9CACAF82EFBA159BEA31E22FE486374E",
       "key": "3bc9a14e1bc7e78e9886d11277e192db77db8a0ee6ad793453321e561664e612",
       "cosmeticIds": [
+         "Backpack_CarryMazeFlap",
+         "EID_CarryMazeFlap",
          "Emoticon_CarryMaze"
       ]
    },
