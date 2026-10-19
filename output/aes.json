@@ -4889,6 +4889,13 @@
       ]
    },
    {
+      "guid": "6BE940F90A5C786A47DB234F2A2C8B84",
+      "key": "0b00692584be38dbd90a0db004f1f0697dfa3fdfe686d2f781e8f75456af9acf",
+      "cosmeticIds": [
+         "Character_FonduePaper"
+      ]
+   },
+   {
       "guid": "6C44F8F781A32378852AF08C29EDDF14",
       "key": "2650d6c9cb1782cd2097c3b6ce275f191e2f26af401254e7b809abab27460574",
       "cosmeticIds": []
