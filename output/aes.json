@@ -455,7 +455,10 @@
       "guid": "0865F943BEA7C98D389BE27074A631FD",
       "key": "f597435a5175c5d6fdfdebdbc3530aff0c6a1dd2804502bc2759cbd87ad778cc",
       "cosmeticIds": [
-         "Character_CargoLying"
+         "Backpack_CargoLying",
+         "Character_CargoLying",
+         "EID_CargoLying",
+         "Pickaxe_CargoLying"
       ]
    },
    {
