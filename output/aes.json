@@ -4903,7 +4903,9 @@
       "guid": "6BE940F90A5C786A47DB234F2A2C8B84",
       "key": "0b00692584be38dbd90a0db004f1f0697dfa3fdfe686d2f781e8f75456af9acf",
       "cosmeticIds": [
-         "Character_FonduePaper"
+         "Backpack_FonduePaper",
+         "Character_FonduePaper",
+         "Pickaxe_FonduePaper"
       ]
    },
    {
