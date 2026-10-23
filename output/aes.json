@@ -6833,6 +6833,13 @@
       ]
    },
    {
+      "guid": "9E559751E807224CA80381078047502F",
+      "key": "2e41d3e0f481bdc8e3c11ee038cd3eab867185dddd6edc1da9600f036c8c9e36",
+      "cosmeticIds": [
+         "Character_AsideDepot"
+      ]
+   },
+   {
       "guid": "9E6F84C908A6CEE29032FB050FBC2EBA",
       "key": "19764523a2617e0fc79d24cad5ca9ba5ae40cb51b32dca39b18b58e513d371f3",
       "cosmeticIds": []
