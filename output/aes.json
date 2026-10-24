@@ -5071,6 +5071,7 @@
       "key": "a2de1defa0ae63da029781599de50a2af9cbe06eeae76c0a48a4f8aadf0e54ea",
       "cosmeticIds": [
          "Shoes_Acidwhale",
+         "Shoes_AsideDepot",
          "Shoes_PounceTwinkle",
          "Shoes_RadarDigit",
          "Shoes_RareNailClank"
@@ -6836,7 +6837,13 @@
       "guid": "9E559751E807224CA80381078047502F",
       "key": "2e41d3e0f481bdc8e3c11ee038cd3eab867185dddd6edc1da9600f036c8c9e36",
       "cosmeticIds": [
-         "Character_AsideDepot"
+         "Backpack_AsideDepot",
+         "Backpack_AsideDepot_Guitar",
+         "Character_AsideDepot",
+         "EID_AsideDepot",
+         "EID_AsideDepotStair",
+         "Pickaxe_AsideDepot",
+         "Wrap_AsideDepot"
       ]
    },
    {
@@ -7455,6 +7462,13 @@
       "key": "e160f4bba88acd5ad319e2dd6aae74da9224ac273139a2eb5c9aef8c1eac3483",
       "cosmeticIds": [
          "EID_Sitcom"
+      ]
+   },
+   {
+      "guid": "AD9CF6D975789CDFEA5D0F50F46044A2",
+      "key": "c82b37e346fd3f84247affeb8154b71c10e4e982df910b68aa4286e20c203d39",
+      "cosmeticIds": [
+         "EID_LoneStar"
       ]
    },
    {
