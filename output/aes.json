@@ -5074,7 +5074,9 @@
          "Shoes_AsideDepot",
          "Shoes_PounceTwinkle",
          "Shoes_RadarDigit",
-         "Shoes_RareNailClank"
+         "Shoes_RareNailClank",
+         "Shoes_RareNailCoat",
+         "Shoes_RareNailCrest"
       ]
    },
    {
@@ -9723,6 +9725,7 @@
       "guid": "E1F409CCC46C1EDE95427C4D69DD505D",
       "key": "803ca3f375b89b1e198d4163284452196a36c90fe885ea1938fd37bcab7fd3f4",
       "cosmeticIds": [
+         "Backpack_ZenithPair",
          "Character_ZenithPair"
       ]
    },
