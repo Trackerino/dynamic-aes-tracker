@@ -4249,7 +4249,8 @@
       "guid": "5CCACAFB284C7F1EA2F6451C4DAACEB4",
       "key": "ea21af0720ddb87f010a86420bb17b1053e52206d84d0b727914b3ebe469aa28",
       "cosmeticIds": [
-         "CarBody_ScarA"
+         "CarBody_ScarA",
+         "CarSkin_ScarA05"
       ]
    },
    {
@@ -5081,6 +5082,7 @@
          "Shoes_AsideDepot",
          "Shoes_PounceTwinkle",
          "Shoes_RadarDigit",
+         "Shoes_RallyShinyChunk",
          "Shoes_RareNailClank",
          "Shoes_RareNailCoat",
          "Shoes_RareNailCrest"
@@ -7510,7 +7512,12 @@
    {
       "guid": "AE50655AAD92F0E0F37B4C897D0F880E",
       "key": "9cefb1e0d0f382ed1f6bce2d5a5172697f3b301de29ed7e56eefcdf102478494",
-      "cosmeticIds": []
+      "cosmeticIds": [
+         "Backpack_IvoryDwell",
+         "EID_IvoryDwell",
+         "Pickaxe_IvoryDwell",
+         "Wrap_IvoryDwell"
+      ]
    },
    {
       "guid": "AE82453E3171C50EE68ABA48B2B5FE61",
