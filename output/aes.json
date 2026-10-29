@@ -8939,7 +8939,10 @@
       "guid": "D06538D0AC403122E3D424604554C712",
       "key": "f6b47218e9bcc98346789254907708393d8bb72e6a35e825bcc326a8a40b5f5a",
       "cosmeticIds": [
-         "Character_AltoGorgon"
+         "Backpack_AltoGorgon",
+         "Character_AltoGorgon",
+         "EID_AltoGorgon",
+         "Pickaxe_AltoGorgon"
       ]
    },
    {
