@@ -9051,6 +9051,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "D257B513F7ACE0F296853034DA19BC18",
+      "key": "270cf70a3ced9e6e14e1d5eb66322956e62ed59babc64eaa9f02e440a43351ae",
+      "cosmeticIds": [
+         "EID_ShutterSpeed"
+      ]
+   },
+   {
       "guid": "D26A2A8E61F70E3CB240BF9AEDAC8447",
       "key": "2536d3b5cf2d554bff4ea425f961f0e1ea3e5348d8f2175bf01507d089ef1bb2",
       "cosmeticIds": [
