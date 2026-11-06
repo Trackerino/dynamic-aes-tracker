@@ -3769,7 +3769,16 @@
       "guid": "529B28D8F5892893B516C4292A67110A",
       "key": "f2ddbbac7774c912b9834023e244a490daec87639e7eb11022a9af89c2f718c6",
       "cosmeticIds": [
-         "Character_TonicMailWeb"
+         "Backpack_TonicMailWeb",
+         "Backpack_TonicMailWeb_Mic",
+         "Backpack_TonicMailYam",
+         "Character_TonicMailWeb",
+         "EID_TonicMailWeb",
+         "EID_TonicMailYam",
+         "Glider_TonicMailWeb",
+         "Pickaxe_TonicMailWeb_Mic",
+         "Pickaxe_TonicMailYam",
+         "Wrap_TonicMail"
       ]
    },
    {
@@ -10869,6 +10878,7 @@
       "cosmeticIds": [
          "Shoes_CharmQuake",
          "Shoes_ChompZips",
+         "Shoes_TonicMailLetter",
          "Shoes_TonicMailNote"
       ]
    },
