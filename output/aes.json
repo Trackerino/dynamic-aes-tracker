@@ -6508,6 +6508,13 @@
       ]
    },
    {
+      "guid": "95562C85628B718044766D2805DF7688",
+      "key": "1c3c63bebb93585d8d4175acd457d4d5dfa1de42ae4baf28b8a61341919c7b8c",
+      "cosmeticIds": [
+         "Pickaxe_FlipperBalm"
+      ]
+   },
+   {
       "guid": "958DC719715C145004E1E028E72464D0",
       "key": "6530ab40a692a70e5d032ab25bf8c6cfe285d8396f497f30096e7fe1d85d153d",
       "cosmeticIds": [
@@ -9508,7 +9515,8 @@
       "guid": "DA3B6869A2B443C91D8916291B06687E",
       "key": "57be81986c90cd5dd926b588b4e9b09c96ac3f1b03429bc013e62ecd8bcaf4c1",
       "cosmeticIds": [
-         "Character_RookGeckoRod"
+         "Character_RookGeckoRod",
+         "Character_RookGeckoRye"
       ]
    },
    {
