@@ -2178,6 +2178,13 @@
       ]
    },
    {
+      "guid": "2E35BBFE29DDA7A8A2804C65B2FA50F2",
+      "key": "58b0d601fd3e66ec1f32d0496ce860ff19e62047ea3dc08aa5ced9f06f0433e7",
+      "cosmeticIds": [
+         "EID_HandSlap"
+      ]
+   },
+   {
       "guid": "2E539CD42E0594ED4D217ABE4E2B616F",
       "key": "f737682ccac86689931a6bc321dd513041927e4b55f6004681c0f6762492330e",
       "cosmeticIds": [
@@ -4615,6 +4622,13 @@
       "guid": "6537263AA4E53B6A7B7D4AE3DE12826C",
       "key": "e96390474917256049e268b29325128ff85c1f8bb9253485a414f06887881714",
       "cosmeticIds": []
+   },
+   {
+      "guid": "656ED53D4AA4BE38F1FC738385908FCF",
+      "key": "736b7d42e4d7c07c3a308c04ccfe213b82f60ee8f6f1955b02de2616a27e886d",
+      "cosmeticIds": [
+         "Shoes_PurityJadeAloe"
+      ]
    },
    {
       "guid": "65A22570A201A6CB2BD8818EF11B5134",
@@ -9515,8 +9529,16 @@
       "guid": "DA3B6869A2B443C91D8916291B06687E",
       "key": "57be81986c90cd5dd926b588b4e9b09c96ac3f1b03429bc013e62ecd8bcaf4c1",
       "cosmeticIds": [
+         "Backpack_RookGeckoRod",
+         "Backpack_RookGeckoRye",
+         "Backpack_RookGeckoRye_Guitar",
          "Character_RookGeckoRod",
-         "Character_RookGeckoRye"
+         "Character_RookGeckoRye",
+         "EID_RookGeckoRod",
+         "EID_RookGeckoRye",
+         "LoadingScreen_RookGecko",
+         "Pickaxe_RookGeckoRod",
+         "Wrap_RookGecko"
       ]
    },
    {
