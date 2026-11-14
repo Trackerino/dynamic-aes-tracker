@@ -6525,6 +6525,7 @@
       "guid": "95562C85628B718044766D2805DF7688",
       "key": "1c3c63bebb93585d8d4175acd457d4d5dfa1de42ae4baf28b8a61341919c7b8c",
       "cosmeticIds": [
+         "Backpack_FlipperBalm",
          "Pickaxe_FlipperBalm"
       ]
    },
@@ -10017,7 +10018,10 @@
       "guid": "E4A66551AF04D830C3946D0A938D8F19",
       "key": "d029a17cf56f5cffe8f19c39237e98059c4bf92f6973e19cd6732bc04f6fc8e8",
       "cosmeticIds": [
-         "Character_LocketSnug"
+         "Backpack_LocketSnug",
+         "Character_LocketSnug",
+         "EID_LocketSnug",
+         "Pickaxe_LocketSnug"
       ]
    },
    {
