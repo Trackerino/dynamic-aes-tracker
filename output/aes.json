@@ -9004,7 +9004,11 @@
       "guid": "D0615FA0E2543A9554E7677108061E48",
       "key": "bc85ee07874c2130c34539ee6c7a17b0af308032e0507d7905f2e49d3f6fb7e6",
       "cosmeticIds": [
-         "Backpack_PeonyPizza"
+         "Backpack_PeonyPizza",
+         "Backpack_PeonyPizza_Mic",
+         "EID_PeonyPizza",
+         "Pickaxe_PeonyPizza",
+         "Pickaxe_PeonyPizza_Mic"
       ]
    },
    {
