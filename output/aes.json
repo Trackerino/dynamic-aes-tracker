@@ -7786,6 +7786,13 @@
       ]
    },
    {
+      "guid": "B3DC711CD719B2C7D70F0EDC618C9D30",
+      "key": "a8f10b4386eb757fe5ce4179d0c118671afa767bdaa7fb4d47e286ac287f4699",
+      "cosmeticIds": [
+         "GameFeaturePlugin_TopazMint_Quests"
+      ]
+   },
+   {
       "guid": "B3F8919039B7B951FB829AF85160268A",
       "key": "04dc5b3d30247fe354f5fbe858c24e42a438a544b4701097638cacace0de2214",
       "cosmeticIds": []
