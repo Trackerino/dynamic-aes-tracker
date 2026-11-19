@@ -4627,7 +4627,8 @@
       "guid": "656ED53D4AA4BE38F1FC738385908FCF",
       "key": "736b7d42e4d7c07c3a308c04ccfe213b82f60ee8f6f1955b02de2616a27e886d",
       "cosmeticIds": [
-         "Shoes_PurityJadeAloe"
+         "Shoes_PurityJadeAloe",
+         "Shoes_PurityJadeYen"
       ]
    },
    {
@@ -8964,7 +8965,10 @@
       "guid": "CFC8D5CD63C68F3A5B07146BF2FDC67F",
       "key": "6d91772a10d248580220df8bc2e8c787ab50f8656bf4ad9b5ae5d8aa916ec5e7",
       "cosmeticIds": [
-         "CarBody_Maple"
+         "CarBody_Maple",
+         "Wheel_Maple",
+         "Wheel_MapleB",
+         "Wheel_MapleRed"
       ]
    },
    {
