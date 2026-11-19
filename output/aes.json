@@ -9701,6 +9701,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "DE0E53620D4FFC3894BA7204493DA88F",
+      "key": "d782b13a83f1195fb6b13c6dfee97de5668c2d239e6c44da3e18c7e22909335e",
+      "cosmeticIds": [
+         "Character_ShoneStays"
+      ]
+   },
+   {
       "guid": "DE220EFE6BDFCC4F1A0CB12B2818FC02",
       "key": "609f993048671848cc4b19a508fef66f020ec63b831cfc67b5253190c03f2132",
       "cosmeticIds": [
