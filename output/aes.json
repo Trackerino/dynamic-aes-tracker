@@ -4023,6 +4023,13 @@
       "cosmeticIds": []
    },
    {
+      "guid": "57AF07FDB356D4FD4C0AA37591924362",
+      "key": "aa903d1f821d4a5960911beb2bdb4cb0b918a876fe393edeeab148859719ed93",
+      "cosmeticIds": [
+         "Character_YarnPuzzling"
+      ]
+   },
+   {
       "guid": "57C0A809F1C608D62307954035E3DFCD",
       "key": "16e308d52d7133553b52b757e2a6613eaefbebbe0957e115e075ac9f9f5b99b1",
       "cosmeticIds": []
