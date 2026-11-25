@@ -6423,6 +6423,13 @@
       ]
    },
    {
+      "guid": "90DFC7EB19E1BFB4D686190EF2DD6695",
+      "key": "75a602cb0de9c3724b4fb2acb7f7807d3488708c72c3226ead968267dc24f279",
+      "cosmeticIds": [
+         "Companion_MarlinYeast"
+      ]
+   },
+   {
       "guid": "91181AD6BCB9443F7F6479DA8BA9B7A4",
       "key": "724bf428442e0e971ae5c3f924b507f0ad5ffad558bd9a6da0cb06611edfc435",
       "cosmeticIds": []
