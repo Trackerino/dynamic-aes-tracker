@@ -4643,7 +4643,8 @@
       "cosmeticIds": [
          "Shoes_DanderClay",
          "Shoes_PurityJadeAloe",
-         "Shoes_PurityJadeYen"
+         "Shoes_PurityJadeYen",
+         "Shoes_RunnerNova"
       ]
    },
    {
@@ -10930,6 +10931,13 @@
       "key": "58dc1859a90fa1efc11b123cfb1b01e38eb31efe11f40d64af3f122b6cbc3e67",
       "cosmeticIds": [
          "BID_164_SnowmanMale"
+      ]
+   },
+   {
+      "guid": "F7CAC6C8DFE65969119D2CF3A17DB40D",
+      "key": "327529b224d5c45ca4de672f4ce7d455467db35237bb10261a18eceb69ec18bf",
+      "cosmeticIds": [
+         "EID_BrainFlame"
       ]
    },
    {
