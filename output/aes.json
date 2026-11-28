@@ -1842,6 +1842,16 @@
       "cosmeticIds": []
    },
    {
+      "guid": "26AA696ED38645863AC6C482547CA886",
+      "key": "342e82ffd9315f75f479c9dd545513484a43c5f073cdfaed1148d7264e7130fa",
+      "cosmeticIds": [
+         "Character_BeepPrime",
+         "Character_MileAhoy",
+         "Character_PlayfulAero",
+         "Character_SolveBade"
+      ]
+   },
+   {
       "guid": "26C51B4EF2B73AA36D3008BDFB357DCF",
       "key": "82401208604a5b70a18172afe13ee1a4c8d94fb1c3e543bbfe3af898b38a731e",
       "cosmeticIds": [
